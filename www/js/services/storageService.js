@@ -5,7 +5,7 @@
         .module('ecomapss.services')
         .service('StorageService', storage)
 
-
+    /** @ngInject */
     function storage() {
         this.getData = getData;
         this.setData = setData;

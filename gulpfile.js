@@ -3,9 +3,11 @@ var sass = require('gulp-sass');
 var cleanCss = require('gulp-clean-css');
 var inject = require('gulp-inject');
 var rename = require('gulp-rename');
+var angularFilesort = require("gulp-angular-filesort");
 
 var paths = {
-  sass: ['./scss/**/*.scss', './www/**/*.scss', './scss/**/*.*.scss'],
+  css:[ './www/css/**/*.min.css' ],
+  sass: ['./scss/**/*.scss','./www/styles/style.scss'],
   js: ['./www/js/**/*.js']
 };
 
@@ -28,9 +30,10 @@ gulp.task('sass', function (done) {
 
 gulp.task('inject', function () {
   var target = gulp.src('./www/index.html');
-  var sources = gulp.src(paths.js, {read: false});
+  var css = gulp.src(paths.css);
+  var sources = gulp.src(paths.js).pipe(angularFilesort());
 
-  return target.pipe(inject(sources, {ignorePath: 'www'})).pipe(gulp.dest('./www'));
+  return target.pipe(inject(sources, {ignorePath: 'www'})).pipe(inject(css, {ignorePath: 'www'})).pipe(gulp.dest('./www'));
 });
 
 gulp.task('watch', ['sass', 'inject'], function () {

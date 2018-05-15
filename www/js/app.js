@@ -5,8 +5,22 @@
   angular
     .module('ecomapss', [
       'ionic',
-      'ecomapss.components',
+      
+      // Modules
+      'ecomapss.flora',
+      'ecomapss.fauna',
+      'ecomapss.fosseis',
+      'ecomapss.historias',
+      'ecomapss.map',
+      'ecomapss.welcome',
+      'ecomapss.timeline',     
+      'ecomapss.user',      
+       
+
+      // Services
       'ecomapss.services',
+
+      // Directives
       'ecomapss.directives'
     ]);
 }());

@@ -1,0 +1,27 @@
+
+
+
+.login-bg--image {
+    background-image: url(../img/backgrounds/login/001.jpg);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-position: center;
+    background-size: cover;
+}
+
+.login-bg--fade {
+    background: rgba($black, $alpha: 0.5)
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.loginbox {
+    height: 80%;
+}
+
+.box-divide {
+    margin-bottom: 5em;
+}
