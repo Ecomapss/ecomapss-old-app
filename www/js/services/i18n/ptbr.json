@@ -1,0 +1,12 @@
+{
+  "login": {
+    "form": {
+        "placeholders": {
+            "name": "Seu Nome"
+        },
+        "buttons": {
+            "signin": "Entrar"
+        }
+    }
+  }
+}

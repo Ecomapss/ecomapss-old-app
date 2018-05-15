@@ -7,11 +7,11 @@
       </div>
     </div>
 
-    <form ng-submit="doLogin()">
-      <input type="text" class="input--rounded" placeholder="Seu Nome">
+    <form ng-submit="welcome.doLogin()" ng-model="welcome.user">
+      <input type="text" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.nameplaceholder}}">
       <button class="button btn-primary btn-rounded button-block">
-          Entrar
-        </button>
+          {{welcome.translate.form.button[welcome.thisLocation]}}
+      </button>
     </form>
 
   </div>
