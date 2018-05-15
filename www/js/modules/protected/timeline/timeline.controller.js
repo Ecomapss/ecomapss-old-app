@@ -8,7 +8,7 @@
     /** @ngInject */
     function TimelineCtrl(){
         var vm = this;
-        
+
         init();
 
         function init(){
