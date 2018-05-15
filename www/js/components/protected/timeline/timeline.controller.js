@@ -2,13 +2,13 @@
     'use strict';
 
     angular
-        .module('ecomapss.components')
+        .module('ecomapss.timeline')
         .controller('TimelineCtrl', TimelineCtrl)
 
     /** @ngInject */
     function TimelineCtrl(){
         var vm = this;
-        
+
         init();
 
         function init(){
