@@ -1,6 +1,5 @@
 <ion-content class="login-bg--image">
   <div class="flex-container flex-col-dir loginbox">
-
     <div class="row row box-divide">
       <div class="col col-center">
         <img src="/img/icones/logo/ecomapss.png" class="center" width="130" height="130" alt="">
@@ -8,12 +7,14 @@
     </div>
 
     <form ng-submit="welcome.doLogin()" ng-model="welcome.user">
-      <input type="text" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.nameplaceholder}}">
-      <button class="button btn-primary btn-rounded button-block">
-          {{welcome.translate.form.button[welcome.thisLocation]}}
+      <input type="text" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}">
+      <button class="button button-positive btn-rounded button-block">
+          {{welcome.translate.form.buttons.signin}}
       </button>
     </form>
-
   </div>
-
 </ion-content>
+
+<div class="bar bar-footer bar-light">
+  <ec-language> </ec-language>
+</div>

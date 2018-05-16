@@ -7,7 +7,6 @@
 
     /** @ngInject */
     function ecomapssConfig(){
-        
     }
 
 }());

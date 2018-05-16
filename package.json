@@ -14,6 +14,7 @@
     "dev": "gulp default && ionic serve"
   },
   "dependencies": {
-    "@ionic/pro": "1.0.20"
+    "@ionic/pro": "1.0.20",
+    "flag-icon-css": "^3.0.0"
   }
 }

@@ -6,8 +6,10 @@
     .run(ecomapssRun)
 
   /** @ngInject */
-  function ecomapssRun($ionicPlatform) {
+  function ecomapssRun($ionicPlatform, I18nService) {
     $ionicPlatform.ready(function () {
+      if (!I18nService.getLang())
+        I18nService.setLang('ptbr');
       // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
       // for form inputs)
       if (window.cordova && window.cordova.plugins.Keyboard) {

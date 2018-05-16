@@ -5,7 +5,7 @@
   angular
     .module('ecomapss', [
       'ionic',
-      
+
       // Modules
       'ecomapss.flora',
       'ecomapss.fauna',
@@ -13,9 +13,9 @@
       'ecomapss.historias',
       'ecomapss.map',
       'ecomapss.welcome',
-      'ecomapss.timeline',     
-      'ecomapss.user',      
-       
+      'ecomapss.timeline',
+      'ecomapss.user',
+
 
       // Services
       'ecomapss.services',
