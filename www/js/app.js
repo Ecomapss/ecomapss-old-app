@@ -8,6 +8,7 @@
 
       // Modules
       'ecomapss.flora',
+      'ecomapss.avatar',
       'ecomapss.fauna',
       'ecomapss.fosseis',
       'ecomapss.historias',

@@ -2,14 +2,21 @@
   'use strict';
 
   angular
-    .module('ecomapss')
-    .run(ecomapssRun)
+  .module('ecomapss')
+  .run(ecomapssRun)
 
   /** @ngInject */
-  function ecomapssRun($ionicPlatform, I18nService) {
+  function ecomapssRun($ionicPlatform, UserService, $state ,I18nService) {
+    if (!I18nService.getLang())
+      I18nService.setLang('ptbr');
+    if(UserService.hasUser()) {
+      console.log("has")
+      $state.go('timeline', {});
+    }else{
+      $state.go('welcome', {});
+    }
+
     $ionicPlatform.ready(function () {
-      if (!I18nService.getLang())
-        I18nService.setLang('ptbr');
       // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
       // for form inputs)
       if (window.cordova && window.cordova.plugins.Keyboard) {

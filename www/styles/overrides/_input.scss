@@ -7,3 +7,7 @@ input[type=text].input--rounded {
 
     margin: 1px;
 }
+
+.input--rounded.has-error {
+  border: 1px solid #ef473a;
+}

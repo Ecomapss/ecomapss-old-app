@@ -7,8 +7,8 @@ var angularFilesort = require("gulp-angular-filesort");
 
 var paths = {
   css:[ './www/css/**/*.min.css' ],
-  sass: ['./scss/**/*.scss','./www/styles/style.scss'],
-  js: ['./www/js/**/*.js']
+  sass: ['./scss/ionic.app.scss','./www/styles/style.scss'],
+  js: ['./www/js/**/*.js', './www/vendor/**/*.js']
 };
 
 gulp.task('default', ['sass', 'inject'],);

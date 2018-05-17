@@ -2,14 +2,14 @@
   "login": {
     "form": {
         "placeholders": {
-            "name": "Seu Nome"
+            "name": "Your Name"
         },
         "buttons": {
-            "signin": "Entrar"
+            "signin": "Sign In"
         },
         "errors": {
           "empty": {
-            "username": "Insira o seu nome no campo!"
+            "username": "Please, put your name!"
           }
         }
     }
@@ -17,8 +17,8 @@
   "directives": {
     "i18n": {
       "modal": {
-        "title": "Escolha a lingua padrão",
-        "cancel": "Cancelar"
+        "title": "Choose a language",
+        "cancel": "Cancel"
       }
     }
   }

@@ -6,12 +6,16 @@
       </div>
     </div>
 
-    <form ng-submit="welcome.doLogin()" ng-model="welcome.user">
-      <input type="text" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}">
-      <button class="button button-positive btn-rounded button-block">
+    <form ng-submit="welcome.doLogin()" name="userForm" ng-model="welcome.user" novalidate>
+      <input name="username" type="text" ng-class="{'has-error': userForm.username.$invalid && userForm.$dirty}" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}" required>
+      <button ng-disabled="userForm.$invalid" class="button button-positive btn-rounded button-block">
           {{welcome.translate.form.buttons.signin}}
       </button>
     </form>
+
+    <div ng-show="userForm.username.$invalid && userForm.$dirty" class="ec-message error">
+      {{welcome.translate.form.errors.empty.username}}
+    </div>
   </div>
 </ion-content>
 

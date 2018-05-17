@@ -1,0 +1,22 @@
+$error: #ea3434;
+$sucess: #00a80b;
+$alpha: 0.6;
+
+
+.ec-message {
+  color: white;
+
+  text-align: center;
+  bottom: 3em;
+  position: fixed;
+  padding: 1em;
+
+  width: 100%;
+  width: -moz-available;          /* WebKit-based browsers will ignore this. */
+  width: -webkit-fill-available;  /* Mozilla-based browsers will ignore this. */
+  width: fill-available;
+}
+
+.ec-message.error {
+  background-color: rgba($error, $alpha);
+}

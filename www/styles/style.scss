@@ -1,9 +1,12 @@
 /* Empty. Add your own CSS if you like */
 // Utils
 @import 'utils/theme';
+@import 'utils/alerts';
+
 @import 'overrides/input';
 @import 'overrides/button';
 @import 'overrides/bar';
+
 
 
 // Base
@@ -14,5 +17,5 @@
 
 
 // Third
-@import 'node_modules/flag-icon-css/sass/flag-icon.scss';
+@import 'node_modules/flag-icon-css/sass/flag-icon';
 @import 'overrides/flags';

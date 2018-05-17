@@ -1,7 +1,7 @@
 {
   "name": "ecomapss",
   "version": "0.0.1",
-  "description": "An Ionic project",
+  "description": "Ecomapss, tech and nature",
   "devDependencies": {
     "gulp": "^3.5.6",
     "gulp-angular-filesort": "^1.2.1",
