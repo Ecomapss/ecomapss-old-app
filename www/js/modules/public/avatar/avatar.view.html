@@ -1,3 +1,14 @@
-<ion-content>
-  <p>Choose your avatar</p>
+<ion-content class="login-bg--image">
+  <div class="flex-container flex-wrap">
+    <div ng-click="avatar.choose(av.id)" ng-repeat="av in avatar.avatars track by $index" ng-class="{'marked': av.marked }" class="avatar-item">
+      <img ng-src="img/avatars/{{av.file}}" height="80" alt="">
+    </div>
+
+      <button ng-disabled="userForm.$invalid" class="button button-positive btn-rounded ">
+        {{avatar.translate.buttons.select.avatar}}
+      </button>
+
+  </div>
+
+
 </ion-content>

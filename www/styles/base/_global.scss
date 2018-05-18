@@ -12,6 +12,11 @@
   align-items: center;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+}
 
 .flex-col-dir {
   flex-direction: column;

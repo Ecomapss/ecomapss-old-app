@@ -1,0 +1,14 @@
+$lighted: #8854d0;
+
+.avatar-item {
+  border-radius: 50px;
+  position: static;
+  padding: .6em;
+  margin: 2em;
+}
+
+.avatar-item.marked {
+  transform: scale(1.2);
+  transition: 0.2s ease-in-out;
+  background-color: rgba($lighted, 0.2);
+}

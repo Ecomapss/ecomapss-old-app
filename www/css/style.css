@@ -47,6 +47,11 @@ button.btn-rounded {
   justify-content: center;
   align-items: center; }
 
+.flex-wrap {
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap; }
+
 .flex-col-dir {
   flex-direction: column; }
 
@@ -69,6 +74,17 @@ img.center {
 
 .box-divide {
   margin-bottom: 5em; }
+
+.avatar-item {
+  border-radius: 50px;
+  position: static;
+  padding: .6em;
+  margin: 2em; }
+
+.avatar-item.marked {
+  transform: scale(1.2);
+  transition: 0.2s ease-in-out;
+  background-color: rgba(136, 84, 208, 0.2); }
 
 .flag-icon-background, .flag-icon {
   background-size: contain;

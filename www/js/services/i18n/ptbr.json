@@ -14,6 +14,13 @@
         }
     }
   },
+  "avatar": {
+    "buttons": {
+      "select":{
+        "avatar": "Pronto"
+      }
+    }
+  },
   "directives": {
     "i18n": {
       "modal": {
