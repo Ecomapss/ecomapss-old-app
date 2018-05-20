@@ -25,6 +25,11 @@
       "error": "You can't go without choose an avatar..."
     }
   },
+  "entities": {
+    "buttons": {
+      "access": "Access"
+    }
+  },
   "directives": {
     "i18n": {
       "modal": {

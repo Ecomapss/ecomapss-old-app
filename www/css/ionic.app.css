@@ -9889,8 +9889,8 @@ a.button {
 
 span.ec-icon {
   display: inline-block;
-  width: 90px;
-  height: 90px; }
+  width: 110px;
+  height: 110px; }
 
 span.i-history {
   background-image: url("../img/icones/ecomapss/history.svg");
@@ -10205,7 +10205,7 @@ img.center {
 .entities-item > div {
   color: white;
   margin: 0 auto;
-  padding-top: 5.5em; }
+  padding-top: 5em; }
 
 .entities-item > div > h2 {
   color: white; }
@@ -10214,6 +10214,7 @@ img.center {
   padding: 1em; }
 
 .slider-pager-page {
+  font-size: .5em;
   color: #fff !important; }
 
 .flag-icon-background, .flag-icon {

@@ -1,17 +1,17 @@
 {
   "login": {
     "form": {
-        "placeholders": {
-            "name": "Seu Nome"
-        },
-        "buttons": {
-            "signin": "Entrar"
-        },
-        "errors": {
-          "empty": {
-            "username": "Insira o seu nome no campo!"
-          }
+      "placeholders": {
+        "name": "Seu Nome"
+      },
+      "buttons": {
+        "signin": "Entrar"
+      },
+      "errors": {
+        "empty": {
+          "username": "Insira o seu nome no campo!"
         }
+      }
     }
   },
   "avatar": {
@@ -23,6 +23,11 @@
     "alerts": {
       "success": "Escolha seu avatar!",
       "error": "Você não pode continuar sem escolher seu avatar..."
+    }
+  },
+  "entities": {
+    "buttons": {
+      "access": "Acessar"
     }
   },
   "directives": {
