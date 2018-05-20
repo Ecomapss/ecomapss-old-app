@@ -19,7 +19,7 @@
           'tab-map':{
             controller: 'MapCtrl',
             templateUrl: 'js/modules/protected/map/map.view.html',
-            controllerAs: 'welcome',            
+            controllerAs: 'map',            
           }
         }
       }

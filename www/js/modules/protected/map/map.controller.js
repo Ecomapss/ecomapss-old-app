@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('ecomapss.map')
+        .module('ecomapss.protected')
         .controller('MapCtrl', MapCtrl)
 
     /** @ngInject */

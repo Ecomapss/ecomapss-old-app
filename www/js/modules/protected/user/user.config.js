@@ -1,25 +1,28 @@
 (function () {
-    'use strict';
+  'use strict';
   
-    angular
-      .module('ecomapss.protected')
-      .run(protectedRoutes)
+  angular
+  .module('ecomapss.protected')
+  .run(protectedRoutes)
   
-    /** @ngInject */
-    function protectedRoutes(routerHelper, UserService) {
-      routerHelper.configureStates(getStates());
-    }
+  /** @ngInject */
+  function protectedRoutes(routerHelper, UserService) {
+    routerHelper.configureStates(getStates());
+  }
   
-    function getStates() {
-      return [{
-        state: 'user',
-        config: {
-          templateUrl: 'js/modules/protected/user/user.view.html',
+  function getStates() {
+    return [{
+      state: 'protected.user',
+     config: {
+      url: '/user',
+      views: {
+        'tab-user':{
           controller: 'UserCtrl',
-          controllerAs: 'user',
-          url: '/protected/user'
+          templateUrl: 'js/modules/protected/user/user.view.html',
+          controllerAs: 'user',            
         }
-      }];
+      }
     }
-  }());
-  
+  }];
+}
+}());
