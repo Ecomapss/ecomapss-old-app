@@ -19,6 +19,10 @@
       "select":{
         "avatar": "Ready"
       }
+    },
+    "alerts": {
+      "success": "Choose your avatar!",
+      "error": "You can't go without choose an avatar..."
     }
   },
   "directives": {

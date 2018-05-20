@@ -19,6 +19,10 @@
       "select":{
         "avatar": "Pronto"
       }
+    },
+    "alerts": {
+      "success": "Escolha seu avatar!",
+      "error": "Você não pode continuar sem escolher seu avatar..."
     }
   },
   "directives": {

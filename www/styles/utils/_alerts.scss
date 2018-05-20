@@ -1,6 +1,4 @@
-$error: #ea3434;
-$sucess: #00a80b;
-$alpha: 0.6;
+$alpha: 0.4;
 
 
 .ec-message {
@@ -18,5 +16,9 @@ $alpha: 0.6;
 }
 
 .ec-message.error {
-  background-color: rgba($error, $alpha);
+  background-color: rgba($assertive, $alpha);
+}
+
+.ec-message.info {
+  background-color: rgba($balanced, $alpha);
 }

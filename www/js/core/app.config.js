@@ -6,7 +6,9 @@
         .config(ecomapssConfig)
 
     /** @ngInject */
-    function ecomapssConfig(){
+    function ecomapssConfig($ionicConfigProvider){
+    	$ionicConfigProvider.tabs.position('bottom');
     }
+
 
 }());

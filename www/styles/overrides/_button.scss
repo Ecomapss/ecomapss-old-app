@@ -1,3 +1,10 @@
+$button-width: 15em;
+
+
 button.btn-rounded {
     border-radius: 5em;
+}
+
+button.btn-rounded.normal-size {
+  width: $button-width;
 }

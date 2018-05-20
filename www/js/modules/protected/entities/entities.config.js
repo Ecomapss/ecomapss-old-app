@@ -1,25 +1,28 @@
 (function () {
-    'use strict';
+  'use strict';
   
-    angular
-      .module('ecomapss.entities')
-      .run(protectedRoutes)
+  angular
+  .module('ecomapss.protected')
+  .run(protectedRoutes)
   
-    /** @ngInject */
-    function protectedRoutes(routerHelper, UserService) {
-      routerHelper.configureStates(getStates());
-    }
+  /** @ngInject */
+  function protectedRoutes(routerHelper, UserService) {
+    routerHelper.configureStates(getStates());
+  }
   
-    function getStates() {
-      return [{
-        state: 'entities',
-        config: {
-          templateUrl: 'js/modules/protected/entities/entities.view.html',
+  function getStates() {
+    return [{
+     state: 'protected.entities',
+     config: {
+      url: '/entities',
+      views: {
+        'tab-entities':{
           controller: 'EntitiesCtrl',
-          controllerAs: 'entities',
-          url: '/entities'
+          templateUrl: 'js/modules/protected/entities/entities.view.html',
+          controllerAs: 'entities',            
         }
-      }];
+      }
     }
-  }());
-  
+  }];
+}
+}());

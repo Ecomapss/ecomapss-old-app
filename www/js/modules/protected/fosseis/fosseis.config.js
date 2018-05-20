@@ -2,7 +2,7 @@
     'use strict';
   
     angular
-      .module('ecomapss.flora')
+      .module('ecomapss.protected')
       .run(protectedRoutes)
   
     /** @ngInject */

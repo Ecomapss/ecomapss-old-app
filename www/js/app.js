@@ -7,16 +7,9 @@
       'ionic',
 
       // Modules
-      'ecomapss.flora',
+      'ecomapss.protected',
       'ecomapss.avatar',
-      'ecomapss.fauna',
-      'ecomapss.fosseis',
-      'ecomapss.historias',
-      'ecomapss.map',
       'ecomapss.welcome',
-      'ecomapss.timeline',
-      'ecomapss.user',
-
 
       // Services
       'ecomapss.services',

@@ -1,14 +1,22 @@
-<ion-content class="login-bg--image">
-  <div class="flex-container flex-wrap">
-    <div ng-click="avatar.choose(av.id)" ng-repeat="av in avatar.avatars track by $index" ng-class="{'marked': av.marked }" class="avatar-item">
-      <img ng-src="img/avatars/{{av.file}}" height="80" alt="">
-    </div>
+<ion-view>
+  <ion-content class="login-bg--image">
+    <div class="flex-container flex-wrap">
+      <div ng-click="avatar.choose(av.id)" ng-repeat="av in avatar.avatars track by $index" ng-class="{'marked': av.marked }" class="avatar-item animated fadeIn">
+        <img ng-src="img/avatars/{{av.file}}" height="80" alt="">
+      </div>
 
-      <button ng-disabled="userForm.$invalid" class="button button-positive btn-rounded ">
+      <button ng-click="avatar.setAvatar()" ng-disabled="!avatar.selected" class="button button-positive btn-rounded normal-size">
         {{avatar.translate.buttons.select.avatar}}
       </button>
 
+
+      <div class="ec-message info animated slideInUp">
+        {{avatar.translate.alerts.success}}
+      </div>
+    </div>
+  </ion-content>
+
+  <div class="bar bar-footer bar-light">
+    <ec-language> </ec-language>
   </div>
-
-
-</ion-content>
+</ion-view>

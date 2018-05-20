@@ -6,15 +6,16 @@
   .run(ecomapssRun)
 
   /** @ngInject */
-  function ecomapssRun($ionicPlatform, UserService, $state ,I18nService) {
+  function ecomapssRun($ionicPlatform, UserService, $state ,I18nService, routerHelper) {
     if (!I18nService.getLang())
       I18nService.setLang('ptbr');
-    if(UserService.hasUser()) {
-      console.log("has")
-      $state.go('timeline', {});
-    }else{
-      $state.go('welcome', {});
+
+    var tests = UserService.validationSteps();
+    if (tests.failed) {
+      $state.go(tests.state, {});
     }
+
+    ///////////////////////////////////////
 
     $ionicPlatform.ready(function () {
       // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
@@ -22,7 +23,6 @@
       if (window.cordova && window.cordova.plugins.Keyboard) {
         cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
         cordova.plugins.Keyboard.disableScroll(true);
-
       }
 
       if (window.StatusBar) {

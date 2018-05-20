@@ -19,13 +19,13 @@
       console.log(vm.langOptions);
       I18nService.geti18n(vm.thisLocation).then(function (response) {
         vm.translate = response.data[thisModule];
-      });
-    }
+    });
+  }
 
-    vm.doLogin = function () {
+  vm.doLogin = function () {
       UserService.setUserName(vm.user.username);
       $state.go('avatar', {});
-    }
-
   }
+
+}
 }());

@@ -6,7 +6,7 @@
   .controller('AvatarCtrl', AvatarCtrl)
 
   /** @ngInject */
-  function AvatarCtrl(I18nService){
+  function AvatarCtrl(I18nService, UserService, $state){
     var vm = this;
     var thisModule = 'avatar';
     var avatars = {ext: '.png', max: 6};
@@ -14,6 +14,8 @@
     vm.thisLocation = I18nService.getLang();
     vm.user = {};
     vm.avatars = [];
+    vm.selected = false;
+    vm.avatarID = 0;
 
     for (var i = 1; i <= avatars.max; i++) {
       if (i>10) prefix = '0';
@@ -32,7 +34,15 @@
       });
     }
 
+    vm.setAvatar = function() {
+      UserService.setAvatar(vm.avatarID);
+
+      $state.go('protected.timeline', {});
+    }
+
     vm.choose = function(id) {
+      vm.avatarID = id;
+      vm.selected = true;
       vm.avatars.map(function (avatar) {
         if (id == avatar.id) avatar.marked = !avatar.marked;
         else avatar.marked = false;

@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('ecomapss.timeline')
+        .module('ecomapss.protected')
         .controller('TimelineCtrl', TimelineCtrl)
 
     /** @ngInject */

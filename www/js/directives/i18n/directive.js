@@ -26,7 +26,7 @@
   }
 
   /** @ngInject */
-  function Controller(I18nService, $ionicModal, $scope, $window) {
+  function Controller(I18nService, $ionicModal, $scope, $state, $window) {
     var vm = this;
     var thisModule = 'i18n';
     vm.classFlag = "flag-icon flag--selected ";
@@ -58,6 +58,7 @@
     vm.selectLang = function(lang) {
       I18nService.setLang(lang);
       I18nService.geti18n(vm.thisLocation).then(function (response) {
+
         if ( navigator && navigator.splashscreen ) {
           navigator.splashscreen.show();
           $window.location.reload();
@@ -67,6 +68,7 @@
         } else {
           $window.location.reload();
         }
+        
       })
     }
 

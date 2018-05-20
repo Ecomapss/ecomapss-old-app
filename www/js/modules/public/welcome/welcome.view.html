@@ -1,24 +1,26 @@
-<ion-content class="login-bg--image">
-  <div class="flex-container flex-col-dir loginbox">
-    <div class="row row box-divide">
-      <div class="col col-center">
-        <img src="/img/icones/logo/ecomapss.png" class="center" width="130" height="130" alt="">
+<ion-view>
+  <ion-content class="login-bg--image">
+    <div class="flex-container flex-col-dir loginbox">
+      <div class="row row box-divide">
+        <div class="col col-center">
+          <img src="/img/icones/logo/ecomapss.png" class="center" width="130" height="130" alt="">
+        </div>
+      </div>
+
+      <form ng-submit="welcome.doLogin()" name="userForm" ng-model="welcome.user" novalidate>
+        <input name="username" type="text" ng-class="{'has-error': userForm.username.$invalid && userForm.$dirty}" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}" required>
+        <button ng-disabled="userForm.$invalid" class="button button-positive btn-rounded button-block">
+          {{welcome.translate.form.buttons.signin}}
+        </button>
+      </form>
+
+      <div ng-show="userForm.username.$invalid && userForm.$dirty" ng-class="{'animated slideInUp': userForm.username.$invalid && userForm.$dirty}" class="ec-message error">
+        {{welcome.translate.form.errors.empty.username}}
       </div>
     </div>
+  </ion-content>
 
-    <form ng-submit="welcome.doLogin()" name="userForm" ng-model="welcome.user" novalidate>
-      <input name="username" type="text" ng-class="{'has-error': userForm.username.$invalid && userForm.$dirty}" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}" required>
-      <button ng-disabled="userForm.$invalid" class="button button-positive btn-rounded button-block">
-          {{welcome.translate.form.buttons.signin}}
-      </button>
-    </form>
-
-    <div ng-show="userForm.username.$invalid && userForm.$dirty" class="ec-message error">
-      {{welcome.translate.form.errors.empty.username}}
-    </div>
+  <div class="bar bar-footer bar-light">
+    <ec-language> </ec-language>
   </div>
-</ion-content>
-
-<div class="bar bar-footer bar-light">
-  <ec-language> </ec-language>
-</div>
+</ion-view>
