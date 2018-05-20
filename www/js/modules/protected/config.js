@@ -9,7 +9,7 @@
   function publicRoutes(routerHelper, UserService) {
     var otherwise = '/protected/timeline';
     
-    routerHelper.configureStates(getStates(), otherwise);
+    routerHelper.configureStates(getStates());
   }
 
   function getStates() {

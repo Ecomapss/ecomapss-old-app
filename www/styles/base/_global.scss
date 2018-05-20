@@ -22,6 +22,10 @@
   flex-direction: column;
 }
 
+.flex-row-dir {
+  flex-direction: row;
+}
+
 ec-language {
   margin: 0 auto;
 }
@@ -32,6 +36,10 @@ ec-language {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
+}
 
-
+.flex-conainer .v-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

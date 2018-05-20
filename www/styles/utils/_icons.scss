@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+
+@mixin icon($file) {
+	$url:"../img/icones/ecomapss/#{$file}.svg";
+	background-image: url($url);
+	background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+@mixin icon-outline($file) {
+	$url:"../img/icones/ecomapss/#{$file}-outline.svg";
+	background-image: url($url);
+	background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@mixin icon-outline-white($file) {
+	$url:"../img/icones/ecomapss/#{$file}-outline-white.svg";
+	background-image: url($url);
+	background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+span.ec-icon {
+	
+	display: inline-block;
+	width: 90px;
+	height: 90px;
+}
+
+span.i-history {
+	@include icon(history);
+}
+
+span.i-flora {
+	@include icon(flora);
+}
+span.i-fauna {
+	@include icon(fauna);
+
+}
+span.i-fossil {
+	@include icon(fossil);
+}
+
+
+span.i-history-outline {
+	@include icon-outline(history);
+}
+
+span.i-flora-outline {
+	@include icon-outline(flora);
+}
+span.i-fauna-outline {
+	@include icon-outline(fauna);
+}
+span.i-fossil-outline {
+	@include icon-outline(fossil);
+}
+
+span.i-history-outline-white {
+	@include icon-outline-white(history);
+}
+
+span.i-flora-outline-white {
+	@include icon-outline-white(flora);
+}
+span.i-fauna-outline-white {
+	@include icon-outline-white(fauna);
+}
+span.i-fossil-outline-white {
+	@include icon-outline-white(fossil);
+}
+

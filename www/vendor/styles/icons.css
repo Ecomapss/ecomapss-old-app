@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+.ec-icon {
+	color: inherit;
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+}
+
+.i-history {
+	backgroun-image: url(icons/history.svg);
+}
+
+.i-flora {
+	backgroun-image: url(icons/flora.svg);
+}
+.i-fauna {
+	backgroun-image: url(icons/fauna.svg);
+}
+.i-fossil {
+	backgroun-image: url(icons/fossil.svg);
+}
+
+
+
+.i-history-outline {
+	backgroun-image: url(icons/history-outline.svg);
+}
+
+.i-flora-outline {
+	backgroun-image: url(icons/flora-outline.svg);
+}
+.i-fauna-outline {
+	backgroun-image: url(icons/fauna-outline.svg);
+}
+.i-fossil-outline {
+	backgroun-image: url(icons/fossil-outline.svg);
+}
+

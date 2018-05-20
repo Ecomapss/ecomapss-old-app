@@ -6,14 +6,16 @@
         .controller('EntitiesCtrl', EntitiesCtrl)
 
     /** @ngInject */
-    function EntitiesCtrl(){
+    function EntitiesCtrl($ionicSideMenuDelegate,$ionicSlideBoxDelegate){
         var vm = this;
         
         init();
 
         function init(){
-            console.log('teste entities');
         }
+
+
+
 
     }
 

@@ -13,6 +13,8 @@
     var tests = UserService.validationSteps();
     if (tests.failed) {
       $state.go(tests.state, {});
+    }else {
+      $state.go('protected.timeline', {reload: true});
     }
 
     ///////////////////////////////////////

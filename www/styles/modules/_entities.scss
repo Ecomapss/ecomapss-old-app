@@ -1,0 +1,38 @@
+
+.entities-item {
+	color: white;
+	margin: 1px;
+	height: 90%;
+	width: 100%;
+
+	text-align: center;
+
+}
+
+.slider {
+	color: white !important;
+	background-color: rgba(1,1,1, 0.5); 
+	text-align: center;
+	height: 100%;
+}
+
+
+.entities-item > div {
+	color: white;
+	margin: 0 auto;
+	padding-top: 5.5em;
+
+}
+
+.entities-item > div > h2 {
+	color: white;
+}
+
+.entities-item > div > p {
+	padding: 1em;
+}
+
+
+.slider-pager-page {
+	color: #fff !important;
+}

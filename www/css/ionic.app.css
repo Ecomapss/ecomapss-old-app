@@ -9887,6 +9887,83 @@ a.button {
 .ec-message.info {
   background-color: rgba(0, 116, 63, 0.4); }
 
+span.ec-icon {
+  display: inline-block;
+  width: 90px;
+  height: 90px; }
+
+span.i-history {
+  background-image: url("../img/icones/ecomapss/history.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-flora {
+  background-image: url("../img/icones/ecomapss/flora.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-fauna {
+  background-image: url("../img/icones/ecomapss/fauna.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-fossil {
+  background-image: url("../img/icones/ecomapss/fossil.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-history-outline {
+  background-image: url("../img/icones/ecomapss/history-outline.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-flora-outline {
+  background-image: url("../img/icones/ecomapss/flora-outline.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-fauna-outline {
+  background-image: url("../img/icones/ecomapss/fauna-outline.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-fossil-outline {
+  background-image: url("../img/icones/ecomapss/fossil-outline.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-history-outline-white {
+  background-image: url("../img/icones/ecomapss/history-outline-white.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-flora-outline-white {
+  background-image: url("../img/icones/ecomapss/flora-outline-white.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-fauna-outline-white {
+  background-image: url("../img/icones/ecomapss/fauna-outline-white.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+span.i-fossil-outline-white {
+  background-image: url("../img/icones/ecomapss/fossil-outline-white.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; }
+
 input[type=text].input--rounded {
   padding: 1em;
   border-radius: 2em;
@@ -9921,6 +9998,9 @@ button.btn-rounded.normal-size {
 .flex-col-dir {
   flex-direction: column; }
 
+.flex-row-dir {
+  flex-direction: row; }
+
 ec-language {
   margin: 0 auto; }
 
@@ -9929,6 +10009,11 @@ ec-language {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover; }
+
+.flex-conainer .v-center {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
 
 .login-bg--image {
   background-image: url(../img/backgrounds/login/001.jpg);
@@ -10103,6 +10188,33 @@ img.center {
     float: right;
     left: auto;
     margin: -55px 5px 0 0px; } }
+
+.entities-item {
+  color: white;
+  margin: 1px;
+  height: 90%;
+  width: 100%;
+  text-align: center; }
+
+.slider {
+  color: white !important;
+  background-color: rgba(1, 1, 1, 0.5);
+  text-align: center;
+  height: 100%; }
+
+.entities-item > div {
+  color: white;
+  margin: 0 auto;
+  padding-top: 5.5em; }
+
+.entities-item > div > h2 {
+  color: white; }
+
+.entities-item > div > p {
+  padding: 1em; }
+
+.slider-pager-page {
+  color: #fff !important; }
 
 .flag-icon-background, .flag-icon {
   background-size: contain;
