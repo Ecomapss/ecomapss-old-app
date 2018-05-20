@@ -9924,8 +9924,11 @@ button.btn-rounded.normal-size {
 ec-language {
   margin: 0 auto; }
 
-.scroll {
-  background-color: #FCFCFC !important; }
+.bg-image {
+  background: url(../img/backgrounds/main.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover; }
 
 .login-bg--image {
   background-image: url(../img/backgrounds/login/001.jpg);
@@ -9956,7 +9959,6 @@ img.center {
   background-color: rgba(25, 46, 91, 0.4); }
 
 .cbp_tmtimeline {
-  margin: 30px 0 0 0;
   padding: 0;
   list-style: none;
   position: relative; }
@@ -9973,7 +9975,8 @@ img.center {
   margin-left: -10px; }
 
 .cbp_tmtimeline > li {
-  margin: 2em;
+  background-color: rgba(0, 0, 0, 0.43);
+  padding: 2em;
   position: relative; }
 
 /* The date/time */
@@ -9989,14 +9992,14 @@ img.center {
 
 .cbp_tmtimeline > li .cbp_tmtime span:first-child {
   font-size: 0.9em;
-  color: #bdd0db; }
+  color: #fff; }
 
 .cbp_tmtimeline > li .cbp_tmtime span:last-child {
   font-size: 2.9em;
-  color: #3594cb; }
+  color: #fff; }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
-  color: #6cbfee; }
+  color: #fff; }
 
 /* Right content */
 .cbp_tmtimeline > li .cbp_tmlabel {
@@ -10010,8 +10013,17 @@ img.center {
   position: relative;
   border-radius: 5px; }
 
-.cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
-  background: #1D65A6; }
+.cbp_tmtimeline > li .cbp_tmlabel.bg-assertive {
+  background: #ef473a; }
+
+.cbp_tmtimeline > li .cbp_tmlabel.bg-balanced {
+  background: #00743F; }
+
+.cbp_tmtimeline > li .cbp_tmlabel.bg-royal {
+  background: #886aea; }
+
+.cbp_tmtimeline > li .cbp_tmlabel.bg-dark {
+  background: #192E5B; }
 
 .cbp_tmtimeline > li .cbp_tmlabel h2 {
   font-size: 1.2em;
@@ -10019,19 +10031,6 @@ img.center {
   padding: 0 0 10px 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.4);
   color: #fff; }
-
-/* The triangle */
-.cbp_tmtimeline > li .cbp_tmlabel:after {
-  right: 100%;
-  border: solid transparent;
-  content: " ";
-  height: 0;
-  width: 0;
-  position: absolute;
-  pointer-events: none;
-  border-right-color: #3594cb;
-  border-width: 10px;
-  top: 10px; }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {
   border-right-color: #6cbfee; }
