@@ -27,7 +27,10 @@
 
       if (window.StatusBar) {
         // org.apache.cordova.statusbar required
-        StatusBar.styleDefault();
+        StatusBar.styleLightContent();
+        StatusBar.overlaysWebView(false);
+        StatusBar.backgroundColorByHexString("#387ef5");
+        ionic.Platform.fullScreen(true, true);
       }
     });
   }
