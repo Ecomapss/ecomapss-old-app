@@ -10055,8 +10055,8 @@ img.center {
 .avatar-item {
   border-radius: 50px;
   position: static;
-  padding: .3em;
-  margin: 0.9em; }
+  padding: .5em;
+  margin: 1em; }
 
 .avatar-item.marked {
   transform: scale(1.2);
