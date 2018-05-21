@@ -10055,8 +10055,8 @@ img.center {
 .avatar-item {
   border-radius: 50px;
   position: static;
-  padding: .6em;
-  margin: 2em; }
+  padding: .3em;
+  margin: 0.9em; }
 
 .avatar-item.marked {
   transform: scale(1.2);
@@ -10218,17 +10218,20 @@ img.center {
 
 .slider {
   color: white !important;
-  background-color: rgba(1, 1, 1, 0.5);
   text-align: center;
   height: 100%; }
 
-.entities-item > div {
+.entities-head {
+  padding-top: 1em; }
+
+.entities-item > div > div {
   color: white;
   margin: 0 auto;
-  padding-top: 5em; }
+  padding-top: 4em; }
 
-.entities-item > div > h2 {
-  color: white; }
+.entities-item > div > div > h2, p {
+  color: white;
+  margin: 1em; }
 
 .entities-item > div > p {
   padding: 1em; }
