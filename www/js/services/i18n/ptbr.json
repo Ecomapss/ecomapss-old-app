@@ -37,5 +37,23 @@
         "cancel": "Cancelar"
       }
     }
+  },
+  "shared": {
+    "entities": {
+      "history": "História",
+      "fauna": "Fauna",
+      "fossil": "Fóssil",
+      "flora": "Flora"
+    },
+    "menus": {
+      "map": "Mapa",
+      "you": "Você",
+      "timeline": "Linha do Tempo",
+      "geodiversities": "Geodiversidades"
+    },
+    "actions": {
+      "login": "Entrar",
+      "logout": "Sair"
+    }
   }
 }

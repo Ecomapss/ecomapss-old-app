@@ -6,13 +6,18 @@
   .service('UserService', userService)
 
   /* @ngIject */
-  function userService(StorageService) {
+  function userService(StorageService, $state) {
     this.setUserName = setUserName;
     this.getUserName = getUserName;
     this.hasUser = hasUser;
     this.setAvatar = setAvatar;
     this.getAvatar = getAvatar;
     this.validationSteps = validationSteps;
+    this.logOut = logOut;
+
+
+    this.avatarsUrl = "img/avatars/";
+    this.avatarsExt = ".png";
 
     var keys = {
       username: 'uName',
@@ -72,6 +77,12 @@
 
     function getAvatar() {
       return StorageService.getData(keys.avatar);
+    }
+
+    function logOut() {
+      StorageService.clearData().then(function () {
+        $state.go('welcome', {reload: true});
+      })
     }
   }
 })();

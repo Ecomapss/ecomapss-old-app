@@ -1,5 +1,30 @@
 <ion-view view-title="User">
-    <ion-content>
-        User
-    </ion-content>
+	<ion-content class="bg-gradient">
+
+		<div class="flex-container flex-col-dir text-light perfil">
+			<img ng-src="{{user.avatar}}" class="perfil-avatar v-center" alt="Avatar do usuário" title="Avatar do usuário">
+
+
+			<div class="pefil-section">
+				<h3>{{user.username}}</h3>
+			</div>
+		</div>
+
+		<div class="perfil-details">
+			<div class="list">
+				<a ng-click="user.logOut()" class="item item-icon-left" href="#">
+					<i class="icon ion-log-out"></i>
+					{{user.shared.actions.logout}}
+				</a>
+
+				<div class="bar bar-light">
+					<ec-language> </ec-language>
+				</div>
+
+
+			</div>
+		</div>
+
+	</ion-content>
+
 </ion-view>

@@ -1,0 +1,38 @@
+.perfil {
+	height: 50%;
+}
+
+.perfil >.perfil-avatar {
+	margin-top: 3em;
+	padding: 0.5em;
+	border-radius: 50%;
+
+
+
+	background-color: $light;
+
+	height: 140px;
+	width: auto;
+}
+
+
+div.pefil-section {
+	margin-top: 2em;
+
+	width: 90%;
+	text-align: center;
+
+	color: white;
+	border-bottom: 1px solid white;
+}
+
+
+div.pefil-section > h3 {
+	color: white;
+}
+
+div.perfil-details {
+	background-color: $stable;
+	height: 50%;
+	width: 100%;
+}

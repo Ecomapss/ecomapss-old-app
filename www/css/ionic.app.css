@@ -9868,6 +9868,28 @@ a.button {
 * {
   font-family: 'Roboto', sans-serif; }
 
+.bg-primary {
+  background-color: #886aea; }
+
+.bg-secondary {
+  background-color: #1D65A6; }
+
+.bg-gradient {
+  background: -moz-linear-gradient(306deg, #886aea 0%, #281f45 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #886aea), color-stop(100%, #281f45));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(306deg, #886aea 0%, #281f45 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(306deg, #886aea 0%, #281f45 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(306deg, #886aea 0%, #281f45 100%);
+  /* ie10+ */
+  background: linear-gradient(144deg, #886aea 0%, #281f45 100%);
+  /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#886aea', endColorstr='#281F45',GradientType=0 );
+  /* ie6-9 */ }
+
 .ec-message {
   color: white;
   text-align: center;
@@ -10010,10 +10032,8 @@ ec-language {
   -moz-background-size: cover;
   background-size: cover; }
 
-.flex-conainer .v-center {
-  display: flex;
-  justify-content: center;
-  align-items: center; }
+.v-center {
+  margin: 0 auto; }
 
 .login-bg--image {
   background-image: url(../img/backgrounds/login/001.jpg);
@@ -10216,6 +10236,32 @@ img.center {
 .slider-pager-page {
   font-size: .5em;
   color: #fff !important; }
+
+.perfil {
+  height: 50%; }
+
+.perfil > .perfil-avatar {
+  margin-top: 3em;
+  padding: 0.5em;
+  border-radius: 50%;
+  background-color: #fff;
+  height: 140px;
+  width: auto; }
+
+div.pefil-section {
+  margin-top: 2em;
+  width: 90%;
+  text-align: center;
+  color: white;
+  border-bottom: 1px solid white; }
+
+div.pefil-section > h3 {
+  color: white; }
+
+div.perfil-details {
+  background-color: #FCFCFC;
+  height: 50%;
+  width: 100%; }
 
 .flag-icon-background, .flag-icon {
   background-size: contain;

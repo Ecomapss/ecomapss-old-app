@@ -37,5 +37,24 @@
         "cancel": "Cancel"
       }
     }
+  },
+
+  "shared": {
+    "entities": {
+      "history": "History",
+      "fauna": "Fauna",
+      "fossil": "Fossil",
+      "flora": "Flora"
+    },
+    "menus": {
+      "map": "Map",
+      "you": "You",
+      "timeline": "Timeline",
+      "geodiversities": "Geodiversities"
+    },
+    "actions": {
+      "login": "Login",
+      "logout": "logout"
+    }
   }
 }

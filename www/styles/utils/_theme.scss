@@ -1,11 +1,32 @@
 @font-face {
-    font-family: 'Roboto';
-    src: url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+	font-family: 'Roboto';
+	src: url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
 }
 
 * {
-    font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
+
+
+
+.bg-primary {
+	background-color: $royal;
+}
+
+.bg-secondary {
+	background-color: $positive;
+}
+
+.bg-gradient {
+	background: -moz-linear-gradient(306deg, rgba(136,106,234,1) 0%, rgba(40,31,69,1) 100%); /* ff3.6+ */
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(136,106,234,1)), color-stop(100%, rgba(40,31,69,1))); /* safari4+,chrome */
+	background: -webkit-linear-gradient(306deg, rgba(136,106,234,1) 0%, rgba(40,31,69,1) 100%); /* safari5.1+,chrome10+ */
+	background: -o-linear-gradient(306deg, rgba(136,106,234,1) 0%, rgba(40,31,69,1) 100%); /* opera 11.10+ */
+	background: -ms-linear-gradient(306deg, rgba(136,106,234,1) 0%, rgba(40,31,69,1) 100%); /* ie10+ */
+	background: linear-gradient(144deg, rgba(136,106,234,1) 0%, rgba(40,31,69,1) 100%); /* w3c */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#886aea', endColorstr='#281F45',GradientType=0 ); /* ie6-9 */
+}
+
 
