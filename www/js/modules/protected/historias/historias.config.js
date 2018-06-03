@@ -12,7 +12,7 @@
   
     function getStates() {
       return [{
-        state: 'historias',
+        state: 'protected.historias',
         config: {
           templateUrl: 'js/modules/protected/historias/historias.view.html',
           controller: 'HistoriasCtrl',

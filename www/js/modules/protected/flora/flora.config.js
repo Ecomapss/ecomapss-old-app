@@ -12,7 +12,7 @@
   
     function getStates() {
       return [{
-        state: 'flora',
+        state: 'protected.flora',
         config: {
           templateUrl: 'js/modules/protected/flora/flora.view.html',
           controller: 'FloraCtrl',

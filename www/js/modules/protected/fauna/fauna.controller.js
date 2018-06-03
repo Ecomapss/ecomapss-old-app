@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('ecomapss.fauna')
+        .module('ecomapss.protected')
         .controller('FaunaCtrl', FaunaCtrl)
 
     /** @ngInject */

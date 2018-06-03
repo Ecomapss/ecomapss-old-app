@@ -2,14 +2,14 @@ $marked-alpha: 0.4;
 
 
 .avatar-item {
-  border-radius: 50px;
-  position: static;
-  padding: .5em;
-  margin: 1em;
+	border-radius: 50px;
+	position: static;
+	padding: .5em;
+	margin: 2em;
 }
 
 .avatar-item.marked {
-  transform: scale(1.2);
-  transition: 0.2s ease-in-out;
-  background-color: rgba($dark, $marked-alpha);
+	transform: scale(1.2);
+	transition: 0.2s ease-in-out;
+	background-color: rgba($dark, $marked-alpha);
 }
