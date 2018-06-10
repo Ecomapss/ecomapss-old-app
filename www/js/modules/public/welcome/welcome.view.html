@@ -1,26 +1,96 @@
 <ion-view>
-  <ion-content class="login-bg--image">
-    <div class="flex-container flex-col-dir loginbox">
-      <div class="row row box-divide">
-        <div class="col col-center">
-          <img src="/img/icones/logo/ecomapss.png" class="center" width="130" height="130" alt="">
+  <ion-content class="bg-gradient">
+    <ion-slide-box>
+      <ion-slide>
+        <div class="entities-item">
+          <div class="flex-container flex-col-dir">
+            <div class="entities-head">
+              <span class="ec-icon i-fauna animated slideInDown"></span>
+            </div>
+
+            <div class="entities-body">
+              <h2>
+                Fauna
+              </h2>
+              <p>Lorem ipsum dolor gravita dolor gravita, dolor gravita dolor gravita </p>
+            </div>            
+          </div>
+          
         </div>
-      </div>
+      </ion-slide>
 
-      <form ng-submit="welcome.doLogin()" name="userForm" ng-model="welcome.user" novalidate>
-        <input name="username" type="text" ng-class="{'has-error': userForm.username.$invalid && userForm.$dirty}" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}" required>
-        <button ng-disabled="userForm.$invalid" class="button button-positive btn-rounded button-block">
-          {{welcome.translate.form.buttons.signin}}
-        </button>
-      </form>
+      <ion-slide >
+        <div class="entities-item">
+          <div class="flex-container flex-col-dir">
+            <div class="entities-head">
+              <span class="ec-icon i-flora animated slideInDown"></span>
+            </div>
 
-      <div ng-show="userForm.username.$invalid && userForm.$dirty" ng-class="{'animated slideInUp': userForm.username.$invalid && userForm.$dirty}" class="ec-message error">
-        {{welcome.translate.form.errors.empty.username}}
-      </div>
-    </div>
+            <div class="entities-body">
+              <h2>
+                Flora
+              </h2>
+              <p>Lorem ipsum dolor gravita dolor gravita, dolor gravita dolor gravita </p>
+            </div>
+
+          </div>
+        </div>
+      </ion-slide>
+
+      <ion-slide>
+        <div class="entities-item">
+          <div class="flex-container flex-col-dir">
+            <div class="entities-head">
+              <span class="ec-icon i-fossil animated slideInDown"></span>
+            </div>
+
+            <div class="entities-body">
+              <h2>
+                Fosseis
+              </h2>
+              <p>Lorem ipsum dolor gravita dolor gravita, dolor gravita dolor gravita </p>
+            </div>
+          </div>
+        </div>
+      </ion-slide>
+
+      <ion-slide>
+        <div class="entities-item">
+          <div class="flex-container flex-col-dir">
+            <div class="entities-head">
+              <span class="ec-icon i-history animated slideInDown"></span>
+            </div>
+
+            <div class="entities-body">
+              <h2>
+                Histórias
+              </h2>
+              <p>Lorem ipsum dolor gravita dolor gravita, dolor gravita dolor gravita </p>
+            </div>
+          </div>
+        </div>
+      </ion-slide>
+
+      <ion-slide>
+        <div class="flex-container flex-col-dir loginbox">
+          <div class="row row box-divide">
+            <div class="col col-center">
+              <img src="/img/icones/logo/ecomapss.png" class="center" width="130" height="130" alt="">
+            </div>
+          </div>
+
+          <form ng-submit="welcome.doLogin()" name="userForm" ng-model="welcome.user" novalidate>
+            <input name="username" type="text" ng-class="{'has-error': userForm.username.$invalid && userForm.$dirty}" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}" required>
+            <button ng-disabled="userForm.$invalid" class="button button-royal btn-rounded button-block">
+              {{welcome.translate.form.buttons.signin}}
+            </button>
+          </form>
+
+          <div ng-show="userForm.username.$invalid && userForm.$dirty" ng-class="{'animated slideInUp': userForm.username.$invalid && userForm.$dirty}" class="ec-message error">
+            {{welcome.translate.form.errors.empty.username}}
+          </div>
+        </div>
+      </ion-slide>
+    </ion-slide-box>
   </ion-content>
-
-  <div class="bar bar-footer bar-light">
-    <ec-language> </ec-language>
-  </div>
 </ion-view>

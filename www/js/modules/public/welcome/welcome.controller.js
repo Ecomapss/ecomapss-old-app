@@ -6,7 +6,7 @@
   .controller('WelcomeCtrl', WelcomeCtrl)
 
   /** @ngInject */
-  function WelcomeCtrl(I18nService, UserService, $state){
+  function WelcomeCtrl(I18nService, UserService, $state, $ionicSideMenuDelegate,$ionicSlideBoxDelegate){
     var vm = this;
     var thisModule = 'login';
     vm.thisLocation = I18nService.getLang();
