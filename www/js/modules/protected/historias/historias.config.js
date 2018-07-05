@@ -2,7 +2,7 @@
     'use strict';
   
     angular
-      .module('ecomapss.protected')
+      .module('ecomapss.historias')
       .run(protectedRoutes)
   
     /** @ngInject */

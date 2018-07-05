@@ -2,7 +2,7 @@
     'use strict';
   
     angular
-      .module('ecomapss.protected')
+      .module('ecomapss.flora')
       .run(protectedRoutes)
   
     /** @ngInject */
@@ -11,15 +11,20 @@
     }
   
     function getStates() {
-      return [{
-        state: 'protected.flora',
-        config: {
-          templateUrl: 'js/modules/protected/flora/flora.view.html',
-          controller: 'FloraCtrl',
-          controllerAs: 'flora',
-          url: '/protected/flora'
-        }
-      }];
+      return [
+        {
+          state: 'protected.flora',
+          config: {
+            url: '/flora',
+            views: {
+              'tab-entities':{
+                controller: 'FloraCtrl',
+                templateUrl: 'js/modules/protected/flora/flora.view.html',
+                controllerAs: 'flora',            
+              }
+            }
+          }
+        }];
     }
   }());
   
