@@ -6,15 +6,23 @@
         .controller('HistoriasCtrl', HistoriasCtrl)
 
     /** @ngInject */
-    function HistoriasCtrl(){
+    function HistoriasCtrl(EntitiesService){
         var vm = this;
         
         init();
 
-        function init(){
-            console.log('teste Timeline');
+        function init() {
+            getHistoria()
         }
 
+        function getHistoria() {
+            EntitiesService.getEntity('historia')
+                .then(function (historia) {
+                    vm.historias = historia
+                }).catch(function (error) {
+                    vm.historias = []
+                })
+        }
     }
 
 }());

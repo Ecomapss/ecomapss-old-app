@@ -10,7 +10,7 @@
         <div class="list">
             <a class="item item-avatar" ui-sref="protected.details-fauna({id: $index})" ng-repeat="fauna in fauna.faunas | filter:search">
                 <img ng-src="{{fauna.picture}} ">
-                <h2>Ordem: {{fauna.ordem}}</h2>
+                <h2>{{fauna.ordem}}</h2>
                 <p>{{fauna.info}}</p>
             </a>
         </div>

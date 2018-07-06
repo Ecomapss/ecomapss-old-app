@@ -6,15 +6,23 @@
         .controller('FloraCtrl', FloraCtrl)
 
     /** @ngInject */
-    function FloraCtrl(){
+    function FloraCtrl($scope,EntitiesService){
         var vm = this;
         
         init();
 
-        function init(){
-            console.log('teste flora');
+        function init() {
+            getFlora()
         }
 
+        function getFlora() {
+            EntitiesService.getEntity('flora')
+                .then(function (flora) {
+                    vm.floras = flora
+                }).catch(function (error) {
+                    vm.floras = []
+                })
+        }
     }
 
 }());

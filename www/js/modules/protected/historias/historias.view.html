@@ -1,5 +1,18 @@
-<ion-view view-title="Linha do Tempo">
+<ion-view view-title="História">
     <ion-content>
-        Timeline
+        <div class="list list-inset">
+            <label class="item item-input">
+                <i class="icon ion-search placeholder-icon"></i>
+                <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 200 }">
+            </label>
+        </div>
+
+        <div class="list">
+            <a class="item item-avatar" ui-sref="protected.details-historias({id: $index})" ng-repeat="historia in historias.historias | filter:search">
+                <img ng-src="{{historia.picture}} ">
+                <h2>{{historia.titulo}}</h2>
+                <p>{{historia.info}}</p>
+            </a>
+        </div>
     </ion-content>
 </ion-view>

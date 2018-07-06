@@ -1,0 +1,82 @@
+{
+    "Error": false,
+    "Data": [
+        {
+            "_id": "5a27a6326132ff0a62d50af1",
+            "titulo": "Parque Estadual Sítio Fundão – Geossítio Batateiras",
+            "info": "Criado pelo Decreto Nº 29.307 de 05/06/2008, na categoria de Unidade de Conservação de Proteção Integral prevista pelo Sistema Estadual de Unidades de Conservação – SNUC, possui como finalidade a prevenção de ecossistemas naturais de grande relevância ecológica e beleza cênica, possibilitando a realização de pesquisas científicas e o desenvolvimento de atividades de educação e interpretação ambiental, de recreação em contato com a natureza e de turismo ecológico. Está localizado no município de Crato – CE e possui uma área de 93,54 ha, apresentando espécies da flora e fauna típicas do bioma Caatinga, edificações históricas tombadas e um pequeno cânion formado pelo rio Batateira, o qual dá nome ao território ao geossítio do Geopark Araripe ( Geossítio Batateiras), área em que está sobreposto, o Pares Sítio Fundão.",
+            "localidade": "Crato - Ceará",
+            "historia": true
+        },
+        {
+            "_id": "5a2946196132ff0a62d50af3",
+            "titulo": "Centro de Visitantes Jeferson da Franca Alencar",
+            "info": "Edificação de raro modelo construtivo, construída em taipa com alpendre elevado, piso superior em madeira. Todas as paredes são de taipa de mão com esteios de aroeira/pau d’arco com distância regular entre eles e envaramento de marmeleiro com fixação de cipó, sendo considerada a única casa de taipa de primeiro andar do Estado. Tombada pela Secretaria de Cultura do Estado em 2013. Transformada em Centro de Visitantes em 2017, recebeu o nome do antigo guardião do local.",
+            "localidade": "Crato - Ceará",
+            "historia": true
+        },
+        {
+            "_id": "5a2946856132ff0a62d50af4",
+            "titulo": "Ruínas do engenho de pau movido por tração animal ",
+            "info": "Engrenagem feita de madeira com tratamento artesanal, era movido a tração animal e é também chamado engenho de pau. Construído em 1904, funcionou até 1944 onde houve o declínio da produção de rapadura no Crato. É exemplar único existente na Região do Cariri. Tombado pela Secretaria de Cultura do Estado em 2013.",
+            "localidade": "Parque Estadual Sítio Fundão",
+            "historia": true
+        },
+        {
+            "_id": "5a2946a66132ff0a62d50af5",
+            "titulo": "Muralha de Pedra",
+            "info": "Pequena barragem construída de pedra e argamassa de cal no  fim do século XIX para represar, nas épocas de seca, as águas do rio Batateiras que corta o Parque Estadual Sítio Fundão. Tombado pela Secretaria de Cultura do Estado em 2013.",
+            "localidade": "Parque Estadual Sítio Fundão",
+            "historia": true
+        },
+        {
+            "_id": "5ad110b3e3a2020004da04e9",
+            "historia": true,
+            "titulo": "Área de Relevante Interesse Ecológico - Arie das Águas Emendadas dos Inhamuns",
+            "info": "Órgão Gestor: SEMA - Situação Fundiária: Área particular; OBJETIVOS DE CRIAÇÃO: Proteger e preservara área em sua função ecológica, inclusive em relação as nascentes que formam os divisores de água que alimentam os tributários das bacias do Rio Banabuiú, Rio Jaguaribe (Carrapateira) e Rio Poti. Assegurar o provimento sustentável dos recursos naturais e da diversidade biológica da área.Conservar as espécies vegetais endêmicas da região em face da sua importância e fragilidade. Ordenar o turismo ecológico, científico e cultural e as demais atividades econômicas combatíveis com a conservação ambiental. Desenvolver junto a população local e regional, uma consciência ecológica e conservacionista. Propiciar a recuperação de áreas degradadas. Promover Educação Ambiental da comunidade do entorno.",
+            "localidade": "ARIE - Tauá"
+        },
+        {
+            "_id": "5af0eb029fecb90004bfb81e",
+            "historia": true,
+            "titulo": "A5 - TRILHA DA LAGOA - Acesso Rua Arq. Reginaldo Rangel",
+            "info": "",
+            "localidade": "Fortaleza"
+        },
+        {
+            "_id": "5af0ea259fecb90004bfb81c",
+            "historia": true,
+            "titulo": "A1 - TRILHA PRINCIPAL",
+            "info": "Esse é o acesso principal à trilha mais extensa do parque (1.350m) que está localizada próxima à Av. Padre Antônio Tomás. A menos de 15m está localizado o posto do Batalhão de Polícia Militar Ambiental que funciona 24h. Esse acesso é o mais próximo ao Centro de Referência Ambiental e ao Anfiteatro onde acontecem as atividades do Viva o Parque aos domingos.",
+            "localidade": "Acesso Av. Pe. Antonio Tomás"
+        },
+        {
+            "_id": "5af0eb819fecb90004bfb81f",
+            "historia": true,
+            "titulo": "A2 - TRILHA PRINCIPAL  ",
+            "info": "Essa entrada dá acesso a Trilha Principal através da Av. Engenheiro Santana Júnior. Essa trilha passa pelas antigas lavanderias, dando acesso a Trilha Principal e à Trilha da Lagoa.",
+            "localidade": "Acesso  Av. Engenheiro Santana Junior"
+        },
+        {
+            "_id": "5af0ea9f9fecb90004bfb81d",
+            "historia": true,
+            "titulo": "A3 - TRILHA PRINCIPAL ",
+            "info": "Essa entrada é a mais próxima do trapiche de onde saem os passeios de barco no Rio Cocó que têm duração média de 20 min. Esse é o acesso mais rápido a entrada da Trilha do Rio que possui 150m e é a única que possibilita a contemplação do rio.",
+            "localidade": "Acesso Av. Sebastião de Abreu"
+        },
+        {
+            "_id": "5b341676d2d82b00041c9288",
+            "historia": true,
+            "titulo": "Parque Estadual do Cocó",
+            "info": "",
+            "localidade": "Fortaleza"
+        },
+        {
+            "_id": "5a2946e46132ff0a62d50af6",
+            "titulo": "Rio Batateira - Formação Rio da Batateira (Krb) - Cretáceo Médio",
+            "info": "Principal Formação Geológica de idade cretácea que caracteriza os sedimentos existentes no Parque Estadual Sítio Fundão. A Formação Batateira ou Formação Rio da Batateira, assim também chamada, é composta basicamente de arenitos médios a grosseiros, de coloração creme a amarelada, que gradam, ascendentemente, para arenitos médios a finos e são seguidos por materiais argilosos e folhelhos (argilas metamorfisadas ou transformadas de coloração amarronzada) que apresentam vestígios de matérias orgânicas e fósseis e que em alguns locais apresentam-se betuminosos, ou seja, encerram pequenas quantidades de betume ou óleo petrolífero. A importância maior da Formação Batateira, que se estende até Missão Velha e Jardim, fica por conta da grande quantidade de água subterrânea de boa qualidade (muito bem mineralizada), que a mesma armazena e que permite o abastecimento das cidades de Crato, Juazeiro, Barbalha, Missão Velha e Jardim, além da grande quantidade de material argiloso que permite a fabricação de produtos cerâmicos (telhas e tijolos).\n",
+            "localidade": "Crato - Ceará",
+            "historia": true
+        }
+    ]
+}

@@ -28,7 +28,10 @@
                     return _getData('flora')
                 case 'fossil':
                     return _getData('fossil')
+                case 'historia':
+                    return _getData('historia')
                 default:
+                    return $q(function (resolve) { return resolve([]) })
             }
         }
 

@@ -1,0 +1,29 @@
+<ion-view view-title="Historia">
+    <ion-content>
+
+        <img class="full-image" ng-src="{{details.fossil.picture}}">
+
+        <div class="list">
+            <div class="item item-icon-left-top item-body" ng-if="details.fossil.designacao">
+                <i class="icon ion-alert calm"></i>
+                {{details.fossil.designacao}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.fossil.estratigrafia">
+                <i class="icon ion-cube calm"></i>
+                {{details.fossil.estratigrafia}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.fossil.idade">
+                <i class="icon ion-flag calm"></i>
+                {{details.fossil.idade}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.fossil.procedencia">
+                <i class="icon ion-calendar calm"></i>
+                {{details.fossil.procedencia}}
+            </div>
+            <p class="item  item-body item-icon-left-top item-body-top item-body">
+                <i class="icon ion-alert calm"></i>
+                {{details.fossil.info}}
+            </p>
+        </div>
+    </ion-content>
+</ion-view>
