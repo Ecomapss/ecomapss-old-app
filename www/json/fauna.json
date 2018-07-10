@@ -1,0 +1,104 @@
+{
+    "Error": false,
+    "Data": [
+        {
+            "_id": "5a25ccb26132ff0a62d50ade",
+            "info": "A ordem hymenoptera é um dos maiores grupos de insetos que existe as vespas, abelhas, formigas. As fêmeas possuem ovopositor, o que permite a perfuração do hospedeiro e pode por muitas vezes estar modificado por um ferrão. Possuem olhos bastante desenvolvidos podendo ser por milhares de omatídeos. O aparelho bucal é do tipo lambedor (nas abelhas) e mastigador nos demais. Possuem quatro asas membranosas, onde as posteriores são maiores que as anteriores. Algumas são ápteras, isso vai depender da casta em que ela se encontra, como nas formigas. Se desenvolvem através de metamorfose completa. Insetos sociais, como os hymenópteros, trabalham juntos para realizar grandes tarefas. Como no caso das abelhas da espécie: Apis melífera, da família: apidae. Esta por sua vez é uma abelha social de origem europeia, seu habitat é bastante diversificado, inclui savanas, florestas tropicais, deserto, regiões litorâneas e montanhosas.",
+            "ordem": "Hymenoptera ",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25cd076132ff0a62d50adf",
+            "info": "São agrupados nessa ordem os gafanhotos, as esperanças, os grilos, as paquinhas e as taquarinhas. Esses insetos possuem o terceiro par de perna do tipo saltatório. Cabeça muito variável quanto à forma. Muitas espécies apresentam cabeça consideravelmente prolongada entre os olhos. Possuem antenas filiformes. O aparelho bucal é mastigador. As fêmeas podem apresentar ovopositor longo com aspectos de laminas. Pernas anteriores e medianas ambulatórias, nas paquinhas o par anterior é fossorial. Na maioria das espécies há dois pares de asas, sendo o anterior do tipo tégmina e o posterior membranoso. A maioria dos orthopteros apresentam tímpanos (órgãos auditivos) localizados de cada lado de cada do primeiro urômetro.",
+            "ordem": "Orthoptera",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25cd4f6132ff0a62d50ae0",
+            "info": "Os mantídeos são bem conhecidos pelo nome de “louva-deus”, devido atitude de característica que tomam quando pousados. Pernas anteriores raptatórias. Corpo na maioria das espécies achatado. Antenas setáceas, filiformes. Aparelho bucal mandibulado hipognato. Pernas medias posteriores ambulatórias, as anteriores raptatórias, mais ou menos robustas. Os mantídeos são os únicos insetos que apresentam pernas anteriores desse tipo. Asas anteriores tegminosas, em geral grandes, foliáceas, excedendo o abdômen em ambos os sexos.\n",
+            "ordem": "Mantodea",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25cda56132ff0a62d50ae1",
+            "info": "As baratas são exopterigota neóptera com corpo dorso ventralmente achatado e cabeça com as peças bucais mastigadoras dirigidas para baixo (hipognatos). As asas anteriores, quando presentes, são do tipo pergamináceas, podendo ser branquipteras ou ausentes, mas com asas posteriores (se presentes) inteiramente membranosas. Fêmeas com ovopositor oculto e machos com genitália assimétrica; cercos presentes, variando de um a muitos artículos. Os ovos geralmente são depositados numa ooteca. As baratas colonizam os mais diversos habitats. A maioria é noturna, geralmente\nencontradas ao nível do solo e escondidas em cascas de árvores, troncos caídos e pedras durante o dia. Uma das espécies bastante comum nos lares são as da família (Blattidae), são inconfundíveis com o corpo plano, corpo oval, cabeça hipognata em posição ventral relativa ao tórax, aparelho bucal mastigador, que lhes permite alimentar-se de todo tipo de material orgânico, antenas filiformes e compridas, quase do tamanho do corpo.",
+            "ordem": "Blattodea",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25ceac6132ff0a62d50ae3",
+            "info": "São caracterizados por praticar mimetismo. Medem cerca de 10-300 mm de comprimento. Possuem cabeça pequena, antenas do tipo filiforme, aparelho bucal mastigador, pernas ambulatórias. Podem ter ou não asas, mas quando tem são maus voadoras. São hemimetábolas. Presentes em alguma espécie partenogênese. Produzem poucas proles. Os machos são menores que a fêmea. Vivem sobre as folhas e troncos. Possuem movimentos lentos. Os phasmatidae são uma família de “insetos de vara”, os phasmatidae são capazes de regenerar membros e comumente se reproduzem pela partenogênese. Apesar da aparência, são inofensivos.",
+            "ordem": "Phasmatodea",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25ce156132ff0a62d50ae2",
+            "info": "Libélulas são insetos de abdômen alongado. Possuem dois pares de asas, de envergadura que varia entre dois e vinte centímetros, e podem funcionar separadamente, de acordo com a velocidade do voo. Seus olhos compostos conferem excelente visão panorâmica e auxiliam na busca por alimentos e fuga de predadores. Alimenta-se de girinos, peixes juvenis e insetos inclusive indivíduos da própria espécie. Vivem em regiões próximas a água limpa, local onde vive o estágio larval. Assim que uma libélula nasce, permanece no ambiente aquático por aproximadamente cinco anos, passando por várias metamorfoses até chegar a forma adulta. As libélulas da família libellulidae, são de extrema importância, não apresentam coloração metálica e os machos frequentemente exibem uma pruinosidade sobre o corpo. Os olhos se encontram no topo da cabeça, em maior e menor extensão. Nesta família, a vênação das asas apresenta uma diferença marcante entre as asas posteriores e anteriores, além desta também existe a família cordulidae, a diferença entre elas são a ausência do triangulo anal na asa posterior e a ausência de aurículas no segundo segmento abdominal.\n",
+            "ordem": "Odonata",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25cf176132ff0a62d50ae4",
+            "info": "Mariposas e borboletas fazem parte desta ordem. Possuem cabeça, tórax, abdômen e um par de antenas, um par de olhos compostos e aparelho sugador. As asas são recobertas por escamas facilmente destacáveis, caso manuseadas. Os lepidópteros são o segundo maior grupo de insetos e são adaptados aos mais diferentes ambientes. O desenvolvimento é indireto, dividido nas fases: ovo, lagarta, crisalida e adulta. Ao contrário das borboletas, a maioria das espécies de mariposas possui hábitos noturnos, antenas não-clavadas, asas estendidas sobre o corpo quando em repouso, com cores escuras na maioria dos indivíduos e corpo gordo, com aspecto “peludo”. Já as borboletas são mais diurnas, possuem antenas clavadas, asas levantadas e fechadas verticalmente ao corpo quando em repouso, com cores brilhantes e variadas e corpo fino com poucas cerdas. Dentre as várias famílias de borboleta existe a monarca (Danaus plexippus) da família: Nymphalidae. A borboleta monarca começa sua vida como um ovo por uma fêmea adulta numa folha de planta de serralha. São do tamanho da cabeça de um alfinete e quando choca, 3 a 12 dias depois, nasce a pequena lagarta com riscas brancas, amarelas e pretas, com oito pares de pernas curtas para trepar e partes da boca desenhada para mastigar as folhas. Os esfingídeos (Sphingidae: lepidóptera) são, em sua maioria, mariposas de hábitos noturnos caracterizados por asas e abdômen afilados que propiciam notável capacidade de voo. Os adultos alimentam-se de néctar de néctar e são importantes polinizadores de plantas esfigófilas, as quais apresentam longos tubos florais.",
+            "ordem": "Lepidóptera",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25cf696132ff0a62d50ae5",
+            "info": "Os coleópteros (coleóptera) constituem uma ordem de insetos popularmente conhecidos como besouros, mas também como joaninhas, escaravelhos, gorgulhos entre outros. As importantes características dos besouros são: um par de asas anteriores rígidas, conhecidas como élitros, que protegem como um estojo as asas posteriores, que são membranosas e delicadas. A ordem coleóptera possui o maior número de espécies dentre todos os seres vivos. Os coleópteros apresentam uma enorme diversidade morfológica. Ocupam praticamente qualquer habitat. Os besouros\nsão geralmente caracterizados por um rígido exoesqueleto, bem como por rígidos élitros. O exoesqueleto do besouro é composto por numerosas camadas de placas de quitina, chamadas de escleritos, que são separadas por suturas finas. São divididas em três seções: cabeça, tórax e abdômen. Algumas famílias da ordem coleóptera são: Aderidae, Cleridae, Carabidae, Cerambycidae, Drillidae, Clambidae, Cucujidae, etc.",
+            "ordem": "Coleóptera",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25cfb66132ff0a62d50ae6",
+            "info": "Compreende a 85.000 mil espécies. As peças bucais sugadoras picadoras formam um rostro articulado, mandíbulas e maxilas tem a forma de estiletes e repousa dentro de um sulco dorsal do lábio; asas membranosas; pronoto grande. Os hemípteros ocorrem em todo mundo e em virtualmente todos os habitats. A maioria dos hemípteros é herbívoro, embora muitos predam outros artrópodes ou vertebrados. A produção de som, através de uma série de mecanismos, é muito difundida na ordem. Muitos hemípteros apresentam coloração críptica ou mimetizam outros insetos; o mimetismo\nde formigas é especialmente comum. Alguns percevejos com antenas de 5 segmentos antenais e escutelo bastante desenvolvido. É formada por 14 famílias; as mais comuns são: família Pentatomidae: escutelo geralmente plano, estendido até a base da membrana do hemiélitro. Tíbias desprovidas de espinho. É a família mais numerosa dessa superfamília.\n",
+            "ordem": "Hemíptera",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5a25d0416132ff0a62d50ae7",
+            "info": "As moscas são um extenso grupo de insetos da ordem Díptera. Os insetos desta ordem possuem um corpo com a cabeça, tórax e abdômen; a maioria distingue-se prontamente dos outros insetos alados por possuir apenas um par de asas desenvolvido, correspondente ao par anterior, tendo o par posterior atrofiado e transformado em pequenas estruturas clavadas denominadas balancins ou halteres, responsáveis pelo equilíbrio durante o voo. A Díptera é uma ordem enormíssima que engloba aproximadamente um milhão de espécies. As moscas têm uma cabeça móvel,\ncom um grande par de olhos compostos por centenas de facetas sensíveis à luz individualmente, e aparelho bucal adaptado à perfuração e sucção. O seu ciclo de vida é holometabólico, isto é, que passa por várias fases morfológicas, que no caso da mosca são quatro: ovo, larva, pupa e fase adulta; os ovos são depositados numa fonte de alimento larval e as larvas, sem quaisquer membros, crescem num ambiente protegido, muitas das vezes dentro da sua própria fonte alimentar. A pupa consiste numa cápsula resistente da qual o adulto emerge assim atingir todo o seu desenvolvimento;  maioria das moscas têm uma vida muito curta depois de alcançarem a fase adulta. Algumas espécies completam este ciclo em poucos dias e outras num ou dois meses. A família Culicidae é uma família de insetos habitualmente chamados de mosquitos e pernilongos. As fêmeas em muitas regiões são designadas vulgarmente como melgas. Como os outros membros da ordem Díptera, os mosquitos têm um par de asas e um par de halteres. Em geral, apresentam dimorfismo sexual acentuado: as fêmeas apresentam antenas pilosas e são muito mais corpulentas que os machos, que apresentam antenas plumosas. As fêmeas na maioria das espécies de mosquitos sugam sangue (hematófaga) de outros animais.",
+            "ordem": "Díptera",
+            "filo": "Arthropoda",
+            "classe": "Insecta",
+            "reino": "Animalia",
+            "inseto": true
+        },
+        {
+            "_id": "5b34e2d2f837210004f534ef",
+            "inseto": true,
+            "ordem": "Soldadinho-do-Araripe (Nome popular)",
+            "reino": "Antilophia bokermanni (Nome científico)",
+            "filo": "Pipridae (Família)",
+            "classe": "Passeriformes(Ordem)",
+            "info": " O Soldadinho do Araripe é uma ave. Este passarinho é encontrado na região da Serra do Araripe (principalmente no estado do Ceará). É conhecido popularmente como galo-da-mata e língua-de-tamanduá. O Soldadinho do Araripe apresenta hábito de vida diurno, quando costuma voar em busca de alimento e água. O habitat desta espécie animal é formado por florestas e matas úmidas, próximas às margens de rios e lagos. O pássaro adulto pesa cerca de 20 gramas. Possuem cerca de 15 centímetros de comprimento. Uma das principais características desta ave é a diferença de cor entre machos e fêmeas. Os machos adultos são coloridos (preto, branco e vermelho na cabeça), enquanto as fêmeas são verdes. Os machos jovens possuem a mesma cor de plumagem das fêmeas adultas. O Soldadinho do Araripe se alimenta, principalmente, de insetos e frutas. Em seu habitat natural e preservado, os animais desta espécie vivem, em média, 10 anos. Ameaça de extinção: A principal ameaça de extinção desta espécie é a ocupação humana em áreas de florestas na Chapada do Araripe, levando a redução da vegetação. Infelizmente, o Soldadinho do Araripe encontra-se em estado de perigo crítico de extinção."
+        }
+    ]
+}

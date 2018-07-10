@@ -1,18 +1,27 @@
-(function(){
+(function () {
     'use strict';
 
     angular
-        .module('ecomapss.protected')
-        .controller('TimelineCtrl', TimelineCtrl)
+        .module('ecomapss.fosseis')
+        .controller('FosseisCtrl', FosseisCtrl)
 
     /** @ngInject */
-    function TimelineCtrl(){
+    function FosseisCtrl(EntitiesService) {
         var vm = this;
-        
+
         init();
 
-        function init(){
-            console.log('teste Timeline');
+        function init() {
+            getFosseis()
+        }
+
+        function getFosseis() {
+            EntitiesService.getEntity('fossil')
+                .then(function (fosseis) {
+                    vm.fosseis = fosseis
+                }).catch(function (error) {
+                    vm.fosseiss = []
+                })
         }
 
     }

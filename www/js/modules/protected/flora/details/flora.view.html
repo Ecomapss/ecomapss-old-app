@@ -1,0 +1,45 @@
+<ion-view view-title="Flora">
+    <ion-content>
+
+        <img class="full-image" ng-src="{{details.flora.picture}}">
+
+        <div class="list">
+            <div class="item item-icon-left-top item-body" ng-if="details.flora.nome_pop">
+                <i class="icon ion-leaf calm"></i>
+                {{details.flora.nome_pop}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.flora.nome_cie">
+                <i class="icon ion-erlenmeyer-flask calm"></i>
+                {{details.flora.nome_cie}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.flora.familia">
+                <i class="icon ion-heart calm"></i>
+                {{details.flora.familia}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.flora.categoria">
+                <i class="icon ion-clipboard calm"></i>
+                {{details.flora.categoria}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.flora.origem">
+                <i class="icon ion-flag calm"></i>
+                {{details.flora.origem}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.flora.clima">
+                <i class="icon ion-cloud calm"></i>
+                {{details.flora.clima}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.flora.luminosidade">
+                <i class="icon ion-contrast calm"></i>
+                {{details.flora.luminosidade}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.flora.altura">
+                <i class="icon ion-stats-bars calm"></i>
+                {{details.flora.altura}}
+            </div>
+
+            <p class="item  item-body item-icon-left-top item-body-top item-body">
+                <i class="icon ion-alert calm"></i> {{details.flora.info}}
+            </p>
+        </div>
+    </ion-content>
+</ion-view>

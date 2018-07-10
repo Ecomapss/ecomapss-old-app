@@ -1,5 +1,18 @@
 <ion-view view-title="Flora">
     <ion-content>
-        Flora
+        <div class="list list-inset">
+            <label class="item item-input">
+                <i class="icon ion-search placeholder-icon"></i>
+                <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 200 }">
+            </label>
+        </div>
+
+        <div class="list">
+            <a class="item item-avatar" ui-sref="protected.details-flora({id: $index})" ng-repeat="flora in flora.floras | filter:search">
+                <img ng-src="{{flora.picture}} ">
+                <h2>{{flora.nome_pop}}</h2>
+                <p>{{flora.info}}</p>
+            </a>
+        </div>
     </ion-content>
 </ion-view>

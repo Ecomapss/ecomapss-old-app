@@ -1,0 +1,28 @@
+<ion-view view-title="Fauna">
+    <ion-content>
+
+        <img class="full-image" ng-src="{{details.fauna.picture}}">
+
+        <div class="list">
+            <div class="item item-icon-left-top item-body" ng-if="details.fauna.ordem">
+                <i class="icon ion-heart calm"></i>
+                {{details.fauna.ordem}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.fauna.filo">
+                <i class="icon ion-bug calm"></i>
+                {{details.fauna.filo}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.fauna.classe">
+                <i class="icon ion-clipboard calm"></i>
+                {{details.fauna.classe}}
+            </div>
+            <div class="item item-icon-left-top item-body" ng-if="details.fauna.reino">
+                <i class="icon ion-bug calm"></i>
+                {{details.fauna.reino}}
+            </div>
+            <p class="item  item-body item-icon-left-top">
+                <i class="icon ion-alert calm"></i> {{details.fauna.info}}
+            </p>
+        </div>
+    </ion-content>
+</ion-view>
