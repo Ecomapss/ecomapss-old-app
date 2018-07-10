@@ -37,29 +37,33 @@
 
 .cbp_tmtimeline > li .cbp_tmtime span:first-child {
 	font-size: 0.9em;
-	color: #fff;
+	color: black;
 }
 
 .cbp_tmtimeline > li .cbp_tmtime span:last-child {
 	font-size: 2.9em;
-	color: #fff;
+	color: black;
 }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
-	color: #fff;
+	color: black;
 }
 
 /* Right content */
 .cbp_tmtimeline > li .cbp_tmlabel {
 	margin: 0 0 15px 25%;
-	background: $royal;
-	color: #fff;
+	background: white;
+	color: black;
 	padding: 2em;
 	font-size: 1.2em;
 	font-weight: 300;
 	line-height: 1.4;
 	position: relative;
-	border-radius: 5px;
+	border-radius: 10px;
+
+	-webkit-box-shadow: 1px 9px 45px -9px rgba(0,0,0,0.26);
+	-moz-box-shadow: 1px 9px 45px -9px rgba(0,0,0,0.26);
+	box-shadow: 1px 9px 45px -9px rgba(0,0,0,0.26);
 }
 
 .cbp_tmtimeline > li .cbp_tmlabel.bg-assertive {
@@ -81,8 +85,13 @@
 	margin-top: 0px;
 	padding: 0 0 10px 0;
 	border-bottom: 1px solid rgba(255,255,255,0.4);
-	color: #fff;
+	color: black;
 }
+
+.cbp_tmtimeline > li .cbp_tmlabel p { 
+	color: black;
+}
+
 
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {

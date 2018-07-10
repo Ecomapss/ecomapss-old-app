@@ -3069,7 +3069,7 @@ a:hover {
  */
 a {
   -webkit-user-drag: none;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
   -webkit-tap-highlight-color: transparent; }
   a[href]:hover {
     cursor: pointer; }
@@ -3306,7 +3306,7 @@ body,
   -webkit-text-size-adjust: none;
   -moz-text-size-adjust: none;
   text-size-adjust: none;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
   -webkit-tap-highlight-color: transparent;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -3715,7 +3715,7 @@ a.subdued {
   z-index: 11;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0); }
+  background-color: transparent; }
   .action-sheet-backdrop.active {
     background-color: rgba(0, 0, 0, 0.4); }
 
@@ -5385,7 +5385,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   z-index: 10;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0); }
+  background-color: transparent; }
   .popover-backdrop.active {
     background-color: rgba(0, 0, 0, 0.1); }
 
@@ -5509,7 +5509,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   left: 0;
   bottom: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0);
+  background: transparent;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -7089,51 +7089,51 @@ button.swiper-pagination-bullet {
   z-index: 10; }
 
 .swiper-container-3d .swiper-slide-shadow-left {
-  background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0)));
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0.5)), to(transparent));
   /* Safari 4+, Chrome */
-  background-image: -webkit-linear-gradient(right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -webkit-linear-gradient(right, rgba(0, 0, 0, 0.5), transparent);
   /* Chrome 10+, Safari 5.1+, iOS 5+ */
-  background-image: -moz-linear-gradient(right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -moz-linear-gradient(right, rgba(0, 0, 0, 0.5), transparent);
   /* Firefox 3.6-15 */
-  background-image: -o-linear-gradient(right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(right, rgba(0, 0, 0, 0.5), transparent);
   /* Opera 11.10-12.00 */
-  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.5), transparent);
   /* Firefox 16+, IE10, Opera 12.50+ */ }
 
 .swiper-container-3d .swiper-slide-shadow-right {
-  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0)));
+  background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0.5)), to(transparent));
   /* Safari 4+, Chrome */
-  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.5), transparent);
   /* Chrome 10+, Safari 5.1+, iOS 5+ */
-  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.5), transparent);
   /* Firefox 3.6-15 */
-  background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0.5), transparent);
   /* Opera 11.10-12.00 */
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), transparent);
   /* Firefox 16+, IE10, Opera 12.50+ */ }
 
 .swiper-container-3d .swiper-slide-shadow-top {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0)));
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(transparent));
   /* Safari 4+, Chrome */
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.5), transparent);
   /* Chrome 10+, Safari 5.1+, iOS 5+ */
-  background-image: -moz-linear-gradient(bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -moz-linear-gradient(bottom, rgba(0, 0, 0, 0.5), transparent);
   /* Firefox 3.6-15 */
-  background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.5), transparent);
   /* Opera 11.10-12.00 */
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent);
   /* Firefox 16+, IE10, Opera 12.50+ */ }
 
 .swiper-container-3d .swiper-slide-shadow-bottom {
-  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0)));
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.5)), to(transparent));
   /* Safari 4+, Chrome */
-  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), transparent);
   /* Chrome 10+, Safari 5.1+, iOS 5+ */
-  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), transparent);
   /* Firefox 3.6-15 */
-  background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.5), transparent);
   /* Opera 11.10-12.00 */
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
   /* Firefox 16+, IE10, Opera 12.50+ */ }
 
 /* Coverflow */
@@ -8495,8 +8495,8 @@ input:checked + .checkbox-icon:after {
     width: 0;
     height: 0;
     border-top: 5px solid;
-    border-right: 5px solid rgba(0, 0, 0, 0);
-    border-left: 5px solid rgba(0, 0, 0, 0);
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
     color: #999;
     content: "";
     pointer-events: none; }
@@ -9381,7 +9381,7 @@ a.button {
   -ms-user-select: none;
   user-select: none;
   -webkit-touch-callout: none;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
   -webkit-tap-highlight-color: transparent;
   -webkit-user-drag: none;
   -ms-touch-action: none;
@@ -9887,6 +9887,11 @@ a.button {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#17abe7', endColorstr='#2a48eb',GradientType=0 );
   /* IE6-9 */ }
 
+.dp-shadow {
+  -webkit-box-shadow: -4px 13px 45px -9px rgba(0, 0, 0, 0.26);
+  -moz-box-shadow: -4px 13px 45px -9px rgba(0, 0, 0, 0.26);
+  box-shadow: -4px 13px 45px -9px rgba(0, 0, 0, 0.26); }
+
 .ec-message {
   color: white;
   text-align: center;
@@ -10032,6 +10037,9 @@ ec-language {
 .v-center {
   margin: 0 auto; }
 
+.vh-100 {
+  height: 100vh; }
+
 .login-bg--image {
   background-image: url(../img/backgrounds/login/001.jpg);
   background-repeat: no-repeat;
@@ -10093,26 +10101,29 @@ img.center {
 
 .cbp_tmtimeline > li .cbp_tmtime span:first-child {
   font-size: 0.9em;
-  color: #fff; }
+  color: black; }
 
 .cbp_tmtimeline > li .cbp_tmtime span:last-child {
   font-size: 2.9em;
-  color: #fff; }
+  color: black; }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
-  color: #fff; }
+  color: black; }
 
 /* Right content */
 .cbp_tmtimeline > li .cbp_tmlabel {
   margin: 0 0 15px 25%;
-  background: #8e44ad;
-  color: #fff;
+  background: white;
+  color: black;
   padding: 2em;
   font-size: 1.2em;
   font-weight: 300;
   line-height: 1.4;
   position: relative;
-  border-radius: 5px; }
+  border-radius: 10px;
+  -webkit-box-shadow: 1px 9px 45px -9px rgba(0, 0, 0, 0.26);
+  -moz-box-shadow: 1px 9px 45px -9px rgba(0, 0, 0, 0.26);
+  box-shadow: 1px 9px 45px -9px rgba(0, 0, 0, 0.26); }
 
 .cbp_tmtimeline > li .cbp_tmlabel.bg-assertive {
   background: #ef473a; }
@@ -10131,7 +10142,10 @@ img.center {
   margin-top: 0px;
   padding: 0 0 10px 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.4);
-  color: #fff; }
+  color: black; }
+
+.cbp_tmtimeline > li .cbp_tmlabel p {
+  color: black; }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {
   border-right-color: #6cbfee; }
@@ -10252,10 +10266,10 @@ div.pefil-section {
   width: 90%;
   text-align: center;
   color: white;
-  border-bottom: 1px solid white; }
+  border-bottom: 1px solid #2A48EB; }
 
 div.pefil-section > h3 {
-  color: white; }
+  color: black; }
 
 div.perfil-details {
   background-color: #FCFCFC;
