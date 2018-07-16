@@ -31,7 +31,7 @@
         // org.apache.cordova.statusbar required
         StatusBar.styleLightContent();
         StatusBar.overlaysWebView(false);
-        StatusBar.backgroundColorByHexString("#387ef5");
+        StatusBar.backgroundColorByHexString("#fff");
         ionic.Platform.fullScreen(true, true);
       }
     });

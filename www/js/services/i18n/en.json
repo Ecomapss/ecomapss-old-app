@@ -25,6 +25,12 @@
       "error": "You can't go without choose an avatar..."
     }
   },
+  "timeline": {
+    "header": {
+      "title": "Hello",
+      "description": "Here you can see all you timeline in the app."
+    }
+  },
   "entities": {
     "buttons": {
       "access": "Access"
@@ -56,5 +62,8 @@
       "login": "Login",
       "logout": "logout"
     }
+  },
+  "errors": {
+    "cannotScanQrCode": "This QR-Code cannot be readed"
   }
 }

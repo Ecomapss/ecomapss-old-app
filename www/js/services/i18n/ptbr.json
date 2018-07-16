@@ -25,6 +25,12 @@
       "error": "Você não pode continuar sem escolher seu avatar..."
     }
   },
+  "timeline": {
+    "header": {
+      "title": "Olá",
+      "description": "Aqui você pode visualizar toda sua linha do tempo no app."
+    }
+  },
   "entities": {
     "buttons": {
       "access": "Acessar"
@@ -55,5 +61,8 @@
       "login": "Entrar",
       "logout": "Sair"
     }
+  },
+  "errors": {
+    "cannotScanQrCode": "Este QR-Code não pode ser lido"
   }
 }

@@ -1,7 +1,22 @@
 <ion-view view-title="Linha do Tempo">
 	<ion-content class="ec-timeline">
-		
-		<ul class="cbp_tmtimeline">
+
+		<div class="user-header animated fadeIn">
+			<h1>
+	
+				{{timeline.translate.header.title}}, Matheus
+	
+			</h1>
+			<p class="text-dark">
+				{{timeline.translate.header.description}}
+			</p>
+		</div>
+
+
+		<div ng-if="!timeline.itemsIsFetched" class="flex-container">
+			<img src="vendor/icons/three-dots.svg" height="10" alt="" srcset="">
+		</div>
+		<ul ng-if="timeline.itemsIsFetched" class="cbp_tmtimeline animated fadeInUp">
 			<li>
 				<time class="cbp_tmtime" datetime="2013-04-10 18:30"><span>4/10/13</span> <span>18:30</span></time>
 				<div class="cbp_tmicon ion-earth"></div>
