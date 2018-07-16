@@ -10139,9 +10139,9 @@ img.center {
   line-height: 1.4;
   position: relative;
   border-radius: 10px;
-  -webkit-box-shadow: 1px 9px 45px -9px rgba(0, 0, 0, 0.26);
-  -moz-box-shadow: 1px 9px 45px -9px rgba(0, 0, 0, 0.26);
-  box-shadow: 1px 9px 45px -9px rgba(0, 0, 0, 0.26); }
+  -webkit-box-shadow: 0px 3px 24px 7px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 0px 3px 24px 7px rgba(0, 0, 0, 0.13);
+  box-shadow: 0px 3px 24px 7px rgba(0, 0, 0, 0.13); }
 
 .cbp_tmtimeline > li .cbp_tmlabel.bg-assertive {
   background: #ef473a; }
@@ -10249,13 +10249,10 @@ img.center {
   text-align: center;
   height: 100%; }
 
-.entities-head {
-  padding-top: 1em; }
-
 .entities-item > div > div {
   color: white;
   margin: 0 auto;
-  padding-top: 4em; }
+  padding-bottom: 6em; }
 
 .entities-item > div > div > h2, p {
   color: white;
