@@ -6,18 +6,34 @@
         .controller('TimelineCtrl', TimelineCtrl)
 
     /** @ngInject */
-    function TimelineCtrl(I18nService, $scope, $timeout) {
+    function TimelineCtrl(I18nService, $scope, $timeout, $ionicTabsDelegate) {
         var vm = this;
         var thisModule = 'timeline';
         vm.itemsIsFetched = false
         vm.thisLocation = I18nService.getLang();
+
+        $scope.goForward = function () {
+            var selected = $ionicTabsDelegate.selectedIndex();
+            if (selected != -1) {
+                $ionicTabsDelegate.select(selected + 1);
+            }
+        }
+    
+        $scope.goBack = function () {
+            var selected = $ionicTabsDelegate.selectedIndex();
+            if (selected != -1 && selected != 0) {
+                $ionicTabsDelegate.select(selected - 1);
+            }
+        }
+    
+
 
         init();
 
         $timeout(function () {
             vm.itemsIsFetched = true;
             console.log('fired')
-        }, 2500)
+        }, 3500)
 
         function init() {
             vm.langOptions = I18nService.getLangOptions(vm.thisLocation);

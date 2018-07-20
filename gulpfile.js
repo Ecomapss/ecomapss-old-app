@@ -11,7 +11,7 @@ var paths = {
   js: ['./www/js/**/*.js', './www/vendor/**/*.js']
 };
 
-gulp.task('default', ['sass', 'inject'],);
+gulp.task('default', ['sass', 'inject']);
 
 gulp.task('sass', function (done) {
   gulp.src(paths.sass)

@@ -1,11 +1,9 @@
-<ion-view view-title="Linha do Tempo">
-	<ion-content class="ec-timeline">
+<ion-view hide-nav-bar="true">
+	<ion-content class="ec-timeline" on-swipe-left="timeline.goForward()">
 
 		<div class="user-header animated fadeIn">
 			<h1>
-	
 				{{timeline.translate.header.title}}, Matheus
-	
 			</h1>
 			<p class="text-dark">
 				{{timeline.translate.header.description}}
@@ -13,7 +11,7 @@
 		</div>
 
 
-		<div ng-if="!timeline.itemsIsFetched" class="flex-container">
+		<div ng-if="!timeline.itemsIsFetched" class="flex-container loader-wrapper">
 			<img src="vendor/icons/three-dots.svg" height="10" alt="" srcset="">
 		</div>
 		<ul ng-if="timeline.itemsIsFetched" class="cbp_tmtimeline animated fadeInUp">

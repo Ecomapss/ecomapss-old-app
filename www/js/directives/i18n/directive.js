@@ -64,7 +64,7 @@
           $window.location.reload();
           $timeout( function () {
             navigator.splashscreen.hide();
-          }, 500 );
+          }, 2000 );
         } else {
           $window.location.reload();
         }

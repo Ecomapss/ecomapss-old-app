@@ -17,6 +17,8 @@
       state: 'protected',
       config: {
         abstract: true,
+        controller: 'MenuCtrl',
+        controllerAs: 'menu',
         templateUrl: 'templates/menu.html',
         url: '/protected',
       }

@@ -30,7 +30,7 @@
 
     function geti18n(location) {
       return new Promise(function (resolve, reject) {
-        $http.get('/js/services/i18n/' + location + '.json').then(function (res) {
+        $http.get('js/services/i18n/' + location + '.json').then(function (res) {
           return resolve( res );
         }).catch(function ( err ) {
           return reject( err );

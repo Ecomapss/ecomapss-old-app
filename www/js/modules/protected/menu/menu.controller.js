@@ -12,7 +12,7 @@
         init();
 
         function init(){
-            console.log('teste Timeline');
+            console.log('teste menu');
         }
 
     }

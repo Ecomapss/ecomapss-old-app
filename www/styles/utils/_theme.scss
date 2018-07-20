@@ -1,45 +1,64 @@
 @font-face {
-	font-family: 'Roboto';
-	src: url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/Open_Sans/OpenSans-Bold.ttf') format('truetype');
 }
 
 * {
-	font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
-
+h1 {
+  font-family: 'Open Sans', sans-serif;
+}
 
 .bg-primary {
-	background-color: $royal;
+  background-color: $royal;
 }
 
 .bg-secondary {
-	background-color: $positive;
+  background-color: $positive;
 }
 
-
-
-
 .bg-gradient {
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#17abe7+0,2a48eb+100 */
-background: #17abe7; /* Old browsers */
-background: -moz-linear-gradient(top, #17abe7 0%, #2a48eb 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #17abe7 0%,#2a48eb 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #17abe7 0%,#2a48eb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#17abe7', endColorstr='#2a48eb',GradientType=0 ); /* IE6-9 */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#17abe7+0,2a48eb+100 */
+  background: linear-gradient(270deg, #17abe7, #4697e3, #6e80d5, #8c66bc, #a0499a);
+  background-size: 1000% 1000%;
+  
+  -webkit-animation: AnimationName 7s ease infinite;
+  -moz-animation: AnimationName 7s ease infinite;
+  animation: AnimationName 7s ease infinite;
 }
 
 .dp-shadow {
-	-webkit-box-shadow: -4px 13px 45px -9px rgba(0,0,0,0.26);
-	-moz-box-shadow: -4px 13px 45px -9px rgba(0,0,0,0.26);
-	box-shadow: -4px 13px 45px -9px rgba(0,0,0,0.26);
+  -webkit-box-shadow: -4px 13px 45px -9px rgba(0, 0, 0, 0.26);
+  -moz-box-shadow: -4px 13px 45px -9px rgba(0, 0, 0, 0.26);
+  box-shadow: -4px 13px 45px -9px rgba(0, 0, 0, 0.26);
 }
-
 
 .text-dark {
-	color: black;
+  color: black;
 }
 
 
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}

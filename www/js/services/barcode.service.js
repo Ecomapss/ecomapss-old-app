@@ -38,7 +38,7 @@
 		 * @name scan
 		 * @param {Object} options 
 		 * @return {String} ID Of an entitie
-		 * @throws {CANNOT_SCAN_QRCODE }
+		 * @throws {CANNOT_SCAN_QRCODE}
 		 */
 		function scan(options) {
 			return $q(function (resolve, reject) {
