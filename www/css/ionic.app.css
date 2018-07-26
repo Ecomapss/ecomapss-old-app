@@ -10086,6 +10086,9 @@ img.center {
 .user-header > h1 {
   font-weight: 900; }
 
+.loader-wrapper {
+  margin-top: 1em; }
+
 .cbp_tmtimeline {
   padding: 0;
   list-style: none;

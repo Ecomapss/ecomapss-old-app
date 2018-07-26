@@ -13,9 +13,10 @@
 		</div>
 
 
-		<div ng-if="!timeline.itemsIsFetched" class="flex-container">
+		<div ng-if="!timeline.itemsIsFetched" class="flex-container loader-wrapper">
 			<img src="vendor/icons/three-dots.svg" height="10" alt="" srcset="">
 		</div>
+
 		<ul ng-if="timeline.itemsIsFetched" class="cbp_tmtimeline animated fadeInUp">
 			<li>
 				<time class="cbp_tmtime" datetime="2013-04-10 18:30"><span>4/10/13</span> <span>18:30</span></time>
