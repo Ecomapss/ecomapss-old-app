@@ -43,9 +43,10 @@
 		function scan(options) {
 			return $q(function (resolve, reject) {
 				$cordovaBarcodeScanner.scan(options).then(function (result) {
-					return _normalizeID(result.text)
+					var response = _normalizeID(result.text)
+					return resolve(response)
 				}, function (err) {
-					return ecConstants.ERRORS.CANNOT_SCAN_QRCODE
+					return reject(ecConstants.ERRORS.CANNOT_SCAN_QRCODE)
 				})
 			})
 		}

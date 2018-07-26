@@ -6,15 +6,25 @@
         .controller('MenuCtrl', MenuCtrl)
 
     /** @ngInject */
-    function MenuCtrl(){
+    function MenuCtrl(BarcodeService){
         var vm = this;
 
         init();
 
         function init(){
-            console.log('teste menu');
         }
 
+        vm.scan = function () {
+            BarcodeService.scan({
+                showTorchButton : true,
+                disableSuccessBeep: true,
+                torchOn: true,
+            }).then(function (response) {
+                alert(response)
+            }).catch(function (err) {
+                alert(err.toString())
+            })
+        }
     }
 
 }());

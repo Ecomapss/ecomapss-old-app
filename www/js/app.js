@@ -4,6 +4,7 @@
 (function () {
   angular
     .module('ecomapss', [
+      'ngCordova',
       'ionic',
 
       // Modules
