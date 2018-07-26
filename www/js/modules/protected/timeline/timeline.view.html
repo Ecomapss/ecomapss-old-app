@@ -1,11 +1,9 @@
-<ion-view view-title="Linha do Tempo">
-	<ion-content class="ec-timeline">
+<ion-view hide-nav-bar="true">
+	<ion-content class="ec-timeline" on-swipe-left="timeline.goForward()">
 
 		<div class="user-header animated fadeIn">
 			<h1>
-	
 				{{timeline.translate.header.title}}, Matheus
-	
 			</h1>
 			<p class="text-dark">
 				{{timeline.translate.header.description}}
