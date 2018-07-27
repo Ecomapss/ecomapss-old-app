@@ -10123,6 +10123,9 @@ img.center {
 .loader-wrapper {
   height: 70%; }
 
+.loader-wrapper {
+  margin-top: 1em; }
+
 .cbp_tmtimeline {
   padding: 0;
   list-style: none;
