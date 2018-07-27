@@ -8,7 +8,8 @@
                 QR_CODE_IDENTIFIER: '<<'
             },
             ERRORS: {
-                CANNOT_SCAN_QRCODE: 'cannotScanQrCode'
+                CANNOT_SCAN_QRCODE: 'cannotScanQrCode',
+                HISTORY_NOT_FOUND: 'historyNotFound'
             }
 
         })

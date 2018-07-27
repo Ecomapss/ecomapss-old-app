@@ -1,15 +1,15 @@
 {
   "name": "ecomapss",
-  "app_id": "bbc05bca",
-  "type": "ionic1",
   "integrations": {
     "gulp": {},
     "cordova": {}
   },
+  "type": "ionic1",
   "watchPatterns": [
     "scss/**/*",
     "www/**/*",
     "!www/lib/**/*",
     "!www/**/*.map"
-  ]
+  ],
+  "pro_id": "bbc05bca"
 }

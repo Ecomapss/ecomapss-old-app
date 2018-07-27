@@ -6,7 +6,7 @@
         .service('EntitiesService', EntitiesService)
 
     /** @ngInject */
-    function EntitiesService($http, $q) {
+    function EntitiesService($http, $q, TimelineService) {
         this.getEntity = getEntity
         this.getByIndex = getByIndex
         let baseUrl = 'json/'
@@ -58,6 +58,10 @@
                     .then(function (response) {
                         if (response.status < 400) {
                             _getImage(response.data.Data[index]).then(function (result) {
+                                TimelineService.saveHistory({
+                                    date: new Date(),
+                                    entity: result
+                                })
                                 return resolve(result);
                             })
                         }

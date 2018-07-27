@@ -6,8 +6,9 @@
         .service('MapService', MapService)
 
     /** @ngInject */
-    function MapService($http) {
+    function MapService($http, $cordovaGeolocation) {
         this.getData = getData;
+
 
         function getData() { }
     }
