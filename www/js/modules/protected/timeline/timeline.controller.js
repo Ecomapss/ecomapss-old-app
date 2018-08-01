@@ -15,6 +15,18 @@
         vm.itemsIsFetched = false
         vm.thisLocation = I18nService.getLang();
 
+        vm.doRefresh = function () {
+            histories = TimelineService.getHistories();
+            if (histories === ecConstants.ERRORS.HISTORIES_NOT_FOUND) {
+
+            } else {
+                histories = JSON.parse(histories);
+                vm.fetchedHistories = angular.copy(histories);
+            }
+            $timeout(function () {
+                $scope.$broadcast("scroll.refreshComplete");
+            }, 1000);
+        }
 
         init();
 
@@ -22,22 +34,14 @@
             vm.itemsIsFetched = true;
         }, 3500)
 
+
         function init() {
             vm.langOptions = I18nService.getLangOptions(vm.thisLocation);
             I18nService.geti18n(vm.thisLocation).then(function (response) {
                 vm.translate = response.data[thisModule];
             });
 
-            histories = TimelineService.getHistories();
-
-            if (histories === ecConstants.ERRORS.HISTORIES_NOT_FOUND) {
-
-            } else {
-                histories = JSON.parse(histories);
-                vm.fetchedHistories = angular.copy(histories);
-
-                console.log(vm.fetchedHistories);
-            }
+            vm.doRefresh();
         }
 
     }
