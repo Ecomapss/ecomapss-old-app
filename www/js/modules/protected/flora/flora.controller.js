@@ -1,4 +1,4 @@
-(function(){
+(function () {
     'use strict';
 
     angular
@@ -6,23 +6,39 @@
         .controller('FloraCtrl', FloraCtrl)
 
     /** @ngInject */
-    function FloraCtrl($scope,EntitiesService){
+    function FloraCtrl($scope, $timeout, EntitiesService) {
         var vm = this;
-        
-        init();
+        var defaultOffsetSum = 10;
+        var offsetStart = 0;
+        var limit = 10
 
-        function init() {
-            getFlora()
-        }
+        vm.noMoreItemsAvailable = false;
+        vm.floras = []
 
-        function getFlora() {
-            EntitiesService.getEntity('flora')
-                .then(function (flora) {
-                    vm.floras = flora
-                }).catch(function (error) {
-                    vm.floras = []
+        vm.getData = function () {
+            EntitiesService.getEntity('flora', {
+                offset: {
+                    start: offsetStart
+                },
+                limit: {
+                    size: limit
+                }
+            })
+                .then(function (response) {
+                    if (response.length) {
+                        vm.floras = vm.floras.concat(response);
+                        $scope.$broadcast('scroll.infiniteScrollComplete');
+
+                        offsetStart += defaultOffsetSum;
+                    } else {
+                        vm.noMoreItemsAvailable = true;
+                    }
+                })
+                .catch(function (err) {
                 })
         }
+
+        vm.getData();
     }
 
 }());

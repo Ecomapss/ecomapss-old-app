@@ -32,7 +32,7 @@
             'tab-entities': {
               controller: 'FloraDetailsCtrl',
               templateUrl: 'js/modules/protected/flora/details/flora.view.html',
-              controllerAs: 'details',
+              controllerAs: 'vm',
             }
           }
         }

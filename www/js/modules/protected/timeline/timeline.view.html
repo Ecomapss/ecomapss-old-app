@@ -1,59 +1,33 @@
 <ion-view hide-nav-bar="true">
-	<ion-content class="ec-timeline" on-swipe-left="timeline.goForward()">
-
-		<div class="user-header animated fadeIn">
-			<h1>
-				{{timeline.translate.header.title}}, Matheus
-			</h1>
-			<p class="text-dark">
-				{{timeline.translate.header.description}}
-			</p>
-		</div>
-
-
-		<div ng-if="!timeline.itemsIsFetched" class="flex-container loader-wrapper">
+	<div class="user-header animated fadeIn">
+		<h1>
+			{{vm.translate.header.title}}, Matheus
+		</h1>
+		<p class="text-dark">
+			{{vm.translate.header.description}}
+		</p>
+	</div>
+	
+	<ion-content class="ec-timeline" on-swipe-left="vm.goForward()">
+		<div ng-if="!vm.itemsIsFetched" class="flex-container loader-wrapper">
 			<img src="vendor/icons/three-dots.svg" height="10" alt="" srcset="">
 		</div>
 
-		<ul ng-if="timeline.itemsIsFetched" class="cbp_tmtimeline animated fadeInUp">
-			<li>
-				<time class="cbp_tmtime" datetime="2013-04-10 18:30"><span>4/10/13</span> <span>18:30</span></time>
+		<ion-refresher on-refresh="doRefresh()">
+
+		</ion-refresher>
+
+
+		<ul ng-if="vm.itemsIsFetched" class="cbp_tmtimeline animated fadeInUp">
+			<li ng-repeat="history in vm.fetchedHistories track by $index">
+				<time class="cbp_tmtime" datetime="2013-04-10 18:30">
+					<span>{{history.date | date:'dd/MM/yyyy'}}</span>
+					<span>{{history.date | date:'HH:mm'}}</span>
+				</time>
 				<div class="cbp_tmicon ion-earth"></div>
 				<div class="cbp_tmlabel">
-					<h2>Ricebean black-eyed pea</h2>
-					<p>Winter purslane...</p>
-				</div>
-			</li>
-			<li>
-				<time class="cbp_tmtime" datetime="2013-04-11T12:04"><span>4/11/13</span> <span>12:04</span></time>
-				<div class="cbp_tmicon ion-earth"></div>
-				<div class="cbp_tmlabel">
-					<h2>Greens radish arugula</h2>
-					<p>Caulie dandelion maize...</p>
-				</div>
-			</li>
-			<li>
-				<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>4/13/13</span> <span>05:36</span></time>
-				<div class="cbp_tmicon ion-earth"></div>
-				<div class="cbp_tmlabel">
-					<h2>Sprout garlic kohlrabi</h2>
-					<p>Parsnip lotus root...</p>
-				</div>
-			</li>
-			<li>
-				<time class="cbp_tmtime" datetime="2013-04-15 13:15"><span>4/15/13</span> <span>13:15</span></time>
-				<div class="cbp_tmicon ion-earth"></div>
-				<div class="cbp_tmlabel">
-					<h2>Watercress ricebean</h2>
-					<p>Peanut gourd nori...</p>
-				</div>
-			</li>
-			<li>
-				<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>4/16/13</span> <span>21:30</span></time>
-				<div class="cbp_tmicon ion-earth"></div>
-				<div class="cbp_tmlabel">
-					<h2>Courgette daikon</h2>
-					<p>Parsley amaranth tigernut...</p>
+					<h2>{{}}</h2>
+					<p>{{}}</p>
 				</div>
 			</li>
 		</ul>

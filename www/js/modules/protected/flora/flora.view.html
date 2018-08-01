@@ -13,6 +13,8 @@
                 <h2>{{flora.nome_pop}}</h2>
                 <p>{{flora.info}}</p>
             </a>
+
+            <ion-infinite-scroll ng-if="!flora.noMoreItemsAvailable" on-infinite="flora.getData()" distance="5px"></ion-infinite-scroll>
         </div>
     </ion-content>
 </ion-view>

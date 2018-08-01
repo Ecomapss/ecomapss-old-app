@@ -13,6 +13,8 @@
                 <h2>{{fossil.titulo}}</h2>
                 <p>{{fossil.info}}</p>
             </a>
+
+            <ion-infinite-scroll ng-if="!fosseis.noMoreItemsAvailable" on-infinite="fosseis.getData()" distance="5px"></ion-infinite-scroll>            
         </div>
     </ion-content>
 </ion-view>

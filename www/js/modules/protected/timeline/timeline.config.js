@@ -19,7 +19,7 @@
           'tab-timeline':{
             controller: 'TimelineCtrl',
             templateUrl: 'js/modules/protected/timeline/timeline.view.html',
-            controllerAs: 'timeline',            
+            controllerAs: 'vm',            
           }
         }
       }

@@ -10106,6 +10106,9 @@ img.center {
   transition: 0.2s ease-in-out;
   background-color: rgba(25, 46, 91, 0.4); }
 
+.ec-timeline {
+  top: 160px; }
+
 .user-header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   padding: 1em;
@@ -10122,9 +10125,6 @@ img.center {
 
 .loader-wrapper {
   height: 70%; }
-
-.loader-wrapper {
-  margin-top: 1em; }
 
 .cbp_tmtimeline {
   padding: 0;
@@ -10340,7 +10340,7 @@ div.perfil-details {
 
 div.perfil-details > div > a {
   border: none;
-  border-radius: 15px; }
+  border-radius: 10px; }
 
 .flag-icon-background, .flag-icon {
   background-size: contain;

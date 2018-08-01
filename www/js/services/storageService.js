@@ -23,15 +23,13 @@
          * @param {*} data 
          */
         function add(key, data) {
-            var list = emStorage.getItem(key);
-            if (list && list.length) {
-                list.push(JSON.stringify(data));
-                this.setData(key, list);
-            } else {
-                list = [];
-                list.push(JSON.stringify(data));
-                this.setData(key, list);
-            }
+            var list = JSON.parse(emStorage.getItem(key)) || [];
+            
+            list.push(data);
+
+            list = angular.copy(JSON.stringify(list));
+
+            emStorage.setItem(key, list);
         }
 
         /**

@@ -63,6 +63,7 @@
     }
   },
   "errors": {
-    "cannotScanQrCode": "Este QR-Code não pode ser lido"
+    "cannotScanQrCode": "Este QR-Code não pode ser lido",
+    "filterOffsetError": "Error ao filtrar através de deslocamento"
   }
 }
