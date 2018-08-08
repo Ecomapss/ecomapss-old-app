@@ -6,7 +6,7 @@
   .service('UserService', userService)
 
   /* @ngIject */
-  function userService(StorageService, I18nService,  $state) {
+  function userService(StorageService, I18nService,  $state, $window) {
     this.setUserName = setUserName;
     this.getUserName = getUserName;
     this.hasUser = hasUser;
@@ -83,6 +83,7 @@
       StorageService.clearData().then(function () {
         I18nService.setLang("ptbr");
         $state.go('welcome', {reload: true});
+        $window.location.reload();        
       })
     }
   }

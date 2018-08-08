@@ -16,7 +16,7 @@
         }
 
         function getFaunas() {
-            EntitiesService.getEntity('fauna')
+            EntitiesService.getEntity('fauna', {})
                 .then(function (faunas) {
                     vm.faunas = faunas
                 }).catch(function (error) {

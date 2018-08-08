@@ -1,7 +1,7 @@
 <ion-view hide-nav-bar="true">
 	<div class="user-header animated fadeIn">
 		<h1>
-			{{vm.translate.header.title}}, Matheus
+			{{vm.translate.header.title}}, {{vm.username}}
 		</h1>
 		<p class="text-dark">
 			{{vm.translate.header.description}}
@@ -26,8 +26,8 @@
 				</time>
 				<div class="cbp_tmicon ion-earth"></div>
 				<div class="cbp_tmlabel">
-					<h2>{{}}</h2>
-					<p>{{}}</p>
+					<h2>{{history.type}}</h2>
+					<p>{{history.info}}</p>
 				</div>
 			</li>
 		</ul>

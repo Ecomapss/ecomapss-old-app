@@ -60,11 +60,7 @@
       I18nService.geti18n(vm.thisLocation).then(function (response) {
 
         if ( navigator && navigator.splashscreen ) {
-          navigator.splashscreen.show();
           $window.location.reload();
-          $timeout( function () {
-            navigator.splashscreen.hide();
-          }, 2000 );
         } else {
           $window.location.reload();
         }

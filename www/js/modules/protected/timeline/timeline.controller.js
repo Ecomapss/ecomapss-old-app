@@ -6,11 +6,12 @@
         .controller('TimelineCtrl', TimelineCtrl)
 
     /** @ngInject */
-    function TimelineCtrl(I18nService, $scope, $timeout, TimelineService, ecConstants) {
+    function TimelineCtrl(I18nService, $scope, $timeout, TimelineService, ecConstants, UserService) {
         var vm = this;
         var thisModule = 'timeline';
         var histories = [];
 
+        vm.username = UserService.getUserName();
         vm.fetchedHistories = [];
         vm.itemsIsFetched = false
         vm.thisLocation = I18nService.getLang();

@@ -64,8 +64,10 @@
                             _getImage(response.data.Data[index]).then(function (result) {
                                 TimelineService.saveHistory({
                                     date: new Date(),
+                                    id: result.id,
                                     type,
-                                    entity: result
+                                    info: result.nome_pop,
+                                    sub_info: result.nome_cie 
                                 })
                                 return resolve(result);
                             })
@@ -165,9 +167,7 @@
                     currentData = angular.copy(filters[key](currentData, filterObject[key]));
                 });
 
-                newData = angular.copy(currentData);
-
-                return resolve(newData);
+                return resolve(currentData);
             })
         }
     }

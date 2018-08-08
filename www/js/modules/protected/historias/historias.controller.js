@@ -16,7 +16,7 @@
         }
 
         function getHistoria() {
-            EntitiesService.getEntity('historia')
+            EntitiesService.getEntity('historia', {})
                 .then(function (historia) {
                     vm.historias = historia
                 }).catch(function (error) {
