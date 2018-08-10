@@ -26,7 +26,7 @@
             }
             return $q(function (resolve, reject) {
                 $cordovaGeolocation.watchPosition(watchProps).then(null, function (err) {
-                    return reject(response);
+                    return reject(err);
                 }, function (pos) {
                     return resolve(pos);
                 })

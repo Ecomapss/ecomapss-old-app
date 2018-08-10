@@ -18,6 +18,8 @@
     "@ionic/pro": "1.0.20",
     "cordova-android": "7.0.0",
     "cordova-android-support-gradle-release": "^1.4.4",
+    "cordova-background-geolocation-lt": "^2.12.2",
+    "cordova-plugin-background-fetch": "^5.4.1",
     "cordova-plugin-crosswalk-webview": "^2.4.0",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-geolocation": "^4.0.1",
@@ -50,6 +52,11 @@
       },
       "cordova-android-support-gradle-release": {
         "ANDROID_SUPPORT_VERSION": "27.+"
+      },
+      "cordova-background-geolocation-lt": {
+        "LICENSE": "YOUR_LICENSE_KEY",
+        "GOOGLE_API_VERSION": "11.8.0",
+        "APPCOMPAT_VERSION": "27.0.0"
       }
     },
     "platforms": [

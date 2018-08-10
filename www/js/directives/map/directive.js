@@ -6,7 +6,7 @@
         .directive('ecMap', mapDirective);
 
     /* @ngInject */
-    function mapDirective($cordovaGeolocation, $q, MapService, $rootScope, $ionicPlatform, $timeout) {
+    function mapDirective($cordovaGeolocation, $qs, $rootScope, $ionicPlatform, $timeout) {
         var directive = {
             link: link,
             templateUrl: 'js/directives/map/template.html',
@@ -30,19 +30,6 @@
                     }, 0)
                 })
             })
-
-
-            // if (ionic.Platform.isAndroid()) {
-
-            // } else {
-            //     navigator.geolocation.watchPosition(function (position) {
-            //         $timeout(function () {
-            //             scope.posis = position.coords.latitude + " <> " + position.coords.longitude
-            //         }, 0)
-            //     }, function (err) {
-            //         alert(err.toString());
-            //     }, watchProps);
-            // }
         }
     }
 
