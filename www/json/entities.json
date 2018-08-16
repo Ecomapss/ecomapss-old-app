@@ -1,0 +1,1905 @@
+{
+  "Error": false,
+  "Data": [
+    {
+      "_id": "5a25ccb26132ff0a62d50ade",
+      "info": "A ordem hymenoptera é um dos maiores grupos de insetos que existe as vespas, abelhas, formigas. As fêmeas possuem ovopositor, o que permite a perfuração do hospedeiro e pode por muitas vezes estar modificado por um ferrão. Possuem olhos bastante desenvolvidos podendo ser por milhares de omatídeos. O aparelho bucal é do tipo lambedor (nas abelhas) e mastigador nos demais. Possuem quatro asas membranosas, onde as posteriores são maiores que as anteriores. Algumas são ápteras, isso vai depender da casta em que ela se encontra, como nas formigas. Se desenvolvem através de metamorfose completa. Insetos sociais, como os hymenópteros, trabalham juntos para realizar grandes tarefas. Como no caso das abelhas da espécie: Apis melífera, da família: apidae. Esta por sua vez é uma abelha social de origem europeia, seu habitat é bastante diversificado, inclui savanas, florestas tropicais, deserto, regiões litorâneas e montanhosas.",
+      "ordem": "Hymenoptera ",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25cd076132ff0a62d50adf",
+      "info": "São agrupados nessa ordem os gafanhotos, as esperanças, os grilos, as paquinhas e as taquarinhas. Esses insetos possuem o terceiro par de perna do tipo saltatório. Cabeça muito variável quanto à forma. Muitas espécies apresentam cabeça consideravelmente prolongada entre os olhos. Possuem antenas filiformes. O aparelho bucal é mastigador. As fêmeas podem apresentar ovopositor longo com aspectos de laminas. Pernas anteriores e medianas ambulatórias, nas paquinhas o par anterior é fossorial. Na maioria das espécies há dois pares de asas, sendo o anterior do tipo tégmina e o posterior membranoso. A maioria dos orthopteros apresentam tímpanos (órgãos auditivos) localizados de cada lado de cada do primeiro urômetro.",
+      "ordem": "Orthoptera",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25cd4f6132ff0a62d50ae0",
+      "info": "Os mantídeos são bem conhecidos pelo nome de “louva-deus”, devido atitude de característica que tomam quando pousados. Pernas anteriores raptatórias. Corpo na maioria das espécies achatado. Antenas setáceas, filiformes. Aparelho bucal mandibulado hipognato. Pernas medias posteriores ambulatórias, as anteriores raptatórias, mais ou menos robustas. Os mantídeos são os únicos insetos que apresentam pernas anteriores desse tipo. Asas anteriores tegminosas, em geral grandes, foliáceas, excedendo o abdômen em ambos os sexos.\n",
+      "ordem": "Mantodea",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25cda56132ff0a62d50ae1",
+      "info": "As baratas são exopterigota neóptera com corpo dorso ventralmente achatado e cabeça com as peças bucais mastigadoras dirigidas para baixo (hipognatos). As asas anteriores, quando presentes, são do tipo pergamináceas, podendo ser branquipteras ou ausentes, mas com asas posteriores (se presentes) inteiramente membranosas. Fêmeas com ovopositor oculto e machos com genitália assimétrica; cercos presentes, variando de um a muitos artículos. Os ovos geralmente são depositados numa ooteca. As baratas colonizam os mais diversos habitats. A maioria é noturna, geralmente\nencontradas ao nível do solo e escondidas em cascas de árvores, troncos caídos e pedras durante o dia. Uma das espécies bastante comum nos lares são as da família (Blattidae), são inconfundíveis com o corpo plano, corpo oval, cabeça hipognata em posição ventral relativa ao tórax, aparelho bucal mastigador, que lhes permite alimentar-se de todo tipo de material orgânico, antenas filiformes e compridas, quase do tamanho do corpo.",
+      "ordem": "Blattodea",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25ceac6132ff0a62d50ae3",
+      "info": "São caracterizados por praticar mimetismo. Medem cerca de 10-300 mm de comprimento. Possuem cabeça pequena, antenas do tipo filiforme, aparelho bucal mastigador, pernas ambulatórias. Podem ter ou não asas, mas quando tem são maus voadoras. São hemimetábolas. Presentes em alguma espécie partenogênese. Produzem poucas proles. Os machos são menores que a fêmea. Vivem sobre as folhas e troncos. Possuem movimentos lentos. Os phasmatidae são uma família de “insetos de vara”, os phasmatidae são capazes de regenerar membros e comumente se reproduzem pela partenogênese. Apesar da aparência, são inofensivos.",
+      "ordem": "Phasmatodea",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25ce156132ff0a62d50ae2",
+      "info": "Libélulas são insetos de abdômen alongado. Possuem dois pares de asas, de envergadura que varia entre dois e vinte centímetros, e podem funcionar separadamente, de acordo com a velocidade do voo. Seus olhos compostos conferem excelente visão panorâmica e auxiliam na busca por alimentos e fuga de predadores. Alimenta-se de girinos, peixes juvenis e insetos inclusive indivíduos da própria espécie. Vivem em regiões próximas a água limpa, local onde vive o estágio larval. Assim que uma libélula nasce, permanece no ambiente aquático por aproximadamente cinco anos, passando por várias metamorfoses até chegar a forma adulta. As libélulas da família libellulidae, são de extrema importância, não apresentam coloração metálica e os machos frequentemente exibem uma pruinosidade sobre o corpo. Os olhos se encontram no topo da cabeça, em maior e menor extensão. Nesta família, a vênação das asas apresenta uma diferença marcante entre as asas posteriores e anteriores, além desta também existe a família cordulidae, a diferença entre elas são a ausência do triangulo anal na asa posterior e a ausência de aurículas no segundo segmento abdominal.\n",
+      "ordem": "Odonata",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25cf176132ff0a62d50ae4",
+      "info": "Mariposas e borboletas fazem parte desta ordem. Possuem cabeça, tórax, abdômen e um par de antenas, um par de olhos compostos e aparelho sugador. As asas são recobertas por escamas facilmente destacáveis, caso manuseadas. Os lepidópteros são o segundo maior grupo de insetos e são adaptados aos mais diferentes ambientes. O desenvolvimento é indireto, dividido nas fases: ovo, lagarta, crisalida e adulta. Ao contrário das borboletas, a maioria das espécies de mariposas possui hábitos noturnos, antenas não-clavadas, asas estendidas sobre o corpo quando em repouso, com cores escuras na maioria dos indivíduos e corpo gordo, com aspecto “peludo”. Já as borboletas são mais diurnas, possuem antenas clavadas, asas levantadas e fechadas verticalmente ao corpo quando em repouso, com cores brilhantes e variadas e corpo fino com poucas cerdas. Dentre as várias famílias de borboleta existe a monarca (Danaus plexippus) da família: Nymphalidae. A borboleta monarca começa sua vida como um ovo por uma fêmea adulta numa folha de planta de serralha. São do tamanho da cabeça de um alfinete e quando choca, 3 a 12 dias depois, nasce a pequena lagarta com riscas brancas, amarelas e pretas, com oito pares de pernas curtas para trepar e partes da boca desenhada para mastigar as folhas. Os esfingídeos (Sphingidae: lepidóptera) são, em sua maioria, mariposas de hábitos noturnos caracterizados por asas e abdômen afilados que propiciam notável capacidade de voo. Os adultos alimentam-se de néctar de néctar e são importantes polinizadores de plantas esfigófilas, as quais apresentam longos tubos florais.",
+      "ordem": "Lepidóptera",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25cf696132ff0a62d50ae5",
+      "info": "Os coleópteros (coleóptera) constituem uma ordem de insetos popularmente conhecidos como besouros, mas também como joaninhas, escaravelhos, gorgulhos entre outros. As importantes características dos besouros são: um par de asas anteriores rígidas, conhecidas como élitros, que protegem como um estojo as asas posteriores, que são membranosas e delicadas. A ordem coleóptera possui o maior número de espécies dentre todos os seres vivos. Os coleópteros apresentam uma enorme diversidade morfológica. Ocupam praticamente qualquer habitat. Os besouros\nsão geralmente caracterizados por um rígido exoesqueleto, bem como por rígidos élitros. O exoesqueleto do besouro é composto por numerosas camadas de placas de quitina, chamadas de escleritos, que são separadas por suturas finas. São divididas em três seções: cabeça, tórax e abdômen. Algumas famílias da ordem coleóptera são: Aderidae, Cleridae, Carabidae, Cerambycidae, Drillidae, Clambidae, Cucujidae, etc.",
+      "ordem": "Coleóptera",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25cfb66132ff0a62d50ae6",
+      "info": "Compreende a 85.000 mil espécies. As peças bucais sugadoras picadoras formam um rostro articulado, mandíbulas e maxilas tem a forma de estiletes e repousa dentro de um sulco dorsal do lábio; asas membranosas; pronoto grande. Os hemípteros ocorrem em todo mundo e em virtualmente todos os habitats. A maioria dos hemípteros é herbívoro, embora muitos predam outros artrópodes ou vertebrados. A produção de som, através de uma série de mecanismos, é muito difundida na ordem. Muitos hemípteros apresentam coloração críptica ou mimetizam outros insetos; o mimetismo\nde formigas é especialmente comum. Alguns percevejos com antenas de 5 segmentos antenais e escutelo bastante desenvolvido. É formada por 14 famílias; as mais comuns são: família Pentatomidae: escutelo geralmente plano, estendido até a base da membrana do hemiélitro. Tíbias desprovidas de espinho. É a família mais numerosa dessa superfamília.\n",
+      "ordem": "Hemíptera",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5a25d0416132ff0a62d50ae7",
+      "info": "As moscas são um extenso grupo de insetos da ordem Díptera. Os insetos desta ordem possuem um corpo com a cabeça, tórax e abdômen; a maioria distingue-se prontamente dos outros insetos alados por possuir apenas um par de asas desenvolvido, correspondente ao par anterior, tendo o par posterior atrofiado e transformado em pequenas estruturas clavadas denominadas balancins ou halteres, responsáveis pelo equilíbrio durante o voo. A Díptera é uma ordem enormíssima que engloba aproximadamente um milhão de espécies. As moscas têm uma cabeça móvel,\ncom um grande par de olhos compostos por centenas de facetas sensíveis à luz individualmente, e aparelho bucal adaptado à perfuração e sucção. O seu ciclo de vida é holometabólico, isto é, que passa por várias fases morfológicas, que no caso da mosca são quatro: ovo, larva, pupa e fase adulta; os ovos são depositados numa fonte de alimento larval e as larvas, sem quaisquer membros, crescem num ambiente protegido, muitas das vezes dentro da sua própria fonte alimentar. A pupa consiste numa cápsula resistente da qual o adulto emerge assim atingir todo o seu desenvolvimento;  maioria das moscas têm uma vida muito curta depois de alcançarem a fase adulta. Algumas espécies completam este ciclo em poucos dias e outras num ou dois meses. A família Culicidae é uma família de insetos habitualmente chamados de mosquitos e pernilongos. As fêmeas em muitas regiões são designadas vulgarmente como melgas. Como os outros membros da ordem Díptera, os mosquitos têm um par de asas e um par de halteres. Em geral, apresentam dimorfismo sexual acentuado: as fêmeas apresentam antenas pilosas e são muito mais corpulentas que os machos, que apresentam antenas plumosas. As fêmeas na maioria das espécies de mosquitos sugam sangue (hematófaga) de outros animais.",
+      "ordem": "Díptera",
+      "filo": "Arthropoda",
+      "classe": "Insecta",
+      "reino": "Animalia",
+      "inseto": true
+    },
+    {
+      "_id": "5b34e2d2f837210004f534ef",
+      "inseto": true,
+      "ordem": "Soldadinho-do-Araripe (Nome popular)",
+      "reino": "Antilophia bokermanni (Nome científico)",
+      "filo": "Pipridae (Família)",
+      "classe": "Passeriformes(Ordem)",
+      "info": " O Soldadinho do Araripe é uma ave. Este passarinho é encontrado na região da Serra do Araripe (principalmente no estado do Ceará). É conhecido popularmente como galo-da-mata e língua-de-tamanduá. O Soldadinho do Araripe apresenta hábito de vida diurno, quando costuma voar em busca de alimento e água. O habitat desta espécie animal é formado por florestas e matas úmidas, próximas às margens de rios e lagos. O pássaro adulto pesa cerca de 20 gramas. Possuem cerca de 15 centímetros de comprimento. Uma das principais características desta ave é a diferença de cor entre machos e fêmeas. Os machos adultos são coloridos (preto, branco e vermelho na cabeça), enquanto as fêmeas são verdes. Os machos jovens possuem a mesma cor de plumagem das fêmeas adultas. O Soldadinho do Araripe se alimenta, principalmente, de insetos e frutas. Em seu habitat natural e preservado, os animais desta espécie vivem, em média, 10 anos. Ameaça de extinção: A principal ameaça de extinção desta espécie é a ocupação humana em áreas de florestas na Chapada do Araripe, levando a redução da vegetação. Infelizmente, o Soldadinho do Araripe encontra-se em estado de perigo crítico de extinção."
+    },
+    {
+      "_id": "58f6768c7bb5070011d6e922",
+      "nome_pop": "Munguba, Cacau-selvagem, Castanheira-da-água, Castanheiro-de-guiana, Castanheiro-do-maranhão, Falso-cacau, Mamorana, Monguba, Mungaba",
+      "nome_cie": "Pachira aquática",
+      "familia": "Bombacaceae",
+      "categoria": "Árvores, Árvores Frutíferas, Árvores Ornamentais",
+      "origem": "América Central, América do Sul",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "3.0 a 3.6 metros, 3.6 a 4.7 metros, 4.7 a 6.0 metros, 6.0 a 9.0 metros, 9.0 a 12 metros, acima de 12 metros",
+      "info": "A monguba é uma bela árvore tropical, de caule frondoso e copa arredondada, capaz de alcançar 18 metros de altura. Nas florestas tropicais podemos encontrá-la em ambientes brejosos, ou à margem de rios e lagos, o nome científico “aquatica” provém desta característica. Apresenta folhas grandes e palmadas, dividas em 6 a 9 folíolos verdes e brilhantes. As flores são muito bonitas e perfumadas, com longos estames de extremidade rosada e base amarela. Os frutos grandes e compridos, semelhantes ao cacau, contém paina sedosa e branca que envolve as sementes. As sementes da monguba podem ser consumidas torradas, fritas ou assadas, e até trituradas como um sucedâneo do café ou chocolate, e diz-se que são muito saborosas. Adapta-se a um ampla faixa climática, desde o calor equatorial até o frio subtropical. A falta de luminosidade acarreta o amarelamento das folhas. Multiplica-se por estaquia ou sementes.",
+      "loc": [
+        {
+          "_id": {
+            "$oid": "58f6768c7bb5070011d6e923"
+          }
+        },
+        {
+          "lat": -7.20523888,
+          "lng": -39.44765115
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "58f6768c7bb5070011d6e924",
+      "nome_pop": "Ficus, Fico, Fico-chorão, Figueira, Figueira-benjamim Família: Moraceae",
+      "nome_cie": "Ficus benjamina",
+      "familia": "Moraceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Árvores, Árvores Ornamentais, Bonsai, Cercas Vivas",
+      "origem": "Ásia",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Meia Sombra, Sol Pleno",
+      "altura": "Acima de 12 metros",
+      "info": "O ficus é uma árvore muito popular, utilizada principalmente na decoração de ambientes internos. Com caule acinzentado, raízes aéreas e ramos pêndulos, ela tem crescimento moderado a rápido e, em condições naturais, chega a 30 metros de altura. Suas folhas são pequenas, brilhantes e perenes, de coloração verde ou variegada de branco ou amarelo. Elas têm formato elíptico com a ponta acuminada e apresentam leves ondulações nas bordas. As flores discretas e brancas não têm valor ornamental. Os frutos pequenos e vermelhos são decorativos e atraem passarinhos. Suas raízes agressivas e superficiais chamam a atenção, e não raramente racham vasos e pavimentos. Deve ser cultivado a pleno sol ou meia-sombra, em solo fértil, drenável, enriquecido com matéria orgânica e irrigado regularmente. É bastante rústico, mas quando plantado em vasos, em interiores (residências, escritórios), não aprecia mudanças de lugar, correntes de ar frio, encharcamentos e ar-condicionado.",
+      "loc": [
+        {
+          "_id": {
+            "$oid": "58f6768c7bb5070011d6e925"
+          }
+        },
+        {
+          "lng": "-7.20541118",
+          "lat": "-39.44765165",
+          "_id": {
+            "$oid": "59023815a7d092001130d7e0"
+          }
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "58f6768c7bb5070011d6e928",
+      "nome_pop": "Pata-de-vaca, Árvore-de-orquídeas, Árvore-orquídea, Casco-de-vaca, Casco-de-vaca-lilás, Pata-de-vaca-lilás, Mororó, Bauínia, Pé-de-boi, Pata-de-vaca-rosa",
+      "nome_cie": "Bauhinia variegata Sinonímia: Bauhinia chinensis, Bauhinia decora, Phanera variegata",
+      "familia": "Fabaceae",
+      "categoria": "Árvores, Árvores Ornamentais, Medicinal",
+      "origem": "Ásia, China, Índia, Vietnã",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "6.0 a 9.0 metros, 9.0 a 12 metros",
+      "info": "A pata-de-vaca (Bauhinia variegata) é uma árvore semidecídua e muito florífera, originária da China e da Índia, e largamente utilizada na arborização urbana no sul e no sudeste do Brasil. Apresenta porte médio, alcançando de 6 a 12 metros de altura, mas raramente passando de 10 metros. O tronco tem cerca de 30 a 40 cm de diâmetro, é tortuoso e costuma ter o fuste curto, ou seja, ramifica com pouca altura ou mesmo desde à base. Sua ramagem é esparsa, ramificada e, formando uma copa cheia e ampla na primavera e verão, fornecendo boa sombra. No outono perde gradativamente as folhas, sem no entanto ficar totalmente despida. As folhas são redondas, coriáceas, com nervusas claras, bilobadas e, devido ao seu típico aspecto de pisada de casco bovino, são responsáveis pelo nome curioso desta árvore. Medicinal: Indicações: Diabetes Propriedades: Hipoglicemiante, Diurética Partes Utilizadas: Folhas",
+      "loc": [
+        {
+          "_id": {
+            "$oid": "58f6768c7bb5070011d6e929"
+          }
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "590a16885ecf120011ebd872",
+      "nome_pop": "Flamboyant, Acácia-rubra, Árvore-flamejante, Flamboiant, Flor-do-paraíso, Pau-rosa",
+      "nome_cie": "Delonix regia",
+      "familia": "Fabaceae",
+      "categoria": "Árvores, Árvores Ornamentais",
+      "origem": "África, Madagascar",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "6.0 a 9.0 metros, 9.0 a 12 metros",
+      "info": "O flamboyant é considerado uma das árvores mais belas do mundo, devido ao colorido intenso de suas flores. Frondosa, ela possui tronco forte e um pouco retorcido, podendo alcançar cerca de 12 metros de altura. Sua copa é muito ampla, em forma de guarda-chuva, e pode ser mais larga do que a própria altura da árvore. As folhas são bipinadas (recompostas) formadas por 10 a 15 pares de folíolos, cada um dos quais contém 12-20 pares de folíolos oblongos e sésseis.\nAs inflorescências, em rácemos, surgem quando a árvore perde as folhas e são compostas por flores grandes, vermelhas ou alaranjadas. Cada flor apresenta cálice com 5 sépalas e corola de 5 pétalas, com longos estames. Os frutos são do tipo vagem, planos, lenhosos e grandes, com cerca de 45 cm de comprimento, e ficam marrons quando maduros. A floração ocorre na primavera e verão. Ocorre ainda uma variedade de flamboyant chamada “Flavida”, que possui as flores completamente amarelas.",
+      "loc": [
+        {
+          "lat": -7.2053042,
+          "lng": -39.4485222
+        }
+      ],
+      "__v": 0,
+      "localidade": "IFCE - Campus Crato"
+    },
+    {
+      "_id": "590a1a1a5ecf120011ebd875",
+      "nome_pop": "Hibisco, Graxa-de-estudante, Hibisco-da-china, Hibisco-tropical, Mimo-de-vênus",
+      "nome_cie": "Hibiscus rosa-sinensis",
+      "familia": "Malvaceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Cercas Vivas, Flores Perenes",
+      "origem": "Ásia",
+      "clima": "Equatorial, Oceânico, Subtropical, Temperado, Tropical",
+      "luminosidade": "Meia Sombra, Sol Pleno",
+      "altura": "0.3 a 0.4 metros, 0.4 a 0.6 metros, 0.6 a 0.9 metros, 0.9 a 1.2 metros, 1.2 a 1.8 metros",
+      "info": "O hibisco é a flor símbolo do Havaí. Além disso é umas das plantas mais cultivadas nos jardins brasileiros, devido ao seu rápido crescimento, beleza e rusticidade. Há um grande número de variedades, que podem apresentar folhas estreitas ou largas, variegadas ou não e flores das mais diversas formas, tamanhos e cores.A floração estende-se por todo o ano e as flores são sempre solitárias. Versátil, adapta-se às mais diversas funções paisagísticas, servindo como excelente cerca-viva, arbusto, renques, composições ou simplesmente como planta isolada em vasos. De característica tropical, o hibisco deve ser cultivado a pleno sol, em solo fértil, enriquecido com matéria orgânica com adubações periódicas para uma floração exuberante. Não tolera geadas. Suporta a salinidade e o sombreamento parcial. Multiplica-se por estaquia e alporquia",
+      "loc": [
+        {
+          "lat": -7.2051564,
+          "lng": -39.4480224
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "590a1c555ecf120011ebd876",
+      "nome_pop": "Manga, Mangueira",
+      "nome_cie": "Mangifera indica",
+      "familia": "Anacardiaceae",
+      "categoria": "Árvores, Árvores Frutíferas",
+      "origem": "Ásia",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "acima de 12 metros",
+      "info": "A manga é o fruto da mangueira, uma árvore longeva, de copa densa, perene e muito frondosa, que pode alcançar 30 metros de altura. Seu tronco é largo, e apresenta casca escura, rugosa e látex resinoso. As folhas são coriáceas, lanceoladas, com 15 a 35 cm de comprimento. Avermelhadas quando jovens e verdes com nervuras amarelas quando maduras. De floração abundante e ornamental, a mangueira apresenta inflorescências paniculadas e terminais, com flores pequenas e polígamas.\nAs mangas são frutos muito bonitos, perfumados, do tipo drupa, de formato ovóide-oblongo, mais ou menos alongado, de acordo com a variedade. Sua casca é fina, porém resistente, e pode apresentar cores diversas entre o verde, vermelho, rosa, amarelo ou laranja, com ou sem manchas pretas. A polpa é originalmente fibrosa, suculenta, de coloração amarela ou alaranjada.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590a21c45ecf120011ebd878",
+      "nome_pop": "Abacate, Abacado, Abacateiro, Loiro-abacate, Louro-abacate, Pêra-abacate",
+      "nome_cie": "Persea americana",
+      "familia": "Lauraceae",
+      "categoria": "Árvores, Árvores Frutíferas",
+      "origem": "América Central, América do Norte, México",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "acima de 12 metros",
+      "info": "O abacate é o fruto do abacateiro, árvore frutífera de grande porte, que pode alcançar cerca 20 metros de altura. Seu tronco é pouco reto, atingindo 1 metro de diâmetro aos 30 anos. A casca do caule e ramos é acinzentada, espessa, suberosa e recortada. Suas folhas são lustrosas, coriáceas, elípticas a lanceoladas e de cor verde-escura, com a página superior glabra e a inferior pubescente.As flores são pequenas, hermafroditas, de cor verde clara e muito numerosas, organizadas em inflorescências terminais do tipo panícula. O fruto é uma drupa piriforme ou ovóide, de casca de cor verde a marrom, e polpa cremosa, adocicada, de cor verde-oliva a creme, com 5 a 30% de óleo. Os frutos são bastante grandes, chegando a pesar até um quilo, e contêm uma única semente, esférica e grande.Apesar de calórico, o abacate é um fruto muito nutritivo, rico em vitamina E, A, B e gorduras monoinsaturadas. Da polpa do abacate também pode ser extraído óleo, semelhante ao azeite de oliva.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590a2aa95ecf120011ebd882",
+      "nome_pop": "Oiti, Goiti, Oitizeiro, Oiti-da-praia, Oiti-cagão, Guali, Oiti-mirim, Oiticica, Manga-da-praia, Milho-cozido, Fruta-cabeluda, Guailí, Guití, Uiti",
+      "nome_cie": "Licania tomentosa",
+      "familia": "Chrysobalanaceae",
+      "categoria": "Árvores, Árvores Ornamentais",
+      "origem": "América do Sul, Brasil",
+      "clima": "Equatorial, Oceânico, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "6.0 a 9.0 metros, 9.0 a 12 metros, acima de 12 metros",
+      "info": "O oiti ou oitizeiro é uma árvore perenifólia, frutífera, originária das restingas costeiras do nordeste do Brasil e muito utilizada na arborização urbana. Sua copa é globosa, bem formada e cheia, produzindo excelente sombra e efeito ornamental. Suas raízes são profundas, não agressivas. O tronco é ereto e geralmente apresenta casca cinzenta e fuste curto, ramificando em seguida. A madeira é de boa qualidade, resistente, pesada, durável e pode ser utilizada em postes, moirões, construção civil, etc.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590a33d95ecf120011ebd884",
+      "nome_pop": "Pau-brasil, Arabutá, Brasileto, Ibirapiranga, Ibirapita, Ibirapitanga, Imirá-piranga, Muirapiranga, Orabutã, Pau-de-pernambuco, Pau-de-tinta, Pau-pernambuco, Pau-rosado, Pau-vermelho, Sapão",
+      "nome_cie": "Caesalpinia echinata",
+      "familia": "Fabaceae",
+      "categoria": "Árvores, Árvores Ornamentais, Bonsai",
+      "origem": "América do Sul, Brasil",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "acima de 12 metros",
+      "info": "Árvore símbolo do Brasil, o pau-brasil é uma leguminosa nativa da Mata Atlântica. Ela apresenta tronco de casca acinzentada e recoberta de grossos acúleos, que descama em placas irregulares deixando ver a casca interna de coloração avermelhada.As folhas são bipinadas, com 5 a 6 pares de folíolos e 6 a 10 pares de folíolos secundários. As inflorescências terminais, são compostas de numerosas flores com quatro pétalas amarelas e uma central modificada, de coloração vermelha. Após a floração, que ocorre na primavera, surgem os frutos do tipo vagem, deiscentes, recobertos por numerosos acúleos e carregam de 1 a 5 sementes marrons e discóides. De crescimento lento, pode atingir 30 metros de altura e 60 centímetros de diâmetro de tronco. O pau-brasil apresenta madeira de excelente qualidade, dura, compacta, vermelha e muito resistente, apropriada para a construção naval, indústria moveleira e de instrumentos musicais.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590a378d5ecf120011ebd887",
+      "familia": "Fabacea Mimosoideae",
+      "loc": [
+        {
+          "lat": -7.2320908,
+          "lng": -39.4352203
+        },
+        {
+          "lat": -7.2373086,
+          "lng": -39.4202642
+        }
+      ],
+      "__v": 0,
+      "info": "O sansão-do-campo é uma árvore de crescente popularização, utilizado principalmente como cerca-viva. Originário do semi-árido nordestino, ele apresenta caule pardacento, com ramificações desde à base e muito acúleos nos ramos (acúleos semelhantes aos de roseira). Suas folhas são bipinadas, com 4 a 8 folíolos glabros e ovais. As flores são pequenas, com longos estames, de coloração branca-creme, reunidas em espigas cilíndricas. Os frutos são do tipo legume (vagem), com cerca de 9 cm de comprimento e 5 a 6 sementes. O sansão-do-campo pode ser conduzido como arbusto e é uma excelente cerca-viva. Sua floração abundante e folhagem verde são ornamentais e valorizam propriedades, principalmente de grande extensão, como fazendas, sítio, indústrias, escolas, etc.O crescimento é muito rápido e com cerca de dois anos já forma uma cerca viva imponente.",
+      "clima": "Caatinga, Cerrado",
+      "categoria": "Arbusto, Árvore",
+      "nome_cie": "Mimosa caesalpiniifolia Benth.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "Até 12 metros ",
+      "origem": "Nativa",
+      "nome_pop": "Sansão-do-campo, Cebiá, Sabiá, Sansão-gigante"
+    },
+    {
+      "_id": "590a3b4f5ecf120011ebd88b",
+      "familia": "Fabaceae-Caesapinioideae",
+      "loc": [
+        {
+          "lat": -7.2350616,
+          "lng": -39.4349809
+        }
+      ],
+      "__v": 0,
+      "info": "O pau-ferro é um árvore perenifólia a semi-decídua, nativa da mata atlântica, ocorrendo do sudeste ao nordeste do Brasil, nas florestas pluviais de encosta atlântica (floresta ombrófila densa). O porte é imponente, atingindo de 20 a 30 metros de altura. O tronco apresenta 50 a 80 cm de diâmetro. Ele é claro, marmorizado, liso e descamante, o que lhe confere em efeito decorativo interessante. As folhas são compostas bipinadas, com folíolos elípticos de cor verde-escura. A floração ocorre no verão e outono. As flores são amarelas, pequenas, e de importância ornamental secundária. Parte dos frutos cai, enquanto que uma boa parte ainda permanece na planta, formando um banco de sementes aéreo. O pau-ferro é muito visado para o paisagismo por suas características ornamentais e de sombreamento. A madeira é muito dura, utilizada em construções de cercas. Os frutos e folhas frescas (ou fenadas) têm uso forrageiro. (LIMA, 2012)",
+      "clima": "Caatinga, Carrasco",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "acima de 12 metros",
+      "nome_cie": "Libidibia ferrea (Mart. ex Tul.) L.P. Queiroz var. ferrea",
+      "nome_pop": "Pau-ferro, Ibirá-Obi, Icainha, Imirá-Itá, Jacá, Jucá, Jucaína, Muiarobi, Muiré-itá, Pau-ferro-do-ceará"
+    },
+    {
+      "_id": "590a41b15ecf120011ebd88e",
+      "nome_pop": "Guapuruvu, Bacurubu, Bacuruva, Bacuruvu, Badarra, Birosca, Faveira, Ficheira, Gabiruvu, Gapuruvu, Garapuvu, Guapiruvu, Guarapuvu, Guavirovo, Igarapobu, Paricá, Pataqueira, Pau-de-canoa, Pau-de-tamanco, Pau-de-vintém",
+      "nome_cie": "Schizolobium parahyba",
+      "familia": "Fabaceae",
+      "categoria": "Árvores, Árvores Ornamentais",
+      "origem": "América do Sul, Brasil",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "acima de 12 metros",
+      "info": "O guapuruvu é uma árvore decídua de grande porte, podendo atingir facilmente 30 metros de altura. Ela ocorre naturalmente na floresta ombrófila densa e estacional decidual. Seu tronco é retilíneo, com ramificações apenas no alto. A casca é cinzenta, com cicatrizes provocadas pela queda das folhas e lenticelas. Sua copa é alta e aberta, de pouca sombra. As folhas são alternas, grandes, com cerca de 1 metro de comprimento, e caem com o passar do tempo. Elas são compostas bipinadas, com folíolos pequenos, elípticos e opostos. As inflorescências surgem de agosto a novembro, em numerosos cachos densos, eretos, de flores amarelas e muito vistosas. Os frutos amadurecem no outono e são vagens bivalvas, de forma obovada e cor parda. Cada um carrega apenas uma semente grande, lisa, oblonga e rígida, envolta por uma asa papirácea que se dispersa pelos ventos.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590cbe1822dc530011f5708e",
+      "nome_pop": "Flamboyant-Mirim, Flamboianzinho, Ave-vermelha-do-paraíso, Baio-de-estudante, Barba-de-barata, Chagas-de-jesus, Chagueira, Flamboyam-de-jardim, Flamboyanzinho, Flamboyãzinho, Flor-de-pavão, Flor-do-paraíso, Orgulho-de-barbados, Poinciana-anã, Vaio-de-estudante",
+      "nome_cie": "Caesalpinia pulcherrima",
+      "familia": "Fabaceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Árvores, Árvores Ornamentais",
+      "origem": "América Central, Antilhas",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Meia Sombra, Sol Pleno",
+      "altura": "1.2 a 1.8 metros, 1.8 a 2.4 metros, 2.4 a 3.0 metros, 3.0 a 3.6 metros",
+      "info": "O flamboianzinho é um arbusto ou arvoreta perene, muito popular no paisagismo tropical. Ele apresenta caule lenhoso, ereto, ramificado e cheio de espinhos. Suas folhas são grandes e bipinadas, de coloração verde, com numerosos folíolos ovalados. As inflorescências são terminais, em rácemo, compostas por flores vermelhas, vermelho-alaranjadas, vermelho-rosadas ou amarelas, de acordo com a variedade, todas caracterizadas por longos estames. A floração ocorre na primavera e verão. Os frutos são do tipo legume e surgem no outono.\nEste arbusto de rápido crescimento é apropriado para o plantio em maciços ou grupos lineares, formando excelentes cercas vivas informais. Alguns povos usam a planta como medicinal, com propriedades antiinflamatórias, mas deve-se ter muito cuidado com o flamboianzinho pois é uma planta tóxica, inclusive abortiva.",
+      "loc": [
+        {
+          "lat": -7.2054327,
+          "lng": -39.4476463
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "590ccfd622dc530011f57096",
+      "nome_pop": "Ixora, Icsória, Ixora-coral, Ixória",
+      "nome_cie": "Ixora coccinea",
+      "familia": "Rubiaceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Cercas Vivas, Flores Perenes",
+      "origem": "Indonésia, Malásia",
+      "clima": "Equatorial, Oceânico, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "0.9 a 1.2 metros",
+      "info": "A ixora é um arbusto muito apreciado nas regiões de clima quente. Seu aspecto é compacto e suas folhas têm uma textura de couro. A floração ocorre na primavera e verão, e apresenta inflorescências com numerosas flores de cor amarela, vermelha, laranja ou cor-de-rosa. Pode ser cultivada isoladamente ou em maciços, sendo ótimas para esconder muros e muretas. Atrai polinizadores.\nDeve ser cultivada sempre a pleno sol, e não é muito exigente em fertilidade, sendo bastante rústica. Dispensa maiores manutenções, mas deve ser regada a intervalos regulares. Multiplica-se por estacas e não tolera geadas.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "59c2bbb442a4ab0011559702",
+      "familia": "Fabaceae-Mimosoideae",
+      "loc": [
+        {
+          "lat": -7.2340461,
+          "lng": -39.434638
+        },
+        {
+          "lat": -7.2319301,
+          "lng": -39.4368338
+        },
+        {
+          "lat": -7.2322992,
+          "lng": -39.4330822
+        }
+      ],
+      "__v": 0,
+      "info": "O angico é uma planta que possui como principal parte para o uso medicinal a sua casca. Pelo alto teor de tanino, é utilizada na indústria de cortume (BRAGA, 1960).O chá e xarope feitos à base desse vegetal são capazes de tratar e eliminar diversos transtornos de ordem respiratória, tosse, asma, bronquite e catarro. Outras propriedades, esta planta é considerada como um excelente agente adstringente, depurativo e hemostático. É uma árvore com porte mediano, com casca grossa e muito rugosa. As folhas são compostas com 20 a 80 folíolos, sempre aos pares. As flores pequenas, tipo pincel, de cor creme e estão agrupadas em inflorescências globosas. Os frutos são vagens achatadas, finas, compridas e de cor escura. As folhas são tóxicas ao gado, porém quando fenadas ou secas juntamente com os ramos novos, constituem em excelente forragem para bovinos, caprinos e ovinos. A madeira é utilizada em construção civil e marcenaria, lenha e carvão (BRAGA, 1960).",
+      "clima": "Mata seca, cerrado, Caatinga",
+      "categoria": "Arbóreo",
+      "nome_cie": "Anadenanthera colubrina (Vell.) Brenan var. cebil (Griseb.) Altschul",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "Até 10 metros",
+      "origem": "Nativa",
+      "nome_pop": "Angico, angico-verdadeiro, angico-vermelho"
+    },
+    {
+      "_id": "590cc07f22dc530011f57092",
+      "nome_pop": "Árvore-do-viajante, Árvore-dos-viajantes, Palmeira-dos-viajantes",
+      "nome_cie": "Ravenala madagascariensis",
+      "familia": "Strelitziaceae",
+      "categoria": "Palmeiras, Plantas Esculturais",
+      "origem": "África, Madagascar",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "6.0 a 9.0 metros, 9.0 a 12 metros, acima de 12 metros",
+      "info": "A árvore-do-viajante é uma planta rizomatosa, de porte arbóreo, mas de textura semi-lenhosa. Ela tem um aspecto escultural e peculiar, próprio das estranhas e belas plantas de Madagascar. Suas folhas são enormes, como as folhas de bananeiras e sustentadas por longos e fortes pecíolos, dispostos em leque. Entre estes pecíolos, a planta acumula água, que serve para matar a sede dos viajantes, e que acabou lhe valendo o nome popular. Quando estes pecíolos caem, ficam cicatrizes no caule lenhoso à semelhança das palmeiras. Apesar se ser comumente confundida com um palmeira, a árvore-do-viajante é relacionada com as estrelítzias (Strelitzia sp). As inflorescências, semelhantes às de estrelítzia, surgem entre os pecíolos, com brácteas verdes em forma de barco e flores de cor branca-creme, vistosas. A floração ocorre no outono e os frutos que se seguem são cápsulas marrons, com sementes de arilo azul iridescente.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590cc3e822dc530011f57094",
+      "nome_pop": "Palmeira-imperial, Palmeira-real",
+      "nome_cie": "Roystonea oleracea",
+      "familia": "Arecaceae",
+      "categoria": "Árvores, Palmeiras",
+      "origem": "América Central, América do Norte, América do Sul, Antilhas, Colômbia, Trindade e Tobago, Venezuela",
+      "clima": "Equatorial, Mediterrâneo, Oceânico, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "acima de 12 metros",
+      "info": "A palmeira-imperial é um espécie de palmeira monóica, solitária e imponente, muito robusta e de grande porte, que alcança entre 30 e 40 metros de altura. As folhas tem de 3 a 5 metros de comprimento, e são pinadas, com folíolos arqueados e inseridos no mesmo plano, diferindo assim da palmeira-real-de-cuba (Roystonea regia), que apresenta folhas mais plumosas. Seu estipe (tronco) é de cor cinza claro, liso, uniformemente cilíndrico, apenas um pouco mais engrossado na base e com diâmetro entre 40 e 60 centímetros.  A inflorescência surge na base do palmito, na primavera, em cachos longos, de até 1,5 metros de comprimento, com flores masculinas e femininas, de cor branca. Os frutos são drupas oblongas, de cor roxa a preta quando maduros. Um símbolo da aristocracia na história do Brasil, a primeira palmeira desta espécie foi plantada pelo então príncipe regente Dom João VI, em 1809.",
+      "loc": [
+        {
+          "lat": -7.2052283,
+          "lng": -39.447725
+        },
+        {
+          "lat": -7.20515872,
+          "lng": -39.44768803
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "590cce5822dc530011f57095",
+      "nome_pop": "Abacaxi-ornamental, Abacaxi-vermelho, Ananás-ornamental, Ananás-vermelho",
+      "nome_cie": "Ananas bracteatus",
+      "familia": "Bromeliaceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Bromélias",
+      "origem": "América do Sul, Brasil",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "0.6 a 0.9 metros",
+      "info": "Bromélia muito rústica, de folhagem e frutos ornamentais. As folhas são verdes, alongadas e com espinhos nas bordas e os frutos são avermelhados. No entanto há algumas variedades, com folhagem de cores e tonalidades diferentes, a mais conhecida é a variegada de branco-creme, a “Striatus”. Ocorre ainda uma variedade anã, com frutos bem pequenos.\nDada a sua agressividade, o abacaxi-ornamental é muito utilizado para delimitar áreas ou canteiros que não devem ser invadidos por pessoas ou animais. Pode ser plantado isolada, em composições, em grupos ou como bordadura.Devem ser cultivados à meia-sombra, em solo fértil, leve e enriquecido com matéria orgânica, com regas regulares. Não é tolerante ao frio e às geadas. Multiplica-se por divisão da touceira e pelas mudas formadas na coroa do fruto. Utilize sempre luvas grossas para manipular esta planta.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590cd41e22dc530011f5709a",
+      "nome_pop": "Fênix, Palmeira-anã, Palmeira-fênix, Tamareira-anã, Tamareira-de-jardim",
+      "nome_cie": "Phoenix roebelenii",
+      "familia": "Arecaceae",
+      "categoria": "Palmeiras",
+      "origem": "Meia Sombra, Sol Pleno",
+      "clima": "Equatorial, Oceânico, Subtropical, Tropical",
+      "luminosidade": "Meia Sombra, Sol Pleno",
+      "altura": "1.2 a 1.8 metros, 1.8 a 2.4 metros, 2.4 a 3.0 metros, 3.0 a 3.6 metros",
+      "info": "Palmeira ereta, de tronco simples, fina e elegante, por vezes se estreitando na base. O crescimento é lento, atingindo de 2 a 4 metros de altura e diâmetro do tronco em torno de 15 a 20cm, razão pela qual muitos a chamam de mini-palmeira. Planta dióica. Reproduz-se por sementes que a planta feminina produz. Suas flores são amarelas e frutos vinho-escuros que são apreciados pelos pássaros. As folhas são compostas pinadas de um verde escuro brilhante e seu tamanho fica em torno de um metro a um metro e meio de comprimento e os segmentos por volta de 20 centímetros em plano único. Prefere sol pleno, mas pode ser cultivada à meia-sombra e até em interiores bem iluminados, inclusive em vasos. Resiste ao frio e é freqüentemente encontrada em jardins do Brasil e em decoração de interiores. Planta tipicamente tropical e muito graciosa, valoriza projetos paisagísticos de diversos estilos, como o tropical, oriental, indiano e contemporâneo.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590cdd1622dc530011f5709e",
+      "nome_pop": "Sibipiruna, Coração-de-negro, Sebipira, Sibipira",
+      "nome_cie": "Caesalpinia peltophoroides",
+      "familia": "Fabaceae",
+      "categoria": "Árvores, Árvores Ornamentais",
+      "origem": "América do Sul, Brasil",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "6.0 a 9.0 metros, 9.0 a 12 metros, acima de 12 metros",
+      "info": "A sibipiruna é uma árvore semidecídua, de rápido crescimento e florescimento ornamental. Nativa da mata atlântica, ela é uma espécie pioneira ou secundária inicial, ou seja é uma das primeiras espécies a surgir em uma área degradada. Seu porte é alto, podendo atingir de 8 a 25 m de altura. O tronco é cinzento e se torna escamoso com o tempo, seu diâmetro é de 30 a 40 cm. A copa é arredondada, ampla, com cerca de 15 m de diâmetro. Suas folhas são compostas, bipinadas, com folíolos elípticos e verdes. A floração ocorre de setembro a novembro, despontando inflorescências eretas e cônicas, do tipo espiga e com numerosas flores amarelas que abrem gradativamente da base em direção ao ápice. Os frutos que se seguem são do tipo legume, achatados, pretos quando maduros e contêm cerca de 3 a 5 sementes beges, também achatadas, em forma de gota ou elípticas. A dispersão ocorre pela ação do vento.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590cdf1422dc530011f5709f",
+      "nome_pop": "Pingo-de-ouro, Duranta, Violeteira, Violeteira-dourada",
+      "nome_cie": "Duranta erecta aurea",
+      "familia": "Verbenaceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Árvores, Bonsai, Cercas Vivas",
+      "origem": "América do Sul, Brasil",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "3.6 a 4.7 metros, 4.7 a 6.0 metros",
+      "info": "Este arbusto de folhas douradas surgiu através de uma mutação da violeteira. Sua popularização foi um verdadeiro fenômeno no paisagismo brasileiro. O pingo-de-ouro, ao contrário de outros arbustos tradicionais, tem um crescimento muito rápido, o que aliado à sua cor amarelo vibrante, foram os grandes responsáveis pela sua larga utilização. É uma planta excelente para topiaria, principalmente para os iniciantes. Além disso presta-se como bordadura, cerca viva, renque e até mesmo para a formação de bonsai. Não é indicada para jardins de baixa manutenção, pois exige podas mais freqüentes que outros arbustos. Quando não podado produz pequenas flores arroxeadas, róseas ou brancas e frutos esféricos, pequenos e amarelos, além disso suas folhas perdem um pouco a tonalidade dourada.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "590ce39022dc530011f570a1",
+      "familia": "Fabaceae Mimosoideae",
+      "loc": [
+        {
+          "lat": -7.231953,
+          "lng": -39.4367795
+        }
+      ],
+      "__v": 0,
+      "info": "O tamboril é uma árvore decídua e frondosa, que alcança de 20 a 35 metros de altura e de 80 a 160 de diâmetro de tronco. Suas folhas são alternas, bipinadas (recompostas), com 3 a 7 pares de pequenos folíolos oblongos. Apresenta copa ampla, com ramificação cimosa e raízes longas e calibrosas. As inflorescências surgem na primavera e são do tipo capítulo, globosas, com cerca de 10 a 20 flores brancas. Os frutos que se seguem são vagens, recurvadas e semilenhosas, em formato de rim ou de orelha, o que rendeu a esta espécie diversos nomes populares. Eles surgem verdes e se tornam pretos em junho e julho, quando amadurecem. Cada fruto pode conter de 2 a 12 sementes, brilhantes e de cor marrom. Sua madeira é leve, macia, pouco resistente e utilizada para o fabrico de canoas, caixotaria em geral, brinquedos, compensados, etc. As saponinas encontradas nos frutos e na casca são aproveitadas para produção de sabões.",
+      "clima": "Caatinga, Cerrado",
+      "categoria": "Árvore",
+      "nome_cie": "Enterolobium contorsiliquum (Vell.) Morong",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "9.0 a 12 metros",
+      "origem": "Nativa",
+      "nome_pop": "Tamboril, Araribá, Árvore-das-patacas, Cambanambi, Sabão-de-macaco, Chimbó, Chimbuva, Flor-de-algodão, Orelha-de-macaco, Orelha-de-negro, Orelha-de-onça, Orelha-de-preto, Pacará, Pau-de-sabão, Pau-sabão, Tambaré, Tamboi, Tambor, Tambori, Tamboril-do-campo, Tamboril-pardo, Tamborim, Tamburé, Tamburil, Tamburiúva, Tambuvé, Tambuvi, Timbaíba, Timbaúba, Timbaúva, Timbaúva-branca, Timbaúva-preta, Timbíba, Timbó, Timboíba, Timborana, Timbori, Timboril, Timboúba, Timboúva, Timbuíba, Timburi, Timburil, Timbuva, Vinhática-flor-de-algodão, Ximbiuva, Ximbó, Ximbuva"
+    },
+    {
+      "_id": "590ce7e222dc530011f570a2",
+      "nome_pop": "Amoreira-negra, Amora, Amora-negra, Amora-preta, Amoreira, Amoreira-do-bicho-da-seda, Amoreira-preta",
+      "nome_cie": "Morus nigra",
+      "familia": "Moraceae",
+      "categoria": "Árvores, Árvores Frutíferas, Medicinal",
+      "origem": "Ásia",
+      "clima": "Continental, Mediterrâneo, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "3.6 a 4.7 metros, 4.7 a 6.0 metros, 6.0 a 9.0 metros, 9.0 a 12 metros",
+      "info": "A amoreira é um árvore decídua, cujo fruto, a amora, é apreciado no mundo todo. Seu porte é médio, alcançando de 4 a 12 metros de altura. As folhas são simples, ovadas a cordiformes, cartáceas, de margens serrilhadas ou dentadas e recobertas por uma pilosidade que as torna ásperas ao toque. As mudas podem apresentar folhas lobadas. As inflorescências surgem no final do inverno e são do tipo espiga, pendentes, onde se reúnem flores brancas minúsculas. Os frutos são pequenos aquênios, carnosos e negros quando maduros, reunidos em infrutêscências. Apesar de ser frutífera, a amoreira não deixa de ser ornamental. Os frutos, ricos em vitamina C, fazem a alegria da criançada e dos passarinhos e ainda se prestam para saborosas geléias, vinhos e licores, assim como uma infinidade de sobremesas.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591c91d16fcdd20011bb4c20",
+      "nome_pop": "Chapéu-de-sol, Amêndoa, Amendocira, Amendoeira, Amendoeira-brava, Amendoeira-da-índia, Amendoeira-da-praia, Amendoeira-do-pará, Amendoeira-tropical, Anoz, Árvore-de-anoz, Árvore-de-noz, Castanhola, Chapéu-de-praia, Cuca, Guarda-chuva, Guarda-sol, Noz-da-praia, Sete-copas, Terminália, Sombreiro",
+      "nome_cie": "Terminalia catappa",
+      "familia": "Combretaceae",
+      "categoria": "Árvores, Árvores Ornamentais, Medicinal",
+      "origem": "Ásia",
+      "clima": "Equatorial, Oceânico, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "9.0 a 12 metros, acima de 12 metros",
+      "info": "O chapéu-de-sol é uma árvore decídua e tropical, que se encontra disseminada no mundo todo e é apreciada seja por suas qualidades ornamentais, úteis, medicinais ou alimentares. Ela apresenta caule ereto, que cresce de 12 a 35 metros de altura e casca pardacenta, áspera e fissurada. Sua copa é incomum, formada por uma ramagem horizontal, agrupada a espaços regulares no tronco. As folhas são coriáceas, caducas, alternas, grandes, com forma ovalada e cor verde, que gradativamente muda para o amarelo e vermelho no outono, antes de cair. As inflorescências se formam na primavera e são espigas axilares alongadas, com flores pequenas de cor creme e sem importância ornamental. Os frutos são drupas elipsóides, de cor verde quando imaturos e amarelo a vermelho quando maduros. Cada fruto contém uma semente dura, com amêndoa comestível e muito apreciada na culinária da Índia.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591c938d6fcdd20011bb4c21",
+      "nome_pop": "Bananeira-ornamental, Banana-royal, Bananeira-de-jardim",
+      "nome_cie": "Musa ornata",
+      "familia": "Musaceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Árvores, Árvores Ornamentais",
+      "origem": "Ásia",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "2.4 a 3.0 metros",
+      "info": "De aspecto tropical, a bananeira-ornamental, enfeita jardins residenciais e públicos com muito despojamento e beleza. Isolada ou em grupos, deve ser plantada preferencialmente em locais de clima quente. Suas folhas são muito grandes, longas e largas e que se partem com a ação do vento. A inflorescência, formada na primavera e verão, é muito ornamental, apresentando brácteas de coloração rósea, mais vistosos na variedade royal. É muito utilizada como flor-de-corte também. Deve ser cultivada a pleno sol, em solo fértil e rico em matéria orgânica, irrigado com freqüência. Não é tolerante às geadas e a ventos fortes. Multiplica-se pela divisão do rizoma e de mudas que se formam naturalmente a partir deste.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591c98e26fcdd20011bb4c22",
+      "nome_pop": "Espada-de-são-jorge, Língua-de-sogra, Rabo-de-lagarto, Sansevéria",
+      "nome_cie": "Sansevieria trifasciata",
+      "familia": "Asparagaceae",
+      "categoria": "Folhagens, Forrações à Meia Sombra",
+      "origem": "África",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Meia Sombra, Sol Pleno",
+      "altura": "0.4 a 0.6 metros, 0.6 a 0.9 metros",
+      "info": "Herbácea de resistência extrema, excelente para jardins de baixa manutenção. No entanto seu crescimento é um pouco lento. Suas folhas são muito ornamentais e podem se apresentar de coloração verde acinzentada e variegadas, com margens de coloração branco-amareladas, todas com estriações de um tonalidade mais escura. As flores brancas não tem importância ornamental. É uma planta de utilização bastante tradicional e a cultura popular recomenda como excelente protetor espiritual.\nDevem ser cultivadas à pleno sol ou meia-sombra, em vasos ou em maciços e bordaduras. Resiste tanto à estiagem, como ao frio e ao calor, além de ser pouco exigente quanto à fertilidade. Multiplica-se por divisão de touceiras, formando mudas completas com folhas, rizoma e raízes.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591c9ded6fcdd20011bb4c23",
+      "nome_pop": "Lança-de-são-jorge, Lança, Espada",
+      "nome_cie": "Sansevieria cylindrica",
+      "familia": "Asparagaceae",
+      "categoria": "Cactos e Suculentas, Folhagens, Plantas Esculturais",
+      "origem": "África, Angola",
+      "clima": "Continental, Equatorial, Mediterrâneo, Oceânico, Semi-árido, Subtropical, Temperado, Tropical",
+      "luminosidade": "Luz Difusa, Meia Sombra, Sol Pleno",
+      "altura": "0.6 a 0.9 metros",
+      "info": "A lança-de-são-jorge é uma planta herbácea, rizomatosa e suculenta, que por suas características esculturais e sua rusticidade, torna-se uma planta ornamental de interior por excelência. Suas folhas crescem em forma de leque, em rosetas basais. Elas são cilíndricas, eretas, rígidas e lisas, de cor verde-escura a acinzentadas com raias verde-claras. O florescimento ocorre uma vez ao ano, na primavera. As inflorescências surgem da base da planta, são longas e possuem efeito ornamental secundário. Elas contém numerosas flores tubulares, fulgazes, de cor branca rosada e muito perfumadas. No jardim, a lança ganha destaque em bordaduras ao longo de prédios e muros. Mas pode ser utilizada isolada ou em grupos, compondo com outras plantas. Multiplica-se por separação das mudas que se formam junto à planta mãe, assim como por estacas das folhas.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591ca5be6fcdd20011bb4c24",
+      "nome_pop": "Cica, Palmeira-sagu, Sagu",
+      "nome_cie": "Cycas revoluta",
+      "familia": "Cicadaceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Bonsai, Plantas Esculturais",
+      "origem": "Ásia, Indonésia, Japão",
+      "clima": "Equatorial, Oceânico, Subtropical, Tropical",
+      "luminosidade": "Meia Sombra, Sol Pleno",
+      "altura": "3.0 a 3.6 metros",
+      "info": "Vedete dos jardins contemporâneos e tropicais, a cica se parece com uma pequena palmeira. Suas folhas são longas, rígidas e brilhantes, compostos por folíolos pontiagudos. É uma planta dióica, de origem pré-histórica, com crescimento bastante lento, o que a torna muito valorizada no mercado. Quanto mais velho o exemplar, maior valor alcança. Os ovários, que ficam protegidos no topo da planta fêmea durante a floração, são muito difíceis de serem polinizados, desta forma, praticamente 100% dos frutos obtidos no jardim residencial são estéreis. As plantas do sexo masculino são raras em cultivo. No paisagismo, vai bem como planta isolada e em conjuntos no jardim ou em vasos. Multiplica-se por separação das mudas formadas entorno da planta mãe. A multiplicação por sementes é muito difícil e só é interessante comercialmente, pois exige tecnologia e pessoal especializado.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591ca9bb6fcdd20011bb4c27",
+      "nome_pop": "Palmeira-sagu, Sagu, Cica, Cicas, Palmeira-samambaia, Cica-elegante",
+      "nome_cie": "Cycas circinalis",
+      "familia": "Cicadaceae",
+      "categoria": "Arbustos, Arbustos Tropicais, Árvores, Folhagens, Palmeiras, Plantas Esculturais",
+      "origem": "Índia, Sri Lanka",
+      "clima": "Equatorial, Oceânico, Subtropical, Tropical",
+      "luminosidade": "Meia Sombra, Sol Pleno",
+      "altura": "4.7 a 6.0 metros",
+      "info": "A palmeira-sagu é uma planta dióica, arbustiva e lenhosa, que é largamente utilizada no paisagismo, pela beleza singular formada pelo conjunto das folhas brilhantes e longas, dispostas em coroa. Apesar do nome e do aspecto, ela não apresenta parentesco com as palmeiras nem com as samambaias. Na verdade ela pertence à Cicadaceae, uma família da plantas com características pré-históricas. O nome científico circinalis, do latim “espiral”, é uma referencia aos folíolos que são enrolados quando jovens. Na maioria dos exemplares de palmeira-sagu o tronco é simples, mas em plantas mais velhas podem ocorrer ramificações. Ele apresenta casca grossa e rugosa, de cor castanha, que pode servir de suporte para epífitas, como orquídeas. As folhas são pinadas, de cor verde clara e muito longas, com cerca de 1,5 metros de comprimento. As sementes ainda são recobertas por uma camada esponjosa que lhes permite flutuar na água. A polinização é pelo vento e por insetos.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591cabb06fcdd20011bb4c28",
+      "nome_pop": "Moréia-bicolor, Dietes, Moréia",
+      "nome_cie": "Dietes bicolor",
+      "familia": "Iridaceae",
+      "categoria": "Flores Perenes",
+      "origem": "África, África do Sul",
+      "clima": "Equatorial, Subtropical, Tropical",
+      "luminosidade": "Meia Sombra, Sol Pleno",
+      "altura": "0.4 a 0.6 metros, 0.6 a 0.9 metros",
+      "info": "Planta muito rústica e ornamental, a moréia tornou-se muito popular nos últimos anos em função da sua facilidade de cultivo e baixa manutenção. Vistosa, sua folhagem é bastante resistente. As folhas são eretas, planas e rígidas. As flores se formam o ano todo, mas com maior intensidade nos meses mais quentes. Sua utilização paisagística é ampla, combinando com diversos estilos de jardins. Pode ser cultivada isolada, em grupos, maciços ou como bordadura. Devem ser cultivadas em solo composto de terra de jardim e terra vegetal, com regas regulares. Tolerante ao frio. Multiplica-se por divisão da touceira, tendo o cuidado de reservar uma parte do rizoma para cada muda.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591cad3e6fcdd20011bb4c29",
+      "nome_pop": "Estrelítzia, Ave-do-paraíso, Estrelitza, Flor-da-rainha",
+      "nome_cie": "Strelitzia reginae",
+      "familia": "Strelitziaceae",
+      "categoria": "Flores Perenes",
+      "origem": "África, África do Sul",
+      "clima": "Oceânico, Subtropical, Tropical",
+      "luminosidade": "Sol Pleno",
+      "altura": "0.9 a 1.2 metros, 1.2 a 1.8 metros",
+      "info": "A estrelítzia é uma planta herbácea muito popular e tradicional. Seu nome científico é uma homenagem à rainha Sofia Carlota de Mecklenburg-Strelitz, esposa do rei Jorge III, do Reino Unido. Ela é entouceirada, rizomatosa e apresenta folhas rijas e coriáceas, de coloração verde-azulada, muito ornamentais. As inflorescências da estrelítzia são formadas durante o ano todo, mas principalmente no verão. A espata é o bico, e serve de bainha para as flores que emergem de coloração laranja, com anteras e estigmas azuis, em forma de flecha. Estas inflorescências são muito duráveis e largamente utilizadas como flor-de-corte.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591cdb0511be5b00113274c6",
+      "nome_pop": "Eucalipto-cheiroso, eucalipto-cidró",
+      "nome_cie": "Eucalyptus citriodora",
+      "familia": "Myrtaceae",
+      "categoria": "Árvores, Árvores Ornamentais, Medicinal",
+      "origem": "Queensland - Austrália",
+      "clima": "Tropical e Subtropical",
+      "luminosidade": "Sol pleno",
+      "altura": "Chega atingir a mais de 30 metros de altura.",
+      "info": "As folhas são persistentes, finas, com formato lanceolado, possuem muitas glândulas que segregam óleo. Suas flores são pequenas e de coloração creme. Os frutos são pequenos, lenhosos, de formato um pouco cônico. Para saída das sementes possuem válvulas que se abrem. Anualmente a casca de coloração marrom do tronco se solta, ficando bem liso e de coloração verde-acinzentado. De sua madeira é extraída a celulose para diversos finalidades, também usada na construção civil, para postes e mourões, na fabricação de móveis, etc. Das suas folhas é extraído óleo essencial utilizados na indústria de perfumaria e desinfetante. Tem propriedades medicinais sendo utilizada como descongestionante das vias respiratórias. Tem fácil cultivo, prefere solo argilo-arenoso.Irrigações periódicas durante o primeiro ano. As árvores adultas são muito tolerantes à períodos de seca. Se propaga por sementes.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "591f56190b53970011778767",
+      "nome_pop": "Espatodea, Tulipeira, Tulipeira-africana, Bisnagueira, Árvore-de-bisnagas, Árvore-de-tulipas.",
+      "nome_cie": "Spathodea campanulata",
+      "familia": "Bignoniaceae",
+      "categoria": "Árvores, Árvores Ornamentais",
+      "origem": "África Central",
+      "clima": "Tropical, não tolera climas frios",
+      "luminosidade": "Sol Pleno",
+      "altura": "Pode atingir ate 24 metros de altura",
+      "info": "A Espatodea é uma ótima árvore ornamental para arborização urbana, de crescimento moderado a rápido, muito utilizada em parques e jardins públicos. Suas folhas são grandes, opostas, compostas de muitos folíolos alongados e oval-lanceolados. Seu tronco chega a dimensões – 30 a 50 cm, a madeira é mole, de casca fina e de cor clara. As Flores são de cores vermelho-alaranjadas ou amarelas, sendo que a primeira florada irá ocorrer quando a árvore tiver de 3 a 4 anos. Devem ser plantadas sob sol pleno em solo fértil e bem drenado, com bastante matéria orgânica. Multiplica-se por sementes.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "5925bf692b45750011f8d136",
+      "nome_pop": "Jambo-vermelho, jambo-da-índia, jambeiro-de-malaca, jambo-chá, ameixa-rosa,  jambo-rosa, eugenia",
+      "nome_cie": "Syzygium malaccense",
+      "familia": "Myrtaceae",
+      "categoria": "Árvores, Árvores Ornamentais, Medicinal",
+      "origem": "Índia, Polinésia, Sumatra, Java e Vietnã",
+      "clima": "Tropical, subtropical úmido",
+      "luminosidade": "Sol pleno",
+      "altura": "12 a 15 m",
+      "info": "Syzygium malaccense, árvore popularmente conhecida como jambo-vermelho, tem origem asiática, mais especificamente da Índia e da Malásia. É uma árvore frutífera de países tropicais e subtropicais, utilizada popularmente na alimentação e no tratamento de distúrbios gastrintestinais, nas inflamações de diferentes etiologias e no diabetes. A planta pode atingir de 12 a 15m de altura, com tronco reto e copa densa, com forma piramidal e ramificação abundante.  As folhas são grandes, compridas e brilhantes. De agosto a fevereiro, época da florada, ela se recobre de flores vermelhas, caracterizando seu aspecto ornamental. Os frutos desenvolvem-se desta data até a época de colheita, que ocorre de janeiro a maio. O fruto pode ser consumido in natura ou em forma de compotas, eles contêm vitaminas A, B1, B12, além de cálcio, ferro e fósforo.Os frutos de jambo-vermelho são piriformes, carnosos, indeiscentes, do tipo bacóide. Sua propagação comumente é realizada por sementes",
+      "loc": [
+        {
+          "lat": -7.2051029,
+          "lng": -39.4480353
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "5925edacdf667300116cae76",
+      "nome_pop": "Jamelão , Jalão , Jambolão",
+      "nome_cie": "Syzygium cumini",
+      "familia": "Myrtaceae",
+      "categoria": "Árvore",
+      "origem": "Índia",
+      "clima": "Equatorial, Subtropical, Tropical, Tropical de altitude, Tropical úmido",
+      "luminosidade": "Sol pleno",
+      "altura": "15m",
+      "info": "Árvore muito procurada por pequenos pássaros em razão de seus frutos e de sua copa frondosa, onde podem passar a noite e nidificar. Pode ser plantada em margens de açudes e lagos, para que os peixes se alimentem de seus frutos.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "5925ee1edf667300116cae77",
+      "familia": "Arecaceae",
+      "loc": [
+        {
+          "lat": -7.232036,
+          "lng": -39.4371576
+        }
+      ],
+      "__v": 0,
+      "info": "Caule intumescido no terço médio de interessante efeito ornamental. A germinação das sementes pode levar até 3 anos. As espécies adultas podem ser transplantadas com sucesso. Devido à germinação lenta das sementes, é preferível retirar mudas das proximidades da planta-mãe em períodos chuvosos. Espécie bem difundida no NE do Brasil, em especial na cidade do Recife.",
+      "clima": "Cerrado, Caatinga, Mata Atlântica",
+      "categoria": "Palmeira",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "8 m",
+      "nome_cie": "Acrocomia aculeata var. intumescens",
+      "nome_pop": "Macaúba , Macaíba , Palmeira-barriguda , Macaúba-barriguda"
+    },
+    {
+      "_id": "59c2b3b042a4ab00115596fb",
+      "familia": "Combretaceae",
+      "loc": [
+        {
+          "lat": -7.2349813,
+          "lng": -39.4343022
+        },
+        {
+          "lat": -7.234601,
+          "lng": -39.4351898
+        }
+      ],
+      "__v": 0,
+      "info": "Plantas tóxicas para ruminantes e eqüídeos no Norte Piauiense. PARTES TÓXICAS: folhas e brotos, secos ou verdes. SINTOMATOLOGIA Edema subcutâneo, fezes ressequidas, que se tornam pastosas, com muco, com ou sem estrias de sangue e odor desagradável. TRATAMENTO Esvaziamento gástrico e tratamento sintomáticos. DESCRIÇÃO BOTÂNICA Arbusto ramoso, de folhas lanceoladas, de base obtusa e ápice agudo, glabras, pecioladas. Flores dispostas em inflorescências curtas, fruto provido de alas membranáceas.",
+      "clima": "Mata seca, Caatinga, Cerrado, Mata úmida",
+      "categoria": "Árvore",
+      "nome_cie": "Thiloa glaucocarpa (Mart.) Eichler",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "8 metros",
+      "origem": "Nativa",
+      "nome_pop": "Sipaúba"
+    },
+    {
+      "_id": "59c2b6e242a4ab00115596fd",
+      "nome_pop": "Espinheira santa, Cancorosa, Espinheira Divina, Cancerosa, Sombra de Touro.",
+      "nome_cie": "Maytenus ilicifolia",
+      "familia": "Celastraceae",
+      "categoria": "Árvores, Medicinal",
+      "origem": "Brasil, nos estados do sul. Podendo ser encontrada em outros países como Paraguai, Bolívia, Argentina e Uruguai.",
+      "clima": "Subtropical e temperado",
+      "luminosidade": "Meia sombra como a pleno sol.",
+      "altura": "Até 10 metros",
+      "info": "La = -7.234204  Lon = -39.4323907\nÁrvore perenifólia de casca lisa, crescimento lento, folhas simples e alternadas, verde escuras e bordas com espinhos. Planta de floresta não muito densa, próximo a rios e riachos. Encontrada em altitudes de até 1200 m. Pode ser cultivada tanto para fins econômicos (pelas propriedades medicinais) como também paisagísticos. Várias pesquisas em universidades tem sido feitas sobre esta planta, com constatações científicas comprovadas. Possui terpenos, flavonoides, mucilagens, açúcares, ferro, enxofre, sódio, cálcio. Usado no tratamento de úlceras gástricas, gastrite, problemas estomacais e azia. Tem ação cicatrizante para a pele e considerado anti-inflamatório e antisséptico.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "59c2b52142a4ab00115596fc",
+      "familia": "Sapindaceae",
+      "loc": [
+        {
+          "lat": -7.2341466,
+          "lng": -39.432274
+        },
+        {
+          "lat": -7.2343442,
+          "lng": -39.4350821
+        },
+        {
+          "lat": -7.2435909,
+          "lng": -39.4328902
+        }
+      ],
+      "__v": 0,
+      "info": "Árvore de médio a grande porte, possui um fruto grande e marrom . M. pubescens é uma arbórea com distribuição ampla, ocorre no Cerrado brasileiro e arredores, bem como em outros países sul-americanos. As subpopulações foram encontradas com densidades variadas, alcançando até 120 indivíduos por hectare. Estudos de compostos químicos retirados da casca da espécie tem demonstrado o potencial uso de extratos da planta para controle de larvas do mosquito Aedes aegypti Linnaeus e do carrapato Rhipicephalus microplus Canestrini (Silva et al., 2004; Fernandes, 2008). O extrato bruto etanólico retirado da casca, semente e raíz da espécie também apresentou atividade antimicrobiana para bácterias Gram-positivas, inclusive estafilococos multirresistentes e Candida albicans, o que sugere sua utilização como anti-séptico ou desínfetante (Pimenta et al., 2000).",
+      "clima": "Caatinga, Cerrado",
+      "categoria": "Arvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "6 a 20 metros",
+      "nome_cie": "Magonia pubescens A. St.-Hil.",
+      "nome_pop": "Tingui, Tingui verdadeiro, Timbó-do-cerrado."
+    },
+    {
+      "_id": "59c2b8ff42a4ab00115596ff",
+      "familia": "Bignoniaceae",
+      "loc": [
+        {
+          "lat": -7.2349341,
+          "lng": -39.4342888
+        },
+        {
+          "lat": -7.2055895,
+          "lng": -39.4479986
+        }
+      ],
+      "__v": 0,
+      "info": "É comum a confusão entre as diversas espécies de ipê-roxo ou ipê-rosa, por este motivo e por razões práticas reuniremos informações comuns às espécies mais utilizadas na arborização urbana. O ipê-roxo é uma árvore decídua, característica das florestas semidecídua e pluvial. Ocorre tanto no interior da floresta primária densa, como nas formações abertas e secundárias. Medicinal: Indicações: eczemas, psoríase, câncer, alergias, disenterias, ferimentos, aftas, úlceras, viroses, queimaduras, picadas de cobra Propriedades: antimicrobiana, antitumoral, antiviral, estrogênica, estimulante do sistema imunológico Partes Utilizadas: casca, folhas Alerta: O uso em excesso pode ser tóxica, deve ser utilizada sob acompanhamento médico. A madeira é muito valorizada, empregada em construções externas. (LIMA, 2012)",
+      "clima": "Cerrado, Mata úmida",
+      "categoria": "Árvores",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão, IFCE - Campus Crato",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "6.0 a acima de 12 metros",
+      "nome_cie": "Handroanthus impetiginosus (Mart. ex DC.) Mattos",
+      "nome_pop": "Ipê-roxo, Cabroe, Casquinho, Ipê, Ipê-de-flor-roxa, Ipê-mirim, Ipê-preto, Ipê-rosa, Pau-d'arco, Pau-d'arco-roxo"
+    },
+    {
+      "_id": "59c2ba9c42a4ab0011559701",
+      "nome_pop": "Mofumbo, mufumbo, pente-de-macaco",
+      "nome_cie": "Combretum leprosum Mart.",
+      "familia": "Combretaceae",
+      "categoria": "Arbusto, Árvore, Liana/volúvel/trepadeira",
+      "origem": "Nativa da Caatinga",
+      "clima": "Caatinga",
+      "luminosidade": "Sol pleno",
+      "altura": "Até 6 metros",
+      "info": "La = -7.2346079   Lon = -39.4351786\nSegundo a literatura, tem valor medicinal, sendo por exemplo suas folhas e entrecasca hemostáticas, sudoríficas e calmantes. Além disso, sua madeira é usada como lenha na confecção de utensílios domésticos e suas flores são importantes fontes de néctar e pólen para alguns animais, especialmente abelhas.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "59c2c35d42a4ab001155970e",
+      "familia": "Urticaceae",
+      "loc": [
+        {
+          "lat": -7.2319191,
+          "lng": -39.4368268
+        }
+      ],
+      "__v": 0,
+      "info": "Árvore de medio porte, pioneira, 4 a 8 metros de altura, de madeira fraca e crescimento rápido. Prefere locais sombreados e umidos. Folhas compostas com 8 partes, de 40 cm. A flor e sementes aparecem como um pequeno cacho no topo da arvore.  Pioneira e rústica, ideal para inicio de reflorestamento. Atrativa para fauna, oferece alimento para pássaros, bicho preguiça, e morada para vários tipos de insetos como formigas e cupins. Floresce em Setembro, frutos em Junho.",
+      "clima": "Cerrado, Caatinga, Mata úmidad",
+      "categoria": "Árvore",
+      "nome_cie": "Cecropia Pachystachya Trécul",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "4 a 8 metros",
+      "origem": "Nativa",
+      "nome_pop": "Toré, Imbaúba, pau formiga"
+    },
+    {
+      "_id": "59c2c57342a4ab0011559712",
+      "familia": "Sapindaceae",
+      "loc": [
+        {
+          "lat": -7.2318949,
+          "lng": -39.4343907
+        }
+      ],
+      "__v": 0,
+      "info": "A árvore é amplamente cultivada em pomares domésticos e floresce de agosto a outubro. Os frutos amadurecem de janeiro a março e são comercializados nas feiras das regiões Norte e Nordeste do país. As sementes são tidas como antidiarréicas e usadas como adstringentes. O chá das sementes é utilizado para amenizar os problemas de desidratação. Por outro lado, o chá das folhas é indicado para as “dores de cadeira” e para os problemas renais.",
+      "clima": "Caatinga, Mata seca, Cerrado",
+      "categoria": "Árvore",
+      "nome_cie": "Talisia esculenta Radlk.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "Até 12 metros",
+      "origem": "Nativa",
+      "nome_pop": "Pitombeira"
+    },
+    {
+      "_id": "59c2c53542a4ab0011559711",
+      "nome_pop": "Cedro",
+      "nome_cie": "Cedrela cf. odorata L.",
+      "familia": "Meliaceae",
+      "categoria": "Árvore ornamental",
+      "origem": "Em todo Brasil e países da América do Sul.",
+      "clima": "Tropical",
+      "luminosidade": "Sol pleno",
+      "altura": "20 a 30 metros",
+      "info": "La = -7.2316407          Lon = -39.4372701\nSeu uso é de interesse madeireiro. Sua madeira é utilizada em construções, marcenaria, entalhe, móveis entre outros usos. Sua grande procura não se deve apenas a sua madeira uniforme, lisa e lustrosa, a casca de cedro tem uso medicinal, é utilizada para ser usada externamente em casos de úlceras e feridas. A árvore de cedro mede de 20 a 30 metros de altura; tem casca grossa rugosa em forma de fenda. Possui folhas compostas de folíolos opostos oblongo-lanceolado, agudos, arredondados na bases, sendo que a face superior é lisa e a inferior é aveludada.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "59c2c3b542a4ab001155970f",
+      "nome_pop": "Jurema preta, Calumbi, jurema braba; tepezcohuite (México)",
+      "nome_cie": "Mimosa tenuiflora (Willd.) Poir.",
+      "familia": "Fabaceae Mimosoideae",
+      "categoria": "Árvores, Medicinal",
+      "origem": "Brasil e México",
+      "clima": "Tropical",
+      "luminosidade": "Sol pleno",
+      "altura": "5 a 7 metros",
+      "info": "La = -7.231837       Lon = -39.4371259\nMadeira: muito resistente, empregada para obras externas, como mourões, estacas e pontes, para pequenas construções, rodas, peças de resistência, móveis rústicos. Fornece excelente lenha e carvão de alto valor energético. Medicina caseira: o pó da casca é muito eficiente em tratamentos de queimaduras, acne, defeitos da pele e esfoladelas causadas por pressão. Tem efeito antimicrobiano, analgésico, regenerador de células, febrífugo e adstringente peitoral. As folhas são usadas com as mesmas finalidades. Veterinária popular: o efeito cicatrizante serve também nos animais domésticos e a planta é usada em lavagens contra parasitas.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "59c2bd1c42a4ab0011559704",
+      "familia": "Fabaceae (Subfamília: Caesalpiniodeae)",
+      "loc": [
+        {
+          "lat": -7.2323945,
+          "lng": -39.4330152
+        },
+        {
+          "lat": -7.231988,
+          "lng": -39.4347411
+        },
+        {
+          "lat": -7.2323542,
+          "lng": -39.433058
+        },
+        {
+          "lat": 0,
+          "lng": 0
+        }
+      ],
+      "__v": 0,
+      "info": "Sagrada pelos indígenas, que serviam os frutos antes de rituais de meditação, e pesquisas recentes demonstraram que realmente, o fruto pode trazer benefícios à organização mental, o fruto é rico em ferro, e é indicado a quem sofre de anemia. Da casca do jatobá se faz uso medicinal pelas populações das regiões onde esta árvore é nativa pois, a mesma tem ação adstringente, antibacteriana, antiespasmódica, antifúngica, antiinflamatoria, antioxidante, aperiente, balsâmica, descongestionante, diurética, estimulante, estomáquica, expectorante, fortificante, hepatoprotetora, laxante, peitoral, tônica e vermífuga. Com essas propriedades, o chá da casca do jatobá é recomendado para tratamento de problemas respiratórios e gastrointestinais , para problemas urinários (cistites e retenção hídrica) e calculo renal.",
+      "clima": "Cerrado, Cerradão, Mata úmida",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão, IFCE-Campus Crato",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "Até 40 metros",
+      "nome_cie": "Hymenaea  stigonocarpa Mart. ex Hayne",
+      "nome_pop": "Jatobá-de-veado"
+    },
+    {
+      "_id": "59c2bdcc42a4ab0011559705",
+      "nome_pop": "Croatá, bromelia",
+      "nome_cie": "Bromelia Karatas L.",
+      "familia": "Bromeliaceae",
+      "categoria": "Bromélias, Folhagens, Frutas e Legumes, Medicinal, Plantas Hortícolas",
+      "origem": "América do Sul, Argentina, Bolívia, Brasil, Colômbia, Paraguai",
+      "clima": "Tropical",
+      "luminosidade": "Sol pleno, meia sombra",
+      "altura": "0.4 a 0.6 metros, 0.6 a 0.9 metros, 0.9 a 1.2 metros",
+      "info": "La = -7.2323964          Lon = -39.4330275\nBromélias são plantas relativamente rústicas e de fácil cultivo. São plantas de clima tropical e adaptam-se com certa facilidade em ambientes diversos:  internos ou externo desde que tomados alguns cuidados básicos com relação à luminosidade e umidade. A planta, geralmente,  adaptada de um tanque reservatório, formado pelas axilas na base de suas folhas, onde armazena água de chuva, orvalho e nutrientes como: (resíduos vegetais, poeira, dejetos de pássaros, etc.), com o qual faz a sua manutenção. Na natureza, essa adaptação, garante-lhe a sobrevivência nos períodos de secas mais prolongadas. De uso medicinal para: Ferimentos, Amigdalites, Eliminação do muco respiratório e catarro. Com propriedades expectorante e cicatrizante.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "59c2bee242a4ab0011559707",
+      "familia": "Rhamnaceae",
+      "loc": [
+        {
+          "lat": -7.2318945,
+          "lng": -39.4342878
+        }
+      ],
+      "__v": 0,
+      "info": "Membro da família Rhamnaceae, é uma árvore, em seu ambiente natural de caatinga e cerrado, de médio porte, com ramos tortuosos protegidos por espinhos. Entretanto, a espécie se adapta bem a locais mais úmidos, onde se torna árvore elegante com cerca de 15 metros de altura. Suas folhas assemelham-se às folhas de canela, exceto pelo tom verde mais claro e consistência mais membranácea. Suas flores são pequenas, de cor creme, dando origem a frutos esféricos, também pequenos, de cor amarelada, doces, com uma semente em seu interior. A árvore é reputada por diversas propriedades medicinais. Entre seus componentes químicos, destacam-se vitamina C, pó de juá, cafeína, ácido betulínico e saponinas (estas últimas consideradas tóxicas, se ingeridos em grandes quantidades). O extrato do juazeiro, o juá, é empregado na indústria farmacêutica em produtos cosméticos, dentre eles xampus e cremes, bem como em cremes dentais.",
+      "clima": "Caatinga, Restinga e Mata Úmida",
+      "categoria": "Árvore",
+      "nome_cie": "Ziziphus joazeiro Mart.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "Até 10 metros",
+      "origem": "Nativa",
+      "nome_pop": "Joá, Juazeiro, laranjeira-de-vaqueiro, juá-fruta, juá e juá-espinho."
+    },
+    {
+      "_id": "59c2c03842a4ab0011559709",
+      "nome_pop": "Laranjinha",
+      "nome_cie": "Hirtella racemosa Lam.",
+      "familia": "Chrysobalanaceae",
+      "categoria": "Árvore pequena ou arbusto",
+      "origem": "América Central e do Sul",
+      "clima": "Tropical e subtropical",
+      "luminosidade": "Sol pleno, meia sombra",
+      "altura": "Até 6 metros",
+      "info": "La = -7.2320342    Lon = -39.4349056\nDistribuição geográfica e habitat: H. racemosa tem distribuição muito ampla, ocorrendo do México ao sul do Brasil, em várias tipologias florestais (PRANCE 1972). H. racemosa var. hexandra é citada por Prance e Sothers (2012) para as unidades federativas das regiões Norte e Centro-Oeste e para os estados do Maranhão, Ceará, Paraíba, Pernambuco, Sergipe e Bahia. Essa variedade apresenta-se como um táxon raro na Região Geoeconômica de Brasília, tendo, até o presente momento, sido amostrada apenas duas vezes nessa região, em florestas-galerias. Utilidades: 1) Madeira: deve servir para construção de cercas e de outras obras de pequeno porte no meio rural, bem como para lenha. 2) Flores: fonte de recursos para insetos, notadamente abelhas. 4) Frutos: alimento para a fauna, principalmente pássaros. 5) Espécie: recomposição de áreas desmatadas em florestas-galerias.",
+      "loc": [],
+      "__v": 0
+    },
+    {
+      "_id": "59c2c1a442a4ab001155970b",
+      "luminosidade": "Endêmica do Brasil",
+      "altura": "10 a 20 metros",
+      "categoria": "Árvore com caule tipo estipe.",
+      "__v": 0,
+      "loc": [
+        {
+          "lng": -39.4364521,
+          "lat": -7.2321284
+        }
+      ],
+      "nome_pop": "Babaçu, Babassu, gebara-uçu, coco-de-macaco, coco palmeira",
+      "info": "Essa palmeira é muito comum no Maranhão, Piauí, Ceará, Pará, Mato Grosso e Tocantins. É uma palmeira elegante que pode atingir até 20 m de altura. Estipe característico por apresentar restos das folhas velhas que já caíram em seu ápice. Folhas com até 8 m de comprimento, arqueadas. Flores creme-amareladas,aglomeradas em longos cachos. Cada palmeira pode apresentar até 6 cachos, surgindo de janeiro a abril. Frutos ovais alongados, de coloração castanha, que surgem de agosto a janeiro, em cachos pêndulos. A polpa é farinácea e oleosa, envolvendo de 3 a 4 sementes oleaginosas. Nos babaçuais trabalham milhares de pessoas, predominantemente mulheres, na extração do óleo das sementes, para a indústria alimentícia, construção e artesanato. Os produtos derivados deste óleo são muito apreciados no mercado europeu. Fonte alternativa de energial renovável.",
+      "familia": "Arecaceae",
+      "clima": "Caatinga, Cerrado",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "nome_cie": "Attalea speciosa Mart. ex Spreng."
+    },
+    {
+      "_id": "59c2c47042a4ab0011559710",
+      "nome_pop": "Jurema Branca",
+      "nome_cie": "Piptadenia stipulaceae (Benth.) Burke",
+      "familia": "Fabaceae-Mimosoideae",
+      "categoria": "Árvores, Ornamental, Arbustos",
+      "origem": "Brasil, Nordeste",
+      "clima": "Tropical",
+      "luminosidade": "Sol pleno, meia sombra",
+      "altura": "Até 7 metros",
+      "info": "La = -7.2319159          Lon = -39.4371647\nComum no Nordeste brasileiro, com propriedades psicoativas. A família das leguminosas possui importantes espécies cultivadas para alimentação, inclusive do nordestino (Mangalô, Andu, Algaroba, além de Feijões de diversas espécies incluindo a Soja. A subfamília Faboidea ou Fabaceae) também exerce importante função ecológica por abrigar espécies de bactérias nitrificantes ou seja que fixam nitrogênio, essencial para a vida, no solo. Uma pequena árvore que cresce até 7 m em solos férteis, e arbustiva em solos pobres. Variedades sem espinhos são preferidas para  bonsai.  Os efeitos do vinho de jurema são muito bem descritos por José de Alencar no romance Iracema. Para entender seu efeito psicoativo não basta analisar a composição molecular e comparar com as denominadas drogas alucinógenas é necessário situar-se no contexto de expectativas e formas de uso da substancia nos sistemas de crenças brasileiros.",
+      "loc": [
+        {
+          "lng": "-39.4331287",
+          "lat": "-7.2322092",
+          "_id": {
+            "$oid": "59d457f7a8d3a0001171f82c"
+          }
+        },
+        {
+          "lng": "-39.4354013",
+          "lat": "-7.2320381",
+          "_id": {
+            "$oid": "59d457f7a8d3a0001171f82d"
+          }
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "59ee242cfadb5e001169641c",
+      "familia": "Anacardiaceae",
+      "loc": [
+        {
+          "lat": -7.2342268,
+          "lng": -39.4323697
+        }
+      ],
+      "__v": 0,
+      "info": "Gonçalo-Alves  é uma espécie do cerrado que está ameaçada de extinção. É considerada uma espécie pioneira e heliófita, característica de terrenos rochosos e secos, onde forma agrupamentos isolados (LORENZI, 1992) e de maior densidade em áreas de solos com melhores condições químicas. Possui madeira pesada, compacta, rígida, de grande durabilidade sob condições naturais, o que a classifica como adequada para uso na construção civil e naval, na marcenaria, para confecção de dormentes a portas de fino acabamento, além de ser uma opção para o paisagismo por seu porte e beleza da copa (LORENZI, 1992). A sua casca é adstringente e utilizada contra diarréias e no tratamento de hemorróidas; as folhas possuem ação anti-séptica, indicadas no tratamento de úlceras da pele; as raízes, quando maceradas, e sob forma de infusão, podem ser usadas no tratamento de reumatismo. A planta tem ocorrência ampla no cerrado brasileiro.",
+      "clima": "Cerradão, Mata úmida, Mata seca",
+      "categoria": "Árvore",
+      "nome_cie": "Astronium fraxinifolium Schott.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "8 a 12 m",
+      "origem": "Nativa",
+      "nome_pop": "Gonçalo alves, Gonçalave, Chibatã, Aratanha, Aroeira-Do-Campo, Batão"
+    },
+    {
+      "_id": "59ee24fefadb5e001169641d",
+      "familia": "Fabaceae/Faboideae",
+      "loc": [
+        {
+          "lat": -7.2342382,
+          "lng": -39.4324623
+        }
+      ],
+      "__v": 0,
+      "info": "A sapuva pode alcançar até 30 m. Seu tronco geralmente é tortuoso podendo atingir um diâmetro de até 80 cm, revestido por uma casca pardo-acinzentada de superfície áspera. É uma espécie pioneira e rústica, por isso muito utilizada na recomposição de matas degradadas. É também uma espécie muito ornamental, bastante utilizada em paisagismo.  A madeira de sapiúva (ou sapuva) foi no passado utilizada para carvão, lenha, construção civil e fabricação de cabos de ferramentas (enxadas, enxadão, foice).",
+      "clima": "Caatinga, cerrado, mata atlântica",
+      "categoria": "Árvore",
+      "nome_cie": "Machaerium acutifolium Vogel",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "10 à 30 m",
+      "origem": "Nativa",
+      "nome_pop": "Coração de nego, Farinha seca, Jacarandá roxo, Pau de malho, Sapuva"
+    },
+    {
+      "_id": "59ee2608fadb5e001169641e",
+      "familia": "Fabaceae/Caesalpinioideae",
+      "loc": [
+        {
+          "lat": -7.2342301,
+          "lng": -39.4324765
+        },
+        {
+          "lat": -7.2331778,
+          "lng": -39.434213
+        },
+        {
+          "lat": -7.2329672,
+          "lng": -39.4336167
+        }
+      ],
+      "__v": 0,
+      "info": "A óleo-resina de Copaifera langsdorffii é extraído do tronco, podendo ser utilizado, in natura como combustível para motores diesel e também na medicina popular como anti-séptico, cicatrizante, expectorante, diurético, laxativo, estimulante, emoliente e tônico.  É a maior fonte natural conhecida de cariofileno (importante antiinflamatório) (RAIN TREE, 2008). Outro constituinte importante é ácido caurenóico, um diterpeno que possui estudos comprovados nas ações antiinflamatórias, diurética e efeitos in vivo e antimicrobianos, relaxante muscular e ações citotóxicas in vitro.  A madeira serrada pode ser utilizada para: construção civil, peças torneadas, cabos de ferramentas, carroçarias, miolo de portas, marcenaria em geral, móveis inferiores, tabuados em geral, revestimentos, laminação, torneados, folhas para compensados e construção naval.",
+      "clima": "Mata úmida, Mata seca, Cerrado, Cerradão, Caatinga",
+      "categoria": "Árvore",
+      "nome_cie": "Copaífera langsdorffii Desf.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "até 35 m",
+      "origem": "Nativa",
+      "nome_pop": "Paudoia, paudoi, copaíba"
+    },
+    {
+      "_id": "59ee2757fadb5e001169641f",
+      "familia": "Fabaceae/Mimosoideae",
+      "loc": [
+        {
+          "lat": -7.2345027,
+          "lng": -39.4332229
+        }
+      ],
+      "__v": 0,
+      "info": "Folhas compostas, bipinadas, 1-3 pares de juga; foliólos oblongos, ápice arredondado-agudo (Lorenzi, 2002). Flor séssil, pequena, monóica, cálice gamossépalo. Fruto legume, moniliforme, plano, curvado, valva áspera, marrom. Vegeta predominantemente no Maranhão, Piauí e Ceará até a Bahia, na caatinga. (Lorenzi, 2002). Em Sergipe ocorre também na Mata Atlântica. A madeira, pesada e de boa qualidade, pode ser utilizada em marcenaria leve e pequenas obras de construção civil, embora seja principalmente empregada para cabos de ferramentas e para lenha e carvão. Os ramos finos e folhas servem como forragem para o gado. (LIMA, 2012)",
+      "clima": "Cerrado",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "Endêmica do Brasil",
+      "altura": "4 à 9 m",
+      "nome_cie": "Pityrocarpa moniliformis (Benth.) Luckow & R. W. Jobson",
+      "nome_pop": "Catanduba, Catanduva, Angico de bezerro"
+    },
+    {
+      "_id": "59ee28cafadb5e0011696420",
+      "familia": "Apocynaceae",
+      "loc": [
+        {
+          "lat": -7.2349975,
+          "lng": -39.4346411
+        }
+      ],
+      "__v": 0,
+      "info": "A madeira é indicada para marcenaria , tornearia, tacos, para confecção de artefatos decorativos, armação de selas e de rodas de carroças, bem como para lenha e carvão. As sementes são oleaginosas. A casca fornece uma camada de cortiça de até 4 cm de espessura. As folhas e raízes são consideradas medicinais e os frutos muito procurados por pássaros e outros animais. A raiz foi outrora usada para colorir a cerveja. A árvore possui qualidades ornamentais que a recomendam para a arborização.",
+      "clima": "Cerrado, Mata seca, Caatinga",
+      "categoria": "Árvore, arvoreta",
+      "nome_cie": "Aspidosperma cuspa (Kunth) S. F. Blake",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "5 - 15 m",
+      "origem": "Nativa",
+      "nome_pop": "Batinga branca, Pereiro Branco"
+    },
+    {
+      "_id": "59ee2d90fadb5e0011696421",
+      "familia": "Bromeliácea",
+      "loc": [
+        {
+          "lat": -7.23501,
+          "lng": -39.4350564
+        },
+        {
+          "lat": -7.2347625,
+          "lng": -39.4352162
+        }
+      ],
+      "__v": 0,
+      "info": "               \nSua folha possui modificações que dão uma natureza espinhenta a mesma, a macambira é queimada antes de ser oferecida ao gado.  A macambira está presente nas áreas secas do nordeste, desde a Bahia até o Piauí. Seu caule é cilíndrico e suas folhas (constituídas de duas partes distintas: base dilatada e limbo) encontram-se distribuídas em torno do caule.[1] O caule desta planta geralmente é confundido com a raiz, porém as raízes da macambira são finas, diferentemente do caule que é mais espesso.  A macambira pode ser utilizada como planta ornamental, porém sua maior utilização é nas laterais de rodovias que cortam o semi-árido para evitar a erosão (isso devido ao fato de sua raiz ser do tipo fasciculada o que dificulta a erosão). Quando queimada é utilizada como alimento para o gado. Além disso, da base de suas folhas é extraída uma massa da qual se fabrica um tipo de pão.",
+      "clima": "Caatinga",
+      "categoria": "Bromélia, erva",
+      "nome_cie": "Bromelia laciniosa Mart. ex Schult. & Schult.f.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "Até 6 m",
+      "origem": "Nativa",
+      "nome_pop": "Macambira, Banana de raposa"
+    },
+    {
+      "_id": "59ee2dfcfadb5e0011696422",
+      "familia": "Olacaceae",
+      "loc": [
+        {
+          "lat": -7.2349398,
+          "lng": -39.4350876
+        }
+      ],
+      "__v": 0,
+      "info": "De acordo com Fernadez & Bezerra (1990), a ameixa silvestre faz parte do extrato arbustivo-arbóreo da Caatinga, figurando como uma das principais espécies. No período seco, quando a maioria das espécies da Caatinga perde as folhas, essa planta destaca-se por apresentar-se com as folhas totalmente verdes, o que caracteriza uma planta resistente à seca. O período de frutificação é muito\ncurto e concentra-se nos meses de dezembro a janeiro. O fruto da ameixa silvestre é uma baga e, apesar de não ser considerada fruta comercial, é comestível. Franco & Barros(2006), em estudos de localização e utilização de espécies de ervas medicinais presentes em uma determinada região do Piauí, verificaram que essa é uma espécie bastante utilizada no combate às infecções, ferimentos e falta de ar.  A madeira é compacta, leve, durável e fácil de trabalhar, é utilizada principalmente para confecção de cabos de ferramentas agrícolas, lenha e carvão. (LIMA, 2012)",
+      "clima": "Caatinga, Mata Seca",
+      "categoria": "Arbustivo-arbóreo",
+      "origem": "Planta cosmopolita tropical, encontrada na África, Índia, Nova Zelândia, América Central e América do Sul.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "3 - 4 m",
+      "nome_cie": "Ximenia americana L.",
+      "nome_pop": "Ameixa-brava, Ameixa-braba, Ameixa do Mato, Ameixa de espinho"
+    },
+    {
+      "_id": "59ee2ec2fadb5e0011696423",
+      "familia": "Fabaceae-Mimosoideae",
+      "loc": [
+        {
+          "lat": -7.2349374,
+          "lng": -39.4350576
+        }
+      ],
+      "__v": 0,
+      "info": "Folhas pari-bipinadas, 10-18 jugas, 9, 5-24 cm de comprimento; nectário crateriforme, séssil, de localização variando da base ao ápice do pecíolo; pinas opostas, mais ou menos equilongas, com 20-52 folíolos. Inflorescência terminal, do tipo panícula, onde se dispõem glomérulos globosos 1-2 fasciculados. Flores alvas, ca. 4-5 mm de comprimento, pentâmeras; cálice campanulado, densamente pubérulo. Fruto legume, de deiscência passiva, reto, plano-compresso, oblongo a oblongo-linear.\nSua madeira é destinada para lenha e carvão. As folhas e legumes servem de forragens para animais, as flores são apícolas.",
+      "clima": "Caatinga, Cerrado, Mata úmida",
+      "categoria": "Arbusto, Liana/volúvel/trepadeira",
+      "nome_cie": "Senegalia tenuifolia (L.) Britton & Rose",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "3 - 6 m",
+      "origem": "Nativa",
+      "nome_pop": "Unha-de-gato, serra-goela"
+    },
+    {
+      "_id": "59ee2faefadb5e0011696424",
+      "altura": "1-3 m",
+      "luminosidade": "é endêmica do Brasil",
+      "categoria": "Arbusto, Árvore",
+      "__v": 0,
+      "loc": [
+        {
+          "lng": -39.4351282,
+          "lat": -7.2348741
+        }
+      ],
+      "nome_pop": "Goiabinha, araçá vermelho, araçá-bravo",
+      "info": "É uma planta arbustiva, cujo fruto tem o sabor bem parecido com o da goiaba, embora seja um pouco mais ácido e com perfume mais marcante. Existem diversas espécies de araçá, sendo as mais comuns o araçá-vermelho, o araçá-de-cora, o araçá-de-praia, o araçá-do-campo, o araçá-do-mato, o araçá-pera, o araçá-rosa e o araçá-piranga. O araçá pode ser utilizado também para a recuperação de áreas degradadas, pois tem crescimento rápido e atrai a fauna. Sua frutificação ocorre na primavera e no verão. Pode ser encontrado desde a Bahia até o Rio Grande do Sul e possui grandes quantidades de vitamina A, B e C, além de proteínas e carboidratos. O óleo retirado de suas folhas é empregado como antidiarreico e antibiótico, por apresentar forte atividade contra bactérias. Suas raízes são utilizadas como diuréticas e antidiarreicas.",
+      "familia": "Myrtaceae",
+      "clima": "Cerrado, Caatinga",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "nome_cie": "Psidium myrsinites DC."
+    },
+    {
+      "_id": "59ee323dfadb5e0011696425",
+      "familia": "Moraceae",
+      "loc": [
+        {
+          "lat": -7.2347287,
+          "lng": -39.4352424
+        }
+      ],
+      "__v": 0,
+      "info": "Árvore decídua, xerófita,  exclusiva dos cerrados. Espécie pioneira, Sua altura atinge até 10 metros e seu diâmetro até 40 cm. Folhas: lanceolada, subcoriácea, medindo até 13 cm de comprimento e até 6 cm de largura. Flores: bissexuais,verdes, sem pétalas. Polinizadas por abelhas  e insetos.\nFruto: são mastigados, até se obter uma goma de mascar( de sabor característico (POZETTI; \nBERNARDI,1971) Floração: agosto-novembro. Frutificação: outubro-janeiro. Vetor de polinização: abelhas e pequenos insetos. Utilidade: construção civil, lenha e carvão.",
+      "clima": "Mata seca, Cerrado",
+      "categoria": "Arbusto, Árvore",
+      "nome_cie": "Brosimum guadichaudii Trécul",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "Até 10 m",
+      "origem": "Nativa",
+      "nome_pop": "Inharé, mama-cadela"
+    },
+    {
+      "_id": "59f7656fec751b0011f8f83b",
+      "familia": "Malvaceae",
+      "loc": [
+        {
+          "lat": -7.2350409,
+          "lng": -39.4349121
+        },
+        {
+          "lat": -7.2347523,
+          "lng": -39.4352023
+        }
+      ],
+      "__v": 0,
+      "info": "Casca cinza-claro, lisa e dotada de grande número de acúleos cônicos e rígidos de até 5 cm de comprimento. Folhas compostas palmadas, com 4-7 folíolos (geralmente 5), sobre pecíolos ligeiramente dilatados no ápice e na base. Flores brancas, de 1-3 por nó, em inflorescências terminais\nFrutos do tipo cápsula elipsóide, deiscente, glabra, coriácea, contendo muitas sementes pequenas,cada uma de 6 mm, marrom-escuras, redondas, envoltas por pêlos finíssimos, com consistência sedosa, que ajudam na dispersão das mesmas. Madeira empregada em caixotaria\nCasca usada na medicina caseira contra inflamação do fígado e tratar hérnias. Os pêlos que envolvem as sementes (chamados popularmente de \"lã de barriguda\") são empregados no enchimento de almofadas, travesseiros, colchões, selas e estofamento de móveis. Nas estradas vicinais do Nordeste brasileiro, pode ser usada como cerca viva.",
+      "clima": "Caatinga",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "6-18 m",
+      "nome_cie": "Ceiba glaziovii (Kuntze) K. Schum.",
+      "nome_pop": "Algodoeiro, barriguda, paineira-branca"
+    },
+    {
+      "_id": "59ee3375fadb5e0011696426",
+      "familia": "Myrtaceae",
+      "loc": [
+        {
+          "lat": -7.2342347,
+          "lng": -39.4350088
+        }
+      ],
+      "__v": 0,
+      "info": "Espécie amplamente distribuída encontrada do Nordeste ao Sul do Brasil, em áreas de Caatinga e Mata Atlântica. Possui diversos registros de coleta e não há registro de ameaça ou evidência direta de declínio populacional para a espécie. Dessa maneira a espécie é considerada como menos preocupante em relação ao risco de extinção (LC). Planta de fácil cultivo e resiste a baixas temperaturas (até – 5 graus), embora seja de altitude acima de 500 m, frutifica bem quando plantada ao nível do mar; o solo deve ser profundo, úmido, neutro, com constituição arenosa ou argilosa (solo vermelho). Embora na natureza apareça na beira de rios, as plantas podem ser cultivadas em terrenos mais enxutos, longe de rios.",
+      "clima": "Caatinga, Cerrado",
+      "categoria": "Arbusto",
+      "nome_cie": "Eugenia gracillima Kiaersk",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "1 - 2 m",
+      "origem": "Nativa",
+      "nome_pop": "Murta"
+    },
+    {
+      "_id": "59ee34d3fadb5e0011696427",
+      "familia": "Fabaceae/Caesalpinioideae",
+      "loc": [
+        {
+          "lat": -7.2341936,
+          "lng": -39.4349694
+        }
+      ],
+      "__v": 0,
+      "info": "A principal importância econômica de Dimorphandra spp. está relacionada com a comercialização da rutina, uma substância química presente nos frutos e folhas de D. mollis e D. gardneriana (Murad et al. 1968, Souza et al. 1991, Tomassini & Mors 1966, Lucci & Mazzafera 2009). A rutina faz parte, juntamente com a quercetina, da subclasse dos flavonóides, que consistem em substâncias naturais amplamente distribuídas no reino vegetal, podendo ser encontrada na cebola, uva, feijão, maçã, tomate e trigo sarraceno (Acker et al. 1996). Cerca de 50% da produção mundial de rutina é proveniente de espécies de faveira, e aproximadamente 95% da produção interna brasileira destina-se ao mercado externo, perfazendo uma receita anual de cerca de 10 milhões de dólares no período de 1996 a 2007 (CEDAC 2007).",
+      "clima": "Caatinga, Cerrado",
+      "categoria": "Árvore",
+      "nome_cie": "Dimorphandra gardneriana Tul.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "8 - 14 m",
+      "origem": "Nativa",
+      "nome_pop": "Faveira, Fava d’anta"
+    },
+    {
+      "_id": "59ee381dfadb5e0011696428",
+      "familia": "Vochysiaceae",
+      "loc": [
+        {
+          "lat": -7.2333139,
+          "lng": -39.4341976
+        }
+      ],
+      "__v": 0,
+      "info": "Qualea parviflora é uma espécie nativa do Cerrado estando entre as mais importantes das plantas lenhosas da região. Apresenta hábito arbóreo com altura média de 6 m, podendo atingir 15 m, e é uma espécie decídua, perdendo as folhas durante a estação seca, de abril a agosto. Sua floração ocorre no início e decorrer da estação chuvosa, de setembro a dezembro, logo após o começo da brotação das folhas. Tem apresentado comportamento de planta invasora corrente em lavouras da região Centro-Oeste.",
+      "clima": "Cerrado, Cerradão.",
+      "categoria": "Arbusto, Árvore",
+      "nome_cie": "Qualea parviflora Mart.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "até 15 m",
+      "origem": "Nativa",
+      "nome_pop": "Pau-terra"
+    },
+    {
+      "_id": "59ee39f2fadb5e0011696429",
+      "familia": "Fabaceae-Faboideae",
+      "loc": [
+        {
+          "lat": -7.2332818,
+          "lng": -39.4342127
+        }
+      ],
+      "__v": 0,
+      "info": "Árvore geralmente 5-10 m de altura, de copa achatada a alta, exalando forte odor de cumarina quando cortada; tronco 20-30 cm de diâmetro, casca lisa, castanha a vermelho-pardacenta, que se desprende em lâminas finas e grandes; ramos jovens castanhos, glabros ou curtamente pubérulos, castanho-escuros, com lenticelas brancas. A madeira é empregada na confecção de mobiliário fino, folhas flanqueadas decorativas, tanoaria, escultura, lambris, balcões e marcenaria em geral. Árvore ornamental (Lorenzi, 2008).",
+      "clima": "Caatinga, Cerrado",
+      "categoria": "Árvore",
+      "nome_cie": "Amburana cearensis (Allemão) A. C. Sm.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "até 23 metros",
+      "origem": "Nativa",
+      "nome_pop": "Imburana de cheiro, Cumaru, Cerejeira"
+    },
+    {
+      "_id": "59ee3e9ffadb5e001169642c",
+      "familia": "Malvaceae",
+      "loc": [
+        {
+          "lat": -7.2318832,
+          "lng": -39.4332635
+        }
+      ],
+      "__v": 0,
+      "info": "Árvore pouco ramificada até 10 m de altura, raramente mais alta; casca com faixas verdes longitudinais, transversalmente estriada, com ou sem  protuberâncias transversais ao longo das faixas verdes, de coloração cinza nos indivíduos adultos; ramos um tanto crassos, glabérrimos, subangulosos. A madeira é leve e fácil de ser trabalhada, pode ser utilizada na confecção de caixotes, brinquedos, cepas de tamancos e outros calçados. A casca é empregada para confecção de cordas rústicas (embira), daí a razão de seu nome popular. (LIMA, 2012)",
+      "clima": "Caatinga, Cerrado",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "até 10 m",
+      "nome_cie": "Pseudobombax marginatum (A.St.-Hil., Juss. & Cambess.) A. Robyns",
+      "nome_pop": "Embiratanha, Imbiratanha"
+    },
+    {
+      "_id": "59ee41ebfadb5e001169642e",
+      "familia": "Fabaceae-Mimosoideae",
+      "loc": [
+        {
+          "lat": -7.2317316,
+          "lng": -39.4336242
+        }
+      ],
+      "__v": 0,
+      "info": "Árvore com tronco e ramos com acúleos retos ou incurvos, às vezes presentes também no lado inferior do pecíolo e raque foliar. Madeira própria para marcenaria, torno e obras internas (Lorenzi, 2009) sendo utilizada também para lenha e carvão. A casca contém tanino. Senegalia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro.Disponível em: . Acesso em: 27 Dez. 2017",
+      "clima": "Caatinga, cerrado",
+      "categoria": "Arbusto, Árvore",
+      "nome_cie": "Senegalia polyphylla (DC.) Britton & Rose",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "2-6 m",
+      "origem": "Nativa",
+      "nome_pop": "Espinheiro, espinheira"
+    },
+    {
+      "_id": "59ee4499fadb5e0011696430",
+      "familia": "Capparaceae",
+      "loc": [
+        {
+          "lat": -7.2320105,
+          "lng": -39.4356731
+        }
+      ],
+      "__v": 0,
+      "info": "Arbustos, arvoretas ou árvores, 2-6 m de altura; tronco de casca pardacenta, lisa, levemente fissurada longitudinalmente; ramos frequentemente flexuosos, mais ou menos cilíndricos, geralmente glabros ou glabrescentes. Fruto alongado, do tipo cápsula, mais ou menos carnoso. A madeira é empregada para estacas, lenha e carvão. As folhas servem de forragem para o gado. (LIMA, 2012)",
+      "clima": "Caatinga, Cerrado, Carrasco,  Mata Atlântica",
+      "categoria": "Arbusto, Arvoreta, Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "2-6 m",
+      "nome_cie": "Cynophalla flexuosa (L.) J. Presl",
+      "nome_pop": "Feijão de boi, Feijão bravo, Feijão brabo"
+    },
+    {
+      "_id": "59ee499afadb5e0011696434",
+      "familia": "Anacardiaceae",
+      "loc": [
+        {
+          "lat": -7.2322355,
+          "lng": -39.43782
+        },
+        {
+          "lat": -7.2047355,
+          "lng": -39.4484075
+        }
+      ],
+      "__v": 0,
+      "info": "O cajueiro é uma planta da família Anacardiaceae originária da região nordeste do Brasil, com arquitetura de copa tortuosa e de diferentes portes. Na natureza existem dois tipos: o comum (ou gigante) e o anão. Seu fruto, a castanha de caju, tem uma forma semelhante a um rim humano; a amêndoa contida no interior da castanha, quando seca e torrada, é popularmente conhecida como castanha-de-caju. Prologando-se ao fruto, existe um pedúnculo (seu pseudofruto) maior, macio, piriforme, também comestível, de cor alaranjada ou avermelhada; é geralmente confundido como fruto.  Sua madeira, durável e de coloração rosada é também apreciada. As flores são especialmente melíferas e têm propriedades tônicas, já que contêm anacardina. Da seiva produz-se tinta. A raiz tem propriedades purgativas.",
+      "clima": "Caatinga, cerrado, mata úmida",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "5 - 20 m",
+      "nome_cie": "Anacardium occidentale L.",
+      "nome_pop": "Cajueiro"
+    },
+    {
+      "_id": "59ee4748fadb5e0011696431",
+      "familia": "Arecaceae",
+      "loc": [
+        {
+          "lat": -7.2320516,
+          "lng": -39.4364308
+        }
+      ],
+      "__v": 0,
+      "info": "É uma palmeira nativa dos estados de Pernambuco, Piauí, Rio Grande do Norte, Paraíba e Ceará, na Mata Atlântica (Zona da Mata e brejos de altitude), bem como na transição à caatinga (no Ceará, também podemos encontrá-la no litoral, em restingas, refletindo assim no nome da espécie, que nesse estado tem uma distribuição mais cosmopolita). É uma palmeira de hábito cespitoso (o que a difere da espécie Syagrus oleracea, pois nessa o estipe cresce soltitário, e na espécie em questão o estipe cresce em touceiras, com vários caules emergindo de um mesmo ponto). Sua panícula contém cerca de 50 frutos, de polpa amarela e adocicada, e em seu fruto, tanto o pericarpo quanto a amêndoa são comestíveis, e por isso, seus frutos são ocasionalmente comercializados.",
+      "clima": "Caatinga, Cerrado, Mata seca, Mata Atlântica",
+      "categoria": "Palmeira, erva",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "até 30 m",
+      "nome_cie": "Syagrus cearensis Noblick",
+      "nome_pop": "Catolé, coco-babão"
+    },
+    {
+      "_id": "59ee41a0fadb5e001169642d",
+      "familia": "Fabaceae",
+      "loc": [
+        {
+          "lat": -7.2318854,
+          "lng": -39.4332637
+        }
+      ],
+      "__v": 0,
+      "info": "A Fabaceae Albizia polycephala é uma espécie clímax que ocorre naturalmente em florestas ombrófilas e estacionais, com enorme potencial para utilização na restauração de áreas degradadas. É uma planta semidecídua, heliófita, com indivíduos que atingem altura entre 8 e 25 m e com tronco de 40 a 60 cm de diâmetro na idade adulta (SEQUEIRA et al., 2002; CARVALHO, 2006). Trata-se de espécie endêmica que apresenta ampla ocorrência natural nos biomas da Caatinga, Mata Atlântica e Cerrado de 15 estados brasileiros (CARVALHO, 2006; IGANCI, 2014). O tipo de fruto de monzê é uma vagem deiscente, achatada, de cor creme quando madura, contendo de três a sete sementes amareladas e duras, florescendo durante os meses de novembro a dezembro, com maturação nos períodos de maio a junho (BARROSO et al., 2004).",
+      "clima": "Caatinga, Cerrado, Mata Atlântica",
+      "categoria": "Árvore",
+      "nome_cie": "Albizia polycephala (Benth.) Killip ex Record",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "8 - 25 m",
+      "origem": "Nativa",
+      "nome_pop": "Camunzé, camuzé, monzê"
+    },
+    {
+      "_id": "59ee43bdfadb5e001169642f",
+      "familia": "Faboideae",
+      "loc": [
+        {
+          "lat": -7.2318107,
+          "lng": -39.4337522
+        }
+      ],
+      "__v": 0,
+      "info": "Vatairea macrocarpa (Benth.) Ducke, pertence a família Fabaceae, sub-família Faboideae ou Papilionoideae, Angelim do cerrado, amargosa, amargosinha, angelim. Árvore decídua, com floração de Julho a Setembro, de cor lilás a roxa, ocorre no cerrado e cerradão em nove estados; usada na medicina popular e pesquisada por suas propriedades medicinais. Tem grande potencial paisagístico para uso em grupos, espécie interessante para tratamentos de bordas em áreas de preservação. Suas flores são apícolas, a casca tem propriedades medicinais. A Arvore é extremamente ornamental quando em flores, podendo ser empregada na arborização paisagística. É essencial em reflorestamentos de cerrados. População média de 2 árvores por hectare.",
+      "clima": "Cerrado",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "até 10 m",
+      "nome_cie": "Vatairea Macroparpa (Benth.) Ducke",
+      "nome_pop": "Angelim, Angelim do cerrado, Amargosa, Amargosinha, Sucupira preta."
+    },
+    {
+      "_id": "59f75d54ec751b0011f8f83a",
+      "familia": "Fabaceae-Caesalpinioideae",
+      "loc": [
+        {
+          "lat": -7.2347432,
+          "lng": -39.4337247
+        }
+      ],
+      "__v": 0,
+      "info": "A árvore de banha-de-galinha é pequena e notável pelos frutos muito grandes (tamanho de uma manga comum) com arilos polposos, cor de laranja, de casca externa bastante resistente, e tem 4 a 5 sementes por fruto, muito suculentas de sabor e cheiro repugnantes ao homem, porém muito apreciados pela fauna, principalmente as antas. Apesar de a polpa deste fruto ser tradicionalmente consumida por populações tradicionais, poucos relatos são encontrados sobre essa fruta visualmente muito intrigante. A Swartzia possui efetiva atividade antioxidante e também demonstrou atividade contra o Biomphalaria glabrata, um importante molusco intermediário hospedeiro do esquistossomose ou Barriga-D'água.",
+      "clima": "Cerrado, Caatinga, Mata Atlântica",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "Endêmica do Brasil",
+      "altura": "10 - 20 m",
+      "nome_cie": "Swartzia flaemingii Raddi var. psilonema (Harms) Cowan.",
+      "nome_pop": "Banheira, Banha-de-galinha, Pacova-de-macaco, Culhão de bode."
+    },
+    {
+      "_id": "59ee3c00fadb5e001169642b",
+      "familia": "Flacourtiaceae",
+      "loc": [
+        {
+          "lat": -7.2330444,
+          "lng": -39.4337889
+        }
+      ],
+      "__v": 0,
+      "info": "Suas propriedades medicinais são usadas pelos índios até hoje, principalmente em casos de problema de pele e picadas de cobra. Facilmente encontrada em território brasileiro, a planta tem sido muito usada para produção de remédios homeopáticos, cremes fitoterápicos e no tratamento da herpes labial e das aftas. O consumo da guaçatonga deve ser evitado por gestantes, pois a planta estimula contrações uterinas, podendo ocasionar um aborto espontâneo, e também por mulheres em fase de amamentação. Não existem registros de efeitos colaterais, mas é preciso, por precaução, evitar consumir em excesso e seguir apenas as recomendações.",
+      "clima": "Caatinga, Cerrado, Mata Atlântica",
+      "categoria": "Arbusto",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "1 - 4 m",
+      "nome_cie": "Casearia sylvestris Swartz",
+      "nome_pop": "Café bravo, café brabo, cabatão, guaçatonga, língua-de-tiú e pau-de-lagarto"
+    },
+    {
+      "_id": "59c2b7e342a4ab00115596fe",
+      "familia": "Mimosoideae",
+      "loc": [
+        {
+          "lat": -7.2342342,
+          "lng": -39.4324601
+        },
+        {
+          "lat": -7.2347265,
+          "lng": -39.4351771
+        }
+      ],
+      "__v": 0,
+      "info": "Árvore do dossel ou sub-bosque, perenifólia ou semi-decídua, de grande porte, tolerante à seca e amplamente distribuída pela Mata Atlântica, Amazônia, Cerrado e Pantanal. Uma espécie pioneira localmente bem sucedida e indicadora de vegetação primária e em estágio avançado de regeneração na transição da restinga para outros tipos vegetacionais da Bahia. Utilizada com fonte de madeira, valorizada por ser capaz de fixar nitrogênio e rápido crescimento. O plantio de mudas só é aconselhado em áreas extremamente antropizadas e distantes de fragmentos de vegetação nativa.",
+      "clima": "Cerrado, Caatinga, Mata Atlântica",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "não é endêmica do Brasil",
+      "altura": "até 20 m",
+      "nome_cie": "Plathymenia reticulata Benth.",
+      "nome_pop": "Amarelo, jaguarana, balizia, esponja, juerana-branca"
+    },
+    {
+      "_id": "59c2bc1b42a4ab0011559703",
+      "familia": "Cactaceae",
+      "loc": [
+        {
+          "lat": -7.2331677,
+          "lng": -39.4340634
+        }
+      ],
+      "__v": 0,
+      "info": "Depois de queimados os espinhos dos ramos novos, essa cactácea pode ser usada para a alimentação animal, caracterizando-se como uma ótima fonte de alimento alternativo para bovinos, ovinos e caprinos no período da estiagem. Com teores de proteína em torno de 11,41% e produção média de 78 toneladas por hectare, é uma planta com potencial forrageiro semelhante ao da palma. Cultivada em uma área da propriedade, a espécie é uma alternativa barata para melhor estruturar os sistemas de produção da agricultura familiar. Árvore ornamental, o furto é fonte alimento para humanos, pássaros e outro animais. (LIMA, 2012)",
+      "clima": "Caatinga, Cerrado",
+      "categoria": "Arbusto, Suculenta",
+      "nome_cie": "Cereus jamacaru DC.",
+      "localidade": "UC - Sítio Fundão",
+      "luminosidade": "é endêmica do Brasil",
+      "altura": "Até 6 metros",
+      "origem": "Nativa",
+      "nome_pop": "Mandacaru, mandacaru-de-boi, mandacaru-facheiro, cardeiro"
+    },
+    {
+      "_id": "5ad663cf4ba69b0004577a12",
+      "nome_pop": "Catingueira, catinga-de-porco, pau-de-rato",
+      "nome_cie": "Poincianella bracteosa (Tul.) L. P. Queiroz",
+      "familia": "Fabaceae - Caesalpinioideae",
+      "categoria": "Arbusto, Árvoreta ou Árvore",
+      "origem": "Nativa",
+      "clima": "Caatinga",
+      "luminosidade": "",
+      "altura": "até 7m",
+      "info": "Madeira utilizada para mourões, estacas, construções rústicas, lenha e carvão. Flores melíferas e sua folhagem serve como alimento para o gado. Extratos aquosos da parte aérea (caules e folhas) dessa planta possui atividade inseticida sobre larvas do A. aegypti. Folhas impari-bipinadas, folíolos alternos, coriáceos, fétidos de tamanho gradualmente amior em direção ao ápice da pina. Inflorescência terminais tipo panícula, flores com pétalas livres entre si de cor amarela.Floração no mês de março. Fruto tipo legume, fortemente compresso, castanho. Sementes com seis castanhas.\n",
+      "localidade": "ARIE - TAUÁ",
+      "loc": []
+    },
+    {
+      "_id": "5ad6660b4ba69b0004577a13",
+      "nome_pop": "Mulungu, bucaré, corticeira, cortiça, suinã, corticeira-do-sertão, eritrina, muchôco e mulungá, ",
+      "nome_cie": "Erythrina velutina Wild.",
+      "familia": "Fabaceae - Faboideae",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "clima": "Caatinga, Cerrado, Mata Atlântica",
+      "luminosidade": "",
+      "altura": "até 15 m",
+      "info": "O nome vulgar mulungu vem do tupi, mussungú ou muzungú e do africano mulungu significando “pandeiro”, talvez pela batida no seu tronco oco emitir som. Usada para paisagismo urbano, melífera, madeira leve mole e de baixa durabilidade natural. Bastante copada. Folhas trifoliadas, bem largas, 11 cm. Flores bissexuadas e zigomorfas, são carnosas vermelho-alaranjadas e agrupam-se em panículas racemosas terminais e axilares.  Floresce no mês de janeiro a fevereiro no estado do Ceará. Muitos pássaros procuram suas flores devido seu néctar. Fruto vagem curta, 6 cm, com sementes de um cm no formato de feijão, avermelhadas ou amarronzadas.",
+      "localidade": "ARIE - TAUÁ",
+      "loc": [
+        {
+          "lat": -5.39973789,
+          "lng": -40.07294622
+        }
+      ]
+    },
+    {
+      "_id": "5ad667884ba69b0004577a14",
+      "nome_pop": "Imburana, Imburana-de-espinho, imburana-brava, falsa umburana, umburana de cambão, imburana-de-abelha, imburana-vermelha.",
+      "nome_cie": "Comminphora leptophloeos (Mart.) J. B. Gillett.",
+      "familia": "Burseraceae",
+      "categoria": "Árvore",
+      "origem": "Nativa (ocorre na Bolívia)",
+      "clima": "Caatinga, Mata Atlãntica.",
+      "luminosidade": "",
+      "altura": "Até 12 m",
+      "info": "Utilidades: alimentação animal (folhas), apícola, frutos comestíveis; artesanato, celulose e papel, energia e madeira; medicinal, paisagístico. resina.  Tronco tortuoso e muito esgalhado dotado de espinhos agudos e fortes. A casca externa ou ritidoma é lisa, lustrosa, desprendendo-se em lâminas delgadas, revolutas, muito irregulares e características. Entretanto, a casca característica não deve ser confundida com a do cumaru (Amburana cearensis), desprovida de espinhos e com forte cheiro de cumarina. Folhas alternas, compostas, imparipinadas, Inflorescência em forma de panículas axilares. Floração de dezembro a janeiro no Ceará. Fruto é um drupóide, de cor verde, medindo cerca de 1,5 cm de diâmetro. Sob insolação, o fruto abre no meio, liberando uma única semente negra – salvo na base, onde se torna branca – revestida na base por um arilo vermelho.",
+      "localidade": "ARIE - TAUÁ",
+      "loc": [
+        {
+          "lat": -5.40584523,
+          "lng": -40.06213878
+        }
+      ]
+    },
+    {
+      "_id": "5ad67d7db97a190004ed1099",
+      "nome_pop": "Quebra-faca",
+      "nome_cie": "Croton conduplicatus Kunth.",
+      "familia": "Euphorbiaceae",
+      "categoria": "Arbusto",
+      "origem": "Nativa",
+      "clima": "Caatinga",
+      "luminosidade": "",
+      "altura": "3 a 4 m",
+      "info": "Utilidades: as folhas e ramos novos são excelentes forrageiras para caprinos, ovinos, bovinos; os frutos servem para alimentação de aves e roedores; folhas e madeira são medicinais usadas no tratamento de problemas renais; as flores são melíferas. O crescimento da planta é cespitoso, com caules acinzentados; as folhas são simples, alternas e pilosas. As flores estão reunidas em cachos terminais isolados e de cor creme-claro. Os frutos são em forma de cápsula que contém três sementes. A floração inicia no mês de janeiro e frutifica a partir do mês de março.",
+      "localidade": "ARIE - TAUÁ",
+      "loc": [
+        {
+          "lat": -5.4057075,
+          "lng": -40.06238402
+        }
+      ]
+    },
+    {
+      "_id": "5ad68219b97a190004ed109a",
+      "nome_pop": "Maniçoba",
+      "nome_cie": "Manihot pseudoglaziovii Pax et K. Hoffman",
+      "familia": "Euphorbiaceae",
+      "categoria": "Árvore",
+      "origem": "Nativa",
+      "clima": "Caatinga",
+      "luminosidade": "",
+      "altura": "até 7 m",
+      "info": "Utilidades: as folhas e ramos novos, fenados possuem 17,94% de proteína bruta que se constitui em excelente forrageira para bovinos, ovinos e caprinos. Ornamental.\nRaízes tuberosas semelhante à mandioca, tronco liso e coloração roxa-esbranquiçada que produz látex leitoso. As folhas são palmadas, ovais, glabras verde-claras. Os frutos são cápsulas globosas, com cinco estrias, três sementes lisas duras e amarelas pintadas de marron-escuro. Reprodução assexuada por estacas e sexuada por sementes. Floração entre os meses de setembro a outubro e frutificação entre novembro e dezembro. Madeira muito leve, macia ao corte, de textura grosseira muito suscetível ao ataque de organismos xilófagos. \n",
+      "localidade": "ARIE - TAUÁ",
+      "loc": [
+        {
+          "lat": -5.40563081,
+          "lng": -40.06253046
+        }
+      ]
+    },
+    {
+      "_id": "5ad6832eb97a190004ed109b",
+      "nome_pop": "Pinhão bravo, Pinhão",
+      "nome_cie": "Jatropha molíssima (Pohl) Baill.",
+      "familia": "Euphorbiaceae",
+      "categoria": "Arbusto, Arvoreta",
+      "origem": "Nativa",
+      "clima": "Caatinga",
+      "luminosidade": "",
+      "altura": "1,5 a 3 m",
+      "info": "Madeira muito leve e pouco aproveitada. O látex avermelhado da planta é utilizado na medicina caseira, é cicatrizante e hemostático. O látex tem sido empregado no tratamento de úlceras e contra o veneno de cobras. As sementes possuem óleo de fácil extração que é utilizado como purgativo para uso veterinário. A planta é ornamental. Possuem inflorescência terminal cimosa, monóica, flores pentâmeras. Frutos do tipo esquizocárpicos, secos. Com três cocas globosas de deiscência explosiva e consequente dispersão primária por autocoria. Tolerante a seca. ",
+      "localidade": "ARIE - TAUÁ",
+      "loc": [
+        {
+          "lat": -5.40553639,
+          "lng": -40.0630449
+        }
+      ]
+    },
+    {
+      "_id": "5ad68650b97a190004ed109c",
+      "nome_pop": "Marmeleiro, marmeleiro preto",
+      "nome_cie": "Croton sonderianus Muell. Arg. ",
+      "familia": "Euphorbiaceae",
+      "categoria": "Arbusto",
+      "origem": "Nativa",
+      "clima": "Caatinga",
+      "luminosidade": "",
+      "altura": "5 a 7 m",
+      "info": "Utilidades: Madeira utilizada para estacas, tutoramento de culturas agrícolas, varas de cercas, ripas roliças, caibros, cancelas, lenha e carvão. As folhas quando fenadas são excelentes forrageiras para bovinos e caprinos. As flores são fonte de néctar para abelha, os frutos servem para alimentação de aves e roedores e na medicina popular a casca é utilizada como anti-inflamatória e digestiva. \nArbusto ereto e pouco ramificado. As folhas são simples com estípulas alternas e pilosas. Inflorescência tipo racemo, multifloras, unissexuais. Flores alvas. Os frutos possuem formato de cápsulas com três sementes. Floração inicia no m ês de janeiro e frutifica a partir de março.\n",
+      "localidade": "ARIE - TAUÁ",
+      "loc": [
+        {
+          "lat": -5.4052183,
+          "lng": -40.06447699
+        }
+      ]
+    },
+    {
+      "_id": "5ad6875eb97a190004ed109d",
+      "nome_pop": "Aroeira, aroeira-preta, aroeira-do-sertão",
+      "nome_cie": "Myracrodruon urundueva Allemão",
+      "familia": "Anacardiaceae",
+      "categoria": "Arvore",
+      "origem": "Nativa",
+      "clima": "Caatinga",
+      "luminosidade": "",
+      "altura": "10 a 15 m",
+      "info": "Esta espécie está na lista de espécies ameaçadas de extinção e é protegida por órgãos ambientais. O corte da aroeira é proibido por lei. Utilidades: madeira excelente e valorizada para obras externas (mourões, estacas, dormentes, vigas, linhas e caibros e peças torneadas. Carvão de elevado poder calorífico. A casca é rica em tanino utilizada na indústria de curtume. Na medicina popular a casca é utilizada no tratamento das vias respiratórias e urinárias. As folhas quando maduras são forrageiras. Apresenta fuste linheiro, A casca é castanho escura, folhas imparimpenadas, inflorescência tipo panícula, flores sésseis unissexuais. Fruto seco, indeiscente. Floração de outubro a janeiro e frutificação entre os meses de dezembro e março.",
+      "localidade": "ARIE - TAUÁ",
+      "loc": [
+        {
+          "lat": -5.40504245,
+          "lng": -40.06572494
+        }
+      ]
+    },
+    {
+      "_id": "5ad68802b97a190004ed109e",
+      "nome_pop": "Cipó de cururu",
+      "nome_cie": "Doliocarpus dentatus (Aubl.) Standl.",
+      "familia": "Dilleniaceae",
+      "categoria": "Liana ou cipó",
+      "origem": "Nativa",
+      "clima": "Caatinga, Cerrado",
+      "luminosidade": "",
+      "altura": "1 a 2 m",
+      "info": "Inflorescência paniculada, Flores hermafroditas, folhas lisas, pubescentes com tricomas simples. Quando cortados esta planta deixa escapar uma considerável quantidade de água que permite mitigar a sede.Tem aplicação medicinal. Os frutos não são comestíveis. ",
+      "localidade": "ARIE - TAUÁ",
+      "loc": [
+        {
+          "lat": -5.40126998,
+          "lng": -40.06767984
+        }
+      ]
+    },
+    {
+      "_id": "5a25d2ef6132ff0a62d50ae8",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formações Crato, Ipubi e Romualdo",
+      "designacao": "Tharrhias araripis",
+      "info": "Sobre o Tharrhias da Chapada do Araripe\" tem por finalidade uma melhor compreensão da ictiofáunula do cretáceo da Chapada do Araripe, no nordeste do Brasil. O gênero Tharrhias é reestudado dando-se a definida diagnose e esclarecendo a sua posição taxonômica entre os Chianidae e a interrelação com os demais gênros dessa família, especialmente as formas\nfósseis do Cretáceo. O problema da validade das espécies, Tharrhias araripis JORDAN & BRANNER, (1908) e Tharrhias rochae (JORDAN & BRANNER,1908) é analisado, após o estudo das mesmas, baseado em material das coleções paleoictiológicas do DNPM. Ambas as espécies são consideradas válidas do ponto de vista taxonômico sendo redescritas e recebendo nova caracterização. Num exame das condições de deposição dos sedimentos da Chapada do Araripe, focalizou o sistema de vida que possivelmente tiveram esses Chianidae do Cretáceo do Araripe e a razão do número elevado de fósseis desses peixes entre os ictiólitos encontrados nos sedimentos da Formação Santana. (OLIVEIRA, Anuário IGeo capa > v. 16, 1993)  Designação: Álamo Feitosa Saraiva (2017).",
+      "fossil": true
+    },
+    {
+      "_id": "5a399f7f6132ff0a62d50afb",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formação Crato",
+      "designacao": "Ararpegryllus serrilhatus",
+      "info": "Ordem: Ensifera - Grilo.\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+      "fossil": true
+    },
+    {
+      "_id": "5a39a0f76132ff0a62d50afd",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formação  Crato",
+      "designacao": "Brachyphyllum obesum",
+      "info": "GIMNOSPERMA - Coníferas\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+      "fossil": true
+    },
+    {
+      "_id": "5a39a1fd6132ff0a62d50afe",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formação  Crato",
+      "designacao": "Ruffordia goeppertii",
+      "info": "PLANTAS - Pteridófitas\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+      "fossil": true
+    },
+    {
+      "_id": "5a25d33b6132ff0a62d50aea",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formações Ipubi, Romualdo e Santana",
+      "designacao": "Rhacolepis buccalis",
+      "info": "PEIXES - Pachyrhizodontidae - Agassiz (1841). Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013).\nRhacolepis é um gênero extinto de peixe com asas de raios da Formação Santana do Brasil. O coração fossilizados completos desta espécie foram recuperados.",
+      "fossil": true
+    },
+    {
+      "_id": "5a2704216132ff0a62d50aec",
+      "idade": "Jurássico",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formação Missão Velha",
+      "designacao": "Dadoxylon sp.",
+      "info": "GIMNOSPERMA - Coníferas - Madeira Silicificada\nFreitas, Hessel & Neto (2008)\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+      "fossil": true
+    },
+    {
+      "_id": "5a2704766132ff0a62d50aee",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formação crato",
+      "designacao": "Mesoblatina limai",
+      "info": "Ordem: Blattodea - Baratas\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+      "fossil": true
+    },
+    {
+      "_id": "5a2704036132ff0a62d50aeb",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formações Crato, Ipubi e Romualdo",
+      "designacao": "Cladocyclus gadneri",
+      "info": "PEIXES - Ichthyodectiformes - Agassiz (1841). Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013)\nUm dos principais grupos de fósseis preservados na Bacia do Araripe são os peixes. Estima-se que já foram coletados milhares de exemplares, tanto nas camadas de calcário laminado da Formação Crato, como também nos nódulos calcários da Formação Romualdo. Na Formação Romualdo, a diversidade de peixes é bem maior. Além de Cladocyclus gardneri, com as formas adultas atingindo mais de um metro, outro grande predador daquele tempo era Calamopleurus audax (Amiidae), que podia alcançar quase dois metros de comprimento. Também são encontrados outros peixes. Alguns apresentavam o corpo arredondado, como Araripichthys castilhoi. Raias (Iansan beurleni), tubarões primitivos (Tribodus limae) e celacantídeos (Axelrodichthys araripensis) apesar de serem mais raros, complementam a fauna de peixes desta antiga laguna de 110 milhões de anos. (Silva-Santos, 1985).\nDesignação: Álamo Feitosa Saraiva.",
+      "fossil": true
+    },
+    {
+      "_id": "5a2704936132ff0a62d50aef",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formação  Crato",
+      "designacao": "Protoligoneuria limai",
+      "info": "Ephemeroptera - Larva - McCafferty (1990). Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+      "fossil": true
+    },
+    {
+      "_id": "5a39a2766132ff0a62d50aff",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formação  Crato",
+      "designacao": "Klitzchophyllites sp.",
+      "info": "ANGIOSPERMAS\nMohr, Brenardes-de-Oliveira, Barale & Ouaja (2006)\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+      "fossil": true
+    },
+    {
+      "_id": "5a39a5416132ff0a62d50b00",
+      "idade": "Cretáceo",
+      "procedencia": "Chapada do Araripe",
+      "estratigrafia": "Formação Romualdo",
+      "designacao": "Calamopleurus cilindricus",
+      "info": "PEIXES - Amiiformes\nAgassiz (1841)\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+      "fossil": true
+    },
+    {
+      "_id": "5a25d3146132ff0a62d50ae9",
+      "info": "Designação: PEIXES - Aspidorhychiformes Jordan (1919) Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013).\nVinctifer é uma grande espécie de peixe aspidorhynchid atingindo cerca de 800 mm de comprimento total. A espécie é facilmente reconhecida pela presença de um tribo edentolous representado pelas premaxilas e por um osso predentário muito curto. Os dentes nessas espécies são muito pequenos e mal desenvolvidos. A maxila apresenta uma grande expansão posterior. Existem três escalas profundas de flanco; As escalas de linha lateral são muito mais profundas do que as outras. Os ossos e as escamas do crânio são cobertos pela ganoína. A barbatana caudal apresenta dois lobos de igual comprimento. O endosqueleto caudal tem três uroneurais longos. (Para uma descrição completa, veja Brito 1997 ).\n",
+      "designacao": "Vinctifer comptoni",
+      "fossil": true,
+      "estratigrafia": "Formações Romualdo e Ipubi",
+      "procedencia": "Chapada do Araripe",
+      "idade": "Cretáceo"
+    },
+    {
+      "_id": "5a27a6326132ff0a62d50af1",
+      "titulo": "Parque Estadual Sítio Fundão – Geossítio Batateiras",
+      "info": "Criado pelo Decreto Nº 29.307 de 05/06/2008, na categoria de Unidade de Conservação de Proteção Integral prevista pelo Sistema Estadual de Unidades de Conservação – SNUC, possui como finalidade a prevenção de ecossistemas naturais de grande relevância ecológica e beleza cênica, possibilitando a realização de pesquisas científicas e o desenvolvimento de atividades de educação e interpretação ambiental, de recreação em contato com a natureza e de turismo ecológico. Está localizado no município de Crato – CE e possui uma área de 93,54 ha, apresentando espécies da flora e fauna típicas do bioma Caatinga, edificações históricas tombadas e um pequeno cânion formado pelo rio Batateira, o qual dá nome ao território ao geossítio do Geopark Araripe ( Geossítio Batateiras), área em que está sobreposto, o Pares Sítio Fundão.",
+      "localidade": "Crato - Ceará",
+      "historia": true
+    },
+    {
+      "_id": "5a2946196132ff0a62d50af3",
+      "titulo": "Centro de Visitantes Jeferson da Franca Alencar",
+      "info": "Edificação de raro modelo construtivo, construída em taipa com alpendre elevado, piso superior em madeira. Todas as paredes são de taipa de mão com esteios de aroeira/pau d’arco com distância regular entre eles e envaramento de marmeleiro com fixação de cipó, sendo considerada a única casa de taipa de primeiro andar do Estado. Tombada pela Secretaria de Cultura do Estado em 2013. Transformada em Centro de Visitantes em 2017, recebeu o nome do antigo guardião do local.",
+      "localidade": "Crato - Ceará",
+      "historia": true
+    },
+    {
+      "_id": "5a2946856132ff0a62d50af4",
+      "titulo": "Ruínas do engenho de pau movido por tração animal ",
+      "info": "Engrenagem feita de madeira com tratamento artesanal, era movido a tração animal e é também chamado engenho de pau. Construído em 1904, funcionou até 1944 onde houve o declínio da produção de rapadura no Crato. É exemplar único existente na Região do Cariri. Tombado pela Secretaria de Cultura do Estado em 2013.",
+      "localidade": "Parque Estadual Sítio Fundão",
+      "historia": true
+    },
+    {
+      "_id": "5a2946a66132ff0a62d50af5",
+      "titulo": "Muralha de Pedra",
+      "info": "Pequena barragem construída de pedra e argamassa de cal no  fim do século XIX para represar, nas épocas de seca, as águas do rio Batateiras que corta o Parque Estadual Sítio Fundão. Tombado pela Secretaria de Cultura do Estado em 2013.",
+      "localidade": "Parque Estadual Sítio Fundão",
+      "historia": true
+    },
+    {
+      "_id": "5ad110b3e3a2020004da04e9",
+      "historia": true,
+      "titulo": "Área de Relevante Interesse Ecológico - Arie das Águas Emendadas dos Inhamuns",
+      "info": "Órgão Gestor: SEMA - Situação Fundiária: Área particular; OBJETIVOS DE CRIAÇÃO: Proteger e preservara área em sua função ecológica, inclusive em relação as nascentes que formam os divisores de água que alimentam os tributários das bacias do Rio Banabuiú, Rio Jaguaribe (Carrapateira) e Rio Poti. Assegurar o provimento sustentável dos recursos naturais e da diversidade biológica da área.Conservar as espécies vegetais endêmicas da região em face da sua importância e fragilidade. Ordenar o turismo ecológico, científico e cultural e as demais atividades econômicas combatíveis com a conservação ambiental. Desenvolver junto a população local e regional, uma consciência ecológica e conservacionista. Propiciar a recuperação de áreas degradadas. Promover Educação Ambiental da comunidade do entorno.",
+      "localidade": "ARIE - Tauá"
+    },
+    {
+      "_id": "5af0eb029fecb90004bfb81e",
+      "historia": true,
+      "titulo": "A5 - TRILHA DA LAGOA - Acesso Rua Arq. Reginaldo Rangel",
+      "info": "",
+      "localidade": "Fortaleza"
+    },
+    {
+      "_id": "5af0ea259fecb90004bfb81c",
+      "historia": true,
+      "titulo": "A1 - TRILHA PRINCIPAL",
+      "info": "Esse é o acesso principal à trilha mais extensa do parque (1.350m) que está localizada próxima à Av. Padre Antônio Tomás. A menos de 15m está localizado o posto do Batalhão de Polícia Militar Ambiental que funciona 24h. Esse acesso é o mais próximo ao Centro de Referência Ambiental e ao Anfiteatro onde acontecem as atividades do Viva o Parque aos domingos.",
+      "localidade": "Acesso Av. Pe. Antonio Tomás"
+    },
+    {
+      "_id": "5af0eb819fecb90004bfb81f",
+      "historia": true,
+      "titulo": "A2 - TRILHA PRINCIPAL  ",
+      "info": "Essa entrada dá acesso a Trilha Principal através da Av. Engenheiro Santana Júnior. Essa trilha passa pelas antigas lavanderias, dando acesso a Trilha Principal e à Trilha da Lagoa.",
+      "localidade": "Acesso  Av. Engenheiro Santana Junior"
+    },
+    {
+      "_id": "5af0ea9f9fecb90004bfb81d",
+      "historia": true,
+      "titulo": "A3 - TRILHA PRINCIPAL ",
+      "info": "Essa entrada é a mais próxima do trapiche de onde saem os passeios de barco no Rio Cocó que têm duração média de 20 min. Esse é o acesso mais rápido a entrada da Trilha do Rio que possui 150m e é a única que possibilita a contemplação do rio.",
+      "localidade": "Acesso Av. Sebastião de Abreu"
+    },
+    {
+      "_id": "5b341676d2d82b00041c9288",
+      "historia": true,
+      "titulo": "Parque Estadual do Cocó",
+      "info": "",
+      "localidade": "Fortaleza"
+    },
+    {
+      "_id": "5a2946e46132ff0a62d50af6",
+      "titulo": "Rio Batateira - Formação Rio da Batateira (Krb) - Cretáceo Médio",
+      "info": "Principal Formação Geológica de idade cretácea que caracteriza os sedimentos existentes no Parque Estadual Sítio Fundão. A Formação Batateira ou Formação Rio da Batateira, assim também chamada, é composta basicamente de arenitos médios a grosseiros, de coloração creme a amarelada, que gradam, ascendentemente, para arenitos médios a finos e são seguidos por materiais argilosos e folhelhos (argilas metamorfisadas ou transformadas de coloração amarronzada) que apresentam vestígios de matérias orgânicas e fósseis e que em alguns locais apresentam-se betuminosos, ou seja, encerram pequenas quantidades de betume ou óleo petrolífero. A importância maior da Formação Batateira, que se estende até Missão Velha e Jardim, fica por conta da grande quantidade de água subterrânea de boa qualidade (muito bem mineralizada), que a mesma armazena e que permite o abastecimento das cidades de Crato, Juazeiro, Barbalha, Missão Velha e Jardim, além da grande quantidade de material argiloso que permite a fabricação de produtos cerâmicos (telhas e tijolos).\n",
+      "localidade": "Crato - Ceará",
+      "historia": true
+    }
+  ]
+}
