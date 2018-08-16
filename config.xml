@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.ionic.starter" version="2.9.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="io.ionic.ecomapss" version="10.10.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>ecomapss</name>
     <description>Ecomapss nature and tech</description>
     <author email="thirdy@ecomapss.com" href="http://ionicframework.com/">Ecomapss Team</author>
@@ -88,24 +88,8 @@
         <variable name="ANDROID_SUPPORT_V4_VERSION" value="27.+" />
     </plugin>
     <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
-    <plugin name="cordova-plugin-crosswalk-webview" spec="^2.4.0">
-        <variable name="XWALK_VERSION" value="23+" />
-        <variable name="XWALK_LITEVERSION" value="xwalk_core_library_canary:17+" />
-        <variable name="XWALK_COMMANDLINE" value="--disable-pull-to-refresh-effect" />
-        <variable name="XWALK_MODE" value="embedded" />
-        <variable name="XWALK_MULTIPLEAPK" value="true" />
-    </plugin>
     <plugin name="cordova-android-support-gradle-release" spec="^1.4.4">
         <variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
-    </plugin>
-    <plugin name="cordova-background-geolocation-lt" spec="^2.12.2">
-        <variable name="LICENSE" value="YOUR_LICENSE_KEY" />
-        <variable name="GOOGLE_API_VERSION" value="11.8.0" />
-        <variable name="APPCOMPAT_VERSION" value="27.0.0" />
-        <variable name="LOCATION_ALWAYS_AND_WHEN_IN_USE_USAGE_DESCRIPTION" value="Always use is required for background location tracking" />
-        <variable name="LOCATION_ALWAYS_USAGE_DESCRIPTION" value="Background location-tracking is required" />
-        <variable name="LOCATION_WHEN_IN_USE_USAGE_DESCRIPTION" value="Background location-tracking is required" />
-        <variable name="MOTION_USAGE_DESCRIPTION" value="Using the accelerometer increases battery-efficiency by intelligently toggling location-tracking only when the device is detected to be moving" />
     </plugin>
     <engine name="android" spec="7.0.0" />
 </widget>

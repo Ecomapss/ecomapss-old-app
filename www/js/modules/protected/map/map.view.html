@@ -1,5 +1,9 @@
 <ion-view hide-nav-bar="true">
     <ion-content>
-        <ec-map></ec-map>
+
+        <ion-content scroll="false">
+            <ec-map on-create="mapCreated(map, L)"></ec-map>
+        </ion-content>
+
     </ion-content>
 </ion-view>
