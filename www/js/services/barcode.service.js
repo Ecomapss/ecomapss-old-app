@@ -16,20 +16,19 @@
 	/** @ngInject */
 	function BarcodeService($cordovaBarcodeScanner, $q, ecConstants) {
 		this.scan = scan;
-		var qrCodeID = ecConstants.IDENTIFIERS.QR_CODE_IDENTIFIER;
-
-		function _extractID(string = '', indexOfIdentifier = 0) {
-			var endOfSubstring = indexOfIdentifier;
-			return string.substring(indexOfIdentifier, string.length);
-		}
+		var identifier = ecConstants.IDENTIFIERS.QR_CODE_IDENTIFIER;
 
 		function _normalizeID(string = '') {
-			var indexOfIdentifier = string.indexOf(qrCodeID);
-
-			if (indexOfIdentifier === -1) {
-				return string;
-			} else {
-				return _extractID(string, indexOfIdentifier)
+			try{
+				string = string.split(identifier)
+	
+				switch(string.length){	
+					case 1: return string[0]  
+					case 2: return string[1]
+					default: return string
+				}
+			}catch(e){
+				alert(e)
 			}
 		}
 

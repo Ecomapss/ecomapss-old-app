@@ -6,7 +6,7 @@
         .controller('MenuCtrl', MenuCtrl)
 
     /** @ngInject */
-    function MenuCtrl(BarcodeService, EntitiesService) {
+    function MenuCtrl($state, BarcodeService, EntitiesService) {
         var vm = this;
 
         init();
@@ -15,19 +15,29 @@
         }
 
         vm.scan = function () {
-            
-            // EntitiesService.getById('5a2946e46132ff0a62d50af6', 'entities')
-            //     .then(function (item) {
-            //         console.log('item ->', item);
-            //     })
-
-            // 5a2946e46132ff0a62d50af6
             BarcodeService.scan({
                 showTorchButton: true,
                 disableSuccessBeep: true,
                 torchOn: true,
             }).then(function (response) {
-                alert(response)
+                
+                EntitiesService.getById($state.params.id, 'entities')
+                .then(function (item) {
+                    if (item.inseto) {
+                        $state.go('protected.entity-details', { id: response })
+                        vm.fauna = result
+                    } else if (item.fossil) {
+                        $state.go('protected.entity-details', { id: response })
+                        vm.fossil = result
+                    } else if (item.historia) {
+                        $state.go('protected.entity-details', { id: response })
+                        vm.historia = result
+                    } else if ('nome_pop' in item) {
+                        $state.go('protected.entity-details', { id: response })
+                        vm.flora = result
+                    } 
+                })
+
             }).catch(function (err) {
                 alert(err.toString())
             })
