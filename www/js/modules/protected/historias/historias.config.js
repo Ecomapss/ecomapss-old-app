@@ -27,7 +27,7 @@
       }, {
         state: 'protected.details-historias',
         config: {
-          url: '/details-historias/:id',
+          url: '/details-historias/:index/:id',
           views: {
             'tab-entities': {
               controller: 'HistoriaDetailsCtrl',
