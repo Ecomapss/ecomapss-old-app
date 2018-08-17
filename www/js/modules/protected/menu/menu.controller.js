@@ -15,22 +15,22 @@
         }
 
         vm.scan = function () {
-
-            EntitiesService.getById('5a2946e46132ff0a62d50af6', 'entities')
-                .then(function (item) {
-                    console.log('item ->', item);
-                })
+            
+            // EntitiesService.getById('5a2946e46132ff0a62d50af6', 'entities')
+            //     .then(function (item) {
+            //         console.log('item ->', item);
+            //     })
 
             // 5a2946e46132ff0a62d50af6
-            // BarcodeService.scan({
-            //     showTorchButton : true,
-            //     disableSuccessBeep: true,
-            //     torchOn: true,
-            // }).then(function (response) {
-            //     alert(response)
-            // }).catch(function (err) {
-            //     alert(err.toString())
-            // })
+            BarcodeService.scan({
+                showTorchButton: true,
+                disableSuccessBeep: true,
+                torchOn: true,
+            }).then(function (response) {
+                alert(response)
+            }).catch(function (err) {
+                alert(err.toString())
+            })
         }
     }
 
