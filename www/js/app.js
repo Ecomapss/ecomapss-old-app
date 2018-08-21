@@ -6,6 +6,8 @@
     .module('ecomapss', [
       'ngCordova',
       'ionic',
+      'nemLogging',
+      'ui-leaflet',
 
       // Modules
       'ecomapss.protected',
