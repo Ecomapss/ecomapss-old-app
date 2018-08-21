@@ -14,19 +14,27 @@
         function init() {
         }
 
+        vm.goEntiti =function(){
+            // $state.reload('protected.entities');
+
+            $state.transitionTo('protected.entities', null, { reload: false, inherit: false, notify: true });
+        }
+
         vm.scan = function () {
-            console.log('response ->');
             BarcodeService.scan({
                 showTorchButton: true,
                 disableSuccessBeep: true,
                 torchOn: true,
             }).then(function (response) {
+                console.log('response ->', response);
                 if(response){
                     EntitiesService.getById(response, 'entities')
                     .then(function (item) {
+                        console.log('item ->', item);
                         if (item.inseto) {
                             $rootScope.fauna = item
-                            $state.go('protected.details-fauna', { id: item._id })
+                            console.log('$rootScope.fauna ->', $rootScope.fauna);
+                            $state.go('protected.details-fauna', { index:'', id: item._id })
                         } else if (item.fossil) {
                             $rootScope.fossil = item
                             $state.go('protected.details-fossil', { id: item._id })
@@ -47,6 +55,7 @@
                 alert(err.toString())
             })
         }
+
     }
 
 }());

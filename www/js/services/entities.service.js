@@ -58,6 +58,7 @@
 
     function getByIndex(index, type) {
       local = type
+      console.log('index, type ->', index, type);
       return $q(function (resolve, reject) {
         $http
           .get(baseUrl + local + ".json")
@@ -86,9 +87,19 @@
           .get(baseUrl + local + ".json")
           .then(function (response) {
             if (response.status < 400) {
-              var entity = response.data.Data.filter(function(item){
+              var entity = response.data.Data.filter(function (item) {
                 return item._id == id
-              })
+              })[0]
+              if (entity.inseto) {
+                local = 'fauna'
+              } else if (entity.fossil) {
+                local = 'fossil'
+              } else if (entity.historia) {
+                local = 'historia'
+              } else if ('nome_pop' in entity) {
+                local = 'flora'
+              }
+              console.log('entity ->', entity);
               _getImage(entity).then(function (result) {
                 TimelineService.saveHistory({
                   date: new Date(),
@@ -97,6 +108,7 @@
                   info: result.nome_pop,
                   sub_info: result.nome_cie
                 })
+                console.log('result ->', result);
                 return resolve(result);
               })
             }

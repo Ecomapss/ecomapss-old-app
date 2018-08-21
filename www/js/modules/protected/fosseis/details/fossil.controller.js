@@ -20,7 +20,7 @@
         vm.fossil = $rootScope.fossil
       } else {
         EntitiesService
-          .getByIndex($state.params.id, 'fossil')
+          .getByIndex($state.params.index, 'fossil')
           .then(function (result) {
             vm.fossil = result
           })
