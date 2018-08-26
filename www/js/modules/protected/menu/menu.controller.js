@@ -6,9 +6,9 @@
         .controller('MenuCtrl', MenuCtrl)
 
     /** @ngInject */
-    function MenuCtrl($state, $rootScope, BarcodeService, EntitiesService) {
+    function MenuCtrl($state, $rootScope, BarcodeService, EntitiesService, routerHelper) {
         var vm = this;
-
+        vm.hideBackButton = false;
         init();
 
         function init() {
@@ -46,6 +46,25 @@
             }).catch(function (err) {
                 alert(err.toString())
             })
+        }
+
+        $rootScope.$on("$stateChangeStart", function (event, toState, toParams, fromState, fromParams) {
+            routerHelper.pushPage(toState);
+            if(fromState.tabRoot){
+                routerHelper.setLastRootTab(angular.copy(fromState.name));
+            }
+
+            if(!toState.tabRoot){
+                vm.hideBackButton = false;
+            }else{
+                vm.hideBackButton = true;
+            }
+
+        });
+
+        vm.navigateTo = function(stateName){
+            $state.go(stateName);
+            vm.hideBackButton = true;
         }
     }
 
