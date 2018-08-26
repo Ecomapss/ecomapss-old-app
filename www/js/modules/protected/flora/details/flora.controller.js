@@ -20,7 +20,7 @@
         vm.flora = $rootScope.flora
       } else {
         EntitiesService
-          .getByIndex($state.params.id, 'flora')
+          .getByIndex($state.params.index, 'flora')
           .then(function (result) {
             vm.flora = result
           })

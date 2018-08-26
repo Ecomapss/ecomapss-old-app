@@ -8,7 +8,7 @@
         </div>
 
         <div class="list">
-            <a class="item item-avatar" ui-sref="protected.details-historias({index: $index})" ng-repeat="historia in historias.historias | filter:search">
+            <a class="item item-avatar" ui-sref="protected.details-historias({index: $index, id:-1})" ng-repeat="historia in historias.historias | filter:search">
                 <img ng-src="{{historia.picture}} ">
                 <h2>{{historia.titulo}}</h2>
                 <p>{{historia.info}}</p>

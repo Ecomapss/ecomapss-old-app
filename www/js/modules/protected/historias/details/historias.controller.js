@@ -12,6 +12,7 @@
     init();
 
     function init() {
+      console.log('$state.params ->', $state.params);
       getHistoria()
     }
 
@@ -20,7 +21,7 @@
         vm.historia = $rootScope.historia
       } else {
         EntitiesService
-          .getByIndex($state.params.id, 'historia')
+          .getByIndex($state.params.index, 'historia')
           .then(function (result) {
             vm.historia = result
           })
