@@ -45,9 +45,11 @@
                             $rootScope.flora = item
                             $state.go('protected.details-flora', { id: item._id })
                         }
+                        
+                        vm.hideBackButton = true;
                     })
                 }else{
-                    alert(response)
+                    // alert(response)
                     console.log('response ->', response);
                 }
                     
