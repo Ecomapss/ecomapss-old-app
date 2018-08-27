@@ -21,7 +21,8 @@
             templateUrl: 'js/modules/protected/timeline/timeline.view.html',
             controllerAs: 'vm',            
           }
-        }
+        },
+        tabRoot: true
       }
     }];
   }

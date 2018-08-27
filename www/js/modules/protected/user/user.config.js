@@ -21,7 +21,8 @@
           templateUrl: 'js/modules/protected/user/user.view.html',
           controllerAs: 'user',            
         }
-      }
+      },
+      tabRoot: true
     }
   }];
 }
