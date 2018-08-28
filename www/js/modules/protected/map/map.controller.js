@@ -1,32 +1,48 @@
-(function(){
+(function () {
     'use strict';
 
     angular
-    .module('ecomapss.protected')
-    .controller('MapCtrl', MapCtrl)
+        .module('ecomapss.protected')
+        .controller('MapCtrl', MapCtrl)
 
     /** @ngInject */
-    function MapCtrl(){
+    function MapCtrl($scope, $log, leafletData, UserService) {
         var vm = this;
-        
-        angular.extend($scope, {
-            defaults: {
-                tileLayer: 'http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png',
-                maxZoom: 14,
-                path: {
-                    weight: 10,
-                    color: '#800000',
-                    opacity: 1
+
+        var tilesDict = {
+            opencyclemap: {
+                url: "tiles/{z}/{x}/{y}.png",
+                options: {
+                    attribution: 'All maps &copy; <a href="http://www.opencyclemap.org">OpenCycleMap</a>, map data &copy; <a href="http://www.openstreetmap.org">OpenStreetMap</a> (<a href="http://www.openstreetmap.org/copyright">ODbL</a>'
                 }
             }
+        };
+
+        angular.extend($scope, {
+            center: {
+                lat: -3.74880925,
+                lng: -38.48508466,
+                zoom: 10
+            },
+            tiles: tilesDict.opencyclemap,
+            defaults: {
+                scrollWheelZoom: false
+            }
         });
-        
-        init();
 
-        function init(){
-            console.log('teste Timeline');
+        $info = 'Eu te Amo';
+        console.log($info);
+
+        $scope.changeTiles = function (tiles) {
+            $scope.tiles = tilesDict[tiles];
+        };
+
+        $scope.doInit = function () {
+            leafletData.getMap('map1').then(function (map) {
+                $scope.map = map;
+                $log.info(map);
+                $log.info(map);
+            });
         }
-
     }
-
 }());

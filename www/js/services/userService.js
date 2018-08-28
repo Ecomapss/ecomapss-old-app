@@ -14,6 +14,8 @@
     this.getAvatar = getAvatar;
     this.validationSteps = validationSteps;
     this.logOut = logOut;
+    this.setLocation = setLocation;
+    this.getLocation  = getLocation;
 
 
     this.avatarsUrl = "img/avatars/";
@@ -21,7 +23,8 @@
 
     var keys = {
       username: 'uName',
-      avatar: 'uAvatar'
+      avatar: 'uAvatar',
+      location: 'uLocation'
     }
 
   /**
@@ -77,6 +80,14 @@
 
     function getAvatar() {
       return StorageService.getData(keys.avatar);
+    }
+
+    function setLocation(key) {
+      StorageService.setData(keys.location, key);
+    }
+
+    function getLocation() {
+      return StorageService.getData(keys.location);
     }
 
     function logOut() {

@@ -1,0 +1,13 @@
+<ion-view hide-nav-bar="false">
+
+	<ion-content>
+        <div class="location-list">
+            <div ng-repeat="item in vm.data" class="animated fadeIn" ng-click="vm.setLocation(item.key)">
+                <div class="background-image" ng-style="{'background-image': 'url({{item.image}})'}"></div>
+                
+                <p class="content"> {{item.name}} </p>
+            </div>
+        </div>
+	</ion-content>
+
+</ion-view>

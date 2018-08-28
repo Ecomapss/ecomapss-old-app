@@ -1,5 +1,10 @@
 <ion-view hide-nav-bar="true">
-    <ion-content>
-        <leaflet id="map-tiles" center="coco" tiles="tiles" defaults="defaults"></leaflet>
+    <ion-content padding="false">
+        <leaflet id='map1'  center="center" tiles="tiles" defaults="defaults" height="100%" width="100%" ng-init="doInit()"></leaflet>
+        <div class="fab" ui-sref="protected.location">
+            <span class="fab-action-button">
+                <i class="ion-loop"></i>
+            </span>
+        </div>
     </ion-content>
 </ion-view>

@@ -24,7 +24,7 @@
             BarcodeService.scan({
                 showTorchButton: true,
                 disableSuccessBeep: true,
-                torchOn: true,
+                torchOn: false,
             }).then(function (response) {
                 console.log('response ->', response);
                 if(response){

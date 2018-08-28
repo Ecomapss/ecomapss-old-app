@@ -7,8 +7,7 @@
       'ngCordova',
       'ionic',
       'nemLogging',
-      'ui-leaflet',
-
+      'leaflet-directive',
       // Modules
       'ecomapss.protected',
       'ecomapss.avatar',

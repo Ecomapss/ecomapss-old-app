@@ -15,11 +15,13 @@
 					compatibilityMode: true,
 					translatedElement: ""
 			 });
+
+			 console.log(wl)
 		</script>
 		
 	</div>
 	
-	<ion-content class="ec-timeline" on-swipe-left="vm.goForward()">
+	<ion-content class="ec-timeline" on-swipe-left="vm.goForward()"  on-scroll="getScrollPosition()">
 		
 
 		<div ng-if="!vm.itemsIsFetched" class="flex-container loader-wrapper">
