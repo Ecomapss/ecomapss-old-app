@@ -6,7 +6,7 @@
         .controller('TimelineCtrl', TimelineCtrl)
 
     /** @ngInject */
-    function TimelineCtrl(I18nService, $scope, $timeout, TimelineService, ecConstants, UserService) {
+    function TimelineCtrl(I18nService, $scope, $timeout, TimelineService, ecConstants, UserService, $state, EntitiesService, $rootScope) {
         var vm = this;
         var thisModule = 'timeline';
         var histories = [];
@@ -18,6 +18,7 @@
 
         vm.doRefresh = function () {
             histories = TimelineService.getHistories();
+            console.log('a', histories);
             if (histories === ecConstants.ERRORS.HISTORIES_NOT_FOUND) {
 
             } else {
@@ -35,6 +36,30 @@
             vm.itemsIsFetched = true;
         }, 3500)
 
+        vm.goInHistory = function(item){
+            if(!item.id) return;
+            EntitiesService.getById(item.id, 'entities')
+            .then(function (item) {
+                console.log('item ->', item);
+                if (item.inseto) {
+                    $rootScope.fauna = item
+                    console.log('$rootScope.fauna ->', $rootScope.fauna);
+                    $state.go('protected.details-fauna', { index:'', id: item._id })
+                } else if (item.fossil) {
+                    $rootScope.fossil = item
+                    $state.go('protected.details-fossil', { id: item._id })
+                } else if (item.historia) {
+                    $rootScope.historia = item
+                    $state.go('protected.details-historias', { id: item._id })
+                } else if ('nome_pop' in item) {
+                    $rootScope.flora = item
+                    $state.go('protected.details-flora', { id: item._id })
+                }
+                
+                vm.hideBackButton = true;
+            })
+            
+        }
 
         function init() {
             vm.langOptions = I18nService.getLangOptions(vm.thisLocation);
