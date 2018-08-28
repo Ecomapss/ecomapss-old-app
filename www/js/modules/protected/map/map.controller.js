@@ -30,9 +30,6 @@
             }
         });
 
-        $info = 'Eu te Amo';
-        console.log($info);
-
         $scope.changeTiles = function (tiles) {
             $scope.tiles = tilesDict[tiles];
         };

@@ -6,8 +6,10 @@
     .module('ecomapss', [
       'ngCordova',
       'ionic',
+      // 'ui-leaflet',
       'nemLogging',
       'leaflet-directive',
+
       // Modules
       'ecomapss.protected',
       'ecomapss.avatar',

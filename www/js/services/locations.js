@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('ecomapss.servoce')
+        .module('ecomapss.services')
         .service('LocationsService', Locations)
 
     /* @ngInject */
