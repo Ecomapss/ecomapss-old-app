@@ -27,7 +27,7 @@
       }, {
         state: 'protected.details-flora',
         config: {
-          url: '/details-flora/:id',
+          url: '/details-flora/:index/:id',
           views: {
             'tab-entities': {
               controller: 'FloraDetailsCtrl',

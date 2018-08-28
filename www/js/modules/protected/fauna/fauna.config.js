@@ -27,7 +27,7 @@
     {
       state: 'protected.details-fauna',
       config: {
-        url: '/details-fauna/:id',
+        url: '/details-fauna/:index/:id',
         views: {
           'tab-entities': {
             controller: 'FaunaDetailsCtrl',

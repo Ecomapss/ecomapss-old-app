@@ -27,7 +27,7 @@
       }, {
         state: 'protected.details-fossil',
         config: {
-          url: '/details-fossil/:id',
+          url: '/details-fossil/:index/:id',
           views: {
             'tab-entities': {
               controller: 'FossilDetailsCtrl',

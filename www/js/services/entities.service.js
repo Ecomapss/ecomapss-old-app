@@ -47,7 +47,7 @@
           .get(baseUrl + local + ".json")
           .then(function (response) {
             if (response.status < 400) {
-              $q.all(_getImages(response.data.Data)).then(function (result) {
+              $q.all(_getImages(response.data.Data, true)).then(function (result) {
                 return resolve(result);
               })
             }
@@ -58,6 +58,7 @@
 
     function getByIndex(index, type) {
       local = type
+      console.log('index, type ->', index, type);
       return $q(function (resolve, reject) {
         $http
           .get(baseUrl + local + ".json")
@@ -86,9 +87,19 @@
           .get(baseUrl + local + ".json")
           .then(function (response) {
             if (response.status < 400) {
-              var entity = response.data.Data.filter(function(item){
+              var entity = response.data.Data.filter(function (item) {
                 return item._id == id
-              })
+              })[0]
+              if (entity.inseto) {
+                local = 'fauna'
+              } else if (entity.fossil) {
+                local = 'fossil'
+              } else if (entity.historia) {
+                local = 'historia'
+              } else if ('nome_pop' in entity) {
+                local = 'flora'
+              }
+              console.log('entity ->', entity);
               _getImage(entity).then(function (result) {
                 TimelineService.saveHistory({
                   date: new Date(),
@@ -97,6 +108,7 @@
                   info: result.nome_pop,
                   sub_info: result.nome_cie
                 })
+                console.log('result ->', result);
                 return resolve(result);
               })
             }
@@ -109,17 +121,20 @@
      * 
      * @returns {Array<Promise>}
      */
-    function _getImages(entities) {
+    function _getImages(entities, isList = false) {
       return entities.map(entity => {
-        return _getImage(entity)
+        return _getImage(entity, isList)
       })
     }
 
-    function _getImage(entity) {
+    function _getImage(entity, isList = false) {
       return $q(function (resolve, reject) {
-        $http.get("img/entities/" + local + "/" + entity._id + ".jpg").then(
+        var picture
+        isList ? picture = "img/entities/" + local + "/" + entity._id + ".thumbnail.png" : picture = "img/entities/" + local + "/" + entity._id + ".jpg"  
+        console.log('picture ->', picture);
+        $http.get(picture).then(
           function () {
-            entity.picture = "img/entities/" + local + "/" + entity._id + ".jpg"
+            entity.picture = picture
             return resolve(entity);
           },
           function (err) {

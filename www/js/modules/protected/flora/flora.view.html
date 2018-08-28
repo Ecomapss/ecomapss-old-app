@@ -8,7 +8,7 @@
         </div>
 
         <div class="list">
-            <a class="item item-avatar" ui-sref="protected.details-flora({id: $index})" ng-repeat="flora in flora.floras | filter:search">
+            <a class="item item-avatar" ui-sref="protected.details-flora({index: $index})" ng-repeat="flora in flora.floras | filter:search">
                 <img ng-src="{{flora.picture}} ">
                 <h2>{{flora.nome_pop}}</h2>
                 <p>{{flora.info}}</p>

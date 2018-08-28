@@ -1,28 +1,32 @@
 (function () {
-    'use strict';
+  'use strict';
 
-    angular
-        .module('ecomapss.flora')
-        .controller('FloraDetailsCtrl', FloraDetailsCtrl)
+  angular
+    .module('ecomapss.flora')
+    .controller('FloraDetailsCtrl', FloraDetailsCtrl)
 
-    /** @ngInject */
-    function FloraDetailsCtrl($state, EntitiesService) {
-        var vm = this;
+  /** @ngInject */
+  function FloraDetailsCtrl($state,$rootScope, EntitiesService) {
+    var vm = this;
 
-        init();
+    init();
 
-        function init() {
-            getFlora()
-        }
-
-        function getFlora() {
-            EntitiesService
-                .getByIndex($state.params.id, 'flora')
-                .then(function (result) {
-                    vm.flora = result
-                })
-        }
-
+    function init() {
+      getFlora()
     }
+
+    function getFlora() {
+      if (!$state.params.index && $state.params.id) {
+        vm.flora = $rootScope.flora
+      } else {
+        EntitiesService
+          .getByIndex($state.params.index, 'flora')
+          .then(function (result) {
+            vm.flora = result
+          })
+      }
+    }
+
+  }
 
 }());

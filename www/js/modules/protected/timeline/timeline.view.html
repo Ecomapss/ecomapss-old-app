@@ -6,9 +6,22 @@
 		<p class="text-dark">
 			{{vm.translate.header.description}}
 		</p>
+
+		<script src="http://arquivos.weblibras.com.br/auto/wl-min.js"></script>
+		<script>
+			 var wl = new WebLibras({
+					position: WebLibrasIconPosition.Content,
+					iconRoot: "",
+					compatibilityMode: true,
+					translatedElement: ""
+			 });
+		</script>
+		
 	</div>
 	
 	<ion-content class="ec-timeline" on-swipe-left="vm.goForward()">
+		
+
 		<div ng-if="!vm.itemsIsFetched" class="flex-container loader-wrapper">
 			<img src="vendor/icons/three-dots.svg" height="10" alt="" srcset="">
 		</div>
@@ -33,3 +46,5 @@
 		</ul>
 	</ion-content>
 </ion-view>
+
+

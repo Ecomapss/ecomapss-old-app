@@ -781,7 +781,7 @@ cordova-android-support-gradle-release@^1.4.4:
   dependencies:
     xml2js "~0.4.19"
 
-cordova-android@7.0.0:
+cordova-android@~7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/cordova-android/-/cordova-android-7.0.0.tgz#c95bedfcfbc3863b180c4d29effec4f79361d19d"
   dependencies:

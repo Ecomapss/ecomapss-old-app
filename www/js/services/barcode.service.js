@@ -45,6 +45,7 @@
 					var response = _normalizeID(result.text)
 					return resolve(response)
 				}, function (err) {
+					console.error('err ->', err);
 					return reject(ecConstants.ERRORS.CANNOT_SCAN_QRCODE)
 				})
 			})
