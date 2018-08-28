@@ -65,9 +65,10 @@
           .then(function (response) {
             if (response.status < 400) {
               _getImage(response.data.Data[index]).then(function (result) {
+                console.log('result', result);
                 TimelineService.saveHistory({
                   date: new Date(),
-                  id: result.id,
+                  id: result._id,
                   type,
                   info: result.nome_pop,
                   sub_info: result.nome_cie

@@ -34,7 +34,7 @@
 
 
 		<ul ng-if="vm.itemsIsFetched" class="cbp_tmtimeline animated fadeInUp">
-			<li ng-repeat="history in vm.fetchedHistories track by $index">
+			<li ng-repeat="history in vm.fetchedHistories track by $index" ng-click="vm.goInHistory(history)">
 				<time class="cbp_tmtime" datetime="2013-04-10 18:30">
 					<span>{{history.date | date:'dd/MM/yyyy'}}</span>
 					<span>{{history.date | date:'HH:mm'}}</span>

@@ -6,19 +6,19 @@
         .controller('MenuCtrl', MenuCtrl)
 
     /** @ngInject */
-    function MenuCtrl($state, $rootScope, BarcodeService, EntitiesService) {
+    function MenuCtrl($state, $rootScope, BarcodeService, EntitiesService, routerHelper) {
         var vm = this;
-
+        vm.hideBackButton = false;
         init();
 
         function init() {
         }
 
-        vm.goEntiti =function(){
-            // $state.reload('protected.entities');
+        // vm.goEntiti =function(){
+        //     // $state.reload('protected.entities');
 
-            $state.transitionTo('protected.entities', null, { reload: false, inherit: false, notify: true });
-        }
+        //     $state.transitionTo('protected.entities', null, { reload: false, inherit: false, notify: true });
+        // }
 
         vm.scan = function () {
             BarcodeService.scan({
@@ -45,9 +45,11 @@
                             $rootScope.flora = item
                             $state.go('protected.details-flora', { id: item._id })
                         }
+                        
+                        vm.hideBackButton = true;
                     })
                 }else{
-                    alert(response)
+                    // alert(response)
                     console.log('response ->', response);
                 }
                     
@@ -56,6 +58,24 @@
             })
         }
 
+        $rootScope.$on("$stateChangeStart", function (event, toState, toParams, fromState, fromParams) {
+            routerHelper.pushPage(toState);
+            if(fromState.tabRoot){
+                routerHelper.setLastRootTab(angular.copy(fromState.name));
+            }
+
+            if(!toState.tabRoot){
+                vm.hideBackButton = false;
+            }else{
+                vm.hideBackButton = true;
+            }
+
+        });
+
+        vm.navigateTo = function(stateName){
+            $state.go(stateName);
+            vm.hideBackButton = true;
+        }
     }
 
 }());

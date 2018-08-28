@@ -21,7 +21,8 @@
             templateUrl: 'js/modules/protected/entities/entities.view.html',
             controllerAs: 'entities',
           }
-        }
+        },
+        tabRoot: true
       }
     }];
   }

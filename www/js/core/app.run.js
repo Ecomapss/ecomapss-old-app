@@ -29,6 +29,20 @@
         cordova.plugins.Keyboard.disableScroll(true);
       }
 
+      // document.addEventListener('backbutton', function(event){
+      //   event.preventDefault();
+      //   routerorHelper.setBackButtonEvent(true);
+      // });
+
+      $ionicPlatform.registerBackButtonAction(function () {
+        if(routerHelper.getLastRootTab()){
+          routerHelper.popPage();
+          $state.go(routerHelper.getLastRootTab());
+        }else{
+          navigator.app.exitApp();
+        }
+      }, 100);
+
       if (window.StatusBar) {
         // org.apache.cordova.statusbar required
         StatusBar.styleLightContent();
