@@ -10018,6 +10018,7 @@ span.i-fossil-outline-white {
   background-position: center; }
 
 .fab {
+  z-index: 99999;
   position: fixed;
   width: 56px;
   left: 85%;
