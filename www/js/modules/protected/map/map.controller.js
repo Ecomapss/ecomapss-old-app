@@ -8,12 +8,13 @@
     /** @ngInject */
     function MapCtrl($scope, $state, $log, leafletData, UserService, LocationsService) {
         var vm = this;
-
-
-        $scope.$on('$ionicView.enter', function () {
+        // Trigger every time enter in this view, but not trigger in first time
+        $scope.$on("$ionicView.enter", function (scopes, states) {
             init();
         });
 
+        // Trigger in first time of enter in this view
+        init();
 
         function init() {
             /**
@@ -33,7 +34,6 @@
             /**
              * Only execute this code if user has selected the location
              */
-
             var tiles = {
                 url: 'tiles/' + place.key + '/{z}/{x}/{y}.png',
                 options: {
@@ -42,8 +42,6 @@
             };
             /////////////////////////
 
-
-            console.log(place);
             /**
              * Extend $scope with leaflet directive atributes
              */
@@ -54,16 +52,8 @@
                     scrollWheelZoom: false
                 }
             });
-
-            console.log($scope)
-            $scope.doInit();
+            ////////////////////////
         }
-
-
-
-        $scope.changeTiles = function (tiles) {
-            $scope.tiles = tilesDict[tiles];
-        };
 
         $scope.doInit = function () {
             leafletData.getMap('map1').then(function (map) {

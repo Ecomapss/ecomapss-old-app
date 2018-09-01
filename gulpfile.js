@@ -33,7 +33,7 @@ gulp.task('inject', function () {
   var css = gulp.src(paths.css);
   var sources = gulp.src(paths.js).pipe(angularFilesort());
 
-  return target.pipe(inject(sources, {ignorePath: 'www'})).pipe(inject(css, {ignorePath: 'www'})).pipe(gulp.dest('./www'));
+  return target.pipe(inject(sources, {ignorePath: 'www/', addRootSlash: false})).pipe(inject(css, {ignorePath: 'www/', addRootSlash: false})).pipe(gulp.dest('./www'));
 });
 
 gulp.task('watch', ['sass', 'inject'], function () {
