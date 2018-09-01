@@ -3,18 +3,18 @@
         <div class="list list-inset">
             <label class="item item-input">
                 <i class="icon ion-search placeholder-icon"></i>
-                <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 200 }">
+                <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 500 }" ng-change="flora.search(search)">
             </label>
         </div>
 
         <div class="list">
-            <a class="item item-avatar" ui-sref="protected.details-flora({index: $index})" ng-repeat="flora in flora.floras | filter:search">
+            <a class="item item-avatar" ui-sref="protected.details-flora({index: $index})" ng-repeat="flora in flora.floras">
                 <img ng-src="{{flora.picture}} ">
                 <h2>{{flora.nome_pop}}</h2>
                 <p>{{flora.info}}</p>
             </a>
 
-            <ion-infinite-scroll ng-if="!flora.noMoreItemsAvailable" on-infinite="flora.getData()" distance="5px"></ion-infinite-scroll>
+            <ion-infinite-scroll ng-if="!flora.noMoreItemsAvailable" on-infinite="flora.search(search)" distance="5px"></ion-infinite-scroll>
         </div>
     </ion-content>
 </ion-view>

@@ -145,6 +145,22 @@
       })
     }
 
+    function _unaccent(str){
+      
+      if(!str) return '';
+
+      var chars = ['A','a','E','e','I','i','O','o','U','u','N','n','C','c'];
+      var regexs =[
+          /[\300-\306]/g, /[\340-\346]/g, /[\310-\313]/g, /[\350-\353]/g, /[\314-\317]/g, /[\354-\357]/g, /[\322-\330]/g, /[\362-\370]/g, /[\331-\334]/g, /[\371-\374]/g, /[\321]/g, /[\361]/g, /[\307]/g, /[\347]/g
+      ];
+
+      for (var i = 0; i < regexs.length; i++){
+          str = str.replace(regexs[i],chars[i]);
+      }
+
+      return str.toLowerCase();
+    }
+
     /**
      * Method to filter a array
      * @author Matheus Lacerda
@@ -199,18 +215,18 @@
           },
           where: function (data, params) {
             var string = params.string;
-
+            var key = params.key;
             return data.filter(function (el) {
-              return el[key].indexOf(string) !== -1
-            })
+              return _unaccent(el[key]).indexOf(_unaccent(string)) !== -1;
+            });
           }
         }
 
         Object.keys(filterObject).forEach(function (key, index) {
           currentData = angular.copy(filters[key](currentData, filterObject[key]));
+          return resolve(currentData);
         });
 
-        return resolve(currentData);
       })
     }
   }

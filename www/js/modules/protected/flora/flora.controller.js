@@ -15,18 +15,21 @@
         vm.noMoreItemsAvailable = false;
         vm.floras = []
 
-        vm.getData = function () {
-            EntitiesService.getEntity('flora', {
+        vm.getData = function (filter) {
+            var searchParams = {
+                ...filter,
                 offset: {
                     start: offsetStart
                 },
                 limit: {
                     size: limit
                 }
-            })
+            }
+            EntitiesService.getEntity('flora', searchParams)
                 .then(function (response) {
                     if (response.length) {
-                        vm.floras = vm.floras.concat(response);
+                        console.log('response', response);
+                        vm.floras = response;
                         $scope.$broadcast('scroll.infiniteScrollComplete');
 
                         offsetStart += defaultOffsetSum;
@@ -39,6 +42,16 @@
         }
 
         vm.getData();
+
+        vm.search = function(filter){
+            vm.getData({
+                where: {
+                    key: 'nome_pop',
+                    string: filter
+                }
+            })
+        }
+
     }
 
 }());
