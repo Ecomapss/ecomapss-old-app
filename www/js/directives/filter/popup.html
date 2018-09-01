@@ -1,0 +1,6 @@
+<div class="list">
+        <a ng-repeat="option in filter.options" class="item item-icon-right" ng-click="filter.current = option.key">
+          {{option.name}}
+          <i ng-show="option.key == filter.current" class="icon ion-checkmark-round"></i>
+        </a>
+</div>
