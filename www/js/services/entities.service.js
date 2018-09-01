@@ -6,10 +6,11 @@
     .service('EntitiesService', EntitiesService)
 
   /** @ngInject */
-  function EntitiesService($http, $q, TimelineService, ecConstants) {
+  function EntitiesService($http, $q, TimelineService, ecConstants, $rootScope, $state) {
     this.getEntity = getEntity
     this.getByIndex = getByIndex
     this.getById = getById
+    this.navigateTo = navigateTo
     let baseUrl = 'json/'
     let local = ""
 
@@ -143,6 +144,29 @@
             return resolve(entity);
           })
       })
+    }
+
+    function navigateTo(item_id){
+      
+      getById(item_id, 'entities')
+        .then(function(item){
+          if (item.inseto) {
+            $rootScope.fauna = item
+            $state.go('protected.details-fauna', { index:'', id: item._id })
+        } else if (item.fossil) {
+            $rootScope.fossil = item
+            $state.go('protected.details-fossil', { id: item._id })
+        } else if (item.historia) {
+            $rootScope.historia = item
+            $state.go('protected.details-historias', { id: item._id })
+        } else if ('nome_pop' in item) {
+            $rootScope.flora = item
+            $state.go('protected.details-flora', { id: item._id })
+        }
+        })
+        .catch(function(){
+
+        });
     }
 
     function _unaccent(str){
