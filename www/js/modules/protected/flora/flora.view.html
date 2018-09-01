@@ -5,10 +5,11 @@
                 <i class="icon ion-search placeholder-icon"></i>
                 <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 500 }" ng-change="flora.search(search)">
             </label>
+            <ec-filter filter="flora.filter" refresh="flora.getData()" should-refresh="false"></ec-filter>
         </div>
 
         <div class="list">
-            <a class="item item-avatar" ui-sref="protected.details-flora({index: $index})" ng-repeat="flora in flora.floras">
+            <a class="item item-avatar" ng-click="navigateTo(flora)" ng-repeat="flora in flora.floras">
                 <img ng-src="{{flora.picture}} ">
                 <h2>{{flora.nome_pop}}</h2>
                 <p>{{flora.info}}</p>
