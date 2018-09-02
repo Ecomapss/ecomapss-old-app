@@ -7,7 +7,7 @@
 			{{vm.translate.header.description}}
 		</p>
 
-		<script src="http://arquivos.weblibras.com.br/auto/wl-min.js"></script>
+		<!-- <script src="http://arquivos.weblibras.com.br/auto/wl-min.js"></script>
 		<script>
 			 var wl = new WebLibras({
 					position: WebLibrasIconPosition.Content,
@@ -17,11 +17,10 @@
 			 });
 
 			 console.log(wl)
-		</script>
-		
+		</script> -->
 	</div>
 	
-	<ion-content class="ec-timeline" on-swipe-left="vm.goForward()"  on-scroll="getScrollPosition()">
+	<ion-content class="ec-timeline" on-swipe-left="vm.goForward()"  on-scroll="vm.getScrollPosition()">
 		
 
 		<div ng-if="!vm.itemsIsFetched" class="flex-container loader-wrapper">
