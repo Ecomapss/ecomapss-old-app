@@ -64,7 +64,7 @@
                             vm.floras = vm.floras.concat(response);
                         }else{
                             vm.floras = response;
-                            // vm.noMoreItemsAvailable = false;
+                            vm.noMoreItemsAvailable = false;
                         }
                         $scope.$broadcast('scroll.infiniteScrollComplete');
                     } else {
