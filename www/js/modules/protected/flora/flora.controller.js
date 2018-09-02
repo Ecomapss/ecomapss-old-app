@@ -10,7 +10,7 @@
         var vm = this;
         var defaultOffsetSum = 10;
         var offsetStart = 0;
-        var limit = 10
+        var limit = 10;
 
         vm.noMoreItemsAvailable = false;
         vm.floras = []
@@ -34,7 +34,18 @@
         }
         
 
-        vm.getData = function (filter) {
+        vm.getData = function (filter, fromScroll) {
+            
+            if(fromScroll){
+                offsetStart += defaultOffsetSum;
+                try{
+                    filter.notIn = {
+                        list: vm.floras
+                    }
+                }
+                catch(e){}
+            }
+            
             var searchParams = {
                 ...filter,
                 offset: {
@@ -44,15 +55,20 @@
                     size: limit
                 }
             }
+            
+
             EntitiesService.getEntity('flora', searchParams)
                 .then(function (response) {
                     if (response.length) {
-                        console.log('response', response);
-                        vm.floras = response;
+                        if(fromScroll){
+                            vm.floras = vm.floras.concat(response);
+                        }else{
+                            vm.floras = response;
+                            // vm.noMoreItemsAvailable = false;
+                        }
                         $scope.$broadcast('scroll.infiniteScrollComplete');
-
-                        offsetStart += defaultOffsetSum;
                     } else {
+                        // vm.floras = [];
                         vm.noMoreItemsAvailable = true;
                     }
                 })
@@ -62,13 +78,16 @@
 
         vm.getData();
 
-        vm.search = function(filter){
+        vm.search = function(filter, fromScroll){
+            if(filter == '' && !fromScroll){
+                offsetStart = 0;
+            }
             vm.getData({
                 where: {
                     key: vm.filter.current,
                     string: filter
                 }
-            })
+            }, fromScroll);
         }
 
         $scope.teste = function(){

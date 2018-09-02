@@ -15,7 +15,7 @@
                 <p>{{flora.info}}</p>
             </a>
 
-            <ion-infinite-scroll ng-if="!flora.noMoreItemsAvailable" on-infinite="flora.search(search)" distance="5px"></ion-infinite-scroll>
+            <ion-infinite-scroll ng-if="!flora.noMoreItemsAvailable" on-infinite="flora.search(search, true)" distance="5px"></ion-infinite-scroll>
         </div>
     </ion-content>
 </ion-view>
