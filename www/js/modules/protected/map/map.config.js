@@ -14,6 +14,9 @@
     return [{
        state: 'protected.map',
        config: {
+        params: {
+          markers: []
+        },
         url: '/map',
         views: {
           'tab-map':{

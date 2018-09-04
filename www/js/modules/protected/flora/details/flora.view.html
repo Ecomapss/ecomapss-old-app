@@ -2,6 +2,10 @@
     <ion-content>
 
         <img class="full-image" ng-src="{{vm.flora.picture}}">
+        
+        <div class="vw-100 flex-container">
+            <button class="button icon-left ion-location button-assertive btn-rounded all-gap" ng-click="vm.showLocation(vm.flora.loc)"> Localização </button>
+        </div>
 
         <div class="list">
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.nome_pop">
@@ -10,7 +14,9 @@
             </div>
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.nome_cie">
                 <i class="icon ion-erlenmeyer-flask calm"></i>
-                {{vm.flora.nome_cie}}
+                <i>
+                    {{vm.flora.nome_cie}}
+                </i>  
             </div>
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.familia">
                 <i class="icon ion-heart calm"></i>
@@ -28,10 +34,10 @@
                 <i class="icon ion-cloud calm"></i>
                 {{vm.flora.clima}}
             </div>
-            <div class="item item-icon-left-top item-body" ng-if="vm.flora.luminosidade">
+            <!-- <div class="item item-icon-left-top item-body" ng-if="vm.flora.luminosidade">
                 <i class="icon ion-contrast calm"></i>
                 {{vm.flora.luminosidade}}
-            </div>
+            </div> -->
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.altura">
                 <i class="icon ion-stats-bars calm"></i>
                 {{vm.flora.altura}}
