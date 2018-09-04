@@ -6,8 +6,11 @@
         .controller('MapCtrl', MapCtrl)
 
     /** @ngInject */
-    function MapCtrl($scope, $state, $log, leafletData, UserService, LocationsService) {
+    function MapCtrl($scope, $stateParams, $state, $log, leafletData, UserService, LocationsService) {
         var vm = this;
+        var markers = $stateParams.markers;
+        var normalizedMarkers = {};
+
         // Trigger every time enter in this view, but not trigger in first time
         $scope.$on("$ionicView.enter", function (scopes, states) {
             init();
@@ -17,6 +20,7 @@
         init();
 
         function init() {
+            normalizedMarkers = resolveMarkers(markers);
             /**
              * Get saved location, if exists continue, if not, redirect
              * to location route
@@ -35,9 +39,9 @@
              * Only execute this code if user has selected the location
              */
             var tiles = {
-                url: 'tiles/' + place.key + '/{z}/{x}/{y}.png',
+                url: 'tiles/' + place.key + '/{z}/{x}/{y}.' + place.ext,
                 options: {
-                    attribution: 'All maps &copy; <a href="http://www.opencyclemap.org">OpenCycleMap</a>, map data &copy; <a href="http://www.openstreetmap.org">OpenStreetMap</a> (<a href="http://www.openstreetmap.org/copyright">ODbL</a>'
+                    attribution: 'All maps &copy; ' + place.attr
                 }
             };
             /////////////////////////
@@ -48,6 +52,7 @@
             angular.extend($scope, {
                 center: place.loc,
                 tiles: tiles,
+                markers: normalizedMarkers,
                 defaults: {
                     scrollWheelZoom: false
                 }
@@ -61,6 +66,27 @@
                 $log.info(map);
                 $log.info(map);
             });
+        }
+
+        function resolveMarkers(markers) {
+            var result = {};
+            var filtered = markers.filter(function (ele) {
+                return !!ele.lat && !!ele.lng;
+            })
+
+            if (filtered) {
+                filtered.map(function (ele, index) {
+                    result[index] = {
+                        lat: ele.lat,
+                        lng: ele.lng,
+                        message: 'Lat: '+ele.lat+' Lng: '+ele.lng
+                    } 
+                })
+
+                return result;
+            }
+
+            return [];
         }
     }
 }());

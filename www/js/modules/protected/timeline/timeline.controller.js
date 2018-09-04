@@ -6,7 +6,7 @@
         .controller('TimelineCtrl', TimelineCtrl)
 
     /** @ngInject */
-    function TimelineCtrl(I18nService, $scope, $timeout, TimelineService, ecConstants, UserService, $state, EntitiesService, $rootScope) {
+    function TimelineCtrl(I18nService,$ionicScrollDelegate, $scope, $timeout, TimelineService, ecConstants, UserService, $state, EntitiesService, $rootScope) {
         var vm = this;
         var thisModule = 'timeline';
         var histories = [];
@@ -59,6 +59,16 @@
                 vm.hideBackButton = true;
             })
             
+        }
+
+        vm.getScrollPosition = function() {
+            var currentTop = $ionicScrollDelegate.getScrollPosition().top;
+            var header = angular.element(document.getElementById('header-timeline'));
+
+            if (currentTop > 150) {
+                console.log(header)
+                header.addClass('animated fadeOut')
+            }
         }
 
         function init() {
