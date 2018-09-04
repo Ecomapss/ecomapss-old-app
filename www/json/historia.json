@@ -30,13 +30,6 @@
             "historia": true
         },
         {
-            "_id": "5ad110b3e3a2020004da04e9",
-            "historia": true,
-            "titulo": "Área de Relevante Interesse Ecológico - Arie das Águas Emendadas dos Inhamuns",
-            "info": "Órgão Gestor: SEMA - Situação Fundiária: Área particular; OBJETIVOS DE CRIAÇÃO: Proteger e preservara área em sua função ecológica, inclusive em relação as nascentes que formam os divisores de água que alimentam os tributários das bacias do Rio Banabuiú, Rio Jaguaribe (Carrapateira) e Rio Poti. Assegurar o provimento sustentável dos recursos naturais e da diversidade biológica da área.Conservar as espécies vegetais endêmicas da região em face da sua importância e fragilidade. Ordenar o turismo ecológico, científico e cultural e as demais atividades econômicas combatíveis com a conservação ambiental. Desenvolver junto a população local e regional, uma consciência ecológica e conservacionista. Propiciar a recuperação de áreas degradadas. Promover Educação Ambiental da comunidade do entorno.",
-            "localidade": "ARIE - Tauá"
-        },
-        {
             "_id": "5af0eb029fecb90004bfb81e",
             "historia": true,
             "titulo": "A5 - TRILHA DA LAGOA - Acesso Rua Arq. Reginaldo Rangel",
@@ -77,6 +70,97 @@
             "info": "Principal Formação Geológica de idade cretácea que caracteriza os sedimentos existentes no Parque Estadual Sítio Fundão. A Formação Batateira ou Formação Rio da Batateira, assim também chamada, é composta basicamente de arenitos médios a grosseiros, de coloração creme a amarelada, que gradam, ascendentemente, para arenitos médios a finos e são seguidos por materiais argilosos e folhelhos (argilas metamorfisadas ou transformadas de coloração amarronzada) que apresentam vestígios de matérias orgânicas e fósseis e que em alguns locais apresentam-se betuminosos, ou seja, encerram pequenas quantidades de betume ou óleo petrolífero. A importância maior da Formação Batateira, que se estende até Missão Velha e Jardim, fica por conta da grande quantidade de água subterrânea de boa qualidade (muito bem mineralizada), que a mesma armazena e que permite o abastecimento das cidades de Crato, Juazeiro, Barbalha, Missão Velha e Jardim, além da grande quantidade de material argiloso que permite a fabricação de produtos cerâmicos (telhas e tijolos).\n",
             "localidade": "Crato - Ceará",
             "historia": true
+        },
+        {
+            "_id": "5b64bed04805a90004357ffe",
+            "historia": true,
+            "titulo": "Garças",
+            "info": "Ao todo, são seis representantes da família Ardeidae, sendo a garça-branca-grande e o socó-boi os mais abundantes no parque. Essas aves têm o hábito de se alimentar nas lagoas e no rio, comendo quase tudo que possa caber em seu bico. As garças por serem brancas se destacam na vegetação, já o socó-boi se camufla muito bem. ",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b64bf434805a90004357fff",
+            "historia": true,
+            "titulo": "Aves do Cocó",
+            "info": "Em seus 1571 ha de área verde o Parque do Cocó abriga cerca de 120 espécies de aves. As mais comuns são as garças, socó-boi, choro-boi, sabiá, sanhaçu, bem-te-vi e suiriri. ",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b64bf6b4805a90004358000",
+            "historia": true,
+            "titulo": "Pica-paus",
+            "info": "No Parque do Cocó existem cinco tipos de pica-paus diferentes. O mais comum e de menor porte, com apenas 10 cm, é o Pica-pau-anão-da-caatinga e um dos maiores é Pica-pau-branco, que pode chegar a 30 cm e são mais raros.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b64bf884805a90004358001",
+            "historia": true,
+            "titulo": "Maçaricos",
+            "info": "Mais de nove tipos de maçaricos frequentam as lagoas do parque. Algumas das espécies são migratórias, podendo voar mais de 30 mil km em seus deslocamentos. Chegando no parque se alimentam de pequenos invertebrados e peixes. \n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b6994e00ef4110004a5b6ea",
+            "historia": true,
+            "titulo": "Crustáceos do Cocó",
+            "info": "Caranguejos – Ao todo são quatro tipos  de caranguejos no parque, sendo o mais comum o aratu e o mais raro o guaiamum, este ameaçado de extinção devido a perda de hábitat e a captura ao longo dos anos. ",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b6995580ef4110004a5b6ec",
+            "historia": true,
+            "titulo": "Peixes do Cocó",
+            "info": "Várias espécies de peixes habitam as águas do rio Cocó como o Baiacú-mirim (Sphoeroides testudineus), pema ou camurupim (Megalops atlanticus), bodó ou cascudo (Hypostomus sp.), traíras (Hoplias spp.), linguado-de-água-doce (Achirus lineatus), este último é muito achatado e possui cores muito semelhantes à areia, que facilita a sua camuflagem quando estão enterrados ou muito próximos do fundo do rio.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b6995d60ef4110004a5b6ed",
+            "historia": true,
+            "titulo": "Répteis do Cocó - Cobras do Cocó",
+            "info": "Das cobras presentes no parque, as mais comuns são a cobra verde (Philodryas olfersii), a corre campo (Philodryas nattereri) e a jibóia (Boa constrictor). A jiboia é a maior delas, podendo chegar a 4 m, sendo avistada tanto no chão quanto nos troncos das árvores. Vale dizer que nenhuma destas espécies é peçonhenta. \n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b6996380ef4110004a5b6ef",
+            "historia": true,
+            "titulo": "Lagoa das ninfeias",
+            "info": "A lagoa das ninfeias fica localizada entre as trilhas principal e a da lagoa, e é coberta por ninfeias que são plantas aquáticas com lindas flores que só desabrocham durante a noite. Dependendo da espécie pode ter flor azul, verde, branca, amarela ou vermelha. \n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b69965c0ef4110004a5b6f0",
+            "historia": true,
+            "titulo": "Ruinas das Salinas",
+            "info": "Nos anos de 1960 aqui se encontrava a Salina Diogo, nesse período o curso do rio foi alterado para facilitar o manejo do sal na área. Em 1980, devido a competição com o mercado de sal do Rio Grande do Norte, a Salina Diogo fechou as suas portas. O fim das atividades na salina permitiu a regeneração do manguezal. ",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b69967e0ef4110004a5b6f1",
+            "historia": true,
+            "titulo": "Lavanderias ",
+            "info": "Historicamente o rio Cocó foi muito utilizado pelas lavadeiras das comunidades do entorno. Em 2006, foram construídas as lavanderias como reivindicação dessas mulheres e também para evitar a poluição do rio pelo lançamento de sabão em suas águas.  As lavanderias foram desativadas um ano depois.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b6996a10ef4110004a5b6f2",
+            "historia": true,
+            "titulo": "Rio Cocó",
+            "info": "Nasce na serra de Aratanha, em Pacatuba e percorre 42,5 km de extensão, passando pelos municípios de Itaitinga e Maracanaú, e deságua na praia do Caça e Pesca, em Fortaleza. Suas águas banham boa parte da grande Fortaleza, sendo um importante recurso hídrico para essa região.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b6996d60ef4110004a5b6f3",
+            "historia": true,
+            "titulo": "Rio Cocó - passeio de barco",
+            "info": "Nesse trecho ocorre um passeio de barco que acontece durante a semana com agendamentos e finais de semana com o Tenente Araújo (agendamento no 85 98527-8216). O passeio tem duração de 20 minutos e custam 5,00 reais a meia entrada e 10,00 a inteira.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5ad110b3e3a2020004da04e9",
+            "historia": true,
+            "titulo": "Área de Relevante Interesse Ecológico - Arie das Águas Emendadas dos Inhamuns",
+            "info": "A Área de Relevante Interesse Ecológico das Águas Emendadas dos Inahmuns está localizada entre os municípios de Tauá, Independência e Pedra Branca, sendo criada pelo Decreto n°31.304, de 24 de janeiro de 2014 localizada no Sítio Tecelão, com área de 407,0366 hectares. A área situa-se no divisor de águas de três importantes rios do Ceará: Jaguaribe, Poti e Banabuiú, distante 280 km de Fortaleza tendo como acesso a BR-222. A área citada enquadra-se no Grupo de Unidades de Conservação de Uso Sustentável, na Categoria de Área de Relevante Interesse Ecológico - ARIE, levando em consideração as normas pautadas no Sistema Estadual de Unidade de Conservação – SEUC/CE. A cobertura vegetal está baseada segundo Fernandes (1998) em Caatinga Arbórea secundária, Caatinga Arbórea arbustiva degradada e Matas ciliares. Nessa região, a cobertura vegetal apresenta-se com aspecto fisionômico próprio da caatinga do tipo hiperxerófila. A caatinga Arbórea Secundária apresenta uma vegetação menos densa, com perda parcial do estrato herbáceo e arbustivo, porém conservando expressa quantidade de elementos arbóreos, característico da sucessão ecológica que sofre a interferência da ação pecuária. A Mata ciliar apresenta-se descaracterizada pela ação antrópica, através do extrativismo vegetal, configurando desta maneira a condição de vegetação secundária. A fauna da região é composta por espécies silvestres, tais como: mamíferos (morcegos, raposa, guaxinim, gato do mato, cotia), répteis (tejo, cobra de cipó, cobra de veado, jiboia, cobra verde, cobra preta, cobra coral,\njararaca, camaleão, bico doce), aracnídeos, insetos e aves (garça branca, sábia, cardeal do nordeste, lavandeira, beija-flor, rolinha, siriema, marreca, bem-te-vi, choró, periquito, asa branca, pica-pau, gavião, falcão, corujas, bacurau, nambu, galo-de-campina, cã-cão, mané besta, carcará dentre outras que ocorre na região da Serra da Lagoa Seca (Sítio Tecelão).\nA área encontra-se na sub-compartimentação do relevo regional maciço residual, com variações altimétricas de 600 a 680 metros de declividade entre 10-45%, com tipologia residual\nmoderada e feições morfológicas de maciço residual em colinas. Já a sua geologia marca o contato das rochas cristalinas pré-cambrianas do complexo Pedra Branca, onde o divisor de águas está situado em sua vertente ocidental da mesma, apresentando aspectos geoambientais em consonância com as intervenções humanas em suas formas de uso e ocupação do solo. Os recursos hídricos na área caracterizam-se tanto pela escassez irregularidade das chuvas como pela sua geologia, não dando condições pra uma taxa de armazenagem elevada, especialmente nos períodos de baixa pluviometria, ocasião em que os recursos hídricos ficam geralmente muito comprometidos. A área abriga nascentes de grandes bacias importantes no Estado do Ceará. A sub-bacia do alto Jaguaribe, a maior entre as cinco que formam a bacia do Jaguaribe, posicionando-se na porção meridional do Estado. A sub-bacia do rio Poti, encontra-se situada na porção ocidental do Ceará. Esse rio, junto com o Macambira, integra um sistema fluvial maior, tendo o rio Parnaíba como principal coletor de\ndrenagem. Já, a sub-bacia do rio Banabuiú abrange os sertões centrais do Ceará. A rede de drenagem é composta por cursos d'água intermitentes, tem suas principais afluentes pela margem esquerda os rios Patu, Quixeramobim e Sitiá e pela margem direita destaca-se apenas o riacho Livramento. O clima da região e do tipo Bsh, definido como seco e semiárido, tipico do polígono das secas, com temperatura de 32° 35°C, com média anual em trono dos 25°C, tendo duas estações distintas, uma chuvosa e outra seca, com 500 a 700 mm de volume pluviométrico anual. Os solos predominantes na Arie das Águas Emendadas dos Inhamuns são os Neossolos Litólicos eutróficos e Luvissolos Crômicos (Embrapa, 1999). O primeiro tipo de solo está caracterizado por perfis pouco desenvolvidos, rasos, com horizontes A ou O hístico com menos de 40 cm, assentado diretamente sobre a rocha ou sobre o horizonte C ou Cr oriundo de elevado grau de intemperização da rocha, com a presença de materiais primários e blocos semi-intemperizados de rocha , estando normalmente associados a uma fase pedregosa e/ou rochosa.",
+            "localidade": "ARIE - Tauá"
         }
     ]
 }
