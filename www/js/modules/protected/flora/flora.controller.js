@@ -67,7 +67,7 @@
                             vm.noMoreItemsAvailable = false;
                         }
                         $scope.$broadcast('scroll.infiniteScrollComplete');
-                        setTimeout(function(){ $scope.$digest(); }, 500);
+                        
                     } else {
                         // vm.floras = [];
                         vm.noMoreItemsAvailable = true;
@@ -76,8 +76,6 @@
                 .catch(function (err) {
                 })
         }
-
-        vm.getData();
 
         vm.search = function(filter, fromScroll){
             if(filter == '' && !fromScroll){
@@ -90,6 +88,7 @@
                 }
             }, fromScroll);
         }
+        vm.search()
 
         $scope.teste = function(){
             alert('aa');
