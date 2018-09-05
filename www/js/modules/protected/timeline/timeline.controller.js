@@ -35,7 +35,7 @@
 
         $timeout(function () {
             vm.itemsIsFetched = true;
-        }, 3500)
+        }, 1500)
 
         vm.goInHistory = function(item){
             if(!item.id) return;
