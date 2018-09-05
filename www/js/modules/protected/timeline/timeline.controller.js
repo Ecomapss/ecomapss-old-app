@@ -29,8 +29,9 @@
                 $scope.$broadcast("scroll.refreshComplete");
             }, 1000);
         }
-
-        init();
+        $scope.$on('$ionicView.enter', function() {
+            init();
+        });
 
         $timeout(function () {
             vm.itemsIsFetched = true;
