@@ -31,6 +31,7 @@
         _getData(type)
           .then(function (response) {
             _applyFilter(response, filter).then(function (filteredData) {
+              console.log('filteredData ->', filteredData);
               return resolve(filteredData);
             })
           })
@@ -70,9 +71,9 @@
                 TimelineService.saveHistory({
                   date: new Date(),
                   id: result._id,
-                  type,
-                  info: result.nome_pop,
-                  sub_info: result.nome_cie
+                  type:  (!!type) ? type.charAt(0).toUpperCase() + type.substr(1).toLowerCase() : '',
+                  info: result.nome_pop || result.filo || result.idade || result.titulo, 
+                  sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
                 })
                 return resolve(result);
               })
@@ -105,10 +106,10 @@
               _getImage(entity).then(function (result) {
                 TimelineService.saveHistory({
                   date: new Date(),
-                  id: result.id,
-                  type,
-                  info: result.nome_pop,
-                  sub_info: result.nome_cie
+                  id: result._id,
+                  type:   (!!local) ? local.charAt(0).toUpperCase() + local.substr(1).toLowerCase() : '',
+                  info: result.nome_pop || result.filo || result.idade || result.titulo, 
+                  sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
                 })
                 console.log('result ->', result);
                 return resolve(result);
@@ -133,13 +134,13 @@
       return $q(function (resolve, reject) {
         var picture
         isList ? picture = "img/entities/" + local + "/" + entity._id + ".thumbnail.png" : picture = "img/entities/" + local + "/" + entity._id + ".jpg"  
-        console.log('picture ->', picture);
         $http.get(picture).then(
           function () {
             entity.picture = picture
             return resolve(entity);
           },
           function (err) {
+            entity.hide = true 
             entity.picture = "img/entities/noimage.jpeg"
             return resolve(entity);
           })
@@ -264,7 +265,7 @@
             var string = params.string;
             var key = params.key;
             return data.filter(function (el) {
-              return _unaccent(el[key]).indexOf(_unaccent(string)) !== -1;
+              return _unaccent(el[key]).indexOf(_unaccent(string)) !== -1 && !el.hide;
             });
           },
           notIn: function(data, params){
