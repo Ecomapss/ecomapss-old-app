@@ -67,6 +67,7 @@
                             vm.noMoreItemsAvailable = false;
                         }
                         $scope.$broadcast('scroll.infiniteScrollComplete');
+                        setTimeout(function(){ $scope.$digest(); }, 500);
                     } else {
                         // vm.floras = [];
                         vm.noMoreItemsAvailable = true;

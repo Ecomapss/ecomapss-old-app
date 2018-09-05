@@ -31,6 +31,7 @@
         _getData(type)
           .then(function (response) {
             _applyFilter(response, filter).then(function (filteredData) {
+              console.log('filteredData ->', filteredData);
               return resolve(filteredData);
             })
           })
@@ -133,13 +134,13 @@
       return $q(function (resolve, reject) {
         var picture
         isList ? picture = "img/entities/" + local + "/" + entity._id + ".thumbnail.png" : picture = "img/entities/" + local + "/" + entity._id + ".jpg"  
-        console.log('picture ->', picture);
         $http.get(picture).then(
           function () {
             entity.picture = picture
             return resolve(entity);
           },
           function (err) {
+            entity.hide = true 
             entity.picture = "img/entities/noimage.jpeg"
             return resolve(entity);
           })
@@ -264,7 +265,7 @@
             var string = params.string;
             var key = params.key;
             return data.filter(function (el) {
-              return _unaccent(el[key]).indexOf(_unaccent(string)) !== -1;
+              return _unaccent(el[key]).indexOf(_unaccent(string)) !== -1 && !el.hide;
             });
           },
           notIn: function(data, params){
