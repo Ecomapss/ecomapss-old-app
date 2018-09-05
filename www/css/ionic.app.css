@@ -10106,6 +10106,11 @@ ec-language {
 .all-gap {
   margin: 20px; }
 
+.icon-menu-qr-code {
+  background: #6a5acd !important;
+  color: #fff !important;
+  border-radius: 10%; }
+
 .login-bg--image {
   background-image: url(../img/backgrounds/login/001.jpg);
   background-repeat: no-repeat;
