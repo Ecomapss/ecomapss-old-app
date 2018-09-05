@@ -71,9 +71,9 @@
                 TimelineService.saveHistory({
                   date: new Date(),
                   id: result._id,
-                  type,
-                  info: result.nome_pop,
-                  sub_info: result.nome_cie
+                  type:  (!!type) ? type.charAt(0).toUpperCase() + type.substr(1).toLowerCase() : '',
+                  info: result.nome_pop || result.filo || result.idade || result.titulo, 
+                  sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
                 })
                 return resolve(result);
               })
@@ -106,10 +106,10 @@
               _getImage(entity).then(function (result) {
                 TimelineService.saveHistory({
                   date: new Date(),
-                  id: result.id,
-                  type,
-                  info: result.nome_pop,
-                  sub_info: result.nome_cie
+                  id: result._id,
+                  type:   (!!local) ? local.charAt(0).toUpperCase() + local.substr(1).toLowerCase() : '',
+                  info: result.nome_pop || result.filo || result.idade || result.titulo, 
+                  sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
                 })
                 console.log('result ->', result);
                 return resolve(result);
