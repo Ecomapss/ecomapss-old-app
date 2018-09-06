@@ -8,7 +8,7 @@
         </div>
 
         <div class="list">
-            <a class="item item-avatar" ui-sref="protected.details-fossil({index: $index})" ng-repeat="fossil in fosseis.fosseis | filter:search">
+            <a ng-hide="fossil.hide" class="item item-avatar" ui-sref="protected.details-fossil({index: $index})" ng-repeat="fossil in fosseis.fosseis | filter:search">
                 <img ng-src="{{fossil.picture}} ">
                 <h2>{{fossil.titulo}}</h2>
                 <p>{{fossil.info}}</p>

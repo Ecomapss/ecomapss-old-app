@@ -1,0 +1,21 @@
+<div>
+    <style>
+        .ec-filter{
+            text-align: center;
+            position: relative;
+            padding: 20px 0 0 0;
+        }
+        .ec-filter a{
+            padding: 3px 10px;
+            background: #6b64cd;
+            text-transform: lowercase;
+            color: #FFF;
+            font-weight: bold; 
+            border-radius: 10px;
+        }
+    </style>
+    <div class="ec-filter">
+        <strong>Filtrando por:</strong> 
+        <a ng-click="showPopup()">{{getCurrentFilterName()}}</a>
+    </div>
+</div>

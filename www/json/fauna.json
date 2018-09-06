@@ -99,6 +99,69 @@
             "filo": "Pipridae (Família)",
             "classe": "Passeriformes(Ordem)",
             "info": " O Soldadinho do Araripe é uma ave. Este passarinho é encontrado na região da Serra do Araripe (principalmente no estado do Ceará). É conhecido popularmente como galo-da-mata e língua-de-tamanduá. O Soldadinho do Araripe apresenta hábito de vida diurno, quando costuma voar em busca de alimento e água. O habitat desta espécie animal é formado por florestas e matas úmidas, próximas às margens de rios e lagos. O pássaro adulto pesa cerca de 20 gramas. Possuem cerca de 15 centímetros de comprimento. Uma das principais características desta ave é a diferença de cor entre machos e fêmeas. Os machos adultos são coloridos (preto, branco e vermelho na cabeça), enquanto as fêmeas são verdes. Os machos jovens possuem a mesma cor de plumagem das fêmeas adultas. O Soldadinho do Araripe se alimenta, principalmente, de insetos e frutas. Em seu habitat natural e preservado, os animais desta espécie vivem, em média, 10 anos. Ameaça de extinção: A principal ameaça de extinção desta espécie é a ocupação humana em áreas de florestas na Chapada do Araripe, levando a redução da vegetação. Infelizmente, o Soldadinho do Araripe encontra-se em estado de perigo crítico de extinção."
+        },
+        {
+            "_id": "5b64bd784805a90004357ffd",
+            "inseto": true,
+            "ordem": "Arapaçu-de-bico-branco",
+            "reino": "Dendroplex picus",
+            "filo": "Furnariidae",
+            "classe": "",
+            "info": "Um dos cantos mais bonitos e frequentes nas matas do parque. Muitas pessoas confundem essa ave com um pica-pau pelo seu hábito de subir em troncos e caçar insetos \nnas cavidades das árvores. \n"
+        },
+        {
+            "_id": "5b6993bb0ef4110004a5b6e6",
+            "inseto": true,
+            "ordem": "Surucuá-de-barriga-vermelha",
+            "reino": "Trogon curucui",
+            "filo": "Trogonidae\t",
+            "classe": "",
+            "info": "Essa ave chama atenção pelo peito avermelhado. Tem o hábito de ficar pousado nos galhos das arvores observando suas possíveis presas como lagartas, cigarras, besouros e aranhas. Fazem seus ninhos em cupinzeiros assim como os periquitos-de-encontro-amarelo. "
+        },
+        {
+            "_id": "5b6993ed0ef4110004a5b6e7",
+            "inseto": true,
+            "ordem": "Mão-pelada",
+            "reino": "Procyon cancrivorus",
+            "filo": "Procionídeos",
+            "classe": "",
+            "info": "Também conhecido como guaxinim, o mão-pelada recebe esse nome pelos seus longos membros com pouco pelo e suas grandes mãos que utiliza para mexer na lama a procura de insetos e crustáceos. Seus pelos pretos ao redor dos olhos lembram uma máscara."
+        },
+        {
+            "_id": "5b6994350ef4110004a5b6e8",
+            "inseto": true,
+            "ordem": "Soín",
+            "reino": "Callithrix jacchus",
+            "filo": "Callitrichidae",
+            "classe": "",
+            "info": "Também chamado de sagui, esse simpático marcado é caracterizado pelos tufos brancos em torno das orelhas e pela cauda maior que o corpo, que o ajuda a se equilibrar. O Soín pode ser visto em várias áreas do parque, principalmente no interior das trilhas, muito curiosos, se aproximam facilmente dos humanos. Esses animais se alimentam de frutos, seiva, insetos e ovos que encontram pelo Parque. Por isso, é importante destacar que é proibido alimentá-los, pois isso pode influenciar no seu equilíbrio ecológico e saúde, além de evitar acidentes. Lembre-se, esses macacos transmitem raiva através da sua mordida. "
+        },
+        {
+            "_id": "5b6994850ef4110004a5b6e9",
+            "inseto": true,
+            "ordem": "Raposa; graxaim-do-mato",
+            "reino": "Cerdocyon thous",
+            "filo": "Canidae",
+            "classe": "",
+            "info": "De hábito alimentar pouco restritivo, as raposas podem ser avistadas no Parque do Cocó em suas trilhas, demonstram capacidade de utilizar ambientes perturbados pela ação do homem. Atualmente está sendo mais vista nas trilhas do parque, geralmente solitárias ou em dupla."
+        },
+        {
+            "_id": "5b69952b0ef4110004a5b6eb",
+            "inseto": true,
+            "ordem": "Muçum ",
+            "reino": "Synbranchus marmoratus",
+            "filo": "Synbranchidae",
+            "classe": "",
+            "info": "Esse peixe tem o formato alongado e cilíndrico que lembra uma cobra ou uma enguia. Uma característica interessante dessa espécie é que ela possui uma faringe bem vascularizada que funciona como “pulmões”, que permite que esse peixe respire fora da água. Na sua reprodução, os machos é que tomam conta dos ninhos."
+        },
+        {
+            "_id": "5b6996070ef4110004a5b6ee",
+            "inseto": true,
+            "ordem": "Iguana ",
+            "reino": "Iguana iguana",
+            "filo": "Iguanidae",
+            "classe": "",
+            "info": "O maior lagarto do parque, podendo atingir 1,5 metros. Pode ser observado no chão ou em cima das árvores. Quando jovens são verdes, a medida que vão envelhecendo ficam cinza. "
         }
     ]
 }

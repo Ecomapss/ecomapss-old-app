@@ -8,8 +8,8 @@
         </div>
 
         <div class="list">
-            <a class="item item-avatar" ui-sref="protected.details-fauna({index: $index})" ng-repeat="fauna in fauna.faunas | filter:search">
-                <img ng-src="{{fauna.picture}} ">
+            <a ng-hide="fauna.hide" class="item item-avatar" ui-sref="protected.details-fauna({index: $index})" ng-repeat="fauna in fauna.faunas | filter:search">
+                <img  ng-src="{{fauna.picture}} ">
                 <h2>{{fauna.ordem}}</h2>
                 <p>{{fauna.info}}</p>
             </a>

@@ -6,10 +6,11 @@
     .service('EntitiesService', EntitiesService)
 
   /** @ngInject */
-  function EntitiesService($http, $q, TimelineService, ecConstants) {
+  function EntitiesService($http, $q, TimelineService, ecConstants, $rootScope, $state) {
     this.getEntity = getEntity
     this.getByIndex = getByIndex
     this.getById = getById
+    this.navigateTo = navigateTo
     let baseUrl = 'json/'
     let local = ""
 
@@ -30,6 +31,7 @@
         _getData(type)
           .then(function (response) {
             _applyFilter(response, filter).then(function (filteredData) {
+              console.log('filteredData ->', filteredData);
               return resolve(filteredData);
             })
           })
@@ -69,9 +71,9 @@
                 TimelineService.saveHistory({
                   date: new Date(),
                   id: result._id,
-                  type,
-                  info: result.nome_pop,
-                  sub_info: result.nome_cie
+                  type:  (!!type) ? type.charAt(0).toUpperCase() + type.substr(1).toLowerCase() : '',
+                  info: result.nome_pop || result.filo || result.idade || result.titulo, 
+                  sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
                 })
                 return resolve(result);
               })
@@ -104,10 +106,10 @@
               _getImage(entity).then(function (result) {
                 TimelineService.saveHistory({
                   date: new Date(),
-                  id: result.id,
-                  type,
-                  info: result.nome_pop,
-                  sub_info: result.nome_cie
+                  id: result._id,
+                  type:   (!!local) ? local.charAt(0).toUpperCase() + local.substr(1).toLowerCase() : '',
+                  info: result.nome_pop || result.filo || result.idade || result.titulo, 
+                  sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
                 })
                 console.log('result ->', result);
                 return resolve(result);
@@ -132,17 +134,76 @@
       return $q(function (resolve, reject) {
         var picture
         isList ? picture = "img/entities/" + local + "/" + entity._id + ".thumbnail.png" : picture = "img/entities/" + local + "/" + entity._id + ".jpg"  
-        console.log('picture ->', picture);
         $http.get(picture).then(
           function () {
             entity.picture = picture
             return resolve(entity);
           },
           function (err) {
+            entity.hide = true 
             entity.picture = "img/entities/noimage.jpeg"
             return resolve(entity);
           })
       })
+    }
+
+    function navigateTo(item_id){
+      getById(item_id, 'entities')
+        .then(function(item){
+          if (item.inseto) {
+            $rootScope.fauna = item
+            $state.go('protected.details-fauna', { index:'', id: item._id })
+        } else if (item.fossil) {
+            $rootScope.fossil = item
+            $state.go('protected.details-fossil', { id: item._id })
+        } else if (item.historia) {
+            $rootScope.historia = item
+            $state.go('protected.details-historias', { id: item._id })
+        } else if ('nome_pop' in item) {
+            $rootScope.flora = item
+            $state.go('protected.details-flora', { id: item._id })
+        }
+        })
+        .catch(function(){
+
+        });
+    }
+
+    function _unaccent(str){
+      
+      if(!str) return '';
+
+      var chars = ['A','a','E','e','I','i','O','o','U','u','N','n','C','c'];
+      var regexs =[
+          /[\300-\306]/g, /[\340-\346]/g, /[\310-\313]/g, /[\350-\353]/g, /[\314-\317]/g, /[\354-\357]/g, /[\322-\330]/g, /[\362-\370]/g, /[\331-\334]/g, /[\371-\374]/g, /[\321]/g, /[\361]/g, /[\307]/g, /[\347]/g
+      ];
+
+      for (var i = 0; i < regexs.length; i++){
+          str = str.replace(regexs[i],chars[i]);
+      }
+
+      return str.toLowerCase();
+    }
+
+
+    function resolveFilters(filters, filterObject, currentData, callback){
+      var keys = Object.keys(filterObject);
+      if(keys.length == 0){
+        return callback(currentData);
+      }
+      currentData = filters[keys[0]](currentData, filterObject[keys[0]]);
+      var newFilters = {};
+      keys.shift();
+      keys.forEach(function(key){
+        newFilters[key] = filterObject[key];
+      });
+
+      resolveFilters(filters, newFilters, currentData, callback);
+
+    }
+
+    function getListTotalItems(array){
+      return [...array].length;
     }
 
     /**
@@ -168,11 +229,13 @@
             var currentData = data;
             var response = [];
             var start = params.start;
-
-            if (start >= data.lenght) {
-              return response;
+            var end = getListTotalItems(data);
+            console.log(start, end, start >= end);
+            // return data;
+            if (start > end) {
+              return data;
             }
-
+            
             try {
               response = angular.copy(data.slice(start, data.length));
             } catch (err) {
@@ -184,9 +247,10 @@
           limit: function (data, params) {
             var size = params.size;
             var response = [];
+            var total = getListTotalItems(data);
 
-            if (size >= data.length) {
-              size = data.length;
+            if (size >= total) {
+              size = total;
             }
 
             try {
@@ -199,18 +263,26 @@
           },
           where: function (data, params) {
             var string = params.string;
-
+            var key = params.key;
             return data.filter(function (el) {
-              return el[key].indexOf(string) !== -1
-            })
+              return _unaccent(el[key]).indexOf(_unaccent(string)) !== -1 && !el.hide;
+            });
+          },
+          notIn: function(data, params){
+            var result = data.filter(function(item){
+              var isInCurrentList = params.list.some(function(it){
+                return it._id == item._id;
+              });
+              if(!isInCurrentList) return item;
+            }); 
+            return result;
           }
         }
 
-        Object.keys(filterObject).forEach(function (key, index) {
-          currentData = angular.copy(filters[key](currentData, filterObject[key]));
+        resolveFilters(filters, filterObject, currentData, function(resolvedData){
+          resolve(resolvedData);
         });
 
-        return resolve(currentData);
       })
     }
   }
