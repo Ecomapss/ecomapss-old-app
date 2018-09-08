@@ -67,13 +67,13 @@
             if (response.status < 400) {
               _getImage(response.data.Data[index]).then(function (result) {
                 console.log('result', result);
-                TimelineService.saveHistory({
-                  date: new Date(),
-                  id: result._id,
-                  type,
-                  info: result.nome_pop,
-                  sub_info: result.nome_cie
-                })
+                // TimelineService.saveHistory({
+                //   date: new Date(),
+                //   id: result._id,
+                //   type,
+                //   info: result.nome_pop,
+                //   sub_info: result.nome_cie
+                // })
                 return resolve(result);
               })
             }
@@ -101,15 +101,29 @@
               } else if ('nome_pop' in entity) {
                 local = 'flora'
               }
+              var type_name = {
+                fauna: 'Fauna',
+                fossil: 'Fossil',
+                historia: 'História',
+                flora: 'Flora'
+              }
+              console.log(entity);
+              TimelineService.saveHistory({
+                date: new Date(),
+                id: entity._id,
+                type: type_name[local],
+                info: entity.nome_pop || entity.titulo || entity.ordem || entity.designacao,
+                sub_info: entity.nome_cie
+              })
               console.log('entity ->', entity);
               _getImage(entity).then(function (result) {
-                TimelineService.saveHistory({
-                  date: new Date(),
-                  id: result.id,
-                  type,
-                  info: result.nome_pop,
-                  sub_info: result.nome_cie
-                })
+                // TimelineService.saveHistory({
+                //   date: new Date(),
+                //   id: result.id,
+                //   type,
+                //   info: result.nome_pop,
+                //   sub_info: result.nome_cie
+                // })
                 console.log('result ->', result);
                 return resolve(result);
               })

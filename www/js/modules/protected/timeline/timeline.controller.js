@@ -18,7 +18,6 @@
 
         vm.doRefresh = function () {
             histories = TimelineService.getHistories();
-            console.log('a', histories);
             if (histories === ecConstants.ERRORS.HISTORIES_NOT_FOUND) {
 
             } else {
