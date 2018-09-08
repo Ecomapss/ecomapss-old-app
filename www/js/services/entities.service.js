@@ -230,7 +230,7 @@
             var response = [];
             var start = params.start;
             var end = getListTotalItems(data);
-            console.log(start, end, start >= end);
+            
             // return data;
             if (start > end) {
               return data;

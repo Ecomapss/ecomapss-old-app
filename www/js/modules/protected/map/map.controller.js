@@ -6,7 +6,7 @@
         .controller('MapCtrl', MapCtrl)
 
     /** @ngInject */
-    function MapCtrl($scope, $stateParams, $state, $log, leafletData, UserService, LocationsService) {
+    function MapCtrl($scope, $stateParams, $state, $log, leafletData, UserService, LocationsService, AlertService) {
         var vm = this;
         var markers = $stateParams.markers;
         var normalizedMarkers = {};
@@ -21,6 +21,7 @@
 
         function init() {
             normalizedMarkers = resolveMarkers(markers);
+        
             /**
              * Get saved location, if exists continue, if not, redirect
              * to location route
@@ -34,6 +35,10 @@
             }
             /////////////////////////
 
+
+            if (!(place && place.key)) {
+                $state.go('protected.location', {});                
+            }
 
             /**
              * Only execute this code if user has selected the location

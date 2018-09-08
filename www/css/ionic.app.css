@@ -10039,6 +10039,15 @@ span.i-fossil-outline-white {
   border-radius: 50%;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2); }
 
+.ec-success-popup .popup {
+  background-color: #00743F; }
+
+.ec-error-popup .popup {
+  background-color: #ef473a; }
+
+.ec-warning-popup .popup {
+  background-color: #F2A104; }
+
 input[type=text].input--rounded {
   padding: 1em;
   border-radius: 2em;
@@ -10141,6 +10150,9 @@ img.center {
 
 .ec-timeline {
   top: 160px; }
+
+#timeline-container, #header-timeline {
+  transition: .5s ease-in-out; }
 
 .user-header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
