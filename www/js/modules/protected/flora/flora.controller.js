@@ -46,16 +46,14 @@
                 catch(e){}
             }
             
-            var searchParams = {
-                ...filter,
-                offset: {
-                    start: offsetStart
-                },
-                limit: {
-                    size: limit
-                }
-            }
+            var searchParams = {};
             
+            Object.keys(filter).forEach(function(key){
+                searchParams[key] = filter[key];
+            });
+
+            searchParams.offset = { start: offsetStart };
+            searchParams.limit = { size: limit };
 
             EntitiesService.getEntity('flora', searchParams)
                 .then(function (response) {
