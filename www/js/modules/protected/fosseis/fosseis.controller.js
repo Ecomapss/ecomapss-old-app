@@ -38,15 +38,14 @@
                 catch(e){}
             }
             
-            var searchParams = {
-                ...filter,
-                offset: {
-                    start: offsetStart
-                },
-                limit: {
-                    size: limit
-                }
-            }
+            var searchParams = {};
+            
+            Object.keys(filter).forEach(function(key){
+                searchParams[key] = filter[key];
+            });
+
+            searchParams.offset = { start: offsetStart };
+            searchParams.limit = { size: limit };
             
 
             EntitiesService.getEntity('fossil', searchParams)
@@ -68,7 +67,6 @@
                 })
         }
 
-        vm.getData();
 
         vm.search = function(filter, fromScroll){
             if(filter == '' && !fromScroll){
@@ -81,6 +79,8 @@
                 }
             }, fromScroll);
         }
+
+        vm.search();
 
         $scope.navigateTo = function(item){
             EntitiesService.navigateTo(item._id);
