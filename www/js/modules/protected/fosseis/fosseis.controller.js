@@ -6,40 +6,86 @@
         .controller('FosseisCtrl', FosseisCtrl)
 
     /** @ngInject */
-    function FosseisCtrl($scope, EntitiesService) {
+    function FosseisCtrl($scope, $timeout, EntitiesService) {
         var vm = this;
         var defaultOffsetSum = 10;
         var offsetStart = 0;
-        var limit = 10
+        var limit = 10;
 
         vm.noMoreItemsAvailable = false;
-        vm.fosseis = [];
+        vm.fosseis = []
 
-        vm.getData = function () {
-            EntitiesService.getEntity('fossil', {
+        vm.filter = {
+            current: 'estratigrafia',
+            options: [
+                {
+                    name: 'Estratigrafia',
+                    key: 'estratigrafia'
+                }
+            ]
+        }
+        
+
+        vm.getData = function (filter, fromScroll) {
+            
+            if(fromScroll){
+                offsetStart += defaultOffsetSum;
+                try{
+                    filter.notIn = {
+                        list: vm.fosseis
+                    }
+                }
+                catch(e){}
+            }
+            
+            var searchParams = {
+                ...filter,
                 offset: {
                     start: offsetStart
                 },
                 limit: {
                     size: limit
                 }
-            })
+            }
+            
+
+            EntitiesService.getEntity('fossil', searchParams)
                 .then(function (response) {
                     if (response.length) {
-                        vm.fosseis = vm.fosseis.concat(response);
+                        if(fromScroll){
+                            vm.fosseis = vm.fosseis.concat(response);
+                        }else{
+                            vm.fosseis = response;
+                            vm.noMoreItemsAvailable = false;
+                        }
                         $scope.$broadcast('scroll.infiniteScrollComplete');
-
-                        offsetStart += defaultOffsetSum;
                     } else {
+    
                         vm.noMoreItemsAvailable = true;
                     }
                 })
                 .catch(function (err) {
-                    console.error(err);
                 })
         }
 
         vm.getData();
+
+        vm.search = function(filter, fromScroll){
+            if(filter == '' && !fromScroll){
+                offsetStart = 0;
+            }
+            vm.getData({
+                where: {
+                    key: vm.filter.current,
+                    string: filter
+                }
+            }, fromScroll);
+        }
+
+        $scope.navigateTo = function(item){
+            EntitiesService.navigateTo(item._id);
+        }
+
     }
 
 }());
