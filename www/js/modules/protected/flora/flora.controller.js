@@ -47,7 +47,7 @@
             }
             
             var searchParams = {
-                // ...filter,
+                ...filter,
                 offset: {
                     start: offsetStart
                 },

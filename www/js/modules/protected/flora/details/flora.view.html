@@ -3,7 +3,7 @@
 
         <img class="full-image" ng-src="{{vm.flora.picture}}">
         
-        <div class="vw-100 flex-container">
+        <div class="vw-100 flex-container" ng-if="vm.flora.loc.length">
             <button class="button icon-left ion-location button-assertive btn-rounded all-gap" ng-click="vm.showLocation(vm.flora.loc)"> Localização </button>
         </div>
 
