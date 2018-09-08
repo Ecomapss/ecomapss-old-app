@@ -6,23 +6,95 @@
         .controller('FaunaCtrl', FaunaCtrl)
 
     /** @ngInject */
-    function FaunaCtrl(EntitiesService) {
+    function FaunaCtrl($scope, EntitiesService) {
         var vm = this;
+        var defaultOffsetSum = 10;
+        var offsetStart = 0;
+        var limit = 10;
 
-        init();
+        vm.noMoreItemsAvailable = false;
+        vm.faunas = [];
 
-        function init() {
-            getFaunas()
+        vm.filter = {
+            current: 'ordem',
+            options: [
+                {
+                    name: 'Ordem',
+                    key: 'ordem'
+                }
+            ]
         }
 
-        function getFaunas() {
-            EntitiesService.getEntity('fauna', {})
-                .then(function (faunas) {
-                    vm.faunas = faunas
-                }).catch(function (error) {
-                    vm.faunas = []
+
+        // function getFaunas() {
+        //     EntitiesService.getEntity('fauna', {})
+        //         .then(function (faunas) {
+        //             vm.faunas = faunas
+        //         }).catch(function (error) {
+        //             vm.faunas = []
+        //         })
+        // }
+
+        vm.getData = function (filter, fromScroll) {
+            if(fromScroll){
+                offsetStart += defaultOffsetSum;
+                try{
+                    filter.notIn = {
+                        list: vm.faunas
+                    }
+                }
+                catch(e){}
+            }
+            
+            var searchParams = {
+                ...filter,
+                offset: {
+                    start: offsetStart
+                },
+                limit: {
+                    size: limit
+                }
+            }
+            
+
+            EntitiesService.getEntity('fauna', searchParams)
+                .then(function (response) {
+                    if (response.length) {
+                        if(fromScroll){
+                            vm.faunas = vm.faunas.concat(response);
+                        }else{
+                            vm.faunas = response;
+                            vm.noMoreItemsAvailable = false;
+                        }
+                        $scope.$broadcast('scroll.infiniteScrollComplete');
+                    } else {
+                        // vm.faunas = [];
+                        vm.noMoreItemsAvailable = true;
+                    }
+                })
+                .catch(function (err) {
                 })
         }
+
+        vm.getData();
+
+        vm.search = function(filter, fromScroll){
+            if(filter == '' && !fromScroll){
+                offsetStart = 0;
+            }
+            vm.getData({
+                where: {
+                    key: vm.filter.current,
+                    string: filter
+                }
+            }, fromScroll);
+        }
+
+        $scope.navigateTo = function(item){
+            EntitiesService.navigateTo(item._id);
+        }
+
+        
     }
 
 }());

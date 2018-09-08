@@ -3,16 +3,20 @@
         <div class="list list-inset">
             <label class="item item-input">
                 <i class="icon ion-search placeholder-icon"></i>
-                <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 200 }">
+                <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 500 }" ng-change="fauna.search(search)">
             </label>
+            <ec-filter filter="fauna.filter" refresh="fauna.getData()" should-refresh="false"></ec-filter>
+
         </div>
 
         <div class="list">
-            <a ng-hide="fauna.hide" class="item item-avatar" ui-sref="protected.details-fauna({index: $index})" ng-repeat="fauna in fauna.faunas | filter:search">
+            <a ng-hide="fauna.hide" class="item item-avatar" ng-click="navigateTo(fauna)" ng-repeat="fauna in fauna.faunas">
                 <img  ng-src="{{fauna.picture}} ">
                 <h2>{{fauna.ordem}}</h2>
                 <p>{{fauna.info}}</p>
             </a>
+            <ion-infinite-scroll ng-if="!fauna.noMoreItemsAvailable" on-infinite="fauna.search(search, true)" distance="5px"></ion-infinite-scroll>
+
         </div>
     </ion-content>
 </ion-view>

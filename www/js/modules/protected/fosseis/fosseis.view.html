@@ -3,18 +3,19 @@
         <div class="list list-inset">
             <label class="item item-input">
                 <i class="icon ion-search placeholder-icon"></i>
-                <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 200 }">
+                <input type="text" ng-model="search" placeholder="Pesquisar" ng-model-options="{ allowInvalid: true, debounce: 500 }" ng-change="fosseis.search(search)">
             </label>
+            <ec-filter filter="fosseis.filter" refresh="fosseis.getData()" should-refresh="false"></ec-filter>
         </div>
 
         <div class="list">
-            <a ng-hide="fossil.hide" class="item item-avatar" ui-sref="protected.details-fossil({index: $index})" ng-repeat="fossil in fosseis.fosseis | filter:search">
+            <a ng-hide="fossil.hide" class="item item-avatar" ng-click="navigateTo(fossil)" ng-repeat="fossil in fosseis.fosseis">
                 <img ng-src="{{fossil.picture}} ">
                 <h2>{{fossil.titulo}}</h2>
                 <p>{{fossil.info}}</p>
             </a>
 
-            <ion-infinite-scroll ng-if="!fosseis.noMoreItemsAvailable" on-infinite="fosseis.getData()" distance="5px"></ion-infinite-scroll>            
+            <ion-infinite-scroll ng-if="!fosseis.noMoreItemsAvailable" on-infinite="fosseis.search(search, true)" distance="5px"></ion-infinite-scroll>            
         </div>
     </ion-content>
 </ion-view>

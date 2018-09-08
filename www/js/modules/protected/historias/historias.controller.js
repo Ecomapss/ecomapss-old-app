@@ -6,23 +6,86 @@
         .controller('HistoriasCtrl', HistoriasCtrl)
 
     /** @ngInject */
-    function HistoriasCtrl(EntitiesService){
+    function HistoriasCtrl($scope, EntitiesService){
         var vm = this;
-        
-        init();
+        var defaultOffsetSum = 10;
+        var offsetStart = 0;
+        var limit = 10;
 
-        function init() {
-            getHistoria()
+        vm.noMoreItemsAvailable = false;
+        vm.historias = [];
+
+        vm.filter = {
+            current: 'titulo',
+            options: [
+                {
+                    name: 'Título',
+                    key: 'titulo'
+                }
+            ]
         }
 
-        function getHistoria() {
-            EntitiesService.getEntity('historia', {})
-                .then(function (historia) {
-                    vm.historias = historia
-                }).catch(function (error) {
-                    vm.historias = []
+        vm.getData = function (filter, fromScroll) {
+            
+            if(fromScroll){
+                offsetStart += defaultOffsetSum;
+                try{
+                    filter.notIn = {
+                        list: vm.historias
+                    }
+                }
+                catch(e){}
+            }
+            
+            var searchParams = {
+                ...filter,
+                offset: {
+                    start: offsetStart
+                },
+                limit: {
+                    size: limit
+                }
+            }
+            
+
+            EntitiesService.getEntity('historia', searchParams)
+                .then(function (response) {
+                    console.log('aq', response);
+                    if (response.length) {
+                        if(fromScroll){
+                            vm.historias = vm.historias.concat(response);
+                        }else{
+                            vm.historias = response;
+                            vm.noMoreItemsAvailable = false;
+                        }
+                        $scope.$broadcast('scroll.infiniteScrollComplete');
+                    } else {
+                        vm.noMoreItemsAvailable = true;
+                    }
+                })
+                .catch(function (err) {
                 })
         }
+
+        vm.getData();
+
+        vm.search = function(filter, fromScroll){
+            if(filter == '' && !fromScroll){
+                offsetStart = 0;
+            }
+            vm.getData({
+                where: {
+                    key: vm.filter.current,
+                    string: filter
+                }
+            }, fromScroll);
+        }
+
+        $scope.navigateTo = function(item){
+            console.log('aq', item);
+            EntitiesService.navigateTo(item._id);
+        }
+
     }
 
 }());

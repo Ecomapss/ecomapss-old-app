@@ -23,7 +23,7 @@
                     key: 'nome_pop'
                 },
                 {
-                    name: 'Nome Ciêntifico',
+                    name: 'Nome Científico',
                     key: 'nome_cie'
                 },
                 {
