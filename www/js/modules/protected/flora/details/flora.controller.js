@@ -27,6 +27,10 @@
       }
     }
 
+    vm.showLocation = function(markers) {
+      $state.go('protected.map', {markers: markers});
+    }
+
   }
 
 }());

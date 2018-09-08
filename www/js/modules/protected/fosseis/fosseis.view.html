@@ -9,7 +9,7 @@
         </div>
 
         <div class="list">
-            <a class="item item-avatar" ng-click="navigateTo(fossil)" ng-repeat="fossil in fosseis.fosseis">
+            <a ng-hide="fossil.hide" class="item item-avatar" ng-click="navigateTo(fossil)" ng-repeat="fossil in fosseis.fosseis">
                 <img ng-src="{{fossil.picture}} ">
                 <h2>{{fossil.titulo}}</h2>
                 <p>{{fossil.info}}</p>

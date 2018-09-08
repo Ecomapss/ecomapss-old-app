@@ -9,7 +9,7 @@
         </div>
 
         <div class="list">
-            <a class="item item-avatar" ng-click="navigateTo(historia)" ng-repeat="historia in historias.historias">
+            <a ng-hide="historia.hide" class="item item-avatar" ng-click="navigateTo(historia)" ng-repeat="historia in historias.historias">
                 <img ng-src="{{historia.picture}} ">
                 <h2>{{historia.titulo}}</h2>
                 <p>{{historia.info}}</p>

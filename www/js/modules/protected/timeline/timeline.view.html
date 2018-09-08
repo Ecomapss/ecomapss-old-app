@@ -44,6 +44,13 @@
 					<p>{{history.info}}</p>
 				</div>
 			</li>
+			<li ng-if="!vm.fetchedHistories.length">
+				<div class="cbp_tmlabel" style="text-align: center">
+					<h2>Ops...Sem histórico</h2>
+					<img src="img/icones/cloud-computing.png">
+					<p>Faça uma pesquisa!</p>
+				</div>
+			</li>
 		</ul>
 	</ion-content>
 </ion-view>

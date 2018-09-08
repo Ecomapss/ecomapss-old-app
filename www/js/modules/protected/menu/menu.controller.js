@@ -73,7 +73,11 @@
         });
 
         vm.navigateTo = function(stateName){
-            $state.go(stateName);
+            if(stateName == 'protected.timeline' && $state.current.name == stateName){
+               
+            }else{
+                $state.go(stateName);
+            }
             vm.hideBackButton = true;
         }
     }
