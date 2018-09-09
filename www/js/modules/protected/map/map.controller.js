@@ -6,7 +6,7 @@
         .controller('MapCtrl', MapCtrl)
 
     /** @ngInject */
-    function MapCtrl($scope, $stateParams, $state, $timeout, $log, leafletData, UserService, LocationsService, AlertService) {
+    function MapCtrl($scope, $stateParams,$location, $state, $timeout, $log, leafletData, UserService, LocationsService, AlertService) {
         var vm = this;
         var markers = $stateParams.markers;
         var normalizedMarkers = {};
@@ -27,9 +27,9 @@
              * Get saved location, if exists continue, if not, redirect
              * to location route
              */
-
             location = UserService.getLocation();
             if (location) {
+                
                 place = LocationsService.getByKey(location)[0];
                 /**
                  * Only execute this code if user has selected the location
@@ -41,23 +41,23 @@
                         attribution: 'All maps &copy; ' + place.attr
                     }
                 };
+
+                /**
+                * Extend $scope with leaflet directive atributes
+                */
+                angular.extend($scope, {
+                    center: angular.copy(place.loc),
+                    tiles: tiles,
+                    markers: normalizedMarkers,
+                    defaults: {
+                        scrollWheelZoom: false
+                    }
+                });
+                ////////////////////////
+
             } else {
                 $state.go('protected.location', {});
             }
-            ////////////////////////
-
-
-            /**
-             * Extend $scope with leaflet directive atributes
-             */
-            angular.extend($scope, {
-                center: angular.copy(place.loc),
-                tiles: tiles,
-                markers: normalizedMarkers,
-                defaults: {
-                    scrollWheelZoom: false
-                }
-            });
             ////////////////////////
         }
 
