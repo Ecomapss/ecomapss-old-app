@@ -2,13 +2,17 @@
   top: 160px;
 }
 
+#timeline-container, #header-timeline {
+  transition: .5s ease-in-out;
+}
+
 .user-header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   padding: 1em;
   background-color: slateblue;
 }
 
-.user-header>h1 {
+.user-header > h1 {
   margin: 10px;
   font-weight: 900;
   color: white;
