@@ -23,36 +23,22 @@
 
     <!-- inject:css -->
 
-
-
     <link rel="stylesheet" href="css/animate.min.css">
-
-
 
     <link rel="stylesheet" href="css/icons.min.css">
 
-
-
     <link rel="stylesheet" href="css/ionic.app.min.css">
 
-
-
     <link rel="stylesheet" href="css/leaflet.min.css">
-
-
 
     <!-- endinject -->
 
 
-  <!-- ionic/angularjs js -->
   <script src="lib/ionic/js/ionic.bundle.js"></script>
 
   <!-- cordova script (this will be a 404 during development) -->
   <script src="lib/ngCordova/ng-cordova.js"></script>
   <script src="cordova.js"></script>
-
-  <!-- <script src="vendor/material/ionic.material.min.js"></script> -->
-
 
   <!-- your app's js -->
   <!-- Modules -->
@@ -61,17 +47,21 @@
   
   <script src="vendor/leaflet/ui-leaflet.min.js"></script>
   
-  <script src="vendor/leaflet/ui-leaflet-layers.min.js"></script>
-  
   <script src="vendor/leaflet/leaflet.js"></script>
   
   <script src="vendor/js/angular-simple-logger.light.min.js"></script>
   
+  <script src="js/modules/protected/module.js"></script>
+  
+  <script src="js/modules/protected/location/locations.controller.js"></script>
+  
+  <script src="js/modules/protected/location/location.config.js"></script>
+  
   <script src="js/modules/protected/historias/historias.module.js"></script>
   
-  <script src="js/modules/protected/historias/details/historias.controller.js"></script>
-  
   <script src="js/modules/protected/fosseis/details/fossil.controller.js"></script>
+  
+  <script src="js/modules/protected/historias/details/historias.controller.js"></script>
   
   <script src="js/modules/protected/flora/flora.module.js"></script>
   
@@ -80,6 +70,8 @@
   <script src="js/modules/protected/fauna/fauna.module.js"></script>
   
   <script src="js/modules/protected/fauna/details/fauna.controller.js"></script>
+  
+  <script src="js/modules/protected/menu/menu.controller.js"></script>
   
   <script src="js/modules/public/welcome/welcome.module.js"></script>
   
@@ -93,8 +85,6 @@
   
   <script src="js/modules/public/avatar/avatar.config.js"></script>
   
-  <script src="js/modules/protected/module.js"></script>
-  
   <script src="js/modules/protected/user/user.controller.js"></script>
   
   <script src="js/modules/protected/user/user.config.js"></script>
@@ -103,15 +93,15 @@
   
   <script src="js/modules/protected/timeline/timeline.config.js"></script>
   
-  <script src="js/modules/protected/menu/menu.controller.js"></script>
+  <script src="js/directives/app.directives.js"></script>
+  
+  <script src="js/directives/filter/directive.js"></script>
   
   <script src="js/modules/protected/map/map.controller.js"></script>
   
   <script src="js/modules/protected/map/map.config.js"></script>
   
-  <script src="js/modules/protected/location/locations.controller.js"></script>
-  
-  <script src="js/modules/protected/location/location.config.js"></script>
+  <script src="js/directives/map/directive.js"></script>
   
   <script src="js/modules/protected/historias/historias.controller.js"></script>
   
@@ -135,23 +125,17 @@
   
   <script src="js/modules/protected/entities/entities.config.js"></script>
   
-  <script src="js/modules/protected/config.js"></script>
-  
-  <script src="js/directives/app.directives.js"></script>
-  
-  <script src="js/directives/map/directive.js"></script>
-
-  <script src="js/directives/filter/directive.js"></script>
-  
   <script src="js/directives/i18n/directive.js"></script>
+  
+  <script src="js/modules/protected/config.js"></script>
   
   <script src="js/services/app.services.js"></script>
   
-  <script src="js/services/userService.js"></script>
+  <script src="js/services/user.service.js"></script>
   
   <script src="js/services/timeline.service.js"></script>
   
-  <script src="js/services/storageService.js"></script>
+  <script src="js/services/storage.service.js"></script>
   
   <script src="js/services/map.service.js"></script>
   
@@ -164,6 +148,8 @@
   <script src="js/services/entities.service.js"></script>
   
   <script src="js/services/barcode.service.js"></script>
+  
+  <script src="js/services/alert.service.js"></script>
   
   <script src="js/modules/app.components.js"></script>
   
