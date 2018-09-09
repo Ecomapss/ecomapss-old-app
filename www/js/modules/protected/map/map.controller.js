@@ -6,11 +6,12 @@
         .controller('MapCtrl', MapCtrl)
 
     /** @ngInject */
-    function MapCtrl($scope, $stateParams, $state, $log, leafletData, UserService, LocationsService) {
+    function MapCtrl($scope, $stateParams,$location, $state, $timeout, $log, leafletData, UserService, LocationsService, AlertService) {
         var vm = this;
         var markers = $stateParams.markers;
         var normalizedMarkers = {};
-
+        var place = null;
+        var location = null;
         // Trigger every time enter in this view, but not trigger in first time
         $scope.$on("$ionicView.enter", function (scopes, states) {
             init();
@@ -21,50 +22,48 @@
 
         function init() {
             normalizedMarkers = resolveMarkers(markers);
+
             /**
              * Get saved location, if exists continue, if not, redirect
              * to location route
              */
-            var place = null;
-            var location = UserService.getLocation();
+            location = UserService.getLocation();
             if (location) {
+                
                 place = LocationsService.getByKey(location)[0];
+                /**
+                 * Only execute this code if user has selected the location
+                 */
+                /////////////////////////
+                var tiles = {
+                    url: 'tiles/' + place.key + '/{z}/{x}/{y}.' + place.ext,
+                    options: {
+                        attribution: 'All maps &copy; ' + place.attr
+                    }
+                };
+
+                /**
+                * Extend $scope with leaflet directive atributes
+                */
+                angular.extend($scope, {
+                    center: angular.copy(place.loc),
+                    tiles: tiles,
+                    markers: normalizedMarkers,
+                    defaults: {
+                        scrollWheelZoom: false
+                    }
+                });
+                ////////////////////////
+
             } else {
                 $state.go('protected.location', {});
             }
-            /////////////////////////
-
-
-            /**
-             * Only execute this code if user has selected the location
-             */
-            var tiles = {
-                url: 'tiles/' + place.key + '/{z}/{x}/{y}.' + place.ext,
-                options: {
-                    attribution: 'All maps &copy; ' + place.attr
-                }
-            };
-            /////////////////////////
-
-            /**
-             * Extend $scope with leaflet directive atributes
-             */
-            angular.extend($scope, {
-                center: place.loc,
-                tiles: tiles,
-                markers: normalizedMarkers,
-                defaults: {
-                    scrollWheelZoom: false
-                }
-            });
             ////////////////////////
         }
 
         $scope.doInit = function () {
             leafletData.getMap('map1').then(function (map) {
                 $scope.map = map;
-                $log.info(map);
-                $log.info(map);
             });
         }
 
@@ -79,14 +78,22 @@
                     result[index] = {
                         lat: ele.lat,
                         lng: ele.lng,
-                        message: 'Lat: '+ele.lat+' Lng: '+ele.lng
-                    } 
+                        message: 'Lat: ' + ele.lat + ' Lng: ' + ele.lng
+                    }
                 })
 
                 return result;
             }
 
             return [];
+        }
+
+        $scope.centerMap = function () {
+            var center = LocationsService.getByKey(location)[0].loc;
+            console.log(center);
+
+            $scope.center = angular.copy(center);
+            $scope.doInit();
         }
     }
 }());
