@@ -8,8 +8,12 @@ var angularFilesort = require("gulp-angular-filesort");
 var paths = {
   css:[ './www/css/**/*.min.css' ],
   sass: ['./scss/ionic.app.scss', './www/vendor/styles/**/*.css'],
-  js: ['./www/js/**/*.js', './www/vendor/**/*.js']
+  js: ['./www/js/**/*.js','./www/vendor/**/*.js']
 };
+
+gulp.on('err', function(e) {
+  console.log(e.err.stack);
+});
 
 gulp.task('default', ['sass', 'inject']);
 
@@ -31,9 +35,11 @@ gulp.task('sass', function (done) {
 gulp.task('inject', function () {
   var target = gulp.src('./www/index.html');
   var css = gulp.src(paths.css);
-  var sources = gulp.src(paths.js).pipe(angularFilesort());
+  var js = gulp.src(paths.js).pipe(angularFilesort());
 
-  return target.pipe(inject(sources, {ignorePath: 'www/', addRootSlash: false})).pipe(inject(css, {ignorePath: 'www/', addRootSlash: false})).pipe(gulp.dest('./www'));
+  return target.pipe(inject(js, {ignorePath: 'www', addRootSlash: false}))
+    .pipe(inject(css, {ignorePath: 'www', addRootSlash: false}))
+    .pipe(gulp.dest('www'));
 });
 
 gulp.task('watch', ['sass', 'inject'], function () {
