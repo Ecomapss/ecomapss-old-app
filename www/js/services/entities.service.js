@@ -31,7 +31,6 @@
         _getData(type)
           .then(function (response) {
             _applyFilter(response, filter).then(function (filteredData) {
-              console.log('filteredData ->', filteredData);
               return resolve(filteredData);
             })
           })
@@ -68,13 +67,6 @@
             if (response.status < 400) {
               _getImage(response.data.Data[index]).then(function (result) {
                 console.log('result', result);
-                // TimelineService.saveHistory({
-                //   date: new Date(),
-                //   id: result._id,
-                //   type:  (!!type) ? type.charAt(0).toUpperCase() + type.substr(1).toLowerCase() : '',
-                //   info: result.nome_pop || result.filo || result.idade || result.titulo, 
-                //   sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
-                // })
                 return resolve(result);
               })
             }
@@ -147,7 +139,7 @@
     function _getImage(entity, isList = false) {
       return $q(function (resolve, reject) {
         var picture
-        isList ? picture = "img/entities/" + local + "/" + entity._id + ".thumbnail.png" : picture = "img/entities/" + local + "/" + entity._id + ".jpg"  
+        isList ? picture = "img/entities/" + local + "/" + entity._id + ".thumbnail" : picture = "img/entities/" + local + "/" + entity._id + ".jpg"  
         $http.get(picture).then(
           function () {
             entity.picture = picture
