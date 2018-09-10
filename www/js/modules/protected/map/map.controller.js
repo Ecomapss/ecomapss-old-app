@@ -38,7 +38,7 @@
                 var tiles = {
                     url: 'tiles/' + place.key + '/{z}/{x}/{y}.' + place.ext,
                     options: {
-                        attribution: 'All maps &copy; ' + place.attr
+                        attribution: 'All maps &copy; ' + place.attr + ' Local: ' + place.name
                     }
                 };
 
@@ -50,6 +50,8 @@
                     tiles: tiles,
                     markers: normalizedMarkers,
                     defaults: {
+                        minZoom: 10,
+                        maxZoom: 17,
                         scrollWheelZoom: false
                     }
                 });

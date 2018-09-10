@@ -1,5 +1,5 @@
 <ion-view view-title="Histórias">
-    <ion-content>
+    <ion-content overflow-scroll="false" >
         <div class="list list-inset">
             <label class="item item-input">
                 <i class="icon ion-search placeholder-icon"></i>
@@ -15,7 +15,6 @@
                 <p>{{historia.info}}</p>
             </a>
             <ion-infinite-scroll ng-if="!historias.noMoreItemsAvailable" on-infinite="historias.search(search, true)" distance="5px"></ion-infinite-scroll>
-
         </div>
     </ion-content>
 </ion-view>

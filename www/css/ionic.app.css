@@ -10221,6 +10221,9 @@ img.center {
 .box-divide {
   margin-bottom: 5em; }
 
+.white-font {
+  color: white; }
+
 .avatar-item {
   border-radius: 50px;
   position: static;

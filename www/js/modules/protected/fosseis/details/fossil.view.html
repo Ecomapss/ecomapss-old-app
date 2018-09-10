@@ -5,22 +5,27 @@
         <div class="list">
             <div class="item item-icon-left-top item-body" ng-if="details.fossil.designacao">
                 <i class="icon ion-alert calm"></i>
+                <b>(Nome Científico) </b>
                 {{details.fossil.designacao}}
             </div>
             <div class="item item-icon-left-top item-body" ng-if="details.fossil.estratigrafia">
                 <i class="icon ion-cube calm"></i>
+                <b>(Estratigrafia) </b>
                 {{details.fossil.estratigrafia}}
             </div>
             <div class="item item-icon-left-top item-body" ng-if="details.fossil.idade">
-                <i class="icon ion-flag calm"></i>
+                <i class="icon ion-calendar calm"></i>
+                <b>(Idade) </b>
                 {{details.fossil.idade}}
             </div>
             <div class="item item-icon-left-top item-body" ng-if="details.fossil.procedencia">
-                <i class="icon ion-calendar calm"></i>
+                <i class="icon ion-flag calm"></i>
+                <b>(Procedência) </b>
                 {{details.fossil.procedencia}}
             </div>
             <p class="item  item-body item-icon-left-top item-body-top item-body">
                 <i class="icon ion-alert calm"></i>
+                <b>(Detalhes) </b>
                 {{details.fossil.info}}
             </p>
         </div>
