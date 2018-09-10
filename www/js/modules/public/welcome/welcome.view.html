@@ -1,6 +1,25 @@
 <ion-view>
   <ion-content class="bg-gradient">
     <ion-slide-box>
+
+      <ion-slide>
+        <div class="entities-item">
+          <div class="flex-container flex-col-dir vh-100">
+            <div class="entities-head">
+                <img src="img/icones/logo/ecomapss.png" class="center" width="130" height="130" alt="">              
+            </div>
+
+            <div class="entities-body">
+              <h2>
+                Olá, Bem vindo ao Ecomapss.
+              </h2>
+              <p> Arraste para começar! </p>
+            </div>
+          </div>
+
+        </div>
+      </ion-slide>
+
       <ion-slide>
         <div class="entities-item">
           <div class="flex-container flex-col-dir vh-100">
@@ -12,14 +31,14 @@
               <h2>
                 Fauna
               </h2>
-              <p>Lorem ipsum dolor gravita dolor gravita, dolor gravita dolor gravita </p>
-            </div>            
+              <p>Aqui no ecomapss você terá acesso a inúmeros fatos sobre a fauna da reserva ou parque que estiver visitando!</p>
+            </div>
           </div>
-          
+
         </div>
       </ion-slide>
 
-      <ion-slide >
+      <ion-slide>
         <div class="entities-item">
           <div class="flex-container flex-col-dir vh-100">
             <div class="entities-head">
@@ -30,7 +49,7 @@
               <h2>
                 Flora
               </h2>
-              <p>Lorem ipsum dolor gravita dolor gravita, dolor gravita dolor gravita </p>
+              <p> Busque e encontre informações e curiosidades sobre a flora local. </p>
             </div>
 
           </div>
@@ -48,7 +67,7 @@
               <h2>
                 Fosseis
               </h2>
-              <p>Lorem ipsum dolor gravita dolor gravita, dolor gravita dolor gravita </p>
+              <p>Há você quer conhecer sobre que animais viveram aqui, no app você terá bastante informação!</p>
             </div>
           </div>
         </div>
@@ -65,7 +84,7 @@
               <h2>
                 Histórias
               </h2>
-              <p>Lorem ipsum dolor gravita dolor gravita, dolor gravita dolor gravita </p>
+              <p> Caso tenha curiosade em saber historias locais, poderar encontrar aqui também!</p>
             </div>
           </div>
         </div>
@@ -75,18 +94,20 @@
         <div class="flex-container flex-col-dir vh-100">
           <div class="row row box-divide">
             <div class="col col-center">
-              <img src="img/icones/logo/ecomapss.png" class="center" width="130" height="130" alt="">
+              <h4 class="white-font">Agora só precisamos do seu nome para identificarmos você dentro do app: </h4 class="white-font">
             </div>
           </div>
 
           <form ng-submit="welcome.doLogin()" name="userForm" ng-model="welcome.user" novalidate>
-            <input name="username" type="text" ng-class="{'has-error': userForm.username.$invalid && userForm.$dirty}" class="input--rounded" ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}" required>
+            <input name="username" type="text" ng-class="{'has-error': userForm.username.$invalid && userForm.$dirty}" class="input--rounded"
+              ng-model="welcome.user.username" placeholder="{{welcome.translate.form.placeholders.name}}" required>
             <button ng-disabled="userForm.$invalid" class="button button-royal btn-rounded button-block">
               {{welcome.translate.form.buttons.signin}}
             </button>
           </form>
 
-          <div ng-show="userForm.username.$invalid && userForm.$dirty" ng-class="{'animated slideInUp': userForm.username.$invalid && userForm.$dirty}" class="ec-message error">
+          <div ng-show="userForm.username.$invalid && userForm.$dirty" ng-class="{'animated slideInUp': userForm.username.$invalid && userForm.$dirty}"
+            class="ec-message error">
             {{welcome.translate.form.errors.empty.username}}
           </div>
         </div>

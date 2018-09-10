@@ -3,48 +3,53 @@
 
         <img class="full-image" ng-src="{{vm.flora.picture}}">
         
-        <div class="vw-100 flex-container">
+        <div class="vw-100 flex-container" ng-if="vm.flora.loc.length">
             <button class="button icon-left ion-location button-assertive btn-rounded all-gap" ng-click="vm.showLocation(vm.flora.loc)"> Localização </button>
         </div>
 
         <div class="list">
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.nome_pop">
                 <i class="icon ion-leaf calm"></i>
+                <b>(Nomes Populares)</b>
                 {{vm.flora.nome_pop}}
             </div>
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.nome_cie">
                 <i class="icon ion-erlenmeyer-flask calm"></i>
+                <b>(Nomes Científcos)</b>
                 <i>
                     {{vm.flora.nome_cie}}
                 </i>  
             </div>
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.familia">
                 <i class="icon ion-heart calm"></i>
+                <b>(Família)</b>
                 {{vm.flora.familia}}
             </div>
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.categoria">
                 <i class="icon ion-clipboard calm"></i>
+                <b>(Estrato Herbáceo)</b>
                 {{vm.flora.categoria}}
             </div>
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.origem">
                 <i class="icon ion-flag calm"></i>
+                <b>(Origem)</b>
                 {{vm.flora.origem}}
             </div>
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.clima">
                 <i class="icon ion-cloud calm"></i>
+                <b>(Bioma Domínio)</b>
                 {{vm.flora.clima}}
             </div>
-            <!-- <div class="item item-icon-left-top item-body" ng-if="vm.flora.luminosidade">
-                <i class="icon ion-contrast calm"></i>
-                {{vm.flora.luminosidade}}
-            </div> -->
             <div class="item item-icon-left-top item-body" ng-if="vm.flora.altura">
                 <i class="icon ion-stats-bars calm"></i>
+                <b>(Altura)</b>
                 {{vm.flora.altura}}
             </div>
 
             <p class="item  item-body item-icon-left-top item-body-top item-body">
-                <i class="icon ion-alert calm"></i> {{vm.flora.info}}
+                <i class="icon ion-alert calm"></i> 
+                <b>(Detalhes)</b>
+                {{vm.flora.info}}
             </p>
         </div>
     </ion-content>

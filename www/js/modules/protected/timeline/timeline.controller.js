@@ -11,6 +11,8 @@
         var thisModule = 'timeline';
         var histories = [];
 
+        vm.scrolled = false;
+
         vm.username = UserService.getUserName();
         vm.fetchedHistories = [];
         vm.itemsIsFetched = false
@@ -64,10 +66,22 @@
         vm.getScrollPosition = function() {
             var currentTop = $ionicScrollDelegate.getScrollPosition().top;
             var header = angular.element(document.getElementById('header-timeline'));
+            var timeline = angular.element(document.getElementById('timeline-container'));
 
-            if (currentTop > 150) {
-                console.log(header)
-                header.addClass('animated fadeOut')
+            if (currentTop > 50) {
+                $timeout(function () {
+                    vm.scrolled = true;
+
+                    header.css({'height': '90px'});
+                    timeline.css('top', '100px');
+                }, 0);
+            } else {
+                $timeout(function () {
+                    vm.scrolled = false;
+                    
+                    header.css({'height': '142px'});
+                    timeline.css('top', '160px');
+                }, 0);
             }
         }
 
