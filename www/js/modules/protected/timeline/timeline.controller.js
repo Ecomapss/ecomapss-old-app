@@ -25,6 +25,7 @@
             } else {
                 histories = JSON.parse(histories);
                 vm.fetchedHistories = angular.copy(histories);
+                vm.fetchedHistories.reverse();
             }
             $timeout(function () {
                 $scope.$broadcast("scroll.refreshComplete");
