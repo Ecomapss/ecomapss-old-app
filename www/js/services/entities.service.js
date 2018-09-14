@@ -13,7 +13,7 @@
     this.navigateTo = navigateTo
     let baseUrl = 'json/'
     let local = ""
-
+    
     /**
      * Get entities by type
      * @author João Willamy
@@ -271,6 +271,7 @@
             var string = params.string;
             var key = params.key;
             return data.filter(function (el) {
+              el.unaccent = _unaccent(el[key]);
               return _unaccent(el[key]).indexOf(_unaccent(string)) !== -1 && !el.hide;
             });
           },
