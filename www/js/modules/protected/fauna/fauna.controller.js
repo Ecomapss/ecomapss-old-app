@@ -19,7 +19,7 @@
             current: 'ordem',
             options: [
                 {
-                    name: 'Ordem',
+                    name: 'Nome',
                     key: 'ordem'
                 }
             ]
