@@ -3,62 +3,62 @@
     "Data": [
         {
             "_id": "5a25ccb26132ff0a62d50ade",
-            "info": "A ordem hymenoptera é um dos maiores grupos de insetos que existe as vespas, abelhas, formigas. As fêmeas possuem ovopositor, o que permite a perfuração do hospedeiro e pode por muitas vezes estar modificado por um ferrão. Possuem olhos bastante desenvolvidos podendo ser por milhares de omatídeos. O aparelho bucal é do tipo lambedor (nas abelhas) e mastigador nos demais. Possuem quatro asas membranosas, onde as posteriores são maiores que as anteriores. Algumas são ápteras, isso vai depender da casta em que ela se encontra, como nas formigas. Se desenvolvem através de metamorfose completa. Insetos sociais, como os hymenópteros, trabalham juntos para realizar grandes tarefas. Como no caso das abelhas da espécie: Apis melífera, da família: apidae. Esta por sua vez é uma abelha social de origem europeia, seu habitat é bastante diversificado, inclui savanas, florestas tropicais, deserto, regiões litorâneas e montanhosas.",
-            "ordem": "Hymenoptera ",
-            "filo": "Arthropoda",
+            "info": "A ordem hymenoptera \u00e9 um dos maiores grupos de insetos que existe as vespas, abelhas, formigas. As f\u00eameas possuem ovopositor, o que permite a perfura\u00e7\u00e3o do hospedeiro e pode por muitas vezes estar modificado por um ferr\u00e3o. Possuem olhos bastante desenvolvidos podendo ser por milhares de omat\u00eddeos. O aparelho bucal \u00e9 do tipo lambedor (nas abelhas) e mastigador nos demais. Possuem quatro asas membranosas, onde as posteriores s\u00e3o maiores que as anteriores. Algumas s\u00e3o \u00e1pteras, isso vai depender da casta em que ela se encontra, como nas formigas. Se desenvolvem atrav\u00e9s de metamorfose completa. Insetos sociais, como os hymen\u00f3pteros, trabalham juntos para realizar grandes tarefas. Como no caso das abelhas da esp\u00e9cie: Apis mel\u00edfera, da fam\u00edlia: apidae. Esta por sua vez \u00e9 uma abelha social de origem europeia, seu habitat \u00e9 bastante diversificado, inclui savanas, florestas tropicais, deserto, regi\u00f5es litor\u00e2neas e montanhosas.",
+            "ordem": "Abelha ",
+            "filo": "Arthropoda\t",
             "classe": "Insecta",
             "reino": "Animalia",
             "inseto": true
         },
         {
             "_id": "5a25cd076132ff0a62d50adf",
-            "info": "São agrupados nessa ordem os gafanhotos, as esperanças, os grilos, as paquinhas e as taquarinhas. Esses insetos possuem o terceiro par de perna do tipo saltatório. Cabeça muito variável quanto à forma. Muitas espécies apresentam cabeça consideravelmente prolongada entre os olhos. Possuem antenas filiformes. O aparelho bucal é mastigador. As fêmeas podem apresentar ovopositor longo com aspectos de laminas. Pernas anteriores e medianas ambulatórias, nas paquinhas o par anterior é fossorial. Na maioria das espécies há dois pares de asas, sendo o anterior do tipo tégmina e o posterior membranoso. A maioria dos orthopteros apresentam tímpanos (órgãos auditivos) localizados de cada lado de cada do primeiro urômetro.",
-            "ordem": "Orthoptera",
-            "filo": "Arthropoda",
+            "info": "S\u00e3o agrupados nessa ordem os gafanhotos, as esperan\u00e7as, os grilos, as paquinhas e as taquarinhas. Esses insetos possuem o terceiro par de perna do tipo saltat\u00f3rio. Cabe\u00e7a muito vari\u00e1vel quanto \u00e0 forma. Muitas esp\u00e9cies apresentam cabe\u00e7a consideravelmente prolongada entre os olhos. Possuem antenas filiformes. O aparelho bucal \u00e9 mastigador. As f\u00eameas podem apresentar ovopositor longo com aspectos de laminas. Pernas anteriores e medianas ambulat\u00f3rias, nas paquinhas o par anterior \u00e9 fossorial. Na maioria das esp\u00e9cies h\u00e1 dois pares de asas, sendo o anterior do tipo t\u00e9gmina e o posterior membranoso. A maioria dos orthopteros apresentam t\u00edmpanos (\u00f3rg\u00e3os auditivos) localizados de cada lado de cada do primeiro ur\u00f4metro.",
+            "ordem": "Gafanhoto",
+            "filo": "Arthropoda\t",
             "classe": "Insecta",
             "reino": "Animalia",
             "inseto": true
         },
         {
             "_id": "5a25cd4f6132ff0a62d50ae0",
-            "info": "Os mantídeos são bem conhecidos pelo nome de “louva-deus”, devido atitude de característica que tomam quando pousados. Pernas anteriores raptatórias. Corpo na maioria das espécies achatado. Antenas setáceas, filiformes. Aparelho bucal mandibulado hipognato. Pernas medias posteriores ambulatórias, as anteriores raptatórias, mais ou menos robustas. Os mantídeos são os únicos insetos que apresentam pernas anteriores desse tipo. Asas anteriores tegminosas, em geral grandes, foliáceas, excedendo o abdômen em ambos os sexos.\n",
-            "ordem": "Mantodea",
-            "filo": "Arthropoda",
+            "info": "Os mant\u00eddeos s\u00e3o bem conhecidos pelo nome de \u201clouva-deus\u201d, devido atitude de caracter\u00edstica que tomam quando pousados. Pernas anteriores raptat\u00f3rias. Corpo na maioria das esp\u00e9cies achatado. Antenas set\u00e1ceas, filiformes. Aparelho bucal mandibulado hipognato. Pernas medias posteriores ambulat\u00f3rias, as anteriores raptat\u00f3rias, mais ou menos robustas. Os mant\u00eddeos s\u00e3o os \u00fanicos insetos que apresentam pernas anteriores desse tipo. Asas anteriores tegminosas, em geral grandes, foli\u00e1ceas, excedendo o abd\u00f4men em ambos os sexos.\n",
+            "ordem": "Louva-a-Deus",
+            "filo": "Arthropoda\t",
             "classe": "Insecta",
             "reino": "Animalia",
             "inseto": true
         },
         {
             "_id": "5a25cda56132ff0a62d50ae1",
-            "info": "As baratas são exopterigota neóptera com corpo dorso ventralmente achatado e cabeça com as peças bucais mastigadoras dirigidas para baixo (hipognatos). As asas anteriores, quando presentes, são do tipo pergamináceas, podendo ser branquipteras ou ausentes, mas com asas posteriores (se presentes) inteiramente membranosas. Fêmeas com ovopositor oculto e machos com genitália assimétrica; cercos presentes, variando de um a muitos artículos. Os ovos geralmente são depositados numa ooteca. As baratas colonizam os mais diversos habitats. A maioria é noturna, geralmente\nencontradas ao nível do solo e escondidas em cascas de árvores, troncos caídos e pedras durante o dia. Uma das espécies bastante comum nos lares são as da família (Blattidae), são inconfundíveis com o corpo plano, corpo oval, cabeça hipognata em posição ventral relativa ao tórax, aparelho bucal mastigador, que lhes permite alimentar-se de todo tipo de material orgânico, antenas filiformes e compridas, quase do tamanho do corpo.",
-            "ordem": "Blattodea",
-            "filo": "Arthropoda",
+            "info": "As baratas s\u00e3o exopterigota ne\u00f3ptera com corpo dorso ventralmente achatado e cabe\u00e7a com as pe\u00e7as bucais mastigadoras dirigidas para baixo (hipognatos). As asas anteriores, quando presentes, s\u00e3o do tipo pergamin\u00e1ceas, podendo ser branquipteras ou ausentes, mas com asas posteriores (se presentes) inteiramente membranosas. F\u00eameas com ovopositor oculto e machos com genit\u00e1lia assim\u00e9trica; cercos presentes, variando de um a muitos art\u00edculos. Os ovos geralmente s\u00e3o depositados numa ooteca. As baratas colonizam os mais diversos habitats. A maioria \u00e9 noturna, geralmente\nencontradas ao n\u00edvel do solo e escondidas em cascas de \u00e1rvores, troncos ca\u00eddos e pedras durante o dia. Uma das esp\u00e9cies bastante comum nos lares s\u00e3o as da fam\u00edlia (Blattidae), s\u00e3o inconfund\u00edveis com o corpo plano, corpo oval, cabe\u00e7a hipognata em posi\u00e7\u00e3o ventral relativa ao t\u00f3rax, aparelho bucal mastigador, que lhes permite alimentar-se de todo tipo de material org\u00e2nico, antenas filiformes e compridas, quase do tamanho do corpo.",
+            "ordem": "Barata",
+            "filo": "Arthropoda\t",
             "classe": "Insecta",
             "reino": "Animalia",
             "inseto": true
         },
         {
             "_id": "5a25ceac6132ff0a62d50ae3",
-            "info": "São caracterizados por praticar mimetismo. Medem cerca de 10-300 mm de comprimento. Possuem cabeça pequena, antenas do tipo filiforme, aparelho bucal mastigador, pernas ambulatórias. Podem ter ou não asas, mas quando tem são maus voadoras. São hemimetábolas. Presentes em alguma espécie partenogênese. Produzem poucas proles. Os machos são menores que a fêmea. Vivem sobre as folhas e troncos. Possuem movimentos lentos. Os phasmatidae são uma família de “insetos de vara”, os phasmatidae são capazes de regenerar membros e comumente se reproduzem pela partenogênese. Apesar da aparência, são inofensivos.",
-            "ordem": "Phasmatodea",
-            "filo": "Arthropoda",
+            "info": "S\u00e3o caracterizados por praticar mimetismo. Medem cerca de 10-300 mm de comprimento. Possuem cabe\u00e7a pequena, antenas do tipo filiforme, aparelho bucal mastigador, pernas ambulat\u00f3rias. Podem ter ou n\u00e3o asas, mas quando tem s\u00e3o maus voadoras. S\u00e3o hemimet\u00e1bolas. Presentes em alguma esp\u00e9cie partenog\u00eanese. Produzem poucas proles. Os machos s\u00e3o menores que a f\u00eamea. Vivem sobre as folhas e troncos. Possuem movimentos lentos. Os phasmatidae s\u00e3o uma fam\u00edlia de \u201cinsetos de vara\u201d, os phasmatidae s\u00e3o capazes de regenerar membros e comumente se reproduzem pela partenog\u00eanese. Apesar da apar\u00eancia, s\u00e3o inofensivos.",
+            "ordem": "Man\u00e9 magro",
+            "filo": "Arthropoda\t",
             "classe": "Insecta",
             "reino": "Animalia",
             "inseto": true
         },
         {
             "_id": "5a25ce156132ff0a62d50ae2",
-            "info": "Libélulas são insetos de abdômen alongado. Possuem dois pares de asas, de envergadura que varia entre dois e vinte centímetros, e podem funcionar separadamente, de acordo com a velocidade do voo. Seus olhos compostos conferem excelente visão panorâmica e auxiliam na busca por alimentos e fuga de predadores. Alimenta-se de girinos, peixes juvenis e insetos inclusive indivíduos da própria espécie. Vivem em regiões próximas a água limpa, local onde vive o estágio larval. Assim que uma libélula nasce, permanece no ambiente aquático por aproximadamente cinco anos, passando por várias metamorfoses até chegar a forma adulta. As libélulas da família libellulidae, são de extrema importância, não apresentam coloração metálica e os machos frequentemente exibem uma pruinosidade sobre o corpo. Os olhos se encontram no topo da cabeça, em maior e menor extensão. Nesta família, a vênação das asas apresenta uma diferença marcante entre as asas posteriores e anteriores, além desta também existe a família cordulidae, a diferença entre elas são a ausência do triangulo anal na asa posterior e a ausência de aurículas no segundo segmento abdominal.\n",
-            "ordem": "Odonata",
-            "filo": "Arthropoda",
+            "info": "Lib\u00e9lulas s\u00e3o insetos de abd\u00f4men alongado. Possuem dois pares de asas, de envergadura que varia entre dois e vinte cent\u00edmetros, e podem funcionar separadamente, de acordo com a velocidade do voo. Seus olhos compostos conferem excelente vis\u00e3o panor\u00e2mica e auxiliam na busca por alimentos e fuga de predadores. Alimenta-se de girinos, peixes juvenis e insetos inclusive indiv\u00edduos da pr\u00f3pria esp\u00e9cie. Vivem em regi\u00f5es pr\u00f3ximas a \u00e1gua limpa, local onde vive o est\u00e1gio larval. Assim que uma lib\u00e9lula nasce, permanece no ambiente aqu\u00e1tico por aproximadamente cinco anos, passando por v\u00e1rias metamorfoses at\u00e9 chegar a forma adulta. As lib\u00e9lulas da fam\u00edlia libellulidae, s\u00e3o de extrema import\u00e2ncia, n\u00e3o apresentam colora\u00e7\u00e3o met\u00e1lica e os machos frequentemente exibem uma pruinosidade sobre o corpo. Os olhos se encontram no topo da cabe\u00e7a, em maior e menor extens\u00e3o. Nesta fam\u00edlia, a v\u00eana\u00e7\u00e3o das asas apresenta uma diferen\u00e7a marcante entre as asas posteriores e anteriores, al\u00e9m desta tamb\u00e9m existe a fam\u00edlia cordulidae, a diferen\u00e7a entre elas s\u00e3o a aus\u00eancia do triangulo anal na asa posterior e a aus\u00eancia de aur\u00edculas no segundo segmento abdominal.\n",
+            "ordem": "Lib\u00e9lula, ziguezague",
+            "filo": "Arthropoda\t",
             "classe": "Insecta",
             "reino": "Animalia",
             "inseto": true
         },
         {
             "_id": "5a25cf176132ff0a62d50ae4",
-            "info": "Mariposas e borboletas fazem parte desta ordem. Possuem cabeça, tórax, abdômen e um par de antenas, um par de olhos compostos e aparelho sugador. As asas são recobertas por escamas facilmente destacáveis, caso manuseadas. Os lepidópteros são o segundo maior grupo de insetos e são adaptados aos mais diferentes ambientes. O desenvolvimento é indireto, dividido nas fases: ovo, lagarta, crisalida e adulta. Ao contrário das borboletas, a maioria das espécies de mariposas possui hábitos noturnos, antenas não-clavadas, asas estendidas sobre o corpo quando em repouso, com cores escuras na maioria dos indivíduos e corpo gordo, com aspecto “peludo”. Já as borboletas são mais diurnas, possuem antenas clavadas, asas levantadas e fechadas verticalmente ao corpo quando em repouso, com cores brilhantes e variadas e corpo fino com poucas cerdas. Dentre as várias famílias de borboleta existe a monarca (Danaus plexippus) da família: Nymphalidae. A borboleta monarca começa sua vida como um ovo por uma fêmea adulta numa folha de planta de serralha. São do tamanho da cabeça de um alfinete e quando choca, 3 a 12 dias depois, nasce a pequena lagarta com riscas brancas, amarelas e pretas, com oito pares de pernas curtas para trepar e partes da boca desenhada para mastigar as folhas. Os esfingídeos (Sphingidae: lepidóptera) são, em sua maioria, mariposas de hábitos noturnos caracterizados por asas e abdômen afilados que propiciam notável capacidade de voo. Os adultos alimentam-se de néctar de néctar e são importantes polinizadores de plantas esfigófilas, as quais apresentam longos tubos florais.",
-            "ordem": "Lepidóptera",
+            "info": "Mariposas e borboletas fazem parte desta ordem. Possuem cabe\u00e7a, t\u00f3rax, abd\u00f4men e um par de antenas, um par de olhos compostos e aparelho sugador. As asas s\u00e3o recobertas por escamas facilmente destac\u00e1veis, caso manuseadas. Os lepid\u00f3pteros s\u00e3o o segundo maior grupo de insetos e s\u00e3o adaptados aos mais diferentes ambientes. O desenvolvimento \u00e9 indireto, dividido nas fases: ovo, lagarta, crisalida e adulta. Ao contr\u00e1rio das borboletas, a maioria das esp\u00e9cies de mariposas possui h\u00e1bitos noturnos, antenas n\u00e3o-clavadas, asas estendidas sobre o corpo quando em repouso, com cores escuras na maioria dos indiv\u00edduos e corpo gordo, com aspecto \u201cpeludo\u201d. J\u00e1 as borboletas s\u00e3o mais diurnas, possuem antenas clavadas, asas levantadas e fechadas verticalmente ao corpo quando em repouso, com cores brilhantes e variadas e corpo fino com poucas cerdas. Dentre as v\u00e1rias fam\u00edlias de borboleta existe a monarca (Danaus plexippus) da fam\u00edlia: Nymphalidae. A borboleta monarca come\u00e7a sua vida como um ovo por uma f\u00eamea adulta numa folha de planta de serralha. S\u00e3o do tamanho da cabe\u00e7a de um alfinete e quando choca, 3 a 12 dias depois, nasce a pequena lagarta com riscas brancas, amarelas e pretas, com oito pares de pernas curtas para trepar e partes da boca desenhada para mastigar as folhas. Os esfing\u00eddeos (Sphingidae: lepid\u00f3ptera) s\u00e3o, em sua maioria, mariposas de h\u00e1bitos noturnos caracterizados por asas e abd\u00f4men afilados que propiciam not\u00e1vel capacidade de voo. Os adultos alimentam-se de n\u00e9ctar de n\u00e9ctar e s\u00e3o importantes polinizadores de plantas esfig\u00f3filas, as quais apresentam longos tubos florais.",
+            "ordem": "Borboleta",
             "filo": "Arthropoda",
             "classe": "Insecta",
             "reino": "Animalia",
@@ -66,8 +66,8 @@
         },
         {
             "_id": "5a25cf696132ff0a62d50ae5",
-            "info": "Os coleópteros (coleóptera) constituem uma ordem de insetos popularmente conhecidos como besouros, mas também como joaninhas, escaravelhos, gorgulhos entre outros. As importantes características dos besouros são: um par de asas anteriores rígidas, conhecidas como élitros, que protegem como um estojo as asas posteriores, que são membranosas e delicadas. A ordem coleóptera possui o maior número de espécies dentre todos os seres vivos. Os coleópteros apresentam uma enorme diversidade morfológica. Ocupam praticamente qualquer habitat. Os besouros\nsão geralmente caracterizados por um rígido exoesqueleto, bem como por rígidos élitros. O exoesqueleto do besouro é composto por numerosas camadas de placas de quitina, chamadas de escleritos, que são separadas por suturas finas. São divididas em três seções: cabeça, tórax e abdômen. Algumas famílias da ordem coleóptera são: Aderidae, Cleridae, Carabidae, Cerambycidae, Drillidae, Clambidae, Cucujidae, etc.",
-            "ordem": "Coleóptera",
+            "info": "Os cole\u00f3pteros (cole\u00f3ptera) constituem uma ordem de insetos popularmente conhecidos como besouros, mas tamb\u00e9m como joaninhas, escaravelhos, gorgulhos entre outros. As importantes caracter\u00edsticas dos besouros s\u00e3o: um par de asas anteriores r\u00edgidas, conhecidas como \u00e9litros, que protegem como um estojo as asas posteriores, que s\u00e3o membranosas e delicadas. A ordem cole\u00f3ptera possui o maior n\u00famero de esp\u00e9cies dentre todos os seres vivos. Os cole\u00f3pteros apresentam uma enorme diversidade morfol\u00f3gica. Ocupam praticamente qualquer habitat. Os besouros\ns\u00e3o geralmente caracterizados por um r\u00edgido exoesqueleto, bem como por r\u00edgidos \u00e9litros. O exoesqueleto do besouro \u00e9 composto por numerosas camadas de placas de quitina, chamadas de escleritos, que s\u00e3o separadas por suturas finas. S\u00e3o divididas em tr\u00eas se\u00e7\u00f5es: cabe\u00e7a, t\u00f3rax e abd\u00f4men. Algumas fam\u00edlias da ordem cole\u00f3ptera s\u00e3o: Aderidae, Cleridae, Carabidae, Cerambycidae, Drillidae, Clambidae, Cucujidae, etc.",
+            "ordem": "Joaninhas",
             "filo": "Arthropoda",
             "classe": "Insecta",
             "reino": "Animalia",
@@ -75,8 +75,8 @@
         },
         {
             "_id": "5a25cfb66132ff0a62d50ae6",
-            "info": "Compreende a 85.000 mil espécies. As peças bucais sugadoras picadoras formam um rostro articulado, mandíbulas e maxilas tem a forma de estiletes e repousa dentro de um sulco dorsal do lábio; asas membranosas; pronoto grande. Os hemípteros ocorrem em todo mundo e em virtualmente todos os habitats. A maioria dos hemípteros é herbívoro, embora muitos predam outros artrópodes ou vertebrados. A produção de som, através de uma série de mecanismos, é muito difundida na ordem. Muitos hemípteros apresentam coloração críptica ou mimetizam outros insetos; o mimetismo\nde formigas é especialmente comum. Alguns percevejos com antenas de 5 segmentos antenais e escutelo bastante desenvolvido. É formada por 14 famílias; as mais comuns são: família Pentatomidae: escutelo geralmente plano, estendido até a base da membrana do hemiélitro. Tíbias desprovidas de espinho. É a família mais numerosa dessa superfamília.\n",
-            "ordem": "Hemíptera",
+            "info": "Compreende a 85.000 mil esp\u00e9cies. As pe\u00e7as bucais sugadoras picadoras formam um rostro articulado, mand\u00edbulas e maxilas tem a forma de estiletes e repousa dentro de um sulco dorsal do l\u00e1bio; asas membranosas; pronoto grande. Os hem\u00edpteros ocorrem em todo mundo e em virtualmente todos os habitats. A maioria dos hem\u00edpteros \u00e9 herb\u00edvoro, embora muitos predam outros artr\u00f3podes ou vertebrados. A produ\u00e7\u00e3o de som, atrav\u00e9s de uma s\u00e9rie de mecanismos, \u00e9 muito difundida na ordem. Muitos hem\u00edpteros apresentam colora\u00e7\u00e3o cr\u00edptica ou mimetizam outros insetos; o mimetismo\nde formigas \u00e9 especialmente comum. Alguns percevejos com antenas de 5 segmentos antenais e escutelo bastante desenvolvido. \u00c9 formada por 14 fam\u00edlias; as mais comuns s\u00e3o: fam\u00edlia Pentatomidae: escutelo geralmente plano, estendido at\u00e9 a base da membrana do hemi\u00e9litro. T\u00edbias desprovidas de espinho. \u00c9 a fam\u00edlia mais numerosa dessa superfam\u00edlia.\n",
+            "ordem": "Percevejos",
             "filo": "Arthropoda",
             "classe": "Insecta",
             "reino": "Animalia",
@@ -84,8 +84,8 @@
         },
         {
             "_id": "5a25d0416132ff0a62d50ae7",
-            "info": "As moscas são um extenso grupo de insetos da ordem Díptera. Os insetos desta ordem possuem um corpo com a cabeça, tórax e abdômen; a maioria distingue-se prontamente dos outros insetos alados por possuir apenas um par de asas desenvolvido, correspondente ao par anterior, tendo o par posterior atrofiado e transformado em pequenas estruturas clavadas denominadas balancins ou halteres, responsáveis pelo equilíbrio durante o voo. A Díptera é uma ordem enormíssima que engloba aproximadamente um milhão de espécies. As moscas têm uma cabeça móvel,\ncom um grande par de olhos compostos por centenas de facetas sensíveis à luz individualmente, e aparelho bucal adaptado à perfuração e sucção. O seu ciclo de vida é holometabólico, isto é, que passa por várias fases morfológicas, que no caso da mosca são quatro: ovo, larva, pupa e fase adulta; os ovos são depositados numa fonte de alimento larval e as larvas, sem quaisquer membros, crescem num ambiente protegido, muitas das vezes dentro da sua própria fonte alimentar. A pupa consiste numa cápsula resistente da qual o adulto emerge assim atingir todo o seu desenvolvimento;  maioria das moscas têm uma vida muito curta depois de alcançarem a fase adulta. Algumas espécies completam este ciclo em poucos dias e outras num ou dois meses. A família Culicidae é uma família de insetos habitualmente chamados de mosquitos e pernilongos. As fêmeas em muitas regiões são designadas vulgarmente como melgas. Como os outros membros da ordem Díptera, os mosquitos têm um par de asas e um par de halteres. Em geral, apresentam dimorfismo sexual acentuado: as fêmeas apresentam antenas pilosas e são muito mais corpulentas que os machos, que apresentam antenas plumosas. As fêmeas na maioria das espécies de mosquitos sugam sangue (hematófaga) de outros animais.",
-            "ordem": "Díptera",
+            "info": "As moscas s\u00e3o um extenso grupo de insetos da ordem D\u00edptera. Os insetos desta ordem possuem um corpo com a cabe\u00e7a, t\u00f3rax e abd\u00f4men; a maioria distingue-se prontamente dos outros insetos alados por possuir apenas um par de asas desenvolvido, correspondente ao par anterior, tendo o par posterior atrofiado e transformado em pequenas estruturas clavadas denominadas balancins ou halteres, respons\u00e1veis pelo equil\u00edbrio durante o voo. A D\u00edptera \u00e9 uma ordem enorm\u00edssima que engloba aproximadamente um milh\u00e3o de esp\u00e9cies. As moscas t\u00eam uma cabe\u00e7a m\u00f3vel,\ncom um grande par de olhos compostos por centenas de facetas sens\u00edveis \u00e0 luz individualmente, e aparelho bucal adaptado \u00e0 perfura\u00e7\u00e3o e suc\u00e7\u00e3o. O seu ciclo de vida \u00e9 holometab\u00f3lico, isto \u00e9, que passa por v\u00e1rias fases morfol\u00f3gicas, que no caso da mosca s\u00e3o quatro: ovo, larva, pupa e fase adulta; os ovos s\u00e3o depositados numa fonte de alimento larval e as larvas, sem quaisquer membros, crescem num ambiente protegido, muitas das vezes dentro da sua pr\u00f3pria fonte alimentar. A pupa consiste numa c\u00e1psula resistente da qual o adulto emerge assim atingir todo o seu desenvolvimento; maioria das moscas t\u00eam uma vida muito curta depois de alcan\u00e7arem a fase adulta. Algumas esp\u00e9cies completam este ciclo em poucos dias e outras num ou dois meses. A fam\u00edlia Culicidae \u00e9 uma fam\u00edlia de insetos habitualmente chamados de mosquitos e pernilongos. As f\u00eameas em muitas regi\u00f5es s\u00e3o designadas vulgarmente como melgas. Como os outros membros da ordem D\u00edptera, os mosquitos t\u00eam um par de asas e um par de halteres. Em geral, apresentam dimorfismo sexual acentuado: as f\u00eameas apresentam antenas pilosas e s\u00e3o muito mais corpulentas que os machos, que apresentam antenas plumosas. As f\u00eameas na maioria das esp\u00e9cies de mosquitos sugam sangue (hemat\u00f3faga) de outros animais.",
+            "ordem": "Moscas",
             "filo": "Arthropoda",
             "classe": "Insecta",
             "reino": "Animalia",
@@ -94,65 +94,65 @@
         {
             "_id": "5b64bd784805a90004357ffd",
             "inseto": true,
-            "ordem": "Arapaçu-de-bico-branco",
-            "reino": "Dendroplex picus",
-            "filo": "Furnariidae",
-            "classe": "",
-            "info": "Um dos cantos mais bonitos e frequentes nas matas do parque. Muitas pessoas confundem essa ave com um pica-pau pelo seu hábito de subir em troncos e caçar insetos \nnas cavidades das árvores. \nFoto: Cecília Licarião"
+            "ordem": "Arapa\u00e7u-de-bico-branco - Dendroplex picus",
+            "reino": "Animalia",
+            "filo": "\u200eChordata",
+            "classe": "Aves",
+            "info": "Um dos cantos mais bonitos e frequentes nas matas do parque. Muitas pessoas confundem essa ave com um pica-pau pelo seu h\u00e1bito de subir em troncos e ca\u00e7ar insetos \nnas cavidades das \u00e1rvores. \nFoto: Cec\u00edlia Licari\u00e3o"
         },
         {
             "_id": "5b6993bb0ef4110004a5b6e6",
             "inseto": true,
-            "ordem": "Surucuá-de-barriga-vermelha",
-            "reino": "Trogon curucui",
-            "filo": "Trogonidae\t",
-            "classe": "",
-            "info": "Essa ave chama atenção pelo peito avermelhado. Tem o hábito de ficar pousado nos galhos das arvores observando suas possíveis presas como lagartas, cigarras, besouros e aranhas. Fazem seus ninhos em cupinzeiros assim como os periquitos-de-encontro-amarelo. \nFoto: Cecília Licarião"
+            "ordem": "Surucu\u00e1-de-barriga-vermelha - Trogon curucui",
+            "reino": "Animalia",
+            "filo": "Chordata",
+            "classe": "Aves",
+            "info": "Essa ave chama aten\u00e7\u00e3o pelo peito avermelhado. Tem o h\u00e1bito de ficar pousado nos galhos das arvores observando suas poss\u00edveis presas como lagartas, cigarras, besouros e aranhas. Fazem seus ninhos em cupinzeiros assim como os periquitos-de-encontro-amarelo. \nFoto: Cec\u00edlia Licari\u00e3o"
         },
         {
             "_id": "5b6993ed0ef4110004a5b6e7",
             "inseto": true,
-            "ordem": "Mão-pelada",
-            "reino": "Procyon cancrivorus",
-            "filo": "Procionídeos",
-            "classe": "",
-            "info": "Também conhecido como guaxinim, o mão-pelada recebe esse nome pelos seus longos membros com pouco pelo e suas grandes mãos que utiliza para mexer na lama a procura de insetos e crustáceos. Seus pelos pretos ao redor dos olhos lembram uma máscara.\nFoto: Ryskas"
+            "ordem": "M\u00e3o-pelada - Procyon cancrivorus",
+            "reino": "Animalia",
+            "filo": "Chordata",
+            "classe": "Mammalia",
+            "info": "Tamb\u00e9m conhecido como guaxinim, o m\u00e3o-pelada recebe esse nome pelos seus longos membros com pouco pelo e suas grandes m\u00e3os que utiliza para mexer na lama a procura de insetos e crust\u00e1ceos. Seus pelos pretos ao redor dos olhos lembram uma m\u00e1scara.\nFoto: Ryskas"
         },
         {
             "_id": "5b6994350ef4110004a5b6e8",
             "inseto": true,
-            "ordem": "Soín",
-            "reino": "Callithrix jacchus",
-            "filo": "Callitrichidae",
-            "classe": "",
-            "info": "Também chamado de sagui, esse simpático marcado é caracterizado pelos tufos brancos em torno das orelhas e pela cauda maior que o corpo, que o ajuda a se equilibrar. O Soín pode ser visto em várias áreas do parque, principalmente no interior das trilhas, muito curiosos, se aproximam facilmente dos humanos. Esses animais se alimentam de frutos, seiva, insetos e ovos que encontram pelo Parque. Por isso, é importante destacar que é proibido alimentá-los, pois isso pode influenciar no seu equilíbrio ecológico e saúde, além de evitar acidentes. Lembre-se, esses macacos transmitem raiva através da sua mordida. \nFoto: Cecília Licarião"
+            "ordem": "So\u00edn - Callithrix jacchus",
+            "reino": "Animalia",
+            "filo": "Chordata",
+            "classe": "Mammalia",
+            "info": "Tamb\u00e9m chamado de sagui, esse simp\u00e1tico marcado \u00e9 caracterizado pelos tufos brancos em torno das orelhas e pela cauda maior que o corpo, que o ajuda a se equilibrar. O So\u00edn pode ser visto em v\u00e1rias \u00e1reas do parque, principalmente no interior das trilhas, muito curiosos, se aproximam facilmente dos humanos. Esses animais se alimentam de frutos, seiva, insetos e ovos que encontram pelo Parque. Por isso, \u00e9 importante destacar que \u00e9 proibido aliment\u00e1-los, pois isso pode influenciar no seu equil\u00edbrio ecol\u00f3gico e sa\u00fade, al\u00e9m de evitar acidentes. Lembre-se, esses macacos transmitem raiva atrav\u00e9s da sua mordida. \nFoto: Cec\u00edlia Licari\u00e3o"
         },
         {
             "_id": "5b6994850ef4110004a5b6e9",
             "inseto": true,
-            "ordem": "Raposa; graxaim-do-mato",
-            "reino": "Cerdocyon thous",
-            "filo": "Canidae",
-            "classe": "",
-            "info": "De hábito alimentar pouco restritivo, as raposas podem ser avistadas no Parque do Cocó em suas trilhas, demonstram capacidade de utilizar ambientes perturbados pela ação do homem. Atualmente está sendo mais vista nas trilhas do parque, geralmente solitárias ou em dupla.\nFoto: Thais Abreu"
-        },
-        {
-            "_id": "5b69952b0ef4110004a5b6eb",
-            "inseto": true,
-            "ordem": "Muçum ",
-            "reino": "Synbranchus marmoratus",
-            "filo": "Synbranchidae",
-            "classe": "",
-            "info": "Esse peixe tem o formato alongado e cilíndrico que lembra uma cobra ou uma enguia. Uma característica interessante dessa espécie é que ela possui uma faringe bem vascularizada que funciona como “pulmões”, que permite que esse peixe respire fora da água. Na sua reprodução, os machos é que tomam conta dos ninhos.\nFoto: Paul-Louis Oudart"
+            "ordem": "Raposa; graxaim-do-mato - Cerdocyon thous",
+            "reino": "Animalia",
+            "filo": "Chordata",
+            "classe": "Mammalia",
+            "info": "De h\u00e1bito alimentar pouco restritivo, as raposas podem ser avistadas no Parque do Coc\u00f3 em suas trilhas, demonstram capacidade de utilizar ambientes perturbados pela a\u00e7\u00e3o do homem. Atualmente est\u00e1 sendo mais vista nas trilhas do parque, geralmente solit\u00e1rias ou em dupla.\nFoto: Thais Abreu"
         },
         {
             "_id": "5b6996070ef4110004a5b6ee",
             "inseto": true,
-            "ordem": "Iguana ",
-            "reino": "Iguana iguana",
-            "filo": "Iguanidae",
-            "classe": "",
-            "info": "O maior lagarto do parque, podendo atingir 1,5 metros. Pode ser observado no chão ou em cima das árvores. Quando jovens são verdes, a medida que vão envelhecendo ficam cinza. \nFoto: Cecília Licarião"
+            "ordem": "Iguana - Iguana iguana",
+            "reino": "Animalia",
+            "filo": "Chordata",
+            "classe": "Reptilia",
+            "info": "O maior lagarto do parque, podendo atingir 1,5 metros. Pode ser observado no ch\u00e3o ou em cima das \u00e1rvores. Quando jovens s\u00e3o verdes, a medida que v\u00e3o envelhecendo ficam cinza. \nFoto: Cec\u00edlia Licari\u00e3o"
+        },
+        {
+            "_id": "5b69952b0ef4110004a5b6eb",
+            "inseto": true,
+            "ordem": "Mu\u00e7um - Synbranchus marmoratus",
+            "reino": "Animalia",
+            "filo": "Chordata",
+            "classe": "Actinopterygii",
+            "info": "Esse peixe tem o formato alongado e cil\u00edndrico que lembra uma cobra ou uma enguia. Uma caracter\u00edstica interessante dessa esp\u00e9cie \u00e9 que ela possui uma faringe bem vascularizada que funciona como \u201cpulm\u00f5es\u201d, que permite que esse peixe respire fora da \u00e1gua. Na sua reprodu\u00e7\u00e3o, os machos \u00e9 que tomam conta dos ninhos.\nFoto: Paul-Louis Oudart"
         }
     ]
 }
