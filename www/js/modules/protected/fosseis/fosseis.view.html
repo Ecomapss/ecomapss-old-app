@@ -1,5 +1,5 @@
 <ion-view view-title="Fosseis">
-    <ion-content>
+    <ion-content overflow-scroll="false" >
         <div class="list list-inset">
             <label class="item item-input">
                 <i class="icon ion-search placeholder-icon"></i>
@@ -9,7 +9,7 @@
         </div>
 
         <div class="list">
-            <a ng-hide="fossil.hide" class="item item-avatar" ng-click="navigateTo(fossil)" ng-repeat="fossil in fosseis.fosseis">
+            <a ng-hide="fossil.hide" class="item item-avatar" ng-click="navigateTo(fossil)" ng-repeat="fossil in fosseis.fosseis | filter:search">
                 <img ng-src="{{fossil.picture}} ">
                 <h2>{{fossil.titulo}}</h2>
                 <p>{{fossil.info}}</p>

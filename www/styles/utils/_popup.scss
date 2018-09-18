@@ -1,0 +1,27 @@
+.ec-success-popup{
+    .popup{
+        background-color: $balanced;
+    }
+    .popup-title{
+        //styling for title
+    }
+}
+
+.ec-error-popup{
+    .popup{
+        background-color: $assertive;
+    }
+    .popup-title{
+        //styling for title
+    }
+}
+
+
+.ec-warning-popup{
+    .popup{
+        background-color: $energized;
+    }
+    .popup-title{
+    //styling for title
+    }
+}

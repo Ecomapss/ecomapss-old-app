@@ -2,300 +2,6 @@
     "Error": false,
     "Data": [
         {
-            "_id": "5b73701c62655800042fe5e8",
-            "nome_pop": "Cajazeira",
-            "nome_cie": "Spondias mombin L.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b73702c62655800042fe5e9",
-            "nome_pop": "Ingazeira",
-            "nome_cie": "Inga vera subsp. Affinis (DC.) T. D. Penn.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737a7dc653090004e49346",
-            "nome_pop": "Fruta de bode",
-            "nome_cie": "Swartzia oblata R. S. Cowan",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737a90c653090004e49347",
-            "nome_pop": "Mutamba",
-            "nome_cie": "Guazuma ulmifolia Lam.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737aabc653090004e49348",
-            "nome_pop": "Pau branco",
-            "nome_cie": "Cordia oncocalyx Allemão",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737abbc653090004e49349",
-            "nome_pop": "Coaçu",
-            "nome_cie": "Coccoloba latifólia Lam.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737acfc653090004e4934a",
-            "nome_pop": "Chichá",
-            "nome_cie": "Sterculia striata A. St.-Hil. & Naudim",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737af2c653090004e4934c",
-            "nome_pop": "Carnaúba",
-            "nome_cie": "Copernicia prunifera (Mill.) H. E. Moore",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b05c653090004e4934d",
-            "nome_pop": "Mulungu",
-            "nome_cie": "Erythrina velutina Willd.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b16c653090004e4934e",
-            "nome_pop": "Baraúna",
-            "nome_cie": "Schinopsis brasiliensis Engler",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b2dc653090004e4934f",
-            "nome_pop": "Jenipapo bravo",
-            "nome_cie": "Tocoyena formosa (Cham. & Schltdl.) K. Schum.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b3dc653090004e49350",
-            "nome_pop": "Jenipapo ",
-            "nome_cie": "Genipa americana L.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b51c653090004e49351",
-            "nome_pop": "Pau pombo",
-            "nome_cie": "Tapira guianensis Aubl.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b64c653090004e49352",
-            "nome_pop": "Trapiá",
-            "nome_cie": "Crateva Tapia L.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b76c653090004e49353",
-            "nome_pop": "Mata-fome",
-            "nome_cie": "Pithecellobium Dulce (Roxb.) Benth.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b89c653090004e49354",
-            "nome_pop": "Mangue-branco",
-            "nome_cie": "Laguncularia racemosa (L.) C. F. Gaertn.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737b9bc653090004e49355",
-            "nome_pop": "Mangue-preto",
-            "nome_cie": "Avicennia germinans",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737bb2c653090004e49356",
-            "nome_pop": "Araticum do brejo",
-            "nome_cie": "Annona glabra L.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737bc7c653090004e49357",
-            "nome_pop": "Samambaia-açu",
-            "nome_cie": "Dicksonia selowiana (Presl.) Hook.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b737ae1c653090004e4934b",
-            "nome_pop": "Ipê amarelo",
-            "nome_cie": "Tabebuia aurea (Silva Manso) Benth. & Hook.f.ex S. Moore",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
-            "_id": "5b74126729254600041ec9b3",
-            "nome_pop": "Marizeira",
-            "nome_cie": "Geoffroea spinosa Jacq.",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
-        },
-        {
             "_id": "58f6768c7bb5070011d6e922",
             "nome_pop": "Munguba, Cacau-selvagem, Castanheira-da-água, Castanheiro-de-guiana, Castanheiro-do-maranhão, Falso-cacau, Mamorana, Monguba, Mungaba",
             "nome_cie": "Pachira aquática Aubl. - Sinonímia: Bombax rigidifoliium Ducke",
@@ -441,7 +147,12 @@
             "luminosidade": "Sol Pleno",
             "altura": "acima de 12 metros",
             "info": "O oiti ou oitizeiro é uma árvore perenifólia, frutífera, originária das restingas costeiras do nordeste do Brasil e muito utilizada na arborização urbana. Sua copa é globosa, bem formada e cheia, produzindo excelente sombra e efeito ornamental. Suas raízes são profundas, não agressivas. O tronco é ereto e geralmente apresenta casca cinzenta e fuste curto, ramificando em seguida. O fruto é muito procurado pela fauna em geral. A madeira é de boa qualidade, resistente, pesada, durável e pode ser utilizada em postes, moirões, construção civil, etc.",
-            "loc": [],
+            "loc": [
+                {
+                    "lat": -3.7443638,
+                    "lng": -38.4842065
+                }
+            ],
             "__v": 0,
             "localidade": "IFCE - Campus Crato"
         },
@@ -474,6 +185,14 @@
                 {
                     "lat": -5.40102186,
                     "lng": -40.06779015
+                },
+                {
+                    "lat": -3.745116,
+                    "lng": -38.4841267
+                },
+                {
+                    "lat": -3.7537924,
+                    "lng": -38.4821997
                 }
             ],
             "__v": 0,
@@ -494,6 +213,10 @@
                 {
                     "lat": -7.2350616,
                     "lng": -39.4349809
+                },
+                {
+                    "lat": -3.7441441,
+                    "lng": -38.4870533
                 }
             ],
             "__v": 0,
@@ -585,20 +308,6 @@
             "altura": "Até 10 metros",
             "origem": "Nativa do Brasil",
             "nome_pop": "Angico, angico-verdadeiro, angico-vermelho"
-        },
-        {
-            "_id": "5b73704462655800042fe5ea",
-            "nome_pop": "Bordão de Velho",
-            "nome_cie": "Samanea tubulosa (Bentham) Barnedy; Grimes",
-            "familia": "",
-            "categoria": "",
-            "origem": "",
-            "clima": "",
-            "luminosidade": "",
-            "altura": "",
-            "info": "",
-            "localidade": "",
-            "loc": []
         },
         {
             "_id": "590cc07f22dc530011f57092",
@@ -702,10 +411,18 @@
                 {
                     "lat": -7.231953,
                     "lng": -39.4367795
+                },
+                {
+                    "lat": -3.7450647,
+                    "lng": -38.485798
+                },
+                {
+                    "lat": -3.7469182,
+                    "lng": -38.4887752
                 }
             ],
             "__v": 0,
-            "info": "A timbaúba é uma árvore decídua e frondosa, que alcança ´mais de 12 metros de altura e de 80 a 160 de diâmetro de tronco. Suas folhas são alternas, bipinadas (recompostas), com 3 a 7 pares de pequenos folíolos oblongos. Apresenta copa ampla, com ramificação cimosa e raízes longas e calibrosas. As inflorescências surgem na primavera e são do tipo capítulo, globosas, com cerca de 10 a 20 flores brancas. Os frutos que se seguem são vagens, recurvadas e semilenhosas, em formato de rim ou de orelha, o que rendeu a esta espécie diversos nomes populares. Eles surgem verdes e se tornam pretos em junho e julho, quando amadurecem. Cada fruto pode conter de 2 a 12 sementes, brilhantes e de cor marrom. Sua madeira é leve, macia, pouco resistente e utilizada para o fabrico de canoas, caixotaria em geral, brinquedos, compensados, etc. As saponinas encontradas nos frutos e na casca são aproveitadas para produção de sabões.",
+            "info": "A timbaúba é uma árvore decídua e frondosa, que alcança ´mais de 12 metros de altura e de 80 a 160 cm de diâmetro de tronco. Suas folhas são alternas, bipinadas (recompostas), com 3 a 7 pares de pequenos folíolos oblongos. Apresenta copa ampla, com ramificação cimosa e raízes longas e calibrosas. As inflorescências surgem na primavera e são do tipo capítulo, globosas, com cerca de 10 a 20 flores brancas. Os frutos que se seguem são vagens, recurvadas e semilenhosas, em formato de rim ou de orelha, o que rendeu a esta espécie diversos nomes populares. Eles surgem verdes e se tornam pretos em junho e julho, quando amadurecem. Cada fruto pode conter de 2 a 12 sementes, brilhantes e de cor marrom. Sua madeira é leve, macia, pouco resistente e utilizada para o fabrico de canoas, caixotaria em geral, brinquedos, compensados, etc. As saponinas encontradas nos frutos e na casca são aproveitadas para produção de sabões.",
             "clima": "Caatinga, Cerrado",
             "categoria": "Árvore",
             "nome_cie": "Enterolobium contorsiliquum (Vell.) Morong",
@@ -909,6 +626,10 @@
                 {
                     "lat": -7.232036,
                     "lng": -39.4371576
+                },
+                {
+                    "lat": -3.7467745,
+                    "lng": -38.4887446
                 }
             ],
             "__v": 0,
@@ -951,14 +672,20 @@
             "nome_pop": "Espinheira santa, Cancorosa, Espinheira Divina, Cancerosa, Sombra de Touro.",
             "nome_cie": "Maytenus ilicifolia",
             "familia": "Celastraceae",
-            "categoria": "Árvores, Medicinal",
-            "origem": "Brasil, nos estados do sul. Podendo ser encontrada em outros países como Paraguai, Bolívia, Argentina e Uruguai.",
-            "clima": "Subtropical e temperado",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado",
             "luminosidade": "Meia sombra como a pleno sol.",
             "altura": "Até 10 metros",
-            "info": "La = -7.234204  Lon = -39.4323907\nÁrvore perenifólia de casca lisa, crescimento lento, folhas simples e alternadas, verde escuras e bordas com espinhos. Planta de floresta não muito densa, próximo a rios e riachos. Encontrada em altitudes de até 1200 m. Pode ser cultivada tanto para fins econômicos (pelas propriedades medicinais) como também paisagísticos. Várias pesquisas em universidades tem sido feitas sobre esta planta, com constatações científicas comprovadas. Possui terpenos, flavonoides, mucilagens, açúcares, ferro, enxofre, sódio, cálcio. Usado no tratamento de úlceras gástricas, gastrite, problemas estomacais e azia. Tem ação cicatrizante para a pele e considerado anti-inflamatório e antisséptico.",
-            "loc": [],
-            "__v": 0
+            "info": "Árvore perenifólia de casca lisa, crescimento lento, folhas simples e alternadas, verde escuras e bordas com espinhos. Planta de floresta não muito densa, próximo a rios e riachos. Encontrada em altitudes de até 1200 m. Pode ser cultivada tanto para fins econômicos (pelas propriedades medicinais) como também paisagísticos. Várias pesquisas em universidades tem sido feitas sobre esta planta, com constatações científicas comprovadas. Possui terpenos, flavonoides, mucilagens, açúcares, ferro, enxofre, sódio, cálcio. Usado no tratamento de úlceras gástricas, gastrite, problemas estomacais e azia. Tem ação cicatrizante para a pele e considerado anti-inflamatório e antisséptico.",
+            "loc": [
+                {
+                    "lat": -7.234204,
+                    "lng": -39.4323907
+                }
+            ],
+            "__v": 0,
+            "localidade": "Parque Estadual Sítio Fundão"
         },
         {
             "_id": "59c2b52142a4ab00115596fc",
@@ -999,6 +726,10 @@
                 {
                     "lat": -7.2055895,
                     "lng": -39.4479986
+                },
+                {
+                    "lat": -3.7450284,
+                    "lng": -38.4858905
                 }
             ],
             "__v": 0,
@@ -1038,6 +769,10 @@
                 {
                     "lat": -7.2319191,
                     "lng": -39.4368268
+                },
+                {
+                    "lat": -3.74794,
+                    "lng": -38.4867512
                 }
             ],
             "__v": 0,
@@ -1058,6 +793,10 @@
                 {
                     "lat": -7.2318949,
                     "lng": -39.4343907
+                },
+                {
+                    "lat": -3.7454266,
+                    "lng": -38.4839615
                 }
             ],
             "__v": 0,
@@ -1073,12 +812,12 @@
         },
         {
             "_id": "59c2c3b542a4ab001155970f",
-            "nome_pop": "Jurema preta, Calumbi, jurema braba; tepezcohuite (México)",
+            "nome_pop": "Jurema preta, Calumbi, jurema braba",
             "nome_cie": "Mimosa tenuiflora (Willd.) Poir. - Sinonímia: Acacia tenuiflora Willd., Acacia hostilis Mart., Mimosa hostilis (Mart.) Benth., Mimosa limana Rizzini.",
             "familia": "Fabaceae Mimosoideae",
             "categoria": "Arbusto, arvoreta ou árvore",
             "origem": "Nativa do Brasil",
-            "clima": "Tropical",
+            "clima": "Caatinga, Cerrado",
             "luminosidade": "Sol pleno",
             "altura": "5 a 7 metros",
             "info": "Madeira: muito resistente, empregada para obras externas, como mourões, estacas e pontes, para pequenas construções, rodas, peças de resistência, móveis rústicos. Fornece excelente lenha e carvão de alto valor energético. Medicina caseira: o pó da casca é muito eficiente em tratamentos de queimaduras, acne, defeitos da pele e esfoladelas causadas por pressão. Tem efeito antimicrobiano, analgésico, regenerador de células, febrífugo e adstringente peitoral. As folhas são usadas com as mesmas finalidades. Veterinária popular: o efeito cicatrizante serve também nos animais domésticos e a planta é usada em lavagens contra parasitas. Na medicina popular serve também para tratar diabetes, inflamação e colesterol alto.",
@@ -1086,9 +825,14 @@
                 {
                     "lat": -7.231837,
                     "lng": -39.4371259
+                },
+                {
+                    "lat": -3.7441757,
+                    "lng": -38.4876375
                 }
             ],
-            "__v": 0
+            "__v": 0,
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
         },
         {
             "_id": "59c2bd1c42a4ab0011559704",
@@ -1109,6 +853,10 @@
                 {
                     "lat": 0,
                     "lng": 0
+                },
+                {
+                    "lat": -3.7449039,
+                    "lng": -38.4860024
                 }
             ],
             "__v": 0,
@@ -1147,6 +895,10 @@
                 {
                     "lat": -5.40022452,
                     "lng": -40.07068442
+                },
+                {
+                    "lat": -3.7468304,
+                    "lng": -38.4886791
                 }
             ],
             "__v": 0,
@@ -1204,7 +956,7 @@
             "clima": "Tropical",
             "luminosidade": "Sol pleno, meia sombra",
             "altura": "Até 7 metros",
-            "info": "La = -7.2319159          Lon = -39.4371647\nComum no Nordeste brasileiro, com propriedades psicoativas. A família das leguminosas possui importantes espécies cultivadas para alimentação, inclusive do nordestino (Mangalô, Andu, Algaroba, além de Feijões de diversas espécies incluindo a Soja. A subfamília Faboidea ou Fabaceae) também exerce importante função ecológica por abrigar espécies de bactérias nitrificantes ou seja que fixam nitrogênio, essencial para a vida, no solo. Uma pequena árvore que cresce até 7 m em solos férteis, e arbustiva em solos pobres. Variedades sem espinhos são preferidas para  bonsai.  Os efeitos do vinho de jurema são muito bem descritos por José de Alencar no romance Iracema. Para entender seu efeito psicoativo não basta analisar a composição molecular e comparar com as denominadas drogas alucinógenas é necessário situar-se no contexto de expectativas e formas de uso da substancia nos sistemas de crenças brasileiros.",
+            "info": "Comum no Nordeste brasileiro, com propriedades psicoativas. A família das leguminosas possui importantes espécies cultivadas para alimentação, inclusive do nordestino (Mangalô, Andu, Algaroba, além de Feijões de diversas espécies incluindo a Soja. A subfamília Faboidea ou Fabaceae) também exerce importante função ecológica por abrigar espécies de bactérias nitrificantes ou seja que fixam nitrogênio, essencial para a vida, no solo. Uma pequena árvore que cresce até 7 m em solos férteis, e arbustiva em solos pobres. Variedades sem espinhos são preferidas para  bonsai.  Os efeitos do vinho de jurema são muito bem descritos por José de Alencar no romance Iracema. Para entender seu efeito psicoativo não basta analisar a composição molecular e comparar com as denominadas drogas alucinógenas é necessário situar-se no contexto de expectativas e formas de uso da substancia nos sistemas de crenças brasileiros.",
             "loc": [
                 {
                     "lng": "-39.4331287",
@@ -1426,6 +1178,10 @@
                 {
                     "lat": -7.2347287,
                     "lng": -39.4352424
+                },
+                {
+                    "lat": -3.7445525,
+                    "lng": -38.4874347
                 }
             ],
             "__v": 0,
@@ -1573,7 +1329,7 @@
                 }
             ],
             "__v": 0,
-            "info": "Árvore com tronco e ramos com acúleos retos ou incurvos, às vezes presentes também no lado inferior do pecíolo e raque foliar. Madeira própria para marcenaria, torno e obras internas (Lorenzi, 2009) sendo utilizada também para lenha e carvão. A casca contém tanino. Senegalia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro.Disponível em: . Acesso em: 27 Dez. 2017",
+            "info": "Árvore com tronco e ramos com acúleos retos ou incurvos, às vezes presentes também no lado inferior do pecíolo e raque foliar. Madeira própria para marcenaria, torno e obras internas (Lorenzi, 2009) sendo utilizada também para lenha e carvão. A casca contém tanino. Senegalia in Flora do Brasil 2020 em construção. Jardim Botânico do Rio de Janeiro.Disponível em: <http://reflora.jbrj.gov.br/reflora/floradobrasil/FB101015>. Acesso em: 27 Dez. 2017",
             "clima": "Caatinga, cerrado",
             "categoria": "Arbusto, Árvore",
             "nome_cie": "Senegalia polyphylla (DC.) Britton & Rose",
@@ -1618,6 +1374,10 @@
                 {
                     "lat": -7.2047355,
                     "lng": -39.4484075
+                },
+                {
+                    "lat": -3.7448345,
+                    "lng": -38.4862772
                 }
             ],
             "__v": 0,
@@ -1800,20 +1560,24 @@
         },
         {
             "_id": "5ad6660b4ba69b0004577a13",
-            "nome_pop": "Mulungu, bucaré, corticeira, cortiça, suinã, corticeira-do-sertão, eritrina, muchôco e mulungá, ",
-            "nome_cie": "Erythrina velutina Wild.",
-            "familia": "Fabaceae - Faboideae",
+            "nome_pop": "Mulungu, bucaré e mulungu-da-flor-vermelha e Mulungu-da-flor-amarela, Muchôco, Mulungá",
+            "nome_cie": "Erythrina velutina Wild. - Sinonímia: Chirocalyx velutinus Walp., Corallodendron elutinum (Willd.) Kuntze; Erythrina aculeatissima Desf., Erythrina splendida Diels.",
+            "familia": "Fabaceae/Papilionoideae",
             "categoria": "Árvore",
             "origem": "Nativa do Brasil",
-            "clima": "Caatinga, Cerrado, Mata Atlântica",
+            "clima": "Caatinga, Cerrado e Mata Atlântica",
             "luminosidade": "",
             "altura": "até 15 m",
-            "info": "O nome vulgar mulungu vem do tupi, mussungú ou muzungú e do africano mulungu significando “pandeiro”, talvez pela batida no seu tronco oco emitir som. Usada para paisagismo urbano, melífera, madeira leve mole e de baixa durabilidade natural. Bastante copada. Folhas trifoliadas, bem largas, 11 cm. Flores bissexuadas e zigomorfas, são carnosas vermelho-alaranjadas e agrupam-se em panículas racemosas terminais e axilares.  Floresce no mês de janeiro a fevereiro no estado do Ceará. Muitos pássaros procuram suas flores devido seu néctar. Fruto vagem curta, 6 cm, com sementes de um cm no formato de feijão, avermelhadas ou amarronzadas.",
+            "info": "o nome genérico Erythrina vem do grego erythros, que significa “vermelho”, em alusão à cor das flores; o epíteto específico velutina vem do latim, devido ao fato da folha apresentar indumento de delicados e macios pêlos. nome vulgar mulungu vem do tupi, mussungú ou muzungú e do africano mulungu significando “pandeiro”, talvez pela batida no seu tronco oco emitir som. É uma planta arbórea aculeada ou espinhenta, de comportamento decíduo de mudança foliar. O fruto é um legume um tanto curvo com 1 a 3 sementes bicolores, denominadas miméticas, de coloração vermelho-escura e vermelho-alaranjada. A floração ocorre no Ceará de janeiro a fevereiro. A madeira do mulungu é muito leve de cor esbranquiçada, mole e de baixa durabilidade natural. As flores desta espécie são comestíveis porém as sementes tem ação venenosa quando em quantidade suficiente, causando a morte. Devido ao colorido das sementes elas podem ser utilizadas em artesanato.\n",
             "localidade": "ARIE - TAUÁ",
             "loc": [
                 {
                     "lat": -5.39973789,
                     "lng": -40.07294622
+                },
+                {
+                    "lat": -3.7439879,
+                    "lng": -38.4868885
                 }
             ]
         },
@@ -1928,6 +1692,10 @@
                 {
                     "lat": -5.40504245,
                     "lng": -40.06572494
+                },
+                {
+                    "lat": -3.7442187,
+                    "lng": -38.4869391
                 }
             ]
         },
@@ -1952,22 +1720,432 @@
         },
         {
             "_id": "59c2c53542a4ab0011559711",
-            "nome_pop": "Cedro, Cedro-do-brejo, Cedro-vermelho",
-            "nome_cie": "Cedrela odorata L.",
+            "nome_pop": "Cedro, cedro-branco, cedro-rosa, cedro-vermelho",
+            "nome_cie": "Cedrela odorata L. - Sinonímia: Cedrela occidental;  C. fissilis; C. velloziana; C. guianensis; C. longipes; C. sintenisii; C. glaziovii; C. paraguaiensis; C. Mexicana var. puberula; C. brownie; C. yucatana",
             "familia": "Meliaceae",
             "categoria": "Árvore",
             "origem": "Nativa do Brasil",
-            "clima": "Mata Atlântica, Amazônia, Caatinga, Cerrado",
+            "clima": "Caatinga, Cerrado, Mata Atlântica e Amazônia",
             "luminosidade": "Sol pleno",
-            "altura": "20 a 30 metros",
-            "info": "Seu uso é de interesse madeireiro. Sua madeira é utilizada em construções, marcenaria, entalhe, móveis entre outros usos. Sua grande procura não se deve apenas a sua madeira uniforme, lisa e lustrosa, a casca de cedro tem uso medicinal, é utilizada para ser usada externamente em casos de úlceras e feridas. A árvore de cedro mede de 20 a 30 metros de altura; tem casca grossa rugosa em forma de fenda. Possui folhas compostas de folíolos opostos oblongo-lanceolado, agudos, arredondados na bases, sendo que a face superior é lisa e a inferior é aveludada.  Na medicina popular, o banho das folhas é usado para febre, dor e cólicas. Folhas e cascas são utilizadas para reumatismo, malária, depurar sangue, dor de dente. A madeira cozida cura dor de ouvido.  Espécie apícola.",
+            "altura": "Acima de 20 metros",
+            "info": "Seus frutos são apreciados por papagaios. A casca externa do caule é profundamente fissurada, produz uma madeira densa estimada para uso comercial nacional e internacional apesar de possuir baixa resistência contra insetos e fungos. Sua coloração vai do rosa escuro até o castanho avermelhado assemelhado-se ao mogno, contando ainda com um cheiro bastante agradável. Seu uso comercial esta voltado a criação de móveis finos, instrumentos musicais, construções internas (forros, rodapés, guarnições etc.), materiais de escritório e tantas outras aplicações. Devido ao seu amplo uso comercial, hoje ela é considerada uma espécie vulnerável (MINISTÉRIO DO MEIO AMBIENTE, 2016). Na medicina popular o chá da casca é considerado excelente antitérmico e usado também como tônico, adstringente, contra leucorréia e ainda para lavar feridas e úlceras. Espécie apícola.\n",
             "loc": [
                 {
                     "lat": -7.2316407,
                     "lng": -39.4372701
                 }
             ],
-            "__v": 0
+            "__v": 0,
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+        },
+        {
+            "_id": "5b737b51c653090004e49351",
+            "nome_pop": "Pau-pombo, camboatá, cupuba, peito-de-pomba, tapirira e cupiúva",
+            "nome_cie": "Tapira guianensis Aubl. - Sinonímias: Tapirira guianensis var. cuneata Engl. ;Tapirira guianensis var. elliptica Engl. ;Tapirira myriantha Triana & Planch.",
+            "familia": "Anacardiaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal",
+            "luminosidade": "",
+            "altura": "8 - 14 m",
+            "info": "O pau-pombo é uma árvore pioneira e heliófita encontrada em todo território brasileiro principalmente em terrenos úmidos podendo também ser encontrada em ambientes secos.  É planta perenifólia, ou seja, mantém suas folhas durante o ano inteiro; é uma espécie dióica, embora ocorra a presença ocasional de flores hermafroditas em matrizes femininas. As flores são de cor branco-amareladas que surgem no período de Junho/novembro e sua frutificação ocorre de Dezembro/Maio. Seus frutos parecem com uma uva e são muito procurados pela fauna em geral. Sua madeira é leve e pode ser utilizada na fabricação de brinquedos, compensados, caixotaria, móveis, solados de sapato, construção civil, uso apícola (com pólen e néctar em abundância), ornamental e medicinal. A produção de mudas se faz a partir da germinação das semente; seu uso é recomendado para restauração, arborização urbana e silvicultura, restauração de áreas degradadas e matas ciliares.\n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": []
+        },
+        {
+            "_id": "5b73701c62655800042fe5e8",
+            "nome_pop": "Cajazeira,  cajá, cajá-mirim, cajazinho, taperebá",
+            "nome_cie": "Spondias mombin L. - Sinonímia: Spondias lutea L,,  Spondias mambin L.",
+            "familia": "Anacardiaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Área Antrópica, Floresta Ciliar ou Galeria, Floresta de Igapó, Floresta de Terra Firme, Floresta de Várzea, Floresta Estacional Semidecidual",
+            "luminosidade": "",
+            "altura": "acima de 12 metros",
+            "info": "Os indígenas a denominavam de acaja e tipiribá. A primeira palavra significa: “fruto de caroço” (de acâ, caroço, e ya, fruto); e a segunda, “fruto de anta” (de tapir e iba, fruto), em alusão ao fato de que a fruta é um dos alimentos desse mamífero. Seu fruto carnoso, amarelo e de sabor doce, a cajá, é muito utilizada para diversos produtos (sucos, sorvetes, licores, vinhos e tantos outros). A planta em si tem vários usos medicinais, por exemplo a sua casca pode ser usada para combater diarreias, hemorroidas e náusea; as flores além de ser boas para a apicultura, o seu chá pode combater a doenças na laringe e nos olhos, dores no estômago assim como o chá de suas folhas. De um modo geral a cajazeira possui inúmeras utilidades além das que estão aqui destacadas. A propagação desta planta pode ser feita através de estacas de caule, estacas de raiz e pelo caroço.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7446948,
+                    "lng": -38.4867694
+                }
+            ]
+        },
+        {
+            "_id": "5b737a90c653090004e49347",
+            "nome_pop": "Mutamba, Mutamba-verdaedeira,  Chico Magro, Mutamba Preta.  ",
+            "nome_cie": "Guazuma ulmifolia Lam. - Sinonímia: Guazuma tomentosa Kunth, Guazuma ulmifolia var. glabra K.Schum., Guazuma ulmifolia var. tomentosa K.Schum., Guazuma ulmifolia Lam. var. Ulmifolia, Guazuma ulmifolia var. velutina (A.Braun) A.Braun ex K.Schum., Guazuma utilis Poepp. & Endl.",
+            "familia": " Malvaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Mata Atlântica, Amazônia, Cerrado,  Caatinga.",
+            "luminosidade": "",
+            "altura": "Acima de 12 metros",
+            "info": "Sua madeira branco-amarelada é suscetível a ataques de cupins. Pode ser utilizada para a forragem. O fruto dessa planta é uma cápsula subglobosa  de cor preta verrugosa e tem 46 sementes  podendo ser consumidos in natura ou cozidos, seu sabor  assemelha-se ao do figo seco. E pode ser utilizado na fabricação artesanal de rapadura, as fibras da planta podem ser utilizadas na fabricação de tecidos, sua madeira é usada na fabricação de coronhas de armas, cabos de ferramentas e violinos etc. É utilizada na medicinal popular como cicatrizante e no tratamento de distúrbios gastrointestinais e respiratórios. Floração de setembro a outubro, suas flores são branco-amareladas e são melíferas, produzindo boa quantidade de néctar, sendo fonte de mel saboroso, muito agradável e de alta qualidade. Fibras e o óleo extraído dos frutos é usado na região Nordeste do país como tônico capilar.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7448423,
+                    "lng": -38.4862115
+                }
+            ]
+        },
+        {
+            "_id": "5b73704462655800042fe5ea",
+            "nome_pop": "Bordão-de-Velho, Sete Cascas. Farinha-seca, abobreira, Pau-de-Cangalha, Alfarobo, Árvore da Chuva.",
+            "nome_cie": "Samanea tubulosa (Bentham) Barnedy; Grimes - Sinonímia: Samanea saman sensu Bernardi (1984)",
+            "familia": "Fabaceae / Mimosoideae",
+            "categoria": "Arvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Pantanal, Caatinga e Floresta Amazônica",
+            "luminosidade": "",
+            "altura": "Acima de 12 metros",
+            "info": "Suas folhas são alternas, compostas bipinadas, pecíolo e raque tomentoso com até 28 cm de comprimento com 2 a 5 pares pinas que medem até 20 cm de comprimento. Os folíolos fecham-se durante a noite e em dias nublados. Sua copa é arredondada, porém sendo mais larga que alta. As flores são inflorescência em capítulos. A floração ocorre de maio a julho e a frutificação em agosto/setembro. Os frutos são tipo legume séssil indeiscente, com polpa doce e perfumado, mede 7 cm a 19 cm de comprimento e até 2 cm de largura. As flores são melíferas, com boa produção de néctar e por ter flores vistosas é uma boa espécie ornamental. Os frutos amadurecem no período de maio a julho. A madeira é pesada. Ocorre naturalmente em solos a beira de rios e várzeas aluviais. Sua madeira é empregada apenas para marcenaria, mourões e lenha.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7451343,
+                    "lng": -38.4857153
+                }
+            ]
+        },
+        {
+            "_id": "5b737abbc653090004e49349",
+            "nome_pop": "Croaçu, Coaçu, Cauaçu, Cauassu, Pau-de-Vassoura, Caneleira, Cabeça-de-Macaco, Cajueiro Bravo. ",
+            "nome_cie": "Coccoloba latifólia Lam. - Sinonímia: Coccoloba acrostichoides Cham.; Coccoloba acuminata Kunth.; ",
+            "familia": "Polygonaceae",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, mata Atlântica e Pantanal",
+            "luminosidade": "",
+            "altura": "Acima de 10  metros",
+            "info": "Esta espécie ocorre no extremo norte do estado do Ceará, em áreas de vegetação com influência marinha , floresta estacional semi decidual das terras baixas , floresta estacional decidual , savana  e savana estépica.(TABOSA, et al. 2016).\tPossui folhas ócreas e glabras bem desenvolvidas , florescências ramificadas e frutos carnosos. \n\n\n\n\n\n\n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7455087,
+                    "lng": -38.4842793
+                }
+            ]
+        },
+        {
+            "_id": "5b737af2c653090004e4934c",
+            "nome_pop": "Carnaúba",
+            "nome_cie": "Copernicia prunifera (Mill.) H. E. Moore - Sinonímia: Corypha cerifera Arruda; Arrudaria cerifera (Arruda) Macedo; Copernicia cerifera (Arruda) Mart. ",
+            "familia": "Arecaceae",
+            "categoria": "Herbacea",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, Cerrado.",
+            "luminosidade": "",
+            "altura": "Acima de 12 metros",
+            "info": "A carnaúba é empregada para diversos usos. As folhas, depois de secas e retirada a cera, que é utilizada na indústria, são usadas na confecção de esteiras, chapéus e outros artefatos. É um dos suportes da economia dos Estados do Piauí, Ceará, Rio Grande do Norte e Maranhão, sendo encontrada também na Bahia, em Alagoas e em Sergipe. A maior concentração de carnaubais se encontra nos vales dos rios do Nordeste, que muitas vezes formam extensas planícies inundáveis, o que pode indicar que a carnaúba deva apresentar adaptações para suportar a diminuição do oxigênio no solo. Destaca-se como  uma  importante  palmeira cuja cadeia produtiva é fonte  geradora de emprego  e  renda  para  comunidades  que  residem  no semiárido  nordestino,  região  na  qual  é  endêmica  e explorada  economicamente  durante  o  período  seco.  Dentre os principais produtos de valor econômico da carnaubeira, destaca-se a cera, sendo obtida mediante processamento do pó  cerífero.\n\n.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7443635,
+                    "lng": -38.4842376
+                },
+                {
+                    "lat": -3.7441693,
+                    "lng": -38.4877705
+                },
+                {
+                    "lat": -3.7468698,
+                    "lng": -38.4831369
+                }
+            ]
+        },
+        {
+            "_id": "5b737ae1c653090004e4934b",
+            "nome_pop": "Ipê-amarelo, caraíba, cinco folhas do campo, ipê, pau d'arco, paratudo.",
+            "nome_cie": "Tabebuia aurea (Silva Manso) Benth. & Hook.f.ex S. Moore - Sinonímia: basiônimo Bignonia aurea Silva Manso heterotípico Bignonia squamellulosa DC.  Couralia caraiba (Mart.) Corr.Méllo ex Stellfeld  Gelseminum caraiba (Mart.) Kuntze  Handroanthus caraiba (Mart.) Mattos  Handroanthus leucophloeus (Mart. ex DC.) Mattos  Tabebuia argentea (Bureau & K.Schum.) Britton  Tabebuia caraiba (Mart.) Bureau",
+            "familia": "Bignoniaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica, Pantanal",
+            "luminosidade": "",
+            "altura": "Acima de 12 metros",
+            "info": "As espécies do gênero Tabebuia apresentam padrão de floração do tipo “big bang” (floração simultânea intra e inter-indivíduo, por um período curto) ou cornucópia (floração simultânea intra e inter-indivíduo, porém por um período mais longo). É também utilizada para fins ornamentais, sendo considerada melífera. Sua madeira é dura, consumida na construção civil, carpintaria e fabricação de carvão. O chá da casca e entrecasca é utilizado como diurético, e as raízes curtidas na cachaça ou vinho são empregadas no tratamento da gripe. Suas flores e frutos são importantes fontes de alimentação para a avifauna, bem como o néctar é importante fonte de alimento para as abelhas que as polinizam.  nome popular \"paratudo\" deve-se ao fato de que os pantaneiros do Brasil mascam a casca como remédio para problemas no estômago, vermes, diabetes, inflamações e febres. \n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7443781,
+                    "lng": -38.4842377
+                }
+            ]
+        },
+        {
+            "_id": "5b737bc7c653090004e49357",
+            "nome_pop": "Samambaia-açu, Xaxim, Feto Arborescente, Samambaia imperial.",
+            "nome_cie": "Dicksonia selowiana (Presl.) Hook. - Sinonímia: Dicksonia selowiana Hook.",
+            "familia": "Dicksoniaceae",
+            "categoria": "Árvore, Camada de ervas, subarbustos, arbustos e trepadeiras",
+            "origem": "Nativa do Brasil",
+            "clima": "Mata atlântica",
+            "luminosidade": "",
+            "altura": "Acima de 2 metros",
+            "info": "É uma importante representante Pteridófita e devido a sua exploração comercial para confecção de vasos para jardinagem e floricultura, O CONOMA (Conselho Nacional do Meio Ambiente) elaborou a Resolução 278/2001 que veta o comércio desta espécie, colocando a planta endêmica da Mata Atlântica na lista oficial do IBAMA, de espécies ameaçadas de extinção. A propagação da espécie é realizada através da germinação de esporos. Possui cáudice fibroso e espesso. Tem crescimento lento, menor que 1m³ ao ano. Utilizada em paisagismo, normalmente em regiões de sombra ou meia sombra, gosta de solos úmidos, ricos em matéria orgânica, Servindo de suporte para plantas epífitas como flor de maio, orquídeas e bromélias.\n\n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7540465,
+                    "lng": -38.4821997
+                }
+            ]
+        },
+        {
+            "_id": "5b737a7dc653090004e49346",
+            "nome_pop": "Fruta de bode, grão de bode ",
+            "nome_cie": "Swartzia oblata R. S. Cowan",
+            "familia": "Fabaceae/Faboideae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado, Caatinga",
+            "luminosidade": "",
+            "altura": "Acima de 10  metros",
+            "info": "Esta árvore é facilmente reconhecida pelos frutos grandes dependurados no tronco e galhos. Folhas compostas pinadas, 25 folíolos de 8 cm, lisos. Floração em cacho, clara, muito vistosa. Fruto vagem grossa e curta, de 15 a 20 cm, com 4 a 6 sementes de 4 cm envoltas em arilo amarelo comestível e com odor agradável. Germinação fácil. Melífera. Frutos procurados pela fauna. Madeira aproveitável. Floresce em Janeiro, frutifica em setembro. ",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7446297,
+                    "lng": -38.4867673
+                }
+            ]
+        },
+        {
+            "_id": "5b737b64c653090004e49352",
+            "nome_pop": "Trapiá, tapiá, capança, cabaceira, fruto de macaco, catauré",
+            "nome_cie": "Crateva Tapia L. - Sinonímia: Crateva benthamii Eichler ; Cleome arborea Schrad.",
+            "familia": "Capparaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, Mata Atlântica, Cerrado, Amazônia",
+            "luminosidade": "",
+            "altura": "De 4 a 8 metros",
+            "info": "O trapiá além de ser ideal para o paisagismo urbano pois fornece uma sombra excelente,  sua madeira é de cor clara e possui valor comercial  podendo ser utilizada na construção civil, forros, caixotaria e na confecção de canoas. O seu período de floração ocorre na seca, resultando em fores brancas com estames longos e a avermelhados cujo néctar atrai diversos tipos de animais como morcegos, mariposas e abelhas  nativas. Seus frutos redondos e lisos de sabor adocicado são comestíveis e compõe a dieta de alguns animais silvestres como macacos, aves e peixes. O homem utiliza os frutos para fabrico de bebida vinosa. A casca do tronco tem odor semelhante ao alho, sendo usado como febrífugo, antidisentérico, estomático e tônico segundo a medicina popular.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": []
+        },
+        {
+            "_id": "5b737b3dc653090004e49350",
+            "nome_pop": "Jenipapo, genipapo, jenipapeiro, jenipá, jenipapinho, janipaba, janapabeiro, janipapo, cabaçu, janipapeiro, jenipapo branco, jenipapo manso, jenipapo bravo, jenipava, guaitil, huito, caruto, jagua ",
+            "nome_cie": "Genipa americana L. - Sinonímia: Gardenia brasiliensis Spreng.;  Gardenia oblongifolia (Ruiz & Pav.) Poir.; Genipa americana var. caruto (Kunth) K.Schum. ;Genipa americana var. riobranguense Kuhlm.;  Genipa americana var. riobranquenses Kuhlm;. Genipa americana var. riobranquensis Kuhlm;.  Genipa barbata C.Presl;  Genipa brasiliana A.Rich;. Genipa brasiliensis (Spreng.) Baill.;  Genipa caruto Kunth; Genipa codonocalyx Standl.; Genipa excelsa K.Krause; Genipa grandifolia Pers.; Genipa humilis Vell.; Genipa oblongifolia Ruiz & Pav.; Genipa oleosa Rojas Acosta; Genipa pubescens DC.; Genipa spruceana Steyerm.; Genipa venosa Standl. Gardenia genipa Sw.; Genipa americana L. var. americana",
+            "familia": "Rutaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado e Pantanal",
+            "luminosidade": "",
+            "altura": "Acima de 20 metros",
+            "info": "Essa arvore é ideal para proteção e restauração de nascentes e áreas degradadas. É planta heliófita e seletiva higrófita. Sua casca lisa e esverdeada é utilizada para curtimento de couro e para uso medicinal, além da produção de um licor a partir de seu fruto e o vinho de jenipapo. A madeira é moderadamente pesada, durável quando conservada em ambiente seco. É utilizada na construção civil, marcenaria, tornearia, carpintaria, para confecção de gamelas, peças artesanais, coronhas de armas e cabos de ferramentas. As folhas crescem até 40 cm de comprimento, pode ter flores hermafroditas, e outras somente flores masculinas e não produzir frutos. O seu fruto é comestível, contem uma polpa mole e adocicada. O nome jenipapo em  guarani significa “fruta que serve para pintar.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7459582,
+                    "lng": -38.4885839
+                }
+            ]
+        },
+        {
+            "_id": "5b737b76c653090004e49353",
+            "nome_pop": "Mata-fome, espinheiro, ingá-doce guamã americano, guamuchil.",
+            "nome_cie": "Pithecellobium Dulce (Roxb.) Benth.",
+            "familia": "Fabaceae - Mimosoideae",
+            "categoria": "Árvore",
+            "origem": "Naturalizada (México)",
+            "clima": "Amazônia, Caatinga e Mata Atlântica",
+            "luminosidade": "",
+            "altura": "Acima de 10 metros",
+            "info": "Apresenta propriedades múltiplas, como: produção de madeira, sombreamento, quebra-vento, potencial forrageiro, controle de erosão, fixação de nitrogênio, produção de néctar e medicinal. Seu caule é ligeiramente torcido, sua madeira tem um odor característico e um sabor ligeiramente amargo. Suas folhas estão dispostas em espiral bipinada e pecioladas. Fruto tipo legume de cor verde a rosado com sementes pretas envolvidas por um arilo carnoso. Existem dois tiupos de frutos: o amargo e o doce, ambos comestíveis.Tem concentração de tanino o que pode irritar a garganta quando consumir grande quantidade de frutos.   É de fácil estabelecimento e rápido crescimento. Pode ser usado como cerca viva. Pode crescer em solos pobres e é resistente a seca.   É resistente a pragas e é também utilizada na medicina popular. Tem uso também madeireiro e energético.\n\n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7465804,
+                    "lng": -38.4832343
+                },
+                {
+                    "lat": -3.7452205,
+                    "lng": -38.4858136
+                }
+            ]
+        },
+        {
+            "_id": "5b737bb2c653090004e49356",
+            "nome_pop": "Araticum de brejo, Ariticum liso, Araticum do mangue, Araticunzeiro",
+            "nome_cie": "Annona glabra L. - Sinonímia: Annona australis A.St.-Hil.; Annona palustris L. Annona palustris var. grandiflora Mart.",
+            "familia": "Annonaceae ",
+            "categoria": "Arbusto, Árvore",
+            "origem": "América Tropical",
+            "clima": "Floresta de Igapó, Floresta de Várzea, Manguezal",
+            "luminosidade": "",
+            "altura": "Acima de 5 metros",
+            "info": "Essa árvore possui o nome indigena: araticum-paná, do tupi “Fruta mole”. Nos locais de ocorrência natural, ocupa, mais freqüentemente, áreas que estão submetidas a inundações periódicas, em função do fluxo e refluxo das marés.  Os frutos de polpa alaranjada soltam facilmente suas sementes, e são pouco apreciados para o consumo em natura pelo homem. No entanto, pode ser usado no preparo de molhos, ensopados, condimentos e doces. Esta espécie tem recebido atenção de pesquisadores pois pode ser usada como porta-enxerto para outras espécies do mesmo gênero, em particular a gravioleira cujos frutos apresentam valor comercial. É planta tolerante a solos encharcados. No Brasil os frutos caem de março a abril. Seus frutos flutuam e podem sobreviver por períodos prolongados quando imersos em água salobra ou não. As sementes poder ser a base para criação de inseticidas.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.74794,
+                    "lng": -38.4867512
+                }
+            ]
+        },
+        {
+            "_id": "5b737b9bc653090004e49355",
+            "nome_pop": "Mangue preto, Canoé, Siriúba, Siriba, Saraba, Mariquita, mangue negro",
+            "nome_cie": "Avicennia germinans - Sinonímia:  Avicennia africana P.Beauv.; Avicennia elliptica Thunb.;  Avicennia elliptica var. martii Moldenke;  Avicennia floridana Raf.;  Avicennia germinans var. cumanensis (Kunth) Moldenke; Avicennia germinans var. guayaquilensis (Kunth) Moldenke;  Avicennia lamarckiana C.Presl;  Avicennia meyeri Miq.;  Avicennia nitida Jacq.;  Avicennia nitida var. trinitensis Moldenke;  Avicennia oblongifolia Nutt. ex Chapm.;  Avicennia officinalis L.;  Avicennia officinalis var. lanceolata Kuntze;  Avicennia officinalis var. nitida Kuntze;  Avicennia tomentosa L.; Avicennia tomentosa var. campechensis Jacq.;  Avicennia tomentosa var. cumanensis Kunth; Avicennia tomentosa var. guayaquilensis Kunth;  Bontia germinans L.; Hilairanthus nitidus (Jacq.) Tiegh.;  Hilairanthus tomentosus (Jacq.) Tiegh.;",
+            "familia": "Acanthaceae ",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Manguezal ",
+            "luminosidade": "",
+            "altura": "acima de 12 metros",
+            "info": "Esta árvore ocorre apenas em manguezais e possui especializações morfológicas e fisiológicas para vida no ambiente entremarés. Nas folhas encontram-se glândulas especializadas na exclusão do sal para controle osmótico, de modo que na face adaxial não é raro encontrar cristais de cloreto de sódio. Possui altura variável muito relacionada à salinidade apresentada no local. Em locais de constantes inundações e  água salobra elas apresentam altura e diâmetros maiores, Apresenta um tronco de casca lisa de cor castanho-claro que é utilizado para a construção de canoas e uso medicinal. Sua floração ocorre no período de outubro a dezembro dando origem a flores brancas e perfumadas dispostas em ramos. Gera um fruto com apenas uma semente. De sua madeira também pode gerar lenha e carvão vegetal. Com raízes tipo pneumatóforos, auxiliam o processo de respiração da planta. Diferentemente do mangue vermelho, desenvolvem-se melhor em solo arenosos.\n\n",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7471811,
+                    "lng": -38.4828873
+                },
+                {
+                    "lat": -3.7530301,
+                    "lng": -38.4821997
+                },
+                {
+                    "lat": -3.7462707,
+                    "lng": -38.4851565
+                }
+            ]
+        },
+        {
+            "_id": "5b737b89c653090004e49354",
+            "nome_pop": "Mangue Branco, mangue-manso,  mangue-de-sapateiro, mangue mariso, falso mangue, tinteiro, mangue do brejo",
+            "nome_cie": "Laguncularia racemosa (L.) C. F. Gaertn. - Sinonímia: Conocarpus racemosus",
+            "familia": "Combretaceae",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Mata Atlãntica /Manguezal, Restinga",
+            "luminosidade": "",
+            "altura": "Acima de 12 metros",
+            "info": "É a única espécie do gênero registrada para o Brasil. pode ser facilmente reconhecido pela presença de glândulas secretoras de sal no pecíolo. Esse vegetal não têm barreiras para a entrada de sal, mas o excretam por meio de glândulas especializadas nas folhas, além de produzirem solutos em seus tecidos que contribuem para a manutenção do balanço osmótico.  É considerada como uma planta intolerante à sombra Essa árvore apresenta raizes respiratórias os pneumatóforos, seu tronco tem textura grossa com estrias na cor acinzentada. Seu florescimento ocorre entre janeiro e fevereiro. Inflorescência racemosa, flores brancas; frutos carnosos, deiscentes, possui uma única semente que germina ainda na planta-mãe, ao desprender-se cai no solo lamoso ou sedimento para se desenvolver ou ainda é disseminado pela água corrente. É utilizada na medicina popular contra disenteria. ",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7462707,
+                    "lng": -38.4851565
+                }
+            ]
+        },
+        {
+            "_id": "5b74126729254600041ec9b3",
+            "nome_pop": "Marizeira, Marizeiro, Mari, Umari",
+            "nome_cie": "Geoffroea spinosa Jacq. - Sinonímia: Geoffroea striata (Willd.) Morong",
+            "familia": " Fabaceae / Papilionoideae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, Carrasco, Floresta Ciliar ou Galeria, Floresta Estacional Decidual, Floresta Estacional Semidecidual",
+            "luminosidade": "",
+            "altura": "Acima de 5 m",
+            "info": "O termo que dá nome a arvore tem suas origens no tupi que significa “Arvore que pinga água”. Seu tronco é ereto e arredondado de cor acinzentada. Possui pequenos espinhos no caule e ramos. A madeira é moderadamente pesada, medianamente resistente podendo ser empregada na fabricação de móveis rústicos, além de lenha e carvão. Suas flores são amareladas com cálice esverdeado. Seu fruto é um legume que assemelha-se a uma noz, sua polpa pode ser consumida “in natura” ou cozida em sopas. A amêndoa pode ser cozida ou torrada para ser consumida com carnes e legumes substituindo a batata. Por ser adaptada às condições de matas ciliares e ambientes inundáveis e também por produzir frutos apreciados por muitos animais, essa espécie assume uma importância singular na silvicultura conservacionista. As folhas dessa planta são utilizadas como forragem para o gado e o chá é utilizado como emenagogo e antidiarreico. Dos frutos se retira uma massa usada como peitoral e vermífuga. ",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7470639,
+                    "lng": -38.4832614
+                }
+            ]
+        },
+        {
+            "_id": "5b737aabc653090004e49348",
+            "nome_pop": "Pau Branco, pau-Branco-do-Sertão",
+            "nome_cie": "Cordia oncocalyx Allemão - Sinonímia: Auxemma gardneriana Miers.; Auxema oncocalyx (Fr. All.) Taub.",
+            "familia": "Boraginaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga (endêmico)",
+            "luminosidade": "",
+            "altura": "Acima de 4 metros",
+            "info": "É característico da Caatinga, apresenta distribuição restrita, mas contínua no Ceará. É a árvore mais característica do sertão cearense. Devido ao valor de sua madeira, raramente é encontrado um exemplar que não venha de renovo de velhos troncos, apresentando-se ramificado.   As inflorescências são constituídas de densas panículas, do tipo tirso, com flores pequenas, alvas e suavemente perfumadas. A floração ocorre de março a agosto no Ceará e de maio a agosto no Rio Grande do Norte. O fruto é uma drupa elipsoide amadurecendo de maio a agosto. A madeira é de boa qualidade para móveis, tabuados, caixilhos,construções pesadas, pontes, dormentes, estacas, pranchas e instrumentos agrícolas. No Ceará, é a madeira nativa mais utilizada nas construções civis. os ramos constituem forragem muito procurada para o gado. Por apresentar propriedade adstringente, a casca do pau-branco-do-sertão é usada em cozimento, em banhos para tratamento de feridas e de ferimentos.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7451891,
+                    "lng": -38.4850395
+                }
+            ]
+        },
+        {
+            "_id": "5b737acfc653090004e4934a",
+            "nome_pop": "Chichá, Chichazeiro,  amendoim-do-campo, Chichá do Cerrado",
+            "nome_cie": "Sterculia striata A. St.-Hil. & Naudim",
+            "familia": "Malvaceae ",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado e Mata Atlântica",
+            "luminosidade": "",
+            "altura": "acima de 12 metros",
+            "info": "Sua maior utilização atualmente é na arborização urbana. Em zonas mais secas a planta apresenta porte reduzido, entre 5-7m de altura, o que permite seu uso em áreas menores, exceto em locais próximos à fontes ou piscinas, pois perdem as folhas em uma época do ano. As amêndoas dos frutos são comestíveis e depois de torradas, apresentam aroma semelhante ao cacau. Do ponto de vista nutricional, as amêndoas contêm alta quantidade de fósforo, superando até mesmo a castanha-do-brasil. Produzem óleo com qualidade alimentícia e para fins farmacêuticos e cosméticos. Diversos estudos têm sido realizados visando o aproveitamento do óleo também para a produção de biocombustível e nanopartículas. A espécie apresenta crescimento rápido, é tolerante a terrenos secos e pedregosos e por isso é indicada para recuperação de áreas degradadas, além de possuir potencial madeireiro, paisagístico, alimentar e fitoterápico, sendo suas folhas utilizadas no tratamento de furúnculos.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7457816,
+                    "lng": -38.4838373
+                }
+            ]
+        },
+        {
+            "_id": "5b737b16c653090004e4934e",
+            "nome_pop": "Baraúna, Braúna do sertão, Pau Preto",
+            "nome_cie": "Schinopsis brasiliensis Engler",
+            "familia": "Anacardiaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, Cerrado e Mata Atlântica.",
+            "luminosidade": "",
+            "altura": "Acima de 12 metros",
+            "info": "A árvore apresenta um troco com ramos espinhosos formando uma copa subglobosa. Sua madeira resistente é usada para fazer estacas, caibros, estacas, linhas, pilões, etc. Útil para produção de forragem para caprinos e ovinos, considerada no “First Report National for the Convention on Biological Diversity – Brazil (CBD)” como uma espécie ameaçada de extinção.   . Suas flores, apresentam-se em panículas e os frutos compostos de vagens de natureza lenhosa, grossa em forma de foice, arredondadas, cobertas por pêlos finos com 2,5 a 3,5 cm de comprimento, contendo uma única semente. As folhas, casca, caule, entrecasca, resina, fruto de Schinopsis brasiliensis são indicadas na medicina popular como: anti-inflamatório em geral, no tratamento da gripe, febre, tosse, diarréia, disenteria, impotência sexual, fraturas, micoses superficiais, feridas e das verminoses em animais.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7440635,
+                    "lng": -38.4870068
+                }
+            ]
+        },
+        {
+            "_id": "5b737b2dc653090004e4934f",
+            "nome_pop": "Jenipapo-bravo, Genipapo-bravo\t",
+            "nome_cie": "Tocoyena formosa (Cham. & Schltdl.) K. Schum. - Sinonímia: Gustavia augusta L.",
+            "familia": "Rubiaceae",
+            "categoria": "Arbusto, Subarbusto",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado, Caatinga",
+            "luminosidade": "",
+            "altura": "Acima de 5 m",
+            "info": "O jenipapo-bravo é uma espécie lenhosa de porte  arbustivo-arbóreo, que  possui potencial de uso madeireiro, ornamental medicinal e pode servir  como componente eventual da dieta de bovinos. Suas flores possuem corola tubular que pode alcançar até 15 cm de comprimento, são auto-incompatíveis e polinizadas por mariposas com probóscide longa da família Sphingidae. A  espécie é autoincompatível e, portanto, depende de polinizadores para a sua reprodução. Os 29 polinizadores são mariposas da família Sphingidae, em particular aquelas espécies com 30 aparelho bucal extremamente longo.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7441773,
+                    "lng": -38.4866891
+                }
+            ]
+        },
+        {
+            "_id": "5b73702c62655800042fe5e9",
+            "nome_pop": "Ingazeira, Ingá de Brejo, Ingá banana, ingá quatro quinas.",
+            "nome_cie": "Inga vera subsp. Affinis (DC.) T. D. Penn - Sinonímia: Ingá spuria Humb. & Bonpl. Ex. Willd.; ingá alba; ",
+            "familia": "Fabaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Mata atlântica",
+            "luminosidade": "",
+            "altura": "Acima de 5 metros",
+            "info": "Espécie pioneira, presente em matas ciliares sazonalmente inundadas, apresentando  algumas adaptações anatômicas e morfológicas que a fazem suportar a submersão do seu sistema radicular. Essas características a tornam uma espécie para plantios mistos em recuperação de áreas ciliares degradadas e em áreas de depleção de reservatórios. Sua propagação dificultada pelo fato de suas sementes serem recalcitrantes, ou seja, não tolerarem a perda de água.  Inga vera Willd. subsp. affinis (DC.) T.D. Penn. é uma espécie pioneira, extremamente abundante nas áreas sazonalmente inundadas das margens dos rios. Suas folhas são compostas de 10 folíolos com pequena aba entre eles. Suas flores são brancas e seus frutos são vagem cilíndrica de até 10 cm, com sementes de 2 cm cobertas por um arilo branco comestível. Tem sua floração nos meses de agosto a setembro e os frutos se tornam maduros em dezembro.",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "loc": [
+                {
+                    "lat": -3.7446212,
+                    "lng": -38.4864332
+                }
+            ]
         }
     ]
 }

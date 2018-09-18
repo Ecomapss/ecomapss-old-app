@@ -1,9 +1,9 @@
 <ion-view hide-nav-bar="true">
-	<div class="user-header animated fadeIn">
+	<div id="header-timeline" class="user-header animated fadeIn">
 		<h1>
 			{{vm.translate.header.title}}, {{vm.username}}
 		</h1>
-		<p class="text-dark">
+		<p class="text-dark" ng-if="!vm.scrolled">
 			{{vm.translate.header.description}}
 		</p>
 
@@ -19,9 +19,9 @@
 			 console.log(wl)
 		</script> -->
 	</div>
-	
-	<ion-content class="ec-timeline" on-swipe-left="vm.goForward()"  on-scroll="vm.getScrollPosition()">
-		
+
+	<ion-content class="ec-timeline" id="timeline-container" on-swipe-left="vm.goForward()" on-scroll="vm.getScrollPosition()">
+
 
 		<div ng-if="!vm.itemsIsFetched" class="flex-container loader-wrapper">
 			<img src="vendor/icons/three-dots.svg" height="10" alt="" srcset="">
@@ -54,5 +54,3 @@
 		</ul>
 	</ion-content>
 </ion-view>
-
-

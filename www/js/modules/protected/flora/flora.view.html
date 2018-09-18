@@ -1,5 +1,5 @@
 <ion-view view-title="Flora">
-    <ion-content>
+    <ion-content overflow-scroll="false" >
         <div class="list list-inset">
             <label class="item item-input">
                 <i class="icon ion-search placeholder-icon"></i>
@@ -9,7 +9,7 @@
         </div>
 
         <div class="list">
-            <a ng-hide="flora.hide" class="item item-avatar" ng-click="navigateTo(flora)" ng-repeat="flora in flora.floras">
+            <a ng-hide="flora.hide" class="item item-avatar" ng-click="navigateTo(flora)" ng-repeat="flora in flora.floras | filter:search">
                 <img ng-src="{{flora.picture}} ">
                 <h2>{{flora.nome_pop}}</h2>
                 <p>{{flora.info}}</p>
