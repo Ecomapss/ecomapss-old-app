@@ -3,111 +3,111 @@
     "Data": [
         {
             "_id": "5a25d2ef6132ff0a62d50ae8",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00f5es Crato, Ipubi e Romualdo",
+            "estratigrafia": "Formações Crato, Ipubi e Romualdo",
             "designacao": "Tharrhias araripis",
-            "info": "Sobre o Tharrhias da Chapada do Araripe\" tem por finalidade uma melhor compreens\u00e3o da ictiof\u00e1unula do cret\u00e1ceo da Chapada do Araripe, no nordeste do Brasil. O g\u00eanero Tharrhias \u00e9 reestudado dando-se a definida diagnose e esclarecendo a sua posi\u00e7\u00e3o taxon\u00f4mica entre os Chianidae e a interrela\u00e7\u00e3o com os demais g\u00eanros dessa fam\u00edlia, especialmente as formas\nf\u00f3sseis do Cret\u00e1ceo. O problema da validade das esp\u00e9cies, Tharrhias araripis JORDAN & BRANNER, (1908) e Tharrhias rochae (JORDAN & BRANNER,1908) \u00e9 analisado, ap\u00f3s o estudo das mesmas, baseado em material das cole\u00e7\u00f5es paleoictiol\u00f3gicas do DNPM. Ambas as esp\u00e9cies s\u00e3o consideradas v\u00e1lidas do ponto de vista taxon\u00f4mico sendo redescritas e recebendo nova caracteriza\u00e7\u00e3o. Num exame das condi\u00e7\u00f5es de deposi\u00e7\u00e3o dos sedimentos da Chapada do Araripe, focalizou o sistema de vida que possivelmente tiveram esses Chianidae do Cret\u00e1ceo do Araripe e a raz\u00e3o do n\u00famero elevado de f\u00f3sseis desses peixes entre os icti\u00f3litos encontrados nos sedimentos da Forma\u00e7\u00e3o Santana. (OLIVEIRA, Anu\u00e1rio IGeo capa > v. 16, 1993) Designa\u00e7\u00e3o: \u00c1lamo Feitosa Saraiva (2017).",
+            "info": "Sobre o Tharrhias da Chapada do Araripe\" tem por finalidade uma melhor compreensão da ictiofáunula do cretáceo da Chapada do Araripe, no nordeste do Brasil. O gênero Tharrhias é reestudado dando-se a definida diagnose e esclarecendo a sua posição taxonômica entre os Chianidae e a interrelação com os demais gênros dessa família, especialmente as formas\nfósseis do Cretáceo. O problema da validade das espécies, Tharrhias araripis JORDAN & BRANNER, (1908) e Tharrhias rochae (JORDAN & BRANNER,1908) é analisado, após o estudo das mesmas, baseado em material das coleções paleoictiológicas do DNPM. Ambas as espécies são consideradas válidas do ponto de vista taxonômico sendo redescritas e recebendo nova caracterização. Num exame das condições de deposição dos sedimentos da Chapada do Araripe, focalizou o sistema de vida que possivelmente tiveram esses Chianidae do Cretáceo do Araripe e a razão do número elevado de fósseis desses peixes entre os ictiólitos encontrados nos sedimentos da Formação Santana. (OLIVEIRA, Anuário IGeo capa > v. 16, 1993)  Designação: Álamo Feitosa Saraiva (2017).",
             "fossil": true
         },
         {
             "_id": "5a399f7f6132ff0a62d50afb",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00e3o Crato",
+            "estratigrafia": "Formação Crato",
             "designacao": "Ararpegryllus serrilhatus",
             "info": "Ordem: Ensifera - Grilo.\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
             "fossil": true
         },
         {
             "_id": "5a39a0f76132ff0a62d50afd",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00e3o Crato",
+            "estratigrafia": "Formação  Crato",
             "designacao": "Brachyphyllum obesum",
-            "info": "GIMNOSPERMA - Con\u00edferas\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+            "info": "GIMNOSPERMA - Coníferas\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
             "fossil": true
         },
         {
             "_id": "5a39a1fd6132ff0a62d50afe",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00e3o Crato",
+            "estratigrafia": "Formação  Crato",
             "designacao": "Ruffordia goeppertii",
-            "info": "PLANTAS - Pterid\u00f3fitas\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+            "info": "PLANTAS - Pteridófitas\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
             "fossil": true
         },
         {
             "_id": "5a25d33b6132ff0a62d50aea",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00f5es Ipubi, Romualdo e Santana",
+            "estratigrafia": "Formações Ipubi, Romualdo e Santana",
             "designacao": "Rhacolepis buccalis",
-            "info": "PEIXES - Pachyrhizodontidae - Agassiz (1841). Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013).\nRhacolepis \u00e9 um g\u00eanero extinto de peixe com asas de raios da Forma\u00e7\u00e3o Santana do Brasil. O cora\u00e7\u00e3o fossilizados completos desta esp\u00e9cie foram recuperados.",
+            "info": "PEIXES - Pachyrhizodontidae - Agassiz (1841). Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013).\nRhacolepis é um gênero extinto de peixe com asas de raios da Formação Santana do Brasil. O coração fossilizados completos desta espécie foram recuperados.",
             "fossil": true
         },
         {
             "_id": "5a2704216132ff0a62d50aec",
-            "idade": "Jur\u00e1ssico",
+            "idade": "Jurássico",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00e3o Miss\u00e3o Velha",
+            "estratigrafia": "Formação Missão Velha",
             "designacao": "Dadoxylon sp.",
-            "info": "GIMNOSPERMA - Con\u00edferas - Madeira Silicificada\nFreitas, Hessel & Neto (2008)\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
+            "info": "GIMNOSPERMA - Coníferas - Madeira Silicificada\nFreitas, Hessel & Neto (2008)\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
             "fossil": true
         },
         {
             "_id": "5a2704766132ff0a62d50aee",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00e3o crato",
+            "estratigrafia": "Formação crato",
             "designacao": "Mesoblatina limai",
             "info": "Ordem: Blattodea - Baratas\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
             "fossil": true
         },
         {
             "_id": "5a2704036132ff0a62d50aeb",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00f5es Crato, Ipubi e Romualdo",
+            "estratigrafia": "Formações Crato, Ipubi e Romualdo",
             "designacao": "Cladocyclus gadneri",
-            "info": "PEIXES - Ichthyodectiformes - Agassiz (1841). Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013)\nUm dos principais grupos de f\u00f3sseis preservados na Bacia do Araripe s\u00e3o os peixes. Estima-se que j\u00e1 foram coletados milhares de exemplares, tanto nas camadas de calc\u00e1rio laminado da Forma\u00e7\u00e3o Crato, como tamb\u00e9m nos n\u00f3dulos calc\u00e1rios da Forma\u00e7\u00e3o Romualdo. Na Forma\u00e7\u00e3o Romualdo, a diversidade de peixes \u00e9 bem maior. Al\u00e9m de Cladocyclus gardneri, com as formas adultas atingindo mais de um metro, outro grande predador daquele tempo era Calamopleurus audax (Amiidae), que podia alcan\u00e7ar quase dois metros de comprimento. Tamb\u00e9m s\u00e3o encontrados outros peixes. Alguns apresentavam o corpo arredondado, como Araripichthys castilhoi. Raias (Iansan beurleni), tubar\u00f5es primitivos (Tribodus limae) e celacant\u00eddeos (Axelrodichthys araripensis) apesar de serem mais raros, complementam a fauna de peixes desta antiga laguna de 110 milh\u00f5es de anos. (Silva-Santos, 1985).\nDesigna\u00e7\u00e3o: \u00c1lamo Feitosa Saraiva.",
+            "info": "PEIXES - Ichthyodectiformes - Agassiz (1841). Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013)\nUm dos principais grupos de fósseis preservados na Bacia do Araripe são os peixes. Estima-se que já foram coletados milhares de exemplares, tanto nas camadas de calcário laminado da Formação Crato, como também nos nódulos calcários da Formação Romualdo. Na Formação Romualdo, a diversidade de peixes é bem maior. Além de Cladocyclus gardneri, com as formas adultas atingindo mais de um metro, outro grande predador daquele tempo era Calamopleurus audax (Amiidae), que podia alcançar quase dois metros de comprimento. Também são encontrados outros peixes. Alguns apresentavam o corpo arredondado, como Araripichthys castilhoi. Raias (Iansan beurleni), tubarões primitivos (Tribodus limae) e celacantídeos (Axelrodichthys araripensis) apesar de serem mais raros, complementam a fauna de peixes desta antiga laguna de 110 milhões de anos. (Silva-Santos, 1985).\nDesignação: Álamo Feitosa Saraiva.",
             "fossil": true
         },
         {
             "_id": "5a2704936132ff0a62d50aef",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00e3o Crato",
+            "estratigrafia": "Formação  Crato",
             "designacao": "Protoligoneuria limai",
             "info": "Ephemeroptera - Larva - McCafferty (1990). Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
             "fossil": true
         },
         {
             "_id": "5a39a2766132ff0a62d50aff",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00e3o Crato",
+            "estratigrafia": "Formação  Crato",
             "designacao": "Klitzchophyllites sp.",
             "info": "ANGIOSPERMAS\nMohr, Brenardes-de-Oliveira, Barale & Ouaja (2006)\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
             "fossil": true
         },
         {
             "_id": "5a39a5416132ff0a62d50b00",
-            "idade": "Cret\u00e1ceo",
+            "idade": "Cretáceo",
             "procedencia": "Chapada do Araripe",
-            "estratigrafia": "Forma\u00e7\u00e3o Romualdo",
+            "estratigrafia": "Formação Romualdo",
             "designacao": "Calamopleurus cilindricus",
             "info": "PEIXES - Amiiformes\nAgassiz (1841)\nFonte: Guia para trabalhos de campo. FEITOSA et al. (2013)",
             "fossil": true
         },
         {
             "_id": "5a25d3146132ff0a62d50ae9",
-            "info": "Designa\u00e7\u00e3o: PEIXES - Aspidorhychiformes Jordan (1919) Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013).\nVinctifer \u00e9 uma grande esp\u00e9cie de peixe aspidorhynchid atingindo cerca de 800 mm de comprimento total. A esp\u00e9cie \u00e9 facilmente reconhecida pela presen\u00e7a de um tribo edentolous representado pelas premaxilas e por um osso predent\u00e1rio muito curto. Os dentes nessas esp\u00e9cies s\u00e3o muito pequenos e mal desenvolvidos. A maxila apresenta uma grande expans\u00e3o posterior. Existem tr\u00eas escalas profundas de flanco; As escalas de linha lateral s\u00e3o muito mais profundas do que as outras. Os ossos e as escamas do cr\u00e2nio s\u00e3o cobertos pela gano\u00edna. A barbatana caudal apresenta dois lobos de igual comprimento. O endosqueleto caudal tem tr\u00eas uroneurais longos. (Para uma descri\u00e7\u00e3o completa, veja Brito 1997 ).\n",
+            "info": "Designação: PEIXES - Aspidorhychiformes Jordan (1919) Fonte: Guia para trabalhos de campo. FEITOSA et al. (2013).\nVinctifer é uma grande espécie de peixe aspidorhynchid atingindo cerca de 800 mm de comprimento total. A espécie é facilmente reconhecida pela presença de um tribo edentolous representado pelas premaxilas e por um osso predentário muito curto. Os dentes nessas espécies são muito pequenos e mal desenvolvidos. A maxila apresenta uma grande expansão posterior. Existem três escalas profundas de flanco; As escalas de linha lateral são muito mais profundas do que as outras. Os ossos e as escamas do crânio são cobertos pela ganoína. A barbatana caudal apresenta dois lobos de igual comprimento. O endosqueleto caudal tem três uroneurais longos. (Para uma descrição completa, veja Brito 1997 ).\n",
             "designacao": "Vinctifer comptoni",
             "fossil": true,
-            "estratigrafia": "Forma\u00e7\u00f5es Romualdo e Ipubi",
+            "estratigrafia": "Formações Romualdo e Ipubi",
             "procedencia": "Chapada do Araripe",
-            "idade": "Cret\u00e1ceo"
+            "idade": "Cretáceo"
         }
     ]
 }
