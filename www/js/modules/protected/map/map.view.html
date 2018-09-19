@@ -1,10 +1,22 @@
 <ion-view hide-nav-bar="true">
     <ion-content padding="false">
-        <leaflet id='map1'  center="center" tiles="tiles" markers="markers" defaults="defaults" height="100%" width="100%"></leaflet>
-        <div class="fab" ui-sref="protected.location">
+        <leaflet id='map1' lf-center="center" tiles="tiles" markers="markers" defaults="defaults" height="100%" width="100%"></leaflet>
+        <div class="fab">
             <span class="fab-action-button">
-                <i class="ion-loop"></i>
+                <i class="fab-action-button__icon ion-gear-a"></i>
             </span>
+            <ul class="fab-buttons">
+                <li class="fab-buttons__item">
+                    <a href="#" class="fab-buttons__link" data-tooltip="Mudar Mapa" ui-sref="protected.location">
+                        <i class="icon-material ion-arrow-swap"></i>
+                    </a>
+                </li>
+                <li class="fab-buttons__item">
+                    <a href="javascript:void(0);" class="fab-buttons__link" data-tooltip="Centralizar" ng-click="centerMap()">
+                        <i class="icon-material ion-pinpoint"></i>
+                    </a>
+                </li>
+            </ul>
         </div>
     </ion-content>
 </ion-view>

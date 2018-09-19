@@ -6,24 +6,31 @@
         <div class="list">
             <div class="item item-icon-left-top item-body" ng-if="details.fauna.ordem">
                 <i class="icon ion-heart calm"></i>
+                <b>(Nome)</b>
                 {{details.fauna.ordem}}
             </div>
             <div class="item item-icon-left-top item-body" ng-if="details.fauna.filo">
                 <i class="icon ion-bug calm"></i>
+                <b>(Filo)</b>
                 {{details.fauna.filo}}
+
             </div>
             <div class="item item-icon-left-top item-body" ng-if="details.fauna.classe">
                 <i class="icon ion-clipboard calm"></i>
-               <i>
-                   {{details.fauna.classe}}
-               </i> 
+                <b>(Classe)</b>
+                <i style="font-style: italic;">
+                    {{details.fauna.classe}}
+                </i>
             </div>
             <div class="item item-icon-left-top item-body" ng-if="details.fauna.reino">
                 <i class="icon ion-bug calm"></i>
+                <b>(Reino)</b>
                 {{details.fauna.reino}}
             </div>
             <p class="item  item-body item-icon-left-top">
-                <i class="icon ion-alert calm"></i> {{details.fauna.info}}
+                <i class="icon ion-alert calm"></i> 
+                <b>(Detalhes)</b>
+                {{details.fauna.info}}
             </p>
         </div>
     </ion-content>

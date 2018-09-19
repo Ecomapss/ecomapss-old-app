@@ -13,7 +13,7 @@
     this.navigateTo = navigateTo
     let baseUrl = 'json/'
     let local = ""
-
+    
     /**
      * Get entities by type
      * @author João Willamy
@@ -31,7 +31,6 @@
         _getData(type)
           .then(function (response) {
             _applyFilter(response, filter).then(function (filteredData) {
-              console.log('filteredData ->', filteredData);
               return resolve(filteredData);
             })
           })
@@ -68,13 +67,6 @@
             if (response.status < 400) {
               _getImage(response.data.Data[index]).then(function (result) {
                 console.log('result', result);
-                // TimelineService.saveHistory({
-                //   date: new Date(),
-                //   id: result._id,
-                //   type:  (!!type) ? type.charAt(0).toUpperCase() + type.substr(1).toLowerCase() : '',
-                //   info: result.nome_pop || result.filo || result.idade || result.titulo, 
-                //   sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
-                // })
                 return resolve(result);
               })
             }
@@ -147,7 +139,7 @@
     function _getImage(entity, isList = false) {
       return $q(function (resolve, reject) {
         var picture
-        isList ? picture = "img/entities/" + local + "/" + entity._id + ".thumbnail.png" : picture = "img/entities/" + local + "/" + entity._id + ".jpg"  
+        isList ? picture = "img/entities/" + local + "/" + entity._id + ".thumbnail" : picture = "img/entities/" + local + "/" + entity._id + ".jpg"  
         $http.get(picture).then(
           function () {
             entity.picture = picture
@@ -244,7 +236,7 @@
             var response = [];
             var start = params.start;
             var end = getListTotalItems(data);
-            console.log(start, end, start >= end);
+            
             // return data;
             if (start > end) {
               return data;
@@ -279,6 +271,7 @@
             var string = params.string;
             var key = params.key;
             return data.filter(function (el) {
+              el.unaccent = _unaccent(el[key]);
               return _unaccent(el[key]).indexOf(_unaccent(string)) !== -1 && !el.hide;
             });
           },
