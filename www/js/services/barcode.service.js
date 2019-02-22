@@ -17,6 +17,8 @@
 	function BarcodeService($cordovaBarcodeScanner, $q, ecConstants) {
 		this.scan = scan;
 		var identifier = ecConstants.IDENTIFIERS.QR_CODE_IDENTIFIER;
+		var isScanning = false;
+
 
 		function _normalizeID(string = '') {
 			try{
@@ -40,11 +42,19 @@
 		 * @throws {CANNOT_SCAN_QRCODE}
 		 */
 		function scan(options) {
+
 			return $q(function (resolve, reject) {
+				if (isScanning) return resolve();
+				isScanning = true;
+
 				$cordovaBarcodeScanner.scan(options).then(function (result) {
+					isScanning = false;
+					
 					var response = _normalizeID(result.text)
 					return resolve(response)
 				}, function (err) {
+					isScanning = false;
+
 					console.log(err, ' -- errors');
 					alert('err ->', err.toString());
 					return reject(ecConstants.ERRORS.CANNOT_SCAN_QRCODE)

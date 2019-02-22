@@ -12,6 +12,7 @@
         var normalizedMarkers = {};
         var place = null;
         var location = null;
+        
         // Trigger every time enter in this view, but not trigger in first time
         $scope.$on("$ionicView.enter", function (scopes, states) {
             init();
@@ -23,6 +24,7 @@
         function init() {
             normalizedMarkers = resolveMarkers(markers);
 
+            console.log(normalizedMarkers)
             /**
              * Get saved location, if exists continue, if not, redirect
              * to location route
@@ -49,10 +51,11 @@
                     center: angular.copy(place.loc),
                     tiles: tiles,
                     markers: normalizedMarkers,
+                    defaultIcon: {},
                     defaults: {
                         minZoom: 10,
                         maxZoom: 17,
-                        scrollWheelZoom: false
+                        scrollWheelZoom: false,
                     }
                 });
                 ////////////////////////
@@ -80,9 +83,13 @@
                     result[index] = {
                         lat: ele.lat,
                         lng: ele.lng,
-                        message: 'Lat: ' + ele.lat + ' Lng: ' + ele.lng
+                        message: 'Lat: ' + ele.lat + ' Lng: ' + ele.lng,
+                        icon: {
+                            iconUrl: "css/images/marker-icon.png",
+                            iconSize: [28, 42],
+                        }
                     }
-                })
+                });
 
                 return result;
             }
@@ -92,7 +99,6 @@
 
         $scope.centerMap = function () {
             var center = LocationsService.getByKey(location)[0].loc;
-            console.log(center);
 
             $scope.center = angular.copy(center);
             $scope.doInit();
