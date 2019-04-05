@@ -12,6 +12,7 @@
     "gulp-sass": "^3.1.0"
   },
   "scripts": {
+    "emulate:ios": "ionic cordova emulate ios -c --livereload --target=\"iPhone-7\" -- --buildFlag=\"-UseModernBuildSystem=0\"",
     "dev": "gulp default && ionic serve"
   },
   "dependencies": {
@@ -23,11 +24,13 @@
     "cordova-plugin-geolocation": "^4.0.1",
     "cordova-plugin-ionic-keyboard": "^2.1.2",
     "cordova-plugin-ionic-webview": "^1.2.1",
+    "cordova-plugin-ios-camera-permissions": "^1.2.0",
     "cordova-plugin-splashscreen": "^5.0.2",
     "cordova-plugin-statusbar": "^2.4.2",
     "cordova-plugin-whitelist": "^1.3.3",
     "flag-icon-css": "^3.0.0",
-    "phonegap-plugin-barcodescanner": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
+    "phonegap-plugin-barcodescanner": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git",
+    "serve": "10.1.1"
   },
   "cordova": {
     "plugins": {
@@ -43,6 +46,12 @@
       "cordova-plugin-geolocation": {},
       "cordova-android-support-gradle-release": {
         "ANDROID_SUPPORT_VERSION": "27.+"
+      },
+      "cordova-plugin-ios-camera-permissions": {
+        "CAMERA_USAGE_DESCRIPTION": "This app needs camera access",
+        "MICROPHONE_USAGE_DESCRIPTION": "This app needs microphone access",
+        "PHOTOLIBRARY_ADD_USAGE_DESCRIPTION": "This app needs write-access to photo library",
+        "PHOTOLIBRARY_USAGE_DESCRIPTION": "This app needs read/write-access photo library access"
       }
     },
     "platforms": [

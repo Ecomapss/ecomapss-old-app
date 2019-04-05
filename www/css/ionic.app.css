@@ -10021,7 +10021,7 @@ span.i-fossil-outline-white {
   position: fixed;
   width: 56px;
   left: 50%;
-  bottom: 20px;
+  bottom: 3.5em;
   margin-left: -28px;
   z-index: 999; }
 
@@ -10030,14 +10030,18 @@ span.i-fossil-outline-white {
   visibility: visible; }
 
 .fab:hover .fab-buttons__link {
-  transform: scaleY(1) scaleX(1) translateY(-16px) translateX(0px); }
+  transform: scaleY(1) scaleX(1) translateY(-16px) translateX(0px);
+  -webkit-transform: scaleY(1) scaleX(1) translateY(-16px) translateX(0px); }
 
 .fab-action-button:hover + .fab-buttons .fab-buttons__link:before {
   visibility: visible;
   opacity: 1;
   transform: scale(1);
   transform-origin: right center 0;
-  transition-delay: 0.3s; }
+  transition-delay: 0.3s;
+  -webkit-transform-origin: right center 0;
+  -webkit-transition-delay: 0.3s;
+  -webkit-transform: scale(1); }
 
 .fab-action-button {
   position: absolute;
@@ -10059,7 +10063,8 @@ span.i-fossil-outline-white {
   padding: 0;
   opacity: 0;
   visibility: hidden;
-  transition: 0.2s; }
+  transition: 0.2s;
+  -webkit-transition: 0.2s; }
 
 .fab-action-button__icon {
   display: flex;
@@ -10203,6 +10208,9 @@ ec-language {
   background: #6a5acd !important;
   color: #fff !important;
   border-radius: 10%; }
+
+.map-content > .scroll {
+  height: 100%; }
 
 .login-bg--image {
   background-image: url(../img/backgrounds/login/001.jpg);

@@ -53,12 +53,9 @@
           StatusBar.show();
         }, 3000)
 
-        if (ionic.Platform.isAndroid()) {
-          ionic.Platform.fullScreen();
-          StatusBar.backgroundColorByHexString("#6a5acd");
-        } else {
-          StatusBar.styleLightContent();
-        }
+
+        ionic.Platform.fullScreen();
+        StatusBar.backgroundColorByHexString("#6a5acd");
         ionic.Platform.fullScreen(true, true);
       }  
     });
