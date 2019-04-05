@@ -2,7 +2,7 @@
     position: fixed;
     width: 56px;
     left: 50%;
-    bottom: 20px;
+    bottom: 3.5em;
     margin-left: -28px;
     z-index: 999;
   }
@@ -14,6 +14,7 @@
   
   .fab:hover .fab-buttons__link {
     transform: scaleY(1) scaleX(1) translateY(-16px) translateX(0px);
+    -webkit-transform: scaleY(1) scaleX(1) translateY(-16px) translateX(0px);
   }
   
   .fab-action-button:hover + .fab-buttons .fab-buttons__link:before {
@@ -22,6 +23,9 @@
     transform: scale(1);
     transform-origin: right center 0;
     transition-delay: 0.3s;
+    -webkit-transform-origin: right center 0;
+    -webkit-transition-delay: 0.3s;
+    -webkit-transform: scale(1);
   }
   
   .fab-action-button {
@@ -46,6 +50,7 @@
     opacity: 0;
     visibility: hidden;
     transition: 0.2s;
+    -webkit-transition: 0.2s;
   }
   
   .fab-action-button__icon {
