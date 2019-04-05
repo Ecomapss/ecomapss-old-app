@@ -59,7 +59,8 @@
     },
     "actions": {
       "login": "Entrar",
-      "logout": "Sair"
+      "logout": "Sair",
+      "about": "Sobre"
     }
   },
   "errors": {

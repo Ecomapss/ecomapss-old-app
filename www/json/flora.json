@@ -405,34 +405,6 @@
             "localidade": "IFCE - Campus Crato"
         },
         {
-            "_id": "590ce39022dc530011f570a1",
-            "familia": "Fabaceae Mimosoideae",
-            "loc": [
-                {
-                    "lat": -7.231953,
-                    "lng": -39.4367795
-                },
-                {
-                    "lat": -3.7450647,
-                    "lng": -38.485798
-                },
-                {
-                    "lat": -3.7469182,
-                    "lng": -38.4887752
-                }
-            ],
-            "__v": 0,
-            "info": "A timbaúba é uma árvore decídua e frondosa, que alcança ´mais de 12 metros de altura e de 80 a 160 cm de diâmetro de tronco. Suas folhas são alternas, bipinadas (recompostas), com 3 a 7 pares de pequenos folíolos oblongos. Apresenta copa ampla, com ramificação cimosa e raízes longas e calibrosas. As inflorescências surgem na primavera e são do tipo capítulo, globosas, com cerca de 10 a 20 flores brancas. Os frutos que se seguem são vagens, recurvadas e semilenhosas, em formato de rim ou de orelha, o que rendeu a esta espécie diversos nomes populares. Eles surgem verdes e se tornam pretos em junho e julho, quando amadurecem. Cada fruto pode conter de 2 a 12 sementes, brilhantes e de cor marrom. Sua madeira é leve, macia, pouco resistente e utilizada para o fabrico de canoas, caixotaria em geral, brinquedos, compensados, etc. As saponinas encontradas nos frutos e na casca são aproveitadas para produção de sabões.",
-            "clima": "Caatinga, Cerrado",
-            "categoria": "Árvore",
-            "nome_cie": "Enterolobium contorsiliquum (Vell.) Morong",
-            "localidade": "UC - Sítio Fundão",
-            "luminosidade": "não é endêmica do Brasil",
-            "altura": "Acima de 12 metros",
-            "origem": "Nativa do Brasil",
-            "nome_pop": "Tamboril, Araribá, Árvore-das-patacas, Cambanambi, Sabão-de-macaco, Chimbó, Chimbuva, Flor-de-algodão, Orelha-de-macaco, Orelha-de-negro, Orelha-de-onça, Orelha-de-preto, Pacará, Pau-de-sabão, Pau-sabão, Tambaré, Tamboi, Tambor, Tambori, Tamboril-do-campo, Tamboril-pardo, Tamborim, Tamburé, Tamburil, Tamburiúva, Tambuvé, Tambuvi, Timbaíba, Timbaúba, Timbaúva, Timbaúva-branca, Timbaúva-preta, Timbíba, Timbó, Timboíba, Timborana, Timbori, Timboril, Timboúba, Timboúva, Timbuíba, Timburi, Timburil, Timbuva, Vinhática-flor-de-algodão, Ximbiuva, Ximbó, Ximbuva"
-        },
-        {
             "_id": "590ce7e222dc530011f570a2",
             "nome_pop": "Amoreira-negra, Amora, Amora-negra, Amora-preta, Amoreira, Amoreira-do-bicho-da-seda, Amoreira-preta",
             "nome_cie": "Morus nigra",
@@ -606,20 +578,6 @@
             "__v": 0
         },
         {
-            "_id": "5925edacdf667300116cae76",
-            "nome_pop": "Jamelão , Jalão , Jambolão",
-            "nome_cie": "Syzygium cumini",
-            "familia": "Myrtaceae",
-            "categoria": "Árvore",
-            "origem": "Índia",
-            "clima": "Equatorial, Subtropical, Tropical, Tropical de altitude, Tropical úmido",
-            "luminosidade": "Sol pleno",
-            "altura": "15m",
-            "info": "Árvore muito procurada por pequenos pássaros em razão de seus frutos e de sua copa frondosa, onde podem passar a noite e nidificar. Pode ser plantada em margens de açudes e lagos, para que os peixes se alimentem de seus frutos.",
-            "loc": [],
-            "__v": 0
-        },
-        {
             "_id": "5925ee1edf667300116cae77",
             "familia": "Arecaceae",
             "loc": [
@@ -630,6 +588,14 @@
                 {
                     "lat": -3.7467745,
                     "lng": -38.4887446
+                },
+                {
+                    "lat": -7.2097771,
+                    "lng": -39.4461558
+                },
+                {
+                    "lat": -3.8286563,
+                    "lng": -38.4660992
                 }
             ],
             "__v": 0,
@@ -640,7 +606,7 @@
             "localidade": "UC - Sítio Fundão",
             "luminosidade": "não é endêmica do Brasil",
             "altura": "+- 20 metros",
-            "nome_cie": "Acrocomia aculeata var. intumescens",
+            "nome_cie": "Acrocomia  intumescens",
             "nome_pop": "Macaúba , Macaíba , Palmeira-barriguda , Macaúba-barriguda"
         },
         {
@@ -730,6 +696,10 @@
                 {
                     "lat": -3.7450284,
                     "lng": -38.4858905
+                },
+                {
+                    "lat": -3.8286563,
+                    "lng": -38.4660992
                 }
             ],
             "__v": 0,
@@ -773,6 +743,14 @@
                 {
                     "lat": -3.74794,
                     "lng": -38.4867512
+                },
+                {
+                    "lat": -7.2097771,
+                    "lng": -39.4461558
+                },
+                {
+                    "lat": -3.8437342,
+                    "lng": -38.4651133
                 }
             ],
             "__v": 0,
@@ -851,12 +829,12 @@
                     "lng": -39.433058
                 },
                 {
-                    "lat": 0,
-                    "lng": 0
-                },
-                {
                     "lat": -3.7449039,
                     "lng": -38.4860024
+                },
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
                 }
             ],
             "__v": 0,
@@ -880,9 +858,19 @@
             "clima": "Tropical",
             "luminosidade": "Sol pleno, meia sombra",
             "altura": "0.4 a 0.6 metros, 0.6 a 0.9 metros, 0.9 a 1.2 metros",
-            "info": "La = -7.2323964          Lon = -39.4330275\nBromélias são plantas relativamente rústicas e de fácil cultivo. São plantas de clima tropical e adaptam-se com certa facilidade em ambientes diversos:  internos ou externo desde que tomados alguns cuidados básicos com relação à luminosidade e umidade. A planta, geralmente,  adaptada de um tanque reservatório, formado pelas axilas na base de suas folhas, onde armazena água de chuva, orvalho e nutrientes como: (resíduos vegetais, poeira, dejetos de pássaros, etc.), com o qual faz a sua manutenção. Na natureza, essa adaptação, garante-lhe a sobrevivência nos períodos de secas mais prolongadas. De uso medicinal para: Ferimentos, Amigdalites, Eliminação do muco respiratório e catarro. Com propriedades expectorante e cicatrizante.",
-            "loc": [],
-            "__v": 0
+            "info": "Bromélias são plantas relativamente rústicas e de fácil cultivo. São plantas de clima tropical e adaptam-se com certa facilidade em ambientes diversos:  internos ou externo desde que tomados alguns cuidados básicos com relação à luminosidade e umidade. A planta, geralmente,  adaptada de um tanque reservatório, formado pelas axilas na base de suas folhas, onde armazena água de chuva, orvalho e nutrientes como: (resíduos vegetais, poeira, dejetos de pássaros, etc.), com o qual faz a sua manutenção. Na natureza, essa adaptação, garante-lhe a sobrevivência nos períodos de secas mais prolongadas. De uso medicinal para: Ferimentos, Amigdalites, Eliminação do muco respiratório e catarro. Com propriedades expectorante e cicatrizante.",
+            "loc": [
+                {
+                    "lat": -7.2323964,
+                    "lng": -39.4330275
+                },
+                {
+                    "lat": -3.8265673,
+                    "lng": -38.4670851
+                }
+            ],
+            "__v": 0,
+            "localidade": "ARIE - SÍTIO CURIÓ"
         },
         {
             "_id": "59c2bee242a4ab0011559707",
@@ -899,6 +887,10 @@
                 {
                     "lat": -3.7468304,
                     "lng": -38.4886791
+                },
+                {
+                    "lat": -7.2097771,
+                    "lng": -39.4461558
                 }
             ],
             "__v": 0,
@@ -936,6 +928,10 @@
                 {
                     "lng": -39.4364521,
                     "lat": -7.2321284
+                },
+                {
+                    "lat": -3.8265611,
+                    "lng": -38.4720141
                 }
             ],
             "nome_pop": "Babaçu, Babassu, gebara-uçu, coco-de-macaco, coco palmeira",
@@ -982,6 +978,10 @@
                 {
                     "lat": -7.2342268,
                     "lng": -39.4323697
+                },
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
                 }
             ],
             "__v": 0,
@@ -1226,16 +1226,20 @@
                 {
                     "lat": -7.2342347,
                     "lng": -39.4350088
+                },
+                {
+                    "lat": -3.830021,
+                    "lng": -38.4690532
                 }
             ],
             "__v": 0,
             "info": "Espécie amplamente distribuída encontrada do Nordeste ao Sul do Brasil, em áreas de Caatinga e Mata Atlântica. Possui diversos registros de coleta e não há registro de ameaça ou evidência direta de declínio populacional para a espécie. Dessa maneira a espécie é considerada como menos preocupante em relação ao risco de extinção (LC). Planta de fácil cultivo e resiste a baixas temperaturas (até – 5 graus), embora seja de altitude acima de 500 m, frutifica bem quando plantada ao nível do mar; o solo deve ser profundo, úmido, neutro, com constituição arenosa ou argilosa (solo vermelho). Embora na natureza apareça na beira de rios, as plantas podem ser cultivadas em terrenos mais enxutos, longe de rios.",
             "clima": "Caatinga, Cerrado",
             "categoria": "Arbusto",
-            "nome_cie": "Eugenia gracillima Kiaersk",
-            "localidade": "UC - Sítio Fundão",
-            "luminosidade": "é endêmica do Brasil",
-            "altura": "1 - 2 m",
+            "nome_cie": "Eugenia punicifolia",
+            "localidade": "UC - Sítio Fundão, ARIE - Sítio Curió",
+            "luminosidade": "",
+            "altura": "1 - 4 m",
             "origem": "Nativa do Brasil",
             "nome_pop": "Murta"
         },
@@ -1326,6 +1330,10 @@
                 {
                     "lat": -7.2317316,
                     "lng": -39.4336242
+                },
+                {
+                    "lat": -7.2097771,
+                    "lng": -39.4461558
                 }
             ],
             "__v": 0,
@@ -1338,30 +1346,6 @@
             "altura": "2-6 m",
             "origem": "Nativa",
             "nome_pop": "Espinheiro, espinheira"
-        },
-        {
-            "_id": "59ee4499fadb5e0011696430",
-            "familia": "Capparaceae",
-            "loc": [
-                {
-                    "lat": -7.2320105,
-                    "lng": -39.4356731
-                },
-                {
-                    "lat": -5.40605007,
-                    "lng": -40.06184952
-                }
-            ],
-            "__v": 0,
-            "info": "Arbustos, arvoretas ou árvores, 2-6 m de altura; tronco de casca pardacenta, lisa, levemente fissurada longitudinalmente; ramos frequentemente flexuosos, mais ou menos cilíndricos, geralmente glabros ou glabrescentes. Fruto alongado, do tipo cápsula, mais ou menos carnoso. A madeira é empregada para estacas, lenha e carvão. As folhas servem de forragem para o gado. (LIMA, 2012). Tem importância melífera e recomenda-se o plantio de feijão bravo em áreas de conservação e criação de abelhas.",
-            "clima": "Caatinga, Cerrado, Carrasco,  Mata Atlântica",
-            "categoria": "Arbusto, Arvoreta, Árvore",
-            "origem": "Nativa do Brasil",
-            "localidade": "UC - Sítio Fundão",
-            "luminosidade": "não é endêmica do Brasil",
-            "altura": "2-6 m",
-            "nome_cie": "Cynophalla flexuosa (L.) J. Presl",
-            "nome_pop": "Feijão de boi, Feijão bravo, Feijão brabo"
         },
         {
             "_id": "59ee499afadb5e0011696434",
@@ -1378,6 +1362,10 @@
                 {
                     "lat": -3.7448345,
                     "lng": -38.4862772
+                },
+                {
+                    "lat": -3.826879,
+                    "lng": -38.4700946
                 }
             ],
             "__v": 0,
@@ -1398,6 +1386,10 @@
                 {
                     "lat": -7.2320516,
                     "lng": -39.4364308
+                },
+                {
+                    "lat": -3.8286563,
+                    "lng": -38.4660992
                 }
             ],
             "__v": 0,
@@ -1438,6 +1430,10 @@
                 {
                     "lat": -7.2318107,
                     "lng": -39.4337522
+                },
+                {
+                    "lat": -3.830021,
+                    "lng": -38.4690532
                 }
             ],
             "__v": 0,
@@ -1445,10 +1441,10 @@
             "clima": "Cerrado",
             "categoria": "Árvore",
             "origem": "Nativa do Brasil",
-            "localidade": "UC - Sítio Fundão",
+            "localidade": "UC - Sítio Fundão, ARIE - Sítio Curió",
             "luminosidade": "não é endêmica do Brasil",
             "altura": "até 10 m",
-            "nome_cie": "Vatairea Macroparpa (Benth.) Ducke",
+            "nome_cie": "Andira surinamensis - Sinônímias: basiônimo Geoffroea surinamensis Bondt, heterotípico Andira retusa (Poir.) A.DC., Andira retusa var. oblonga Benth., Andira surinamensis var. ovatifoliolata N.F.Mattos",
             "nome_pop": "Angelim, Angelim do cerrado, Amargosa, Amargosinha, Sucupira preta."
         },
         {
@@ -1502,6 +1498,10 @@
                 {
                     "lat": -7.2347265,
                     "lng": -39.4351771
+                },
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
                 }
             ],
             "__v": 0,
@@ -1509,11 +1509,11 @@
             "clima": "Cerrado, Caatinga, Mata Atlântica",
             "categoria": "Árvore",
             "origem": "Nativa",
-            "localidade": "UC - Sítio Fundão",
+            "localidade": "UC - Sítio Fundão, ARIE - Sítio Curió",
             "luminosidade": "não é endêmica do Brasil",
             "altura": "até 20 m",
             "nome_cie": "Plathymenia reticulata Benth.",
-            "nome_pop": "Amarelo, jaguarana, balizia, esponja, juerana-branca"
+            "nome_pop": "Amarelo, jaguarana, balizia, esponja, juerana-branca, Acende-candeia"
         },
         {
             "_id": "59c2bc1b42a4ab0011559703",
@@ -1719,6 +1719,63 @@
             ]
         },
         {
+            "_id": "5c88e20363dab30004275346",
+            "nome_pop": "Barbatimão",
+            "nome_cie": "Stryphnodendron coriaceum",
+            "familia": " Fabaceae Lindl.",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, cerrado",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "Barbatimão: planta medicinal utilizada há muito tempo pelos indígenas, é encontrada no cerrado brasileiro. Tem ação antisséptica, cicatrizante, antibacteriana e antifúngica.Indica principalmente em casos de feridas, infecções e verrugas. Propriedades: Antisséptico, cicatrizante, anti-inflamatório, antibacteriano, antifúngico, tripanocida (ainda não comprovado em humanos). Toxicidade: Estudo feito com animais mostrou que a administração de extrato de barbatimão em um período prolongado, produz efeitos tóxicos, como diminuição da massa corpórea, involução do timo, aumento da glicose plasmática e aspartato aminotransferase. ",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
+                }
+            ]
+        },
+        {
+            "_id": "5c88625719a9df0004cb1791",
+            "nome_pop": "Periquiteira, Grandiúva, Candiúba",
+            "nome_cie": "Trema micrantha",
+            "familia": "Cannabaceae Martinov",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "Muito atrativa a fauna, especialmente pássaros. Pioneira e rústica, ocupa espaços em áreas degradadas. Floresce e frutifica em várias épocas, mas especialmente no inicio do ano.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8286563,
+                    "lng": -38.4660992
+                }
+            ]
+        },
+        {
+            "_id": "5c88e5b763dab3000427534a",
+            "nome_pop": "Flor de cera",
+            "nome_cie": "Heisteria perianthomega - Sinônímias: basiônimo Hesioda perianthomega Vell;. heterotípico Heisteria brasiliensis Engl;. heterotípico Heisteria minor Glaz;. heterotípico Heisteria raddiana Benth. ex Hook;. heterotípico Rhaptostylum brasiliense (Engl.) Kuntze",
+            "familia": "Olacaceae",
+            "categoria": "Árvores, Arbustos",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado, Caatinga",
+            "luminosidade": "",
+            "altura": "Acima de 3 m",
+            "info": "Folhas glabras, subcoriáceas, discolores, tuberculadas, oblongas a elípticas. 4-9 em compr., 2-4 em larg., face adaxial nítida, abaxial com nervação proeminente; ápice acuminado, margem inteira levemente revoluta, base cuneada. Cálice cupuliforme, pétalas internamente hirsutas na altura das anteras; estames 10, didínamos; estigma capitado; ovário globoso achatado, bilocular, um óvulo por lóculo, placentação apical.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
+                }
+            ]
+        },
+        {
             "_id": "59c2c53542a4ab0011559711",
             "nome_pop": "Cedro, cedro-branco, cedro-rosa, cedro-vermelho",
             "nome_cie": "Cedrela odorata L. - Sinonímia: Cedrela occidental;  C. fissilis; C. velloziana; C. guianensis; C. longipes; C. sintenisii; C. glaziovii; C. paraguaiensis; C. Mexicana var. puberula; C. brownie; C. yucatana",
@@ -1750,7 +1807,12 @@
             "altura": "8 - 14 m",
             "info": "O pau-pombo é uma árvore pioneira e heliófita encontrada em todo território brasileiro principalmente em terrenos úmidos podendo também ser encontrada em ambientes secos.  É planta perenifólia, ou seja, mantém suas folhas durante o ano inteiro; é uma espécie dióica, embora ocorra a presença ocasional de flores hermafroditas em matrizes femininas. As flores são de cor branco-amareladas que surgem no período de Junho/novembro e sua frutificação ocorre de Dezembro/Maio. Seus frutos parecem com uma uva e são muito procurados pela fauna em geral. Sua madeira é leve e pode ser utilizada na fabricação de brinquedos, compensados, caixotaria, móveis, solados de sapato, construção civil, uso apícola (com pólen e néctar em abundância), ornamental e medicinal. A produção de mudas se faz a partir da germinação das semente; seu uso é recomendado para restauração, arborização urbana e silvicultura, restauração de áreas degradadas e matas ciliares.\n",
             "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
-            "loc": []
+            "loc": [
+                {
+                    "lat": -3.8286563,
+                    "lng": -38.4660992
+                }
+            ]
         },
         {
             "_id": "5b73701c62655800042fe5e8",
@@ -1787,6 +1849,10 @@
                 {
                     "lat": -3.7448423,
                     "lng": -38.4862115
+                },
+                {
+                    "lat": -3.8265611,
+                    "lng": -38.4720141
                 }
             ]
         },
@@ -1806,6 +1872,10 @@
                 {
                     "lat": -3.7451343,
                     "lng": -38.4857153
+                },
+                {
+                    "lat": -7.2097771,
+                    "lng": -39.4461558
                 }
             ]
         },
@@ -1820,11 +1890,15 @@
             "luminosidade": "",
             "altura": "Acima de 10  metros",
             "info": "Esta espécie ocorre no extremo norte do estado do Ceará, em áreas de vegetação com influência marinha , floresta estacional semi decidual das terras baixas , floresta estacional decidual , savana  e savana estépica.(TABOSA, et al. 2016).\tPossui folhas ócreas e glabras bem desenvolvidas , florescências ramificadas e frutos carnosos. \n\n\n\n\n\n\n",
-            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
+            "localidade": "Parque Estadual do Cocó - Fortaleza - CE, ARIE - Sítio Curió",
             "loc": [
                 {
                     "lat": -3.7455087,
                     "lng": -38.4842793
+                },
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
                 }
             ]
         },
@@ -1890,25 +1964,10 @@
                 {
                     "lat": -3.7540465,
                     "lng": -38.4821997
-                }
-            ]
-        },
-        {
-            "_id": "5b737a7dc653090004e49346",
-            "nome_pop": "Fruta de bode, grão de bode ",
-            "nome_cie": "Swartzia oblata R. S. Cowan",
-            "familia": "Fabaceae/Faboideae",
-            "categoria": "Árvore",
-            "origem": "Nativa do Brasil",
-            "clima": "Cerrado, Caatinga",
-            "luminosidade": "",
-            "altura": "Acima de 10  metros",
-            "info": "Esta árvore é facilmente reconhecida pelos frutos grandes dependurados no tronco e galhos. Folhas compostas pinadas, 25 folíolos de 8 cm, lisos. Floração em cacho, clara, muito vistosa. Fruto vagem grossa e curta, de 15 a 20 cm, com 4 a 6 sementes de 4 cm envoltas em arilo amarelo comestível e com odor agradável. Germinação fácil. Melífera. Frutos procurados pela fauna. Madeira aproveitável. Floresce em Janeiro, frutifica em setembro. ",
-            "localidade": "Parque Estadual do Cocó - Fortaleza - CE",
-            "loc": [
+                },
                 {
-                    "lat": -3.7446297,
-                    "lng": -38.4867673
+                    "lat": -3.8286563,
+                    "lng": -38.4660992
                 }
             ]
         },
@@ -1942,6 +2001,10 @@
                 {
                     "lat": -3.7459582,
                     "lng": -38.4885839
+                },
+                {
+                    "lat": -7.2097771,
+                    "lng": -39.4461558
                 }
             ]
         },
@@ -2144,6 +2207,465 @@
                 {
                     "lat": -3.7446212,
                     "lng": -38.4864332
+                }
+            ]
+        },
+        {
+            "_id": "59ee4499fadb5e0011696430",
+            "familia": "Capparaceae",
+            "loc": [
+                {
+                    "lat": -7.2320105,
+                    "lng": -39.4356731
+                },
+                {
+                    "lat": -5.40605007,
+                    "lng": -40.06184952
+                },
+                {
+                    "lat": -7.2097771,
+                    "lng": -39.4461558
+                }
+            ],
+            "__v": 0,
+            "info": "Arbustos, arvoretas ou árvores, 2-6 m de altura; tronco de casca pardacenta, lisa, levemente fissurada longitudinalmente; ramos frequentemente flexuosos, mais ou menos cilíndricos, geralmente glabros ou glabrescentes. Fruto alongado, do tipo cápsula, mais ou menos carnoso. A madeira é empregada para estacas, lenha e carvão. As folhas servem de forragem para o gado. (LIMA, 2012). Tem importância melífera e recomenda-se o plantio de feijão bravo em áreas de conservação e criação de abelhas.",
+            "clima": "Caatinga, Cerrado, Carrasco,  Mata Atlântica",
+            "categoria": "Arbusto, Arvoreta, Árvore",
+            "origem": "Nativa do Brasil",
+            "localidade": "UC - Sítio Fundão",
+            "luminosidade": "não é endêmica do Brasil",
+            "altura": "2-6 m",
+            "nome_cie": "Cynophalla flexuosa (L.) J. Presl",
+            "nome_pop": "Feijão de boi, Feijão bravo, Feijão brabo"
+        },
+        {
+            "_id": "5c88dbb063dab3000427533f",
+            "nome_pop": "Maria-preta, abiorana, abiorana-preta, abiu, abiu-da-várzea, guapeba, pau-pereira",
+            "nome_cie": "Pouteria reticulata - Sinônímias: basiônimo Chrysophyllum reticulatum;  Engl. heterotípico Pouteria reticulata subsp. surinamensis T.D.Penn;. homotípico Franchetella reticulata (Engl.) Aubrév.; homotípico Pouteria reticulata (Engl.) Eyma subsp. reticulata",
+            "familia": " Sapotaceae Juss.",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8265673,
+                    "lng": -38.4670851
+                }
+            ]
+        },
+        {
+            "_id": "5c88e27163dab30004275347",
+            "nome_pop": "Açoita-cavalo",
+            "nome_cie": "Luehea paniculata",
+            "familia": "Malvaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado",
+            "luminosidade": "",
+            "altura": "acima de 15 m",
+            "info": "L. paniculata é propagada por sementes. Para obtê-las, deve-se colher os frutos nas árvores no início da deiscência e coloca-los para completar a abertura em bandejas, em ambiente sombreado e ventilado. Após a abertura, os frutos são sacudidos e as sementes obtidas são colocadas em um saquinho de pano, onde serão suavemente comprimidas para remoção das asas. A semeadura pode ser realizada em alfobres, para posterior repicagem das plântulas, ou em saquinhos de polipropileno com 25 x 15 cm contendo uma mistura de terra arigilo-arenosa com matéria orgânica decomposta na proporção de 1:1. A cobertura das sementes deve consistir de uma fina camada de substrato e as regas devem ser feitas com pulverizador. Ocorre em áreas preferenciais para atividades agropastoris e em algumas localidades continua sendo objeto de corte para aproveitamento da madeira e da casca. ",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8283495,
+                    "lng": -38.4570851
+                }
+            ]
+        },
+        {
+            "_id": "5c88e50263dab30004275349",
+            "nome_pop": "Bacumixá, Curriola, figo-do-cerrado, pitomba-de-leite",
+            "nome_cie": "Pouteria ramiflora - Sinônímia: basiônimo Labatia ramiflora Mart. heterotípico; Labatia chrysophylloides Mart. heterotípico; Labatia elliptica Pohl ex Miq.; heterotípico Lucuma chrysophylloides (Mart.) A.DC;. heterotípico Lucuma lateriflora Benth. ex Miq;. heterotípico Lucuma parviflora Benth. ex Miq.",
+            "familia": "Sapotaceae Juss.",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "Frutifica nos meses de janeiro a março. Os frutos são deliciosos e tem sabor doce e agradável que lembra o Marolo (Annona crassiflora) e o Pequi (Caryocar brasiliensis), sendo ótima para o consumo in natura e por ser resistente, pode ser comercializada com facilidade. O fruto pode ser despolpado e a polpa utilizada para fazer sorvetes, sucos, doces, recheios de bolo ou bolachas etc... A árvore não deve faltar no pomar de um colecionador de frutas e em projetos de reflorestamentos, pois seus frutos alimentam diversas espécies de animais.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
+                }
+            ]
+        },
+        {
+            "_id": "5c96bf1ad1c3ae0004a9e509",
+            "nome_pop": "Ipê branco",
+            "nome_cie": "Tabebuia roseoalba - Sinônimos: Bignonia roseoalba Ridl.; Handroanthus odontodiscus (Bureau & K.Schum.) Mattos; Handroanthus piutinga (Pilg.) Mattos Handroanthus roseoalbus (Ridl.) Mattos Sparattosperma neurocalyx Bureau & K.Schum. Tabebuia odontodiscus (Bureau & K.Schum.) Tabebuia papyrophloios (Bureau & K.Schum.) Tabebuia piutinga (Pilg.) Sandwith ;Tecoma mattogrossensis Kraenzl. ;Tecoma odontodiscus Bureau & K.Schum.; Tecoma papyrophloios Bureau & K.Schum.; Tecoma piutinga Pilg.; Tecoma schumanni Kraenzl.",
+            "familia": "Bignoniaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, Cerrado, Carrasco,  Mata Atlântica",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "A madeira é moderadamente pesada, macia com superfície lustrosa, de ótima durabilidade que pode ser usada na construção civil, principalmente para acabamentos internos. A árvore é extremamente ornamental, não somente pelo exuberante florescimento que pode ocorrer mais de uma vez por ano, mas também pela folhagem densa de cor verde azulada e forma piramidal da copa. É considerada ótima para o paisagismo em geral, já sendo amplamente utilizada para este fim, além de ser particularmente útil para a arborização de ruas e avenidas, dado ao seu porte não muito grande.Em função de sua adaptação a terrenos secos e pedregosos, é muito útil para reflorestamentos nesse tipo de ambiente, destinados a recomposição da vegetação de árvores.",
+            "localidade": "IFCE - Campus Crato",
+            "loc": []
+        },
+        {
+            "_id": "5925edacdf667300116cae76",
+            "nome_pop": "Azeitona-preta, Jamelão , Jalão , Jambolão",
+            "nome_cie": "Syzygium cumini",
+            "familia": "Myrtaceae",
+            "categoria": "Árvore",
+            "origem": "Índia",
+            "clima": "Equatorial, Subtropical, Tropical, Tropical de altitude, Tropical úmido",
+            "luminosidade": "Sol pleno",
+            "altura": "acima de 10 m",
+            "info": "Possuem frutos pequenos e arroxeados quando maduros. A coloração dos frutos provoca manchas nas mãos, tecidos, calçados e pinturas de veículos, tornando a planta pouco indicada para o preenchimento de espaços públicos. O fruto possui uma semente única e grande, quando comparada com o tamanho do fruto, envolta por uma polpa carnosa. Apesar de sabor um pouco adstringente, é agradável ao paladar. Na Índia, além de ser consumido in natura, é usado na confecção de doces e tortas. Na Região Nordeste do Brasil, é conhecida como \"azeitona-preta” ou “azeitona-roxa”, oliveira, e jamelão dependendo do estado. Nessa região, a planta adaptou-se tão bem que se tornou espécie subespontânea, sendo chamada de \"brinco-de-viúva\". Também é comum no litoral paranaense, onde recebe o nome de \"guapê\".",
+            "loc": [
+                {
+                    "lat": -7.2097771,
+                    "lng": -39.4461558
+                }
+            ],
+            "__v": 0,
+            "localidade": "ARIE - SÍTIO CURIÓ"
+        },
+        {
+            "_id": "5c88649d19a9df0004cb1794",
+            "nome_pop": "Buriti",
+            "nome_cie": "Mauritia flexuosa - Sinônímia: heterotípica Saguerus americanus H.Wendl.",
+            "familia": "Arecaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado",
+            "luminosidade": "",
+            "altura": "acima de 12 metros",
+            "info": "É uma planta de ampla distribuição no território nacional. Pode alcançar até 30 metros de altura e ter um caule com espessura de até 50 cm de diâmetro. A espécie habita terrenos alagáveis e brejos de várias formações, sendo encontrada com muita freqüência nas veredas, importante fitofisionomia do Cerrado. O buriti floresce quase o ano inteiro, mas principalmente nos meses de abril a agosto. A produção de frutos é intensa: segundo dados da Embrapa, são produzidos cinco a sete cachos por ano, cada um destes com 400 a 500 frutos.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8286563,
+                    "lng": -38.4660992
+                }
+            ]
+        },
+        {
+            "_id": "5c886bed19a9df0004cb1796",
+            "nome_pop": "Coaçu-peludo Sinônímias: heterotípico Coccoloba paniculata Meisn.; heterotípico Coccoloba polystachya Wedd.",
+            "nome_cie": "Coccoloba mollis",
+            "familia": "Polygonaceae",
+            "categoria": "Árvore, arvoreta ou arbustos",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica",
+            "luminosidade": "",
+            "altura": "acima 10 m",
+            "info": "Arbustos, arvoretas ou árvores.; ramos pubescentes. Folhas com pecíolo  1,5–4 cm compr., pubescente, inserido acima da base da ócrea e articulado a ela; lâmina 9–16 × 6–14 cm; oval ou oblonga, ápice agudo, obtuso ou curto acuminado, base obtusa, cordada, subcordada, truncada ou subarredondada, margem plana, membranácea ou coriácea, face adaxial glabra, face abaxial glabra, pubérula ou pubescente, nervuras proeminentes, 8–16 pares de nervuras laterais, glândulas não observadas; ócrea 2–4 cm compr., coriácea, pubescente, marcescente, borda oblíquo-truncada ou atenuada, base persistente. ",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8284413,
+                    "lng": -38.4749714
+                }
+            ]
+        },
+        {
+            "_id": "5c88dd1163dab30004275341",
+            "nome_pop": "Cajueiro-bravo, sambaíba, lixeira, caimbé, pau-de-lixa",
+            "nome_cie": "Curatella americana",
+            "familia": "Dilleniaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado, campo rupestre",
+            "luminosidade": "",
+            "altura": "Acima de 10  metros",
+            "info": "Lixeira, sambaíba (Curatella americana) Flores melíferas, bom para apicultura, e usada contra tosse. As folhas são usadas como lixa para madeira e para fins medicinas do combate a diabetes, inflamações, úlceras, artrite e pressão alta.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8265611,
+                    "lng": -38.4720141
+                }
+            ]
+        },
+        {
+            "_id": "5c88642119a9df0004cb1793",
+            "nome_pop": "Muriri , Gurguri, Murta da restinga, araçarana, Murrirí, e  Ururí",
+            "nome_cie": "Mouriri guianensis - Sinônímias: heterotípico Mouriri ulei Pilger; heterotípico Mouriri weddellii Naudin",
+            "familia": "Melastomataceae A . Juss.",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "MURIRI vem de uma língua indígena das Guianas, mas a etimologia ou significado ainda não foi descoberta. Também é chamado de Gurgurí, Murta da restinga, araçarana, Murrirí e Ururí. Os frutos são consumidos ao natural ou sob a forma de geleias. A planta atrai muitos pássaros (por seus frutos) e fornece excelente pasto apícola (graças a sua floração abundante). Distribui-se ao longo do litoral norte da América do Sul, incluindo o Estado do Pará, onde é relativamente frequente nas restingas e ao longo de igarapés.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8286563,
+                    "lng": -38.4660992
+                }
+            ]
+        },
+        {
+            "_id": "5c88ddc763dab30004275342",
+            "nome_pop": "Faveira,fava-de-boi, faveira-de-bolota, sabiú, visgueiro",
+            "nome_cie": "Parkia platycephala",
+            "familia": "Fabaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado, Caatinga",
+            "luminosidade": "",
+            "altura": "Acima de 10  metros",
+            "info": "É citada para os estados do Pará, Tocantins, Mato Grosso, Goiás (provavelmente com base em amostra coletada antes da criação do estado do Tocantins) e nos estados da região Nordeste, com exceção de Sergipe e Alagoas. Ocorre em cerrados vinculados a solos arenosos, ácidos e pobres. Perde uma substantiva parte da folhagem entre maio e julho; normalmente, floresce entre julho e setembro; e apresenta frutos maduros entre outubro e dezembro. As flores abrem-se à noite e atraem morcegos nectarívoros, que são considerados os seus mais efetivos polinizadores; durante o dia elas são frequentadas por insetos, notadamente abelhas, que provavelmente atuam como polinizadores secundários. Os frutos maduros caem sob a planta-mãe e aparentemente as sementes são dispersas por herbívoros que os utilizam como alimento. Parkia platycephala é a árvore-símbolo do Estado do Tocantins, conforme a Lei no 915, de 16/07/1997, publicada na 614a edição do Diário Oficial desse estado.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
+                }
+            ]
+        },
+        {
+            "_id": "5c88dc7c63dab30004275340",
+            "nome_pop": "Azeitona do campo, chá de cinco folhas, maria preta, tarumã, velame do campo, marianeira.",
+            "nome_cie": "Vitex polygama - Sinônímias: heterotípico Vitex laciniosa Turcz;. heterotípico Vitex polygama var. glaziovii Moldenke; heterotípico Vitex polygama var. hirsuta Schauer",
+            "familia": "Lamiaceae",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, Cerrado",
+            "luminosidade": "",
+            "altura": "Acima de 10  metros",
+            "info": "Em seus galhos são encontradas substâncias estimulantes da síntese proteica que já é empregada em fórmulas comercializadas. Galhos, folhas e frutos são tradicionalmente utilizados como emenagogo  e diuréticos contra pedras nos rins. Nessa espécie as flores abrem pela manhã e exalam leve odor adocicado e agradável às abelhas do gênero Xylocopa sp.(Mamangavas) seus principais polinizadores. A única pétala diferenciada, maior e lilás, fornece uma plataforma de pouso ao visitante floral e possui um guia de néctar até sua câmara nectarífera. A polpa adocicada que envolve as sementes nos frutos é muito apreciada por diversas aves.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8265673,
+                    "lng": -38.4670851
+                }
+            ]
+        },
+        {
+            "_id": "5c88e45c63dab30004275348",
+            "nome_pop": "Imbiriba, Pindaíba, pimenta-de-macaco, embira, embireira",
+            "nome_cie": "Xylopia sericea - Sinônímia: heterotípico Xylopia intermedia R.E.Fr.",
+            "familia": "Annonaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado",
+            "luminosidade": "",
+            "altura": "Acima de 10  metros",
+            "info": "A entrecasca é usada como amarrilho. Os frutos maduros são apreciados por primatas e eventualmente são usados pelo homem como substitutos da pimenta-do-reino. As sementes são consumidas por várias espécies de aves.  A espécie é apropriada para arborização urbana e deve ser posta como prioritária em projetos de recomposição de áreas desmatadas. X. sericea apresenta ampla dispersão no Cerrado, ocorre em áreas de preservação permanente (florestas ribeirinhas) e possui populações em diversas unidades de conservação de proteção integral nesse bioma.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8283495,
+                    "lng": -38.4670851
+                }
+            ]
+        },
+        {
+            "_id": "5c885c8319a9df0004cb178f",
+            "nome_pop": "Burra-leiteira; Seringarana; Janaguba",
+            "nome_cie": "Sapium glandulosum - Sinônímias: basiónimo Hippomane glandulosa L. heterotípica Excoecaria aerea (Klotzsch ex Müll.Arg.) Müll.Arg. heterotípica Excoecaria biglandulosa var. aubletiana (Müll.Arg.) Müll.Arg. heterotípica Excoecaria biglandulosa var. aucuparia (Jacq.) Müll.Arg. heterotípica Excoecaria biglandulosa var. clausseniana Müll.Arg. heterotípica Excoecaria biglandulosa var. dracunculoides (Baill.) Müll.Arg.",
+            "familia": "Euphorbiaceae Juss.",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "Espécie tolerante a terrenos suscetíveis a alagamento sazonal. Ocorre em diversos tipos de solo, desde secos até sobre vegetação aquática. UTILIDADES: Uso Madeireiro, Medicinal, Extrativo, Apícola. Comercialização de sementes: combustível e caixotaria.: na medicina popular, as folhas são usadas como analgésicas e anti-inflamatória e o látex para matar bernes. Extravio: látex comercializado para produção de borracha (tapuru).",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8273025,
+                    "lng": -38.4696885
+                }
+            ]
+        },
+        {
+            "_id": "5c88dac363dab3000427533e",
+            "nome_pop": "Pau-marfim",
+            "nome_cie": "Agonandra brasiliensis",
+            "familia": "Opiliaceae Valeton",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica, Pantanal",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "As árvores de A. brasiliensis perdem as folhas na estação seca; florescem sem folhas ou com apenas folhas senescentes, entre junho e agosto;e apresentam frutos maduros entre novembro e janeiro. As flores são frequentadas por insetos, com destaque para abelhas silvestres. As sementes são dispersos por morcegos que se alimentam da polpa dos frutos e provavelmente por algumas espécies de aves e de mamíferos terrestres. Os fustes linheiros dos indivíduos de maior porte dessa opiliácea são eventualmente transformados em tábuas para uso em obras internas e para confecção de móveis, objetos de adorno e alguns outros objetos de uso doméstico. As flores são fonte de recursos para insetos. A cortiça, se a espécie fosse abundante, poderia ser objeto de extrativismo para industrialização. ",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8277533,
+                    "lng": -38.4687281
+                }
+            ]
+        },
+        {
+            "_id": "5c885e0619a9df0004cb1790",
+            "nome_pop": "Limãozinho, tinguaciba, teta-de-cadela, tembetaru, tambatarão, mamica-de-porca, mamica-de-cadela, laranjinha",
+            "nome_cie": "Zanthoxylum rhoifolium - Sinônímias: heterotípico Fagara acutifolia (Engl.) Engl.; heterotípico Fagara astrigera R.S.Cowan; heterotípico Fagara obscura (Engl.) Engl.; heterotípico Fagara pubescens (A.St.-Hil. & Tul.) Herzog; heterotípico Fagara regnelliana (Engl.) Chodat & Hassl.; heterotípico Fagara rhoifolia var. intermedia R.S.Cowan & L.B.Sm.; heterotípico Fagara rhoifolia var. peltophorum (Turcz.) Chodat & Hassl.; heterotípico Fagara rhoifolia var. petiolulata (Engl.) Chodat & Hassl.",
+            "familia": "Rutaceae",
+            "categoria": "Arvore, arvoreta",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal",
+            "luminosidade": "",
+            "altura": "acima de 10 m",
+            "info": "Utilidades: Flores melíferas. Frutos atrativos à fauna. De boa adaptação, pode ser usada em reflorestamentos. Um pouco evitada por causa dos espinhos agudos e perigosos. Floresce em Outubro a Novembro e frutifica de Março a Abril. Usada na medicina popular para aliviar dor de dente e de ouvido. As folhas maceradas apresentam resultados satisfatórios (BRANDÃO, 1991; GAVILANES; BRANDÃO, 1996). O decoto da raiz, que é amarga e aromática é indicada  para uso interno contra flatulência e veneno de cobras (DOMBROWSKI; SCHERER NETO, 1979). É tônico estoma quico e febrífugo (COWAN; SMITH, 1973). O chá da casca é acre, combate azia, má digestão e gases intestinais (FRANCO; FONTANA, 1997).",
+            "localidade": "ARIE- SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8265673,
+                    "lng": -38.4670851
+                }
+            ]
+        },
+        {
+            "_id": "5c88df2e63dab30004275344",
+            "nome_pop": "Maria-mole, farinha-seca, ciriba, pau-piranha, cebola",
+            "nome_cie": "Guapira opposita - Sinonímia: basiônimo Guapira laxiflora (Choisy) Lundell; basiônimo Guapira parvifolia (Standl.) Lundell; basiônimo Torrubia laxiflora Standl.; basiônimo Torrubia obtusiloba Standl.; basiônimo Torrubia olfersiana Standl.; basiônimo Torrubia opposita Vell.",
+            "familia": "Nyctaginaceae Juss.",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica",
+            "luminosidade": "",
+            "altura": "acima 10 m",
+            "info": "GUAPIRA vem do Tupi Guarani e significa ”Fruta de peixe”, pois a arvore comumente cresce na beira de rios e riachos alimentando os peixes que adoram seus frutos. Também recebe os nomes: Maria mole, João mole, carne de vaca, Flor de perola e Fruta de peixe. Frutifica nos meses de novembro a dezembro. Os frutos são podem ser consumidos in-natura ou despolpados esfregando-os sobre uma peneira; e ao polpa assim separada pode ser utilizada para fazer sucos, geleias e sorvetes deliciosos. Recomendo que a arvore seja plantada próximo a rios e lagos para alimentar peixes e atrair pássaros. As flores são melíferas e indico o plantio da mesma pelos criadores de abelhas indígenas.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8281977,
+                    "lng": -38.4795713
+                }
+            ]
+        },
+        {
+            "_id": "5c88638219a9df0004cb1792",
+            "nome_pop": "Paraíba",
+            "nome_cie": "Simarouba versicolor - Sinônímia: heterotípico de Simarouba versicolor A.St.-Hil.",
+            "familia": "Simaroubaceae ",
+            "categoria": "Arvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Cerrado",
+            "luminosidade": "",
+            "altura": "Acima de 10  metros",
+            "info": "A infusão da casca do tronco  e das raízes gera uma solução amarga, que é utilizada na fitoterapia popular, contra problemas estomacais e do fígado, e como purgativo e vermífugo, embora considerada tóxica quando  ingerida em grandes doses. Ghosh et al. (1977) encontraram compostos com atividades citotóxicas e anti-tumorais nas partes vegetativas dessa espécie, e  Arriaga et al. (2002) encontraram uma série de compostos na casca, folhas e frutos, sendo alguns com atividades tóxicas e outros com propriedades medicinais.  A espécie merece prioridade em projetos de arborização urbana e de recomposição de áreas desmatadas.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8299485,
+                    "lng": -38.4690348
+                }
+            ]
+        },
+        {
+            "_id": "5c886b6419a9df0004cb1795",
+            "nome_pop": "Pacavira, lady Di, tracoá, caetezinho e planta-papagaio",
+            "nome_cie": "Heliconia psittacorum - Sinônímia: heterotípica Musa humilis Aubl.",
+            "familia": " Heliconiaceae Nakai",
+            "categoria": "Erva",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica, Pantanal",
+            "luminosidade": "",
+            "altura": "1 - 3m",
+            "info": "Chamada popularmente de Lady Di, tracoá, caetezinho e planta-papagaio, essa espécie é típica do Brasil e apresenta grande variação natural. Pode apresentar brácteas vermelhas, amarelas e róseas. Mas uma característica marcante é a durabilidade de suas inflorescências. Tanto que é uma das espécies mais cultivadas para flor de corte por causa disso e, claro, por sua beleza. Em geral elas dão o ar da graça quase o ano todo. A helicônia-papagaio pode ser cultivada isoladamente, em grupos ou em renques.  Mas vale dizer: é pouco tolerante ao frio. Multiplica-se normalmente por divisão de touceira.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8265673,
+                    "lng": -38.4670851
+                }
+            ]
+        },
+        {
+            "_id": "5c88e14a63dab30004275345",
+            "nome_pop": "Murici",
+            "nome_cie": "Byrsonima sericea",
+            "familia": " Malpighiaceae Juss.",
+            "categoria": "Arbusto, Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Amazônia, Caatinga, Cerrado, Mata Atlântica",
+            "luminosidade": "",
+            "altura": "Acima de 10  metros",
+            "info": "Procurada pela fauna, pode ser também comestível para o homem, porém com pouca polpa. Potencial de aproveitamento paisagístico, por sua beleza quando em flor. Floresce de Novembro a Janeiro, Frutifica em Março.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8265673,
+                    "lng": -38.4670851
+                }
+            ]
+        },
+        {
+            "_id": "5c886c7b19a9df0004cb1797",
+            "nome_pop": "Mirindiba",
+            "nome_cie": "Buchenavia tetraphylla - Sinônímia: heterotípica Buchenavia capitata (Vahl) Eichler; heterotípica Buchenavia gracilis Glaz.; heterotípica Buchenavia macahensis Glaz.",
+            "familia": "Combretaceae",
+            "categoria": "Árvore",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, Cerrado e Mata Atlântica.",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "A tanimbuca (Buchenavia tetraphylla) é uma árvore emergente brasileira nativa da Amazônia e da Mata Atlântica, cuja madeira tem valor comercial. Outros nomes populares: amarelão, carará, cuiarana, embiridiba, mangue, mirindiba, miringuiba, taniboca, tanibuca, tanimbuca. Tronco tortuoso.Cerne e alburno: pouco distintos. Cor do cerne: marrom-amarelado-claro a marrom-claro, cor do alburno: amarelo-pálido. Classificação da cor do cerne: marrom Camadas de crescimento: distintas. Textura: média. Cheiro: imperceptível. Madeira pesada.",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8298122,
+                    "lng": -38.4779285
+                }
+            ]
+        },
+        {
+            "_id": "590ce39022dc530011f570a1",
+            "familia": "Fabaceae Mimosoideae",
+            "loc": [
+                {
+                    "lat": -7.231953,
+                    "lng": -39.4367795
+                },
+                {
+                    "lat": -3.7450647,
+                    "lng": -38.485798
+                },
+                {
+                    "lat": -3.7469182,
+                    "lng": -38.4887752
+                },
+                {
+                    "lat": -7.2099149,
+                    "lng": -39.446039
+                },
+                {
+                    "lat": -3.830153,
+                    "lng": -38.4690615
+                }
+            ],
+            "__v": 0,
+            "info": "A timbaúba é uma árvore decídua e frondosa, que alcança ´mais de 12 metros de altura e de 80 a 160 cm de diâmetro de tronco. Suas folhas são alternas, bipinadas (recompostas), com 3 a 7 pares de pequenos folíolos oblongos. Apresenta copa ampla, com ramificação cimosa e raízes longas e calibrosas. As inflorescências surgem na primavera e são do tipo capítulo, globosas, com cerca de 10 a 20 flores brancas. Os frutos que se seguem são vagens, recurvadas e semilenhosas, em formato de rim ou de orelha, o que rendeu a esta espécie diversos nomes populares. Eles surgem verdes e se tornam pretos em junho e julho, quando amadurecem. Cada fruto pode conter de 2 a 12 sementes, brilhantes e de cor marrom. Sua madeira é leve, macia, pouco resistente e utilizada para o fabrico de canoas, caixotaria em geral, brinquedos, compensados, etc. As saponinas encontradas nos frutos e na casca são aproveitadas para produção de sabões.",
+            "clima": "Caatinga, Cerrado",
+            "categoria": "Árvore",
+            "nome_cie": "Enterolobium contorsiliquum (Vell.) Morong",
+            "localidade": "UC - Sítio Fundão",
+            "luminosidade": "não é endêmica do Brasil",
+            "altura": "Acima de 12 metros",
+            "origem": "Nativa do Brasil",
+            "nome_pop": "Tamboril, Araribá, Árvore-das-patacas, Cambanambi, Sabão-de-macaco, Chimbó, Chimbuva, Flor-de-algodão, Orelha-de-macaco, Orelha-de-negro, Orelha-de-onça, Orelha-de-preto, Pacará, Pau-de-sabão, Pau-sabão, Tambaré, Tamboi, Tambor, Tambori, Tamboril-do-campo, Tamboril-pardo, Tamborim, Tamburé, Tamburil, Tamburiúva, Tambuvé, Tambuvi, Timbaíba, Timbaúba, Timbaúva, Timbaúva-branca, Timbaúva-preta, Timbíba, Timbó, Timboíba, Timborana, Timbori, Timboril, Timboúba, Timboúva, Timbuíba, Timburi, Timburil, Timbuva, Vinhática-flor-de-algodão, Ximbiuva, Ximbó, Ximbuva"
+        },
+        {
+            "_id": "5ca42f23924561000433352b",
+            "nome_pop": "Arapiraca,  esponjeira,  jurema, jurema-branca, pereira",
+            "nome_cie": "Chloroleucon acacioides (Ducke)  Barneby  & J.W.Grimes - Sinônimo: basiônimo Pithecellobium acacioides Ducke ",
+            "familia": " Fabaceae Lindl.",
+            "categoria": "Arbustos ou árvores ",
+            "origem": "Nativa do Brasil",
+            "clima": "Caatinga, Cerrado",
+            "luminosidade": "",
+            "altura": "acima de 5 m",
+            "info": "A jurema ou jurema branca é uma árvore ou arbusto que pode alcançar até 10 metros de altura cresce em restinga, margem das matas e floresta tropical. Possui ramos cilíndricos, glabros, espinescentes, o fruto é um legume nucóide de formato helicoidal. Estudos sobre essa espécie são escassos quanto à morfometria de frutos e sementes. ",
+            "localidade": "ARIE - SÍTIO CURIÓ",
+            "loc": [
+                {
+                    "lat": -3.8271162,
+                    "lng": -38.4759571
                 }
             ]
         }

@@ -10446,6 +10446,12 @@ img.center {
   font-size: .5em;
   color: #fff !important; }
 
+.entity.card {
+  border-radius: 14px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  box-shadow: 0 0 22px 2px rgba(0, 81, 89, 0.1); }
+
 .perfil {
   height: 50%;
   background-color: #6a5acd; }
