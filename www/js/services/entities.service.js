@@ -59,14 +59,12 @@
 
     function getByIndex(index, type) {
       local = type
-      console.log('index, type ->', index, type);
       return $q(function (resolve, reject) {
         $http
           .get(baseUrl + local + ".json")
           .then(function (response) {
             if (response.status < 400) {
               _getImage(response.data.Data[index]).then(function (result) {
-                console.log('result', result);
                 return resolve(result);
               })
             }
@@ -100,7 +98,6 @@
                 historia: 'História',
                 flora: 'Flora'
               }
-              console.log(entity);
               TimelineService.saveHistory({
                 date: new Date(),
                 id: entity._id,
@@ -108,7 +105,6 @@
                 info: entity.nome_pop || entity.titulo || entity.ordem || entity.designacao,
                 sub_info: entity.nome_cie
               })
-              console.log('entity ->', entity);
               _getImage(entity).then(function (result) {
                 // TimelineService.saveHistory({
                 //   date: new Date(),
@@ -117,7 +113,6 @@
                 //   info: result.nome_pop || result.filo || result.idade || result.titulo,
                 //   sub_info: result.nome_cie || result.reino || result.designacao || result.localidade
                 // })
-                console.log('result ->', result);
                 return resolve(result);
               })
             }

@@ -26,7 +26,8 @@
     -o-filter: brightness(40%);
     -ms-filter: brightness(40%);
     filter: brightness(40%);
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .content {
