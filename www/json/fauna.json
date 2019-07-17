@@ -1,221 +1,221 @@
 {
     "Error": false,
     "Data": [
-        {
-            "_id": "5a25ccb26132ff0a62d50ade",
-            "info": "A ordem hymenoptera é um dos maiores grupos de insetos que existe as vespas, abelhas, formigas. As fêmeas possuem ovopositor, o que permite a perfuração do hospedeiro e pode por muitas vezes estar modificado por um ferrão. Possuem olhos bastante desenvolvidos podendo ser por milhares de omatídeos. O aparelho bucal é do tipo lambedor (nas abelhas) e mastigador nos demais. Possuem quatro asas membranosas, onde as posteriores são maiores que as anteriores. Algumas são ápteras, isso vai depender da casta em que ela se encontra, como nas formigas. Se desenvolvem através de metamorfose completa. Insetos sociais, como os hymenópteros, trabalham juntos para realizar grandes tarefas. Como no caso das abelhas da espécie: Apis melífera, da família: apidae. Esta por sua vez é uma abelha social de origem europeia, seu habitat é bastante diversificado, inclui savanas, florestas tropicais, deserto, regiões litorâneas e montanhosas.",
-            "ordem": "Abelha ",
-            "filo": "Arthropoda\t",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25cd076132ff0a62d50adf",
-            "info": "São agrupados nessa ordem os gafanhotos, as esperanças, os grilos, as paquinhas e as taquarinhas. Esses insetos possuem o terceiro par de perna do tipo saltatório. Cabeça muito variável quanto à forma. Muitas espécies apresentam cabeça consideravelmente prolongada entre os olhos. Possuem antenas filiformes. O aparelho bucal é mastigador. As fêmeas podem apresentar ovopositor longo com aspectos de laminas. Pernas anteriores e medianas ambulatórias, nas paquinhas o par anterior é fossorial. Na maioria das espécies há dois pares de asas, sendo o anterior do tipo tégmina e o posterior membranoso. A maioria dos orthopteros apresentam tímpanos (órgãos auditivos) localizados de cada lado de cada do primeiro urômetro.",
-            "ordem": "Gafanhoto",
-            "filo": "Arthropoda\t",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25cd4f6132ff0a62d50ae0",
-            "info": "Os mantídeos são bem conhecidos pelo nome de “louva-deus”, devido atitude de característica que tomam quando pousados. Pernas anteriores raptatórias. Corpo na maioria das espécies achatado. Antenas setáceas, filiformes. Aparelho bucal mandibulado hipognato. Pernas medias posteriores ambulatórias, as anteriores raptatórias, mais ou menos robustas. Os mantídeos são os únicos insetos que apresentam pernas anteriores desse tipo. Asas anteriores tegminosas, em geral grandes, foliáceas, excedendo o abdômen em ambos os sexos.\n",
-            "ordem": "Louva-a-Deus",
-            "filo": "Arthropoda\t",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25cda56132ff0a62d50ae1",
-            "info": "As baratas são exopterigota neóptera com corpo dorso ventralmente achatado e cabeça com as peças bucais mastigadoras dirigidas para baixo (hipognatos). As asas anteriores, quando presentes, são do tipo pergamináceas, podendo ser branquipteras ou ausentes, mas com asas posteriores (se presentes) inteiramente membranosas. Fêmeas com ovopositor oculto e machos com genitália assimétrica; cercos presentes, variando de um a muitos artículos. Os ovos geralmente são depositados numa ooteca. As baratas colonizam os mais diversos habitats. A maioria é noturna, geralmente\nencontradas ao nível do solo e escondidas em cascas de árvores, troncos caídos e pedras durante o dia. Uma das espécies bastante comum nos lares são as da família (Blattidae), são inconfundíveis com o corpo plano, corpo oval, cabeça hipognata em posição ventral relativa ao tórax, aparelho bucal mastigador, que lhes permite alimentar-se de todo tipo de material orgânico, antenas filiformes e compridas, quase do tamanho do corpo.",
-            "ordem": "Barata",
-            "filo": "Arthropoda\t",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25ceac6132ff0a62d50ae3",
-            "info": "São caracterizados por praticar mimetismo. Medem cerca de 10-300 mm de comprimento. Possuem cabeça pequena, antenas do tipo filiforme, aparelho bucal mastigador, pernas ambulatórias. Podem ter ou não asas, mas quando tem são maus voadoras. São hemimetábolas. Presentes em alguma espécie partenogênese. Produzem poucas proles. Os machos são menores que a fêmea. Vivem sobre as folhas e troncos. Possuem movimentos lentos. Os phasmatidae são uma família de “insetos de vara”, os phasmatidae são capazes de regenerar membros e comumente se reproduzem pela partenogênese. Apesar da aparência, são inofensivos.",
-            "ordem": "Mané magro",
-            "filo": "Arthropoda\t",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25ce156132ff0a62d50ae2",
-            "info": "Libélulas são insetos de abdômen alongado. Possuem dois pares de asas, de envergadura que varia entre dois e vinte centímetros, e podem funcionar separadamente, de acordo com a velocidade do voo. Seus olhos compostos conferem excelente visão panorâmica e auxiliam na busca por alimentos e fuga de predadores. Alimenta-se de girinos, peixes juvenis e insetos inclusive indivíduos da própria espécie. Vivem em regiões próximas a água limpa, local onde vive o estágio larval. Assim que uma libélula nasce, permanece no ambiente aquático por aproximadamente cinco anos, passando por várias metamorfoses até chegar a forma adulta. As libélulas da família libellulidae, são de extrema importância, não apresentam coloração metálica e os machos frequentemente exibem uma pruinosidade sobre o corpo. Os olhos se encontram no topo da cabeça, em maior e menor extensão. Nesta família, a vênação das asas apresenta uma diferença marcante entre as asas posteriores e anteriores, além desta também existe a família cordulidae, a diferença entre elas são a ausência do triangulo anal na asa posterior e a ausência de aurículas no segundo segmento abdominal.\n",
-            "ordem": "Libélula, ziguezague",
-            "filo": "Arthropoda\t",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25cf176132ff0a62d50ae4",
-            "info": "Mariposas e borboletas fazem parte desta ordem. Possuem cabeça, tórax, abdômen e um par de antenas, um par de olhos compostos e aparelho sugador. As asas são recobertas por escamas facilmente destacáveis, caso manuseadas. Os lepidópteros são o segundo maior grupo de insetos e são adaptados aos mais diferentes ambientes. O desenvolvimento é indireto, dividido nas fases: ovo, lagarta, crisalida e adulta. Ao contrário das borboletas, a maioria das espécies de mariposas possui hábitos noturnos, antenas não-clavadas, asas estendidas sobre o corpo quando em repouso, com cores escuras na maioria dos indivíduos e corpo gordo, com aspecto “peludo”. Já as borboletas são mais diurnas, possuem antenas clavadas, asas levantadas e fechadas verticalmente ao corpo quando em repouso, com cores brilhantes e variadas e corpo fino com poucas cerdas. Dentre as várias famílias de borboleta existe a monarca (Danaus plexippus) da família: Nymphalidae. A borboleta monarca começa sua vida como um ovo por uma fêmea adulta numa folha de planta de serralha. São do tamanho da cabeça de um alfinete e quando choca, 3 a 12 dias depois, nasce a pequena lagarta com riscas brancas, amarelas e pretas, com oito pares de pernas curtas para trepar e partes da boca desenhada para mastigar as folhas. Os esfingídeos (Sphingidae: lepidóptera) são, em sua maioria, mariposas de hábitos noturnos caracterizados por asas e abdômen afilados que propiciam notável capacidade de voo. Os adultos alimentam-se de néctar de néctar e são importantes polinizadores de plantas esfigófilas, as quais apresentam longos tubos florais.",
-            "ordem": "Borboleta",
-            "filo": "Arthropoda",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25cf696132ff0a62d50ae5",
-            "info": "Os coleópteros (coleóptera) constituem uma ordem de insetos popularmente conhecidos como besouros, mas também como joaninhas, escaravelhos, gorgulhos entre outros. As importantes características dos besouros são: um par de asas anteriores rígidas, conhecidas como élitros, que protegem como um estojo as asas posteriores, que são membranosas e delicadas. A ordem coleóptera possui o maior número de espécies dentre todos os seres vivos. Os coleópteros apresentam uma enorme diversidade morfológica. Ocupam praticamente qualquer habitat. Os besouros\nsão geralmente caracterizados por um rígido exoesqueleto, bem como por rígidos élitros. O exoesqueleto do besouro é composto por numerosas camadas de placas de quitina, chamadas de escleritos, que são separadas por suturas finas. São divididas em três seções: cabeça, tórax e abdômen. Algumas famílias da ordem coleóptera são: Aderidae, Cleridae, Carabidae, Cerambycidae, Drillidae, Clambidae, Cucujidae, etc.",
-            "ordem": "Joaninhas",
-            "filo": "Arthropoda",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25cfb66132ff0a62d50ae6",
-            "info": "Compreende a 85.000 mil espécies. As peças bucais sugadoras picadoras formam um rostro articulado, mandíbulas e maxilas tem a forma de estiletes e repousa dentro de um sulco dorsal do lábio; asas membranosas; pronoto grande. Os hemípteros ocorrem em todo mundo e em virtualmente todos os habitats. A maioria dos hemípteros é herbívoro, embora muitos predam outros artrópodes ou vertebrados. A produção de som, através de uma série de mecanismos, é muito difundida na ordem. Muitos hemípteros apresentam coloração críptica ou mimetizam outros insetos; o mimetismo\nde formigas é especialmente comum. Alguns percevejos com antenas de 5 segmentos antenais e escutelo bastante desenvolvido. É formada por 14 famílias; as mais comuns são: família Pentatomidae: escutelo geralmente plano, estendido até a base da membrana do hemiélitro. Tíbias desprovidas de espinho. É a família mais numerosa dessa superfamília.\n",
-            "ordem": "Percevejos",
-            "filo": "Arthropoda",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5a25d0416132ff0a62d50ae7",
-            "info": "As moscas são um extenso grupo de insetos da ordem Díptera. Os insetos desta ordem possuem um corpo com a cabeça, tórax e abdômen; a maioria distingue-se prontamente dos outros insetos alados por possuir apenas um par de asas desenvolvido, correspondente ao par anterior, tendo o par posterior atrofiado e transformado em pequenas estruturas clavadas denominadas balancins ou halteres, responsáveis pelo equilíbrio durante o voo. A Díptera é uma ordem enormíssima que engloba aproximadamente um milhão de espécies. As moscas têm uma cabeça móvel,\ncom um grande par de olhos compostos por centenas de facetas sensíveis à luz individualmente, e aparelho bucal adaptado à perfuração e sucção. O seu ciclo de vida é holometabólico, isto é, que passa por várias fases morfológicas, que no caso da mosca são quatro: ovo, larva, pupa e fase adulta; os ovos são depositados numa fonte de alimento larval e as larvas, sem quaisquer membros, crescem num ambiente protegido, muitas das vezes dentro da sua própria fonte alimentar. A pupa consiste numa cápsula resistente da qual o adulto emerge assim atingir todo o seu desenvolvimento;  maioria das moscas têm uma vida muito curta depois de alcançarem a fase adulta. Algumas espécies completam este ciclo em poucos dias e outras num ou dois meses. A família Culicidae é uma família de insetos habitualmente chamados de mosquitos e pernilongos. As fêmeas em muitas regiões são designadas vulgarmente como melgas. Como os outros membros da ordem Díptera, os mosquitos têm um par de asas e um par de halteres. Em geral, apresentam dimorfismo sexual acentuado: as fêmeas apresentam antenas pilosas e são muito mais corpulentas que os machos, que apresentam antenas plumosas. As fêmeas na maioria das espécies de mosquitos sugam sangue (hematófaga) de outros animais.",
-            "ordem": "Moscas",
-            "filo": "Arthropoda",
-            "classe": "Insecta",
-            "reino": "Animalia",
-            "inseto": true
-        },
-        {
-            "_id": "5b64bd784805a90004357ffd",
-            "inseto": true,
-            "ordem": "Arapaçu-de-bico-branco - Dendroplex picus",
-            "reino": "Animalia",
-            "filo": "\u200eChordata",
-            "classe": "Aves",
-            "info": "Um dos cantos mais bonitos e frequentes nas matas do parque. Muitas pessoas confundem essa ave com um pica-pau pelo seu hábito de subir em troncos e caçar insetos \nnas cavidades das árvores. \nFoto: Cecília Licarião"
-        },
-        {
-            "_id": "5b6993bb0ef4110004a5b6e6",
-            "inseto": true,
-            "ordem": "Surucuá-de-barriga-vermelha - Trogon curucui",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Aves",
-            "info": "Essa ave chama atenção pelo peito avermelhado. Tem o hábito de ficar pousado nos galhos das arvores observando suas possíveis presas como lagartas, cigarras, besouros e aranhas. Fazem seus ninhos em cupinzeiros assim como os periquitos-de-encontro-amarelo. \nFoto: Cecília Licarião"
-        },
-        {
-            "_id": "5b6993ed0ef4110004a5b6e7",
-            "inseto": true,
-            "ordem": "Mão-pelada - Procyon cancrivorus",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Mammalia",
-            "info": "Também conhecido como guaxinim, o mão-pelada recebe esse nome pelos seus longos membros com pouco pelo e suas grandes mãos que utiliza para mexer na lama a procura de insetos e crustáceos. Seus pelos pretos ao redor dos olhos lembram uma máscara.\nFoto: Ryskas"
-        },
-        {
-            "_id": "5b6994350ef4110004a5b6e8",
-            "inseto": true,
-            "ordem": "Soín - Callithrix jacchus",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Mammalia",
-            "info": "Também chamado de sagui, esse simpático marcado é caracterizado pelos tufos brancos em torno das orelhas e pela cauda maior que o corpo, que o ajuda a se equilibrar. O Soín pode ser visto em várias áreas do parque, principalmente no interior das trilhas, muito curiosos, se aproximam facilmente dos humanos. Esses animais se alimentam de frutos, seiva, insetos e ovos que encontram pelo Parque. Por isso, é importante destacar que é proibido alimentá-los, pois isso pode influenciar no seu equilíbrio ecológico e saúde, além de evitar acidentes. Lembre-se, esses macacos transmitem raiva através da sua mordida. \nFoto: Cecília Licarião"
-        },
-        {
-            "_id": "5b6994850ef4110004a5b6e9",
-            "inseto": true,
-            "ordem": "Raposa; graxaim-do-mato - Cerdocyon thous",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Mammalia",
-            "info": "De hábito alimentar pouco restritivo, as raposas podem ser avistadas no Parque do Cocó em suas trilhas, demonstram capacidade de utilizar ambientes perturbados pela ação do homem. Atualmente está sendo mais vista nas trilhas do parque, geralmente solitárias ou em dupla.\nFoto: Thais Abreu"
-        },
-        {
-            "_id": "5b6996070ef4110004a5b6ee",
-            "inseto": true,
-            "ordem": "Iguana - Iguana iguana",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Reptilia",
-            "info": "O maior lagarto do parque, podendo atingir 1,5 metros. Pode ser observado no chão ou em cima das árvores. Quando jovens são verdes, a medida que vão envelhecendo ficam cinza. \nFoto: Cecília Licarião"
-        },
-        {
-            "_id": "5b69952b0ef4110004a5b6eb",
-            "inseto": true,
-            "ordem": "Muçum  - Synbranchus marmoratus",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Actinopterygii",
-            "info": "Esse peixe tem o formato alongado e cilíndrico que lembra uma cobra ou uma enguia. Uma característica interessante dessa espécie é que ela possui uma faringe bem vascularizada que funciona como “pulmões”, que permite que esse peixe respire fora da água. Na sua reprodução, os machos é que tomam conta dos ninhos.\nFoto: Paul-Louis Oudart"
-        },
-        {
-            "_id": "5cba6008d0eb8e0004480807",
-            "inseto": true,
-            "ordem": "Choca-do-planalto - Thamnophilus pelzelni",
-            "reino": "Animalis",
-            "filo": "Chordata",
-            "classe": "Aves",
-            "info": "Características: Espécie recentemente separada de choca-bate-cabo (Thamnophilus punctatus), pode ser sintópica com choca-da-mata (Thamnophilus caerulescens), da qual difere pela plumagem mais pálida nos machos. Já a fêmea apresenta o dorso ruivo e não marrom como em choca-da-mata (Thamnophilus caerulescens).Alimentação: Alimenta-se de insetos que captura por entre as folhas e galhos no extrato baixo da vegetação, durante a alimentação pode acompanhar espécies como: choro-boi (Taraba major), choquinha-lisa (Dysithamnus mentalis) e choca-da-mata (Thamnophilus caerulescens). Hábitos: É uma espécie comum, ocorrendo em maior densidade ao norte de sua área de distribuição, onde ocupa hábitats continuamente ameaçados por monoculturas e extração de madeira. Distribuição Geográfica: Ocorre em uma ampla região que vai da área central do Brasil (onde ocupa principalmente matas de galeria) até a região Nordeste."
-        },
-        {
-            "_id": "5cba6121d0eb8e0004480808",
-            "inseto": true,
-            "ordem": "Gavião-carijó - Rupornis magnirostris",
-            "reino": "Aminalia",
-            "filo": "Chordata",
-            "classe": "Aves",
-            "info": "Características: Mede de 31 a 41 centímetros de comprimento , e o peso do macho varia entre 206-290 gramas e da fêmea 257-350 gramas , sendo os machos 20% menores que as fêmeas. Há grande diferença entre os adultos e os imaturos, sendo que os últimos podem ser confundidos com vários outros gaviões, pois apresentam a coloração marrom-carijó. Já os adultos apresentam a ponta do bico negra com a base amarelada; a cabeça e a parte superior das asas são amarronzadas, mas tornam-se cinza à medida que a ave amadurece. O peito é ferruginoso e apresenta largas estrias verticais. O ventre e as pernas são brancos, com primoroso barrado ferrugíneo. A base da cauda é branca, mas vai se tornando barrada em direção à extremidade. Existem duas listras negras bem visíveis na extremidade da cauda. Quando em voo, suas asas são largas e de comprimento médio. A coloração básica da parte inferior das asas é o bege estriado com finas listras escuras. Bico recurvado escuro com cere amarela. A íris é clara. Os tarsos e pés são amarelos e apresentam garras escuras.Subespécies. Alimentação: Sua ampla distribuição geográfica também se reflete nos seus hábitos alimentares generalistas, pois consome desde insetos até aves e lagartos. Procura os abrigos diurnos de morcegos para atacá-los enquanto dormem. Ataca ninhos de outras aves e por isso é ferozmente perseguido por suiriris, bem-te-vis e tesourinhas.\nReprodução: O gavião-carijó vive em casais que constroem um ninho de gravetos revestido por folhas com cerca de meio metro de diâmetro, geralmente no topo de uma árvore grande. As fêmeas apresentam os dois ovários desenvolvidos, em vez de apenas o esquerdo como as outras aves. A postura de em média 2 ovos é depositada sobre um revestimento de folhas secas e incubada pela fêmea. Durante este período de cerca de um mês, a fêmea é alimentada pelo macho. Os ovos são geralmente manchados, de cor muito variável, até dentro de uma mesma postura. Quando está reproduzindo pode tornar-se agressivo, atacando até mesmo seres humanos que se aproximem de seu ninho.\n\nPossui doze subespécies reconhecidas:\nRupornis magnirostris magnirostris (Gmelin, 1788) - ocorre do oeste do Equador até as Guianas e na Amazônia brasileira.\nRupornis magnirostris griseocauda (Ridgway, 1874) - ocorre do México até o noroeste da Costa Rica e no oeste do Panamá.\nRupornis magnirostris conspectus (J. L. Peters, 1913) - ocorre do sudoeste do México (nas regiões de Tabasco e na Península de Yucatán) até o norte de Belize.\nRupornis magnirostris sinushonduri (Bond, 1936) - ocorre em Honduras, nas ilhas de Bonacca e Roatán.\nRupornis magnirostris petulans (P. L. Sclater & Salvin, 1869) - ocorre no sudoeste da Costa Rica e no oeste do Panamá e nas ilhas adjacentes.\nRupornis magnirostris alius (J. L. Peters & Griscom, 1929) - ocorre nas Ilhas Pérola (San José e San Miguel) no Golfo do Panamá.\nRupornis magnirostris occiduus (Bangs, 1911) - ocorre no oeste da Amazônia brasileira, no Peru e no norte da Bolívia.\nRupornis magnirostris saturatus (P. L. Sclater & Salvin, 1876) ocorre do sudoeste do Brasil até o Paraguai, Bolívia e no oeste da Argentina.\nRupornis magnirostris nattereri (P. L. Sclater & Salvin, 1869) - ocorre no nordeste do Brasil, até o sul do estado da Bahia.\nRupornis magnirostris magniplumis (W. Bertoni, 1901) - ocorre do sudeste e sul do Brasil até o nordeste da Argentina, na província de Misiones e na região adjacente do Paraguai.\nRupornis magnirostris pucherani (J. Verreaux & E. Verreaux, 1855) - ocorre no Uruguai e no noroeste da Argentina ao sul da Província de Buenos Aires.\nRupornis magnirostris gracilis (Ridgway, 1885) - ocorre nas ilhas de Cozumel e Holbox ao largo da Península de Yucatán.\n\n"
-        },
-        {
-            "_id": "5cba620cd0eb8e0004480809",
-            "inseto": true,
-            "ordem": "Pica-pau-anão-da-caatinga - Picumnus limae",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Aves",
-            "info": "Características: Mede apenas 10 cm de comprimento. Possui o corpo pardo com a parte inferior uniformemente amarelada e uma coroa preta pontilhada de branco na cabeça. A diferença entre fêmea e macho é que este ultimo possui, na coroa, uma faixa vermelha. A área abaixo dos olhos é castanha. As pernas são curtas e os pés, relativamente grandes, servem para dar melhor apoio quando pousa na ponta de um galho. Alimentação: Pode ser observado alimentando-se em bambuzais e pomares abandonados, diferentemente de outras espécies de pica-paus. Reprodução:\nNa época reprodutiva, o casal procura uma árvore, sobretudo as que estão secas e mortas, e constrói uma cavidade, forrada apenas com pequenos pedaços de madeira extraídos durante sua confecção. Ali, a fêmea deposita seus ovos de cor branca claríssima e brilhante. Na incubação dos ovos, macho e fêmea se revezam. Os filhotes são alimentados com larvas de insetos. Hábitos: Habita em áreas de caatinga e capoeiras. É ameaçado principalmente pela expansão da agricultura, com a ampliação das áreas de pasto e queimadas. Por ter uma população reduzida, torna-se sensível à fragmentação do habitat. Na Serra do Baturité resta apenas 1% da vegetação original, e paira uma constante ameaça de novas queimadas ou da construção de novas pousadas. Distribuição Geográfica: É considerado pela literatura existente como restrita às serras de Ibiapaba, Baturité e Aratanha, Ceará (Burn, 2002), mas a distribuição real parece ser bem mais ampla no estado (Weber Silva e Ciro Albano, obs. pess.).\n\n"
-        },
-        {
-            "_id": "5cba62a7d0eb8e000448080a",
-            "inseto": true,
-            "ordem": "Choca-barrada-do-nordeste - Thamnophilus capistratus",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Aves",
-            "info": "Características: É muito semelhante a choca-barrada(Thamnophilus doliatus), da qual foi separada recentemente, porém se diferencia desta pela cor da íris vermelha-alaranjada. Em que os machos têm coroa preta uniforme (sem brancos em restrição à base) e as fêmeas têm listras na garganta e na barriga levemente barradas. Reprodução: Constrói ninho em forma de taça que costuma ser construído em arbustos fechados da caatinga. Os ovos, geralmente dois, são incubados pelo casal por cerca de duas semanas. O casal se reveza na alimentação dos filhotes, que levam mais duas semanas para abandonar o ninho. Hábitos: Vive na caatinga nordestina. É encontrado em uma vasta gama de habitats florestais (mesmo jardins e parques), em ambas as regiões áridas e úmidas. Durante grande parte da sua gama, é comum entre os membros da família Thamnophilidae, formando uma maioria. Distribuição Geográfica: Endêmica do Brasil, ocorre nos estados da região Nordeste e no norte de Minas Gerais.\n\n"
-        },
-        {
-            "_id": "5cba63f8d0eb8e000448080b",
-            "inseto": true,
-            "ordem": "Beija-flor-de-barriga-branca - Amazilia leucogaster",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Aves",
-            "info": "Características: Mede entre 9 e 10 centímetros de comprimento e pesa entre 4 e 4,5 gramas. (Weller, Kirwan e Boesman, 2016). É um beija-flor de bico reto com base da mandíbula rosada, partes inferiores brancas imaculadas, mancha pós-ocular branca, além de fronte, face e dorso verde-brilhante.Alimentação: Alimenta-se essencialmente do néctar retirado das flores. Come também pequenos insetos e outros tipos de invertebrados, como pequeninos caramujos. Hábitos: Esta espécie está associada a diferentes tipos de formação vegetal, como manguezais, restingas e plantações diversas. É um dos beija-flores mais comuns em bebedouros com “néctar” disponibilizados pela ação humana, e é bastante territorialista com relação à área que tal bebedouro está presente, podendo assim, expulsar outras espécies de “seu território”.Distribuição Geográfica:\nOcorre na faixa litorânea da porção setentrional do país, entre os estados da Bahia e Roraima.\n\nSubespécies\nPossui duas subespécies reconhecidas:\nAmazilia leucogaster leucogaster (Gmelin, 1788) - ocorre do Leste da Venezuela até as Guianas e o Norte do Brasil;\nAmazilia leucogaster bahiae (Hartert, 1899) - ocorre na costa Nordeste do Brasil, dos estados de Pernambuco até o Sul do estado da Bahia.\n(Piacentini et al., 2015; Integrated Taxonomic Information System, 2015).\n"
-        },
-        {
-            "_id": "5cba6501d0eb8e000448080c",
-            "inseto": true,
-            "ordem": "Ferreirinho-relógio - Todirostrum cinereum",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Aves",
-            "info": "Características: O vivo contraste entre o cinza-azulado escuro da cabeça com a parte ventral amarela chama a atenção quando observado. O restante das partes superiores é lavado de tom oliváceo, enquanto as penas longas das asas são bordejadas de amarelo. A cauda é escura, mas, vista por baixo, nota-se que as penas laterais possuem uma grande área branca na ponta. Os olhos são amarelo-ouro, destacados contra a área mais escura da parte frontal da cabeça, quase uma máscara. Bico longo e chato, escuro e também notável. Mede 8-10 cm de comprimento e pesa cerca de 4-7,5 gramas. O dimorfismo sexual é pouco aparente, restringindo-se a uma marcação esbranquiçada discreta no píleo, para as fêmeas (segundo Sigrist).Alimentação: Alimenta-se de dípteros e lepidópteros (Hesperiidae – Urbanus sp.) e outros. Ativo o dia inteiro, caça invertebrados no meio das folhagens da copa e baixa até 2 metros do chão. Reprodução: Reproduz de julho a novembro. Constrói um característico ninho pendurado na ponta de galho fino, feito de restos de folhas, galhos finos e secos e painas. Amarra e entrelaça os galhos secos, as folhas e as painas, que vão ser forradas dentro do ninho para aquecer os filhotes. As folhas ficam por fora camuflando o ninho e os galhos são usados para deixar firme a estrutura do ninho. O material é colocado úmido e as partes aderem entre si, ao secar. Parte do material fica pendente, camuflando o ninho. Esse material são as folhas e alguns galhos que não só camuflam mas aquecem os ovos ou filhotes e deixam mais firme o ninho. Característica entrada lateral com pequeno telhado protegendo. Muitas vezes, o material de um ninho velho próximo é retrabalhado para a reprodução seguinte. Surpreende a resistência do ninho, aguentando chuvas fortes e ventos. O ninho é muito bem trancado e não deixa a chuva entrar e nem o frio, é tão fechado que se você o abrir sentirá sair calor de dentro dele; o calor mantém os filhotes vivos sem passar frio, que normalmente são de 2 a 3. Esse ninho tão bem feito, na maioria das vezes é grosso e tem em média de 1 a 2 cm de espessura, dependendo do clima é mais grosso ou mais fino, dando a temperatura certa para os ovos e filhotes. Hábitos: Característico de ambientes mais abertos, não ocorre em áreas extensamente florestadas, sendo muito comum em cidades. Vive escondido no meio da vegetação baixa e apresenta comportamento característico de movimentar a cauda lateralmente. O canto origina o nome comum, parecendo com um relógio de mesa quando se dá corda. Canta o ano inteiro, bem como nas horas quentes do dia. O casal responde um ao outro, também aproximando-se de uma gravação do canto. É encontrado em áreas urbanas pouco ou bem arborizadas dependendo do local. A distribuição da espécie Todirostrum cinereum ocorre do México à Bolívia, ao Brasil e às Guianas.\n\nPossui oito subespécies:\nTodirostrum cinereum cinereum (Linnaeus, 1766) : Sul da Colômbia, sul da Venezuela, Guianas e norte do Brasil;\nTodirostrum cinereum virididorsale (Parkes, 1976) : Sul do México (Veracruz e Oaxaca);\nTodirostrum cinereum finitimum (Bangs, 1904) : Tropical s México (Tabasco e Chiapas) e Costa Rica;\nTodirostrum cinereum wetmorei (Parkes, 1976) : Área central da Costa Rica e Panamá;\nTodirostrum cinereum sclateri (Cabanis & Heine, 1859) : Sudoeste da Colômbia (Nariño), oeste do Equador e Peru;\nTodirostrum cinereum peruanum (Zimmer, 1930) : Leste do Equador ao leste do Peru (sul de Cuzco);\nTodirostrum cinereum coloreum (Ridgway, 1906) : Sudeste do Brasil (Espírito Santo) até o norte do Paraguai e leste e norte da Bolívia;\nTodirostrum cinereum cearae (Cory, 1916) : Nordeste do Brasil (leste do Pará, Piauí, Ceará, Alagoas e norte da Bahia."
-        },
-        {
-            "_id": "5cba6606d0eb8e000448080d",
-            "inseto": true,
-            "ordem": "Fogo-apagou - Columbina squammata",
-            "reino": "Animalia",
-            "filo": "Chordata",
-            "classe": "Aves",
-            "info": "Características: Mede entre 18 e 22 centímetros de comprimento e pesa entre 48 e 60 gramas. A rolinha fogo-apagou possui as partes superiores de coloração marrom acinzentada, face e peito cinza rosado, a garganta é branca e os abrigos distais das asa também são brancos e formam uma mancha branca visível nas asas quando estão fechadas. A cauda é escura com as pontas das retrizes de cor branca, apresentando uma faixa branca na lateral da cauda, perceptível quando a ave está em voo. Olhos escuros, pernas rosadas e bico cinza, este típico das aves columbiformes. Apresenta aparência “escamada” causada pelas bordas escuras das penas desta ave. A característica mais marcante desta espécie é o padrão escamado da plumagem, que lhe proporciona eficiente camuflagem. Quando em voo é possível ver uma faixa branca na base da asa, suas rêmiges primárias são de cor castanha. Alimentação: Alimenta-se no chão, andando com a barriga quase arrastando no solo. Quando assustada, voa bruscamente para árvores próximas. Uma árvore chamada Crindiuva (Trema micrantha) dá um dos frutos prediletos dessa espécie. Reprodução:Faz ninho de gravetos em formato de xícara, normalmente a 1 ou 2 metros de altura, às vezes também no chão. Põe 2 ovos brancos. Hábitos: A fogo-apagou é uma rolinha de hábitos geralmente discretos, que anda em casais ou pequenos grupos pelas bordas de matas, cerradões, pomares, parques e outros tipos de vegetação, excluindo-se os muito abertos ou muito fechados. Seu silêncio só é quebrado pela vocalização, que a ave só emite empoleirada em locais bem escondidos, e pelo ruído produzido pelas asas quando a ave alça voo, lembrando um gemido. No Sudeste é tida como espécie arisca, sendo muito mais ouvida do que vista em cidades como Campinas ou Ribeirão Preto, mas é curioso notar que em Brasília ou Goiânia a fogo-apagou aproxima-se muito mais das pessoas, ciscando nas calçadas da mesma forma que a rolinha-roxa (Columbina talpacoti). Ornitólogos e observadores de aves do estado de São Paulo vêm relatando um certo declínio nas populações desta espécie. Muitos atribuem este declínio à competição com a pomba-de-bando (Zenaida auriculata), que vem aumentando sua distribuição e abundância. Distribuição Geográfica: Presente nas regiões Nordeste, Centro-oeste e nos estados de São Paulo, Paraná e Rio Grande do Sul. Encontrada também da Guiana Francesa e Venezuela ao Paraguai e Argentina.\n\nPossui duas subespécies reconhecidas:\n\nColumbina squammata squammata (Lesson, 1831) ocorre em grande parte do Leste Brasil, do Sul do Pará até o Norte do Rio Grande do Sul, na Bolívia, Paraguai e Nordeste da Argentina;\nColumbina squammata ridgwayi (Richmond, 1896) ocorre da região costeira Nordeste da Colômbia até a Venezuela, nas Ilhas de Margarita e Trinidad. Possui mais negro na ponta das penas que a forma nominal."
-        }
+      {
+        "_id": "5a25ccb26132ff0a62d50ade",
+        "info": "A ordem hymenoptera é um dos maiores grupos de insetos que existe as vespas, abelhas, formigas. As fêmeas possuem ovopositor, o que permite a perfuração do hospedeiro e pode por muitas vezes estar modificado por um ferrão. Possuem olhos bastante desenvolvidos podendo ser por milhares de omatídeos. O aparelho bucal é do tipo lambedor (nas abelhas) e mastigador nos demais. Possuem quatro asas membranosas, onde as posteriores são maiores que as anteriores. Algumas são ápteras, isso vai depender da casta em que ela se encontra, como nas formigas. Se desenvolvem através de metamorfose completa. Insetos sociais, como os hymenópteros, trabalham juntos para realizar grandes tarefas. Como no caso das abelhas da espécie: Apis melífera, da família: apidae. Esta por sua vez é uma abelha social de origem europeia, seu habitat é bastante diversificado, inclui savanas, florestas tropicais, deserto, regiões litorâneas e montanhosas.",
+        "ordem": "Abelha ",
+        "filo": "Arthropoda\t",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25cd076132ff0a62d50adf",
+        "info": "São agrupados nessa ordem os gafanhotos, as esperanças, os grilos, as paquinhas e as taquarinhas. Esses insetos possuem o terceiro par de perna do tipo saltatório. Cabeça muito variável quanto à forma. Muitas espécies apresentam cabeça consideravelmente prolongada entre os olhos. Possuem antenas filiformes. O aparelho bucal é mastigador. As fêmeas podem apresentar ovopositor longo com aspectos de laminas. Pernas anteriores e medianas ambulatórias, nas paquinhas o par anterior é fossorial. Na maioria das espécies há dois pares de asas, sendo o anterior do tipo tégmina e o posterior membranoso. A maioria dos orthopteros apresentam tímpanos (órgãos auditivos) localizados de cada lado de cada do primeiro urômetro.",
+        "ordem": "Gafanhoto",
+        "filo": "Arthropoda\t",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25cd4f6132ff0a62d50ae0",
+        "info": "Os mantídeos são bem conhecidos pelo nome de “louva-deus”, devido atitude de característica que tomam quando pousados. Pernas anteriores raptatórias. Corpo na maioria das espécies achatado. Antenas setáceas, filiformes. Aparelho bucal mandibulado hipognato. Pernas medias posteriores ambulatórias, as anteriores raptatórias, mais ou menos robustas. Os mantídeos são os únicos insetos que apresentam pernas anteriores desse tipo. Asas anteriores tegminosas, em geral grandes, foliáceas, excedendo o abdômen em ambos os sexos.\n",
+        "ordem": "Louva-a-Deus",
+        "filo": "Arthropoda\t",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25cda56132ff0a62d50ae1",
+        "info": "As baratas são exopterigota neóptera com corpo dorso ventralmente achatado e cabeça com as peças bucais mastigadoras dirigidas para baixo (hipognatos). As asas anteriores, quando presentes, são do tipo pergamináceas, podendo ser branquipteras ou ausentes, mas com asas posteriores (se presentes) inteiramente membranosas. Fêmeas com ovopositor oculto e machos com genitália assimétrica; cercos presentes, variando de um a muitos artículos. Os ovos geralmente são depositados numa ooteca. As baratas colonizam os mais diversos habitats. A maioria é noturna, geralmente\nencontradas ao nível do solo e escondidas em cascas de árvores, troncos caídos e pedras durante o dia. Uma das espécies bastante comum nos lares são as da família (Blattidae), são inconfundíveis com o corpo plano, corpo oval, cabeça hipognata em posição ventral relativa ao tórax, aparelho bucal mastigador, que lhes permite alimentar-se de todo tipo de material orgânico, antenas filiformes e compridas, quase do tamanho do corpo.",
+        "ordem": "Barata",
+        "filo": "Arthropoda\t",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25ceac6132ff0a62d50ae3",
+        "info": "São caracterizados por praticar mimetismo. Medem cerca de 10-300 mm de comprimento. Possuem cabeça pequena, antenas do tipo filiforme, aparelho bucal mastigador, pernas ambulatórias. Podem ter ou não asas, mas quando tem são maus voadoras. São hemimetábolas. Presentes em alguma espécie partenogênese. Produzem poucas proles. Os machos são menores que a fêmea. Vivem sobre as folhas e troncos. Possuem movimentos lentos. Os phasmatidae são uma família de “insetos de vara”, os phasmatidae são capazes de regenerar membros e comumente se reproduzem pela partenogênese. Apesar da aparência, são inofensivos.",
+        "ordem": "Mané magro",
+        "filo": "Arthropoda\t",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25ce156132ff0a62d50ae2",
+        "info": "Libélulas são insetos de abdômen alongado. Possuem dois pares de asas, de envergadura que varia entre dois e vinte centímetros, e podem funcionar separadamente, de acordo com a velocidade do voo. Seus olhos compostos conferem excelente visão panorâmica e auxiliam na busca por alimentos e fuga de predadores. Alimenta-se de girinos, peixes juvenis e insetos inclusive indivíduos da própria espécie. Vivem em regiões próximas a água limpa, local onde vive o estágio larval. Assim que uma libélula nasce, permanece no ambiente aquático por aproximadamente cinco anos, passando por várias metamorfoses até chegar a forma adulta. As libélulas da família libellulidae, são de extrema importância, não apresentam coloração metálica e os machos frequentemente exibem uma pruinosidade sobre o corpo. Os olhos se encontram no topo da cabeça, em maior e menor extensão. Nesta família, a vênação das asas apresenta uma diferença marcante entre as asas posteriores e anteriores, além desta também existe a família cordulidae, a diferença entre elas são a ausência do triangulo anal na asa posterior e a ausência de aurículas no segundo segmento abdominal.\n",
+        "ordem": "Libélula, ziguezague",
+        "filo": "Arthropoda\t",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25cf176132ff0a62d50ae4",
+        "info": "Mariposas e borboletas fazem parte desta ordem. Possuem cabeça, tórax, abdômen e um par de antenas, um par de olhos compostos e aparelho sugador. As asas são recobertas por escamas facilmente destacáveis, caso manuseadas. Os lepidópteros são o segundo maior grupo de insetos e são adaptados aos mais diferentes ambientes. O desenvolvimento é indireto, dividido nas fases: ovo, lagarta, crisalida e adulta. Ao contrário das borboletas, a maioria das espécies de mariposas possui hábitos noturnos, antenas não-clavadas, asas estendidas sobre o corpo quando em repouso, com cores escuras na maioria dos indivíduos e corpo gordo, com aspecto “peludo”. Já as borboletas são mais diurnas, possuem antenas clavadas, asas levantadas e fechadas verticalmente ao corpo quando em repouso, com cores brilhantes e variadas e corpo fino com poucas cerdas. Dentre as várias famílias de borboleta existe a monarca (Danaus plexippus) da família: Nymphalidae. A borboleta monarca começa sua vida como um ovo por uma fêmea adulta numa folha de planta de serralha. São do tamanho da cabeça de um alfinete e quando choca, 3 a 12 dias depois, nasce a pequena lagarta com riscas brancas, amarelas e pretas, com oito pares de pernas curtas para trepar e partes da boca desenhada para mastigar as folhas. Os esfingídeos (Sphingidae: lepidóptera) são, em sua maioria, mariposas de hábitos noturnos caracterizados por asas e abdômen afilados que propiciam notável capacidade de voo. Os adultos alimentam-se de néctar de néctar e são importantes polinizadores de plantas esfigófilas, as quais apresentam longos tubos florais.",
+        "ordem": "Borboleta",
+        "filo": "Arthropoda",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25cf696132ff0a62d50ae5",
+        "info": "Os coleópteros (coleóptera) constituem uma ordem de insetos popularmente conhecidos como besouros, mas também como joaninhas, escaravelhos, gorgulhos entre outros. As importantes características dos besouros são: um par de asas anteriores rígidas, conhecidas como élitros, que protegem como um estojo as asas posteriores, que são membranosas e delicadas. A ordem coleóptera possui o maior número de espécies dentre todos os seres vivos. Os coleópteros apresentam uma enorme diversidade morfológica. Ocupam praticamente qualquer habitat. Os besouros\nsão geralmente caracterizados por um rígido exoesqueleto, bem como por rígidos élitros. O exoesqueleto do besouro é composto por numerosas camadas de placas de quitina, chamadas de escleritos, que são separadas por suturas finas. São divididas em três seções: cabeça, tórax e abdômen. Algumas famílias da ordem coleóptera são: Aderidae, Cleridae, Carabidae, Cerambycidae, Drillidae, Clambidae, Cucujidae, etc.",
+        "ordem": "Joaninhas",
+        "filo": "Arthropoda",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25cfb66132ff0a62d50ae6",
+        "info": "Compreende a 85.000 mil espécies. As peças bucais sugadoras picadoras formam um rostro articulado, mandíbulas e maxilas tem a forma de estiletes e repousa dentro de um sulco dorsal do lábio; asas membranosas; pronoto grande. Os hemípteros ocorrem em todo mundo e em virtualmente todos os habitats. A maioria dos hemípteros é herbívoro, embora muitos predam outros artrópodes ou vertebrados. A produção de som, através de uma série de mecanismos, é muito difundida na ordem. Muitos hemípteros apresentam coloração críptica ou mimetizam outros insetos; o mimetismo\nde formigas é especialmente comum. Alguns percevejos com antenas de 5 segmentos antenais e escutelo bastante desenvolvido. É formada por 14 famílias; as mais comuns são: família Pentatomidae: escutelo geralmente plano, estendido até a base da membrana do hemiélitro. Tíbias desprovidas de espinho. É a família mais numerosa dessa superfamília.\n",
+        "ordem": "Percevejos",
+        "filo": "Arthropoda",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5a25d0416132ff0a62d50ae7",
+        "info": "As moscas são um extenso grupo de insetos da ordem Díptera. Os insetos desta ordem possuem um corpo com a cabeça, tórax e abdômen; a maioria distingue-se prontamente dos outros insetos alados por possuir apenas um par de asas desenvolvido, correspondente ao par anterior, tendo o par posterior atrofiado e transformado em pequenas estruturas clavadas denominadas balancins ou halteres, responsáveis pelo equilíbrio durante o voo. A Díptera é uma ordem enormíssima que engloba aproximadamente um milhão de espécies. As moscas têm uma cabeça móvel,\ncom um grande par de olhos compostos por centenas de facetas sensíveis à luz individualmente, e aparelho bucal adaptado à perfuração e sucção. O seu ciclo de vida é holometabólico, isto é, que passa por várias fases morfológicas, que no caso da mosca são quatro: ovo, larva, pupa e fase adulta; os ovos são depositados numa fonte de alimento larval e as larvas, sem quaisquer membros, crescem num ambiente protegido, muitas das vezes dentro da sua própria fonte alimentar. A pupa consiste numa cápsula resistente da qual o adulto emerge assim atingir todo o seu desenvolvimento;  maioria das moscas têm uma vida muito curta depois de alcançarem a fase adulta. Algumas espécies completam este ciclo em poucos dias e outras num ou dois meses. A família Culicidae é uma família de insetos habitualmente chamados de mosquitos e pernilongos. As fêmeas em muitas regiões são designadas vulgarmente como melgas. Como os outros membros da ordem Díptera, os mosquitos têm um par de asas e um par de halteres. Em geral, apresentam dimorfismo sexual acentuado: as fêmeas apresentam antenas pilosas e são muito mais corpulentas que os machos, que apresentam antenas plumosas. As fêmeas na maioria das espécies de mosquitos sugam sangue (hematófaga) de outros animais.",
+        "ordem": "Moscas",
+        "filo": "Arthropoda",
+        "classe": "Insecta",
+        "reino": "Animalia",
+        "inseto": true
+      },
+      {
+        "_id": "5b64bd784805a90004357ffd",
+        "inseto": true,
+        "ordem": "Arapaçu-de-bico-branco - Dendroplex picus",
+        "reino": "Animalia",
+        "filo": "‎Chordata",
+        "classe": "Aves",
+        "info": "Um dos cantos mais bonitos e frequentes nas matas do parque. Muitas pessoas confundem essa ave com um pica-pau pelo seu hábito de subir em troncos e caçar insetos \nnas cavidades das árvores. \nFoto: Cecília Licarião"
+      },
+      {
+        "_id": "5b6993bb0ef4110004a5b6e6",
+        "inseto": true,
+        "ordem": "Surucuá-de-barriga-vermelha - Trogon curucui",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Aves",
+        "info": "Essa ave chama atenção pelo peito avermelhado. Tem o hábito de ficar pousado nos galhos das arvores observando suas possíveis presas como lagartas, cigarras, besouros e aranhas. Fazem seus ninhos em cupinzeiros assim como os periquitos-de-encontro-amarelo. \nFoto: Cecília Licarião"
+      },
+      {
+        "_id": "5b6993ed0ef4110004a5b6e7",
+        "inseto": true,
+        "ordem": "Mão-pelada - Procyon cancrivorus",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Mammalia",
+        "info": "Também conhecido como guaxinim, o mão-pelada recebe esse nome pelos seus longos membros com pouco pelo e suas grandes mãos que utiliza para mexer na lama a procura de insetos e crustáceos. Seus pelos pretos ao redor dos olhos lembram uma máscara.\nFoto: Ryskas"
+      },
+      {
+        "_id": "5b6994350ef4110004a5b6e8",
+        "inseto": true,
+        "ordem": "Soín - Callithrix jacchus",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Mammalia",
+        "info": "Também chamado de sagui, esse simpático marcado é caracterizado pelos tufos brancos em torno das orelhas e pela cauda maior que o corpo, que o ajuda a se equilibrar. O Soín pode ser visto em várias áreas do parque, principalmente no interior das trilhas, muito curiosos, se aproximam facilmente dos humanos. Esses animais se alimentam de frutos, seiva, insetos e ovos que encontram pelo Parque. Por isso, é importante destacar que é proibido alimentá-los, pois isso pode influenciar no seu equilíbrio ecológico e saúde, além de evitar acidentes. Lembre-se, esses macacos transmitem raiva através da sua mordida. \nFoto: Cecília Licarião"
+      },
+      {
+        "_id": "5b6994850ef4110004a5b6e9",
+        "inseto": true,
+        "ordem": "Raposa; graxaim-do-mato - Cerdocyon thous",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Mammalia",
+        "info": "De hábito alimentar pouco restritivo, as raposas podem ser avistadas no Parque do Cocó em suas trilhas, demonstram capacidade de utilizar ambientes perturbados pela ação do homem. Atualmente está sendo mais vista nas trilhas do parque, geralmente solitárias ou em dupla.\nFoto: Thais Abreu"
+      },
+      {
+        "_id": "5b6996070ef4110004a5b6ee",
+        "inseto": true,
+        "ordem": "Iguana - Iguana iguana",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Reptilia",
+        "info": "O maior lagarto do parque, podendo atingir 1,5 metros. Pode ser observado no chão ou em cima das árvores. Quando jovens são verdes, a medida que vão envelhecendo ficam cinza. \nFoto: Cecília Licarião"
+      },
+      {
+        "_id": "5b69952b0ef4110004a5b6eb",
+        "inseto": true,
+        "ordem": "Muçum  - Synbranchus marmoratus",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Actinopterygii",
+        "info": "Esse peixe tem o formato alongado e cilíndrico que lembra uma cobra ou uma enguia. Uma característica interessante dessa espécie é que ela possui uma faringe bem vascularizada que funciona como “pulmões”, que permite que esse peixe respire fora da água. Na sua reprodução, os machos é que tomam conta dos ninhos.\nFoto: Paul-Louis Oudart"
+      },
+      {
+        "_id": "5cba6008d0eb8e0004480807",
+        "inseto": true,
+        "ordem": "Choca-do-planalto - Thamnophilus pelzelni",
+        "reino": "Animalis",
+        "filo": "Chordata",
+        "classe": "Aves",
+        "info": "Características: Espécie recentemente separada de choca-bate-cabo (Thamnophilus punctatus), pode ser sintópica com choca-da-mata (Thamnophilus caerulescens), da qual difere pela plumagem mais pálida nos machos. Já a fêmea apresenta o dorso ruivo e não marrom como em choca-da-mata (Thamnophilus caerulescens).Alimentação: Alimenta-se de insetos que captura por entre as folhas e galhos no extrato baixo da vegetação, durante a alimentação pode acompanhar espécies como: choro-boi (Taraba major), choquinha-lisa (Dysithamnus mentalis) e choca-da-mata (Thamnophilus caerulescens). Hábitos: É uma espécie comum, ocorrendo em maior densidade ao norte de sua área de distribuição, onde ocupa hábitats continuamente ameaçados por monoculturas e extração de madeira. Distribuição Geográfica: Ocorre em uma ampla região que vai da área central do Brasil (onde ocupa principalmente matas de galeria) até a região Nordeste."
+      },
+      {
+        "_id": "5cba6121d0eb8e0004480808",
+        "inseto": true,
+        "ordem": "Gavião-carijó - Rupornis magnirostris",
+        "reino": "Aminalia",
+        "filo": "Chordata",
+        "classe": "Aves",
+        "info": "Características: Mede de 31 a 41 centímetros de comprimento , e o peso do macho varia entre 206-290 gramas e da fêmea 257-350 gramas , sendo os machos 20% menores que as fêmeas. Há grande diferença entre os adultos e os imaturos, sendo que os últimos podem ser confundidos com vários outros gaviões, pois apresentam a coloração marrom-carijó. Já os adultos apresentam a ponta do bico negra com a base amarelada; a cabeça e a parte superior das asas são amarronzadas, mas tornam-se cinza à medida que a ave amadurece. O peito é ferruginoso e apresenta largas estrias verticais. O ventre e as pernas são brancos, com primoroso barrado ferrugíneo. A base da cauda é branca, mas vai se tornando barrada em direção à extremidade. Existem duas listras negras bem visíveis na extremidade da cauda. Quando em voo, suas asas são largas e de comprimento médio. A coloração básica da parte inferior das asas é o bege estriado com finas listras escuras. Bico recurvado escuro com cere amarela. A íris é clara. Os tarsos e pés são amarelos e apresentam garras escuras.Subespécies. Alimentação: Sua ampla distribuição geográfica também se reflete nos seus hábitos alimentares generalistas, pois consome desde insetos até aves e lagartos. Procura os abrigos diurnos de morcegos para atacá-los enquanto dormem. Ataca ninhos de outras aves e por isso é ferozmente perseguido por suiriris, bem-te-vis e tesourinhas.\nReprodução: O gavião-carijó vive em casais que constroem um ninho de gravetos revestido por folhas com cerca de meio metro de diâmetro, geralmente no topo de uma árvore grande. As fêmeas apresentam os dois ovários desenvolvidos, em vez de apenas o esquerdo como as outras aves. A postura de em média 2 ovos é depositada sobre um revestimento de folhas secas e incubada pela fêmea. Durante este período de cerca de um mês, a fêmea é alimentada pelo macho. Os ovos são geralmente manchados, de cor muito variável, até dentro de uma mesma postura. Quando está reproduzindo pode tornar-se agressivo, atacando até mesmo seres humanos que se aproximem de seu ninho.\n\nPossui doze subespécies reconhecidas:\nRupornis magnirostris magnirostris (Gmelin, 1788) - ocorre do oeste do Equador até as Guianas e na Amazônia brasileira.\nRupornis magnirostris griseocauda (Ridgway, 1874) - ocorre do México até o noroeste da Costa Rica e no oeste do Panamá.\nRupornis magnirostris conspectus (J. L. Peters, 1913) - ocorre do sudoeste do México (nas regiões de Tabasco e na Península de Yucatán) até o norte de Belize.\nRupornis magnirostris sinushonduri (Bond, 1936) - ocorre em Honduras, nas ilhas de Bonacca e Roatán.\nRupornis magnirostris petulans (P. L. Sclater & Salvin, 1869) - ocorre no sudoeste da Costa Rica e no oeste do Panamá e nas ilhas adjacentes.\nRupornis magnirostris alius (J. L. Peters & Griscom, 1929) - ocorre nas Ilhas Pérola (San José e San Miguel) no Golfo do Panamá.\nRupornis magnirostris occiduus (Bangs, 1911) - ocorre no oeste da Amazônia brasileira, no Peru e no norte da Bolívia.\nRupornis magnirostris saturatus (P. L. Sclater & Salvin, 1876) ocorre do sudoeste do Brasil até o Paraguai, Bolívia e no oeste da Argentina.\nRupornis magnirostris nattereri (P. L. Sclater & Salvin, 1869) - ocorre no nordeste do Brasil, até o sul do estado da Bahia.\nRupornis magnirostris magniplumis (W. Bertoni, 1901) - ocorre do sudeste e sul do Brasil até o nordeste da Argentina, na província de Misiones e na região adjacente do Paraguai.\nRupornis magnirostris pucherani (J. Verreaux & E. Verreaux, 1855) - ocorre no Uruguai e no noroeste da Argentina ao sul da Província de Buenos Aires.\nRupornis magnirostris gracilis (Ridgway, 1885) - ocorre nas ilhas de Cozumel e Holbox ao largo da Península de Yucatán.\n\n"
+      },
+      {
+        "_id": "5cba620cd0eb8e0004480809",
+        "inseto": true,
+        "ordem": "Pica-pau-anão-da-caatinga - Picumnus limae",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Aves",
+        "info": "Características: Mede apenas 10 cm de comprimento. Possui o corpo pardo com a parte inferior uniformemente amarelada e uma coroa preta pontilhada de branco na cabeça. A diferença entre fêmea e macho é que este ultimo possui, na coroa, uma faixa vermelha. A área abaixo dos olhos é castanha. As pernas são curtas e os pés, relativamente grandes, servem para dar melhor apoio quando pousa na ponta de um galho. Alimentação: Pode ser observado alimentando-se em bambuzais e pomares abandonados, diferentemente de outras espécies de pica-paus. Reprodução:\nNa época reprodutiva, o casal procura uma árvore, sobretudo as que estão secas e mortas, e constrói uma cavidade, forrada apenas com pequenos pedaços de madeira extraídos durante sua confecção. Ali, a fêmea deposita seus ovos de cor branca claríssima e brilhante. Na incubação dos ovos, macho e fêmea se revezam. Os filhotes são alimentados com larvas de insetos. Hábitos: Habita em áreas de caatinga e capoeiras. É ameaçado principalmente pela expansão da agricultura, com a ampliação das áreas de pasto e queimadas. Por ter uma população reduzida, torna-se sensível à fragmentação do habitat. Na Serra do Baturité resta apenas 1% da vegetação original, e paira uma constante ameaça de novas queimadas ou da construção de novas pousadas. Distribuição Geográfica: É considerado pela literatura existente como restrita às serras de Ibiapaba, Baturité e Aratanha, Ceará (Burn, 2002), mas a distribuição real parece ser bem mais ampla no estado (Weber Silva e Ciro Albano, obs. pess.).\n\n"
+      },
+      {
+        "_id": "5cba62a7d0eb8e000448080a",
+        "inseto": true,
+        "ordem": "Choca-barrada-do-nordeste - Thamnophilus capistratus",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Aves",
+        "info": "Características: É muito semelhante a choca-barrada(Thamnophilus doliatus), da qual foi separada recentemente, porém se diferencia desta pela cor da íris vermelha-alaranjada. Em que os machos têm coroa preta uniforme (sem brancos em restrição à base) e as fêmeas têm listras na garganta e na barriga levemente barradas. Reprodução: Constrói ninho em forma de taça que costuma ser construído em arbustos fechados da caatinga. Os ovos, geralmente dois, são incubados pelo casal por cerca de duas semanas. O casal se reveza na alimentação dos filhotes, que levam mais duas semanas para abandonar o ninho. Hábitos: Vive na caatinga nordestina. É encontrado em uma vasta gama de habitats florestais (mesmo jardins e parques), em ambas as regiões áridas e úmidas. Durante grande parte da sua gama, é comum entre os membros da família Thamnophilidae, formando uma maioria. Distribuição Geográfica: Endêmica do Brasil, ocorre nos estados da região Nordeste e no norte de Minas Gerais.\n\n"
+      },
+      {
+        "_id": "5cba63f8d0eb8e000448080b",
+        "inseto": true,
+        "ordem": "Beija-flor-de-barriga-branca - Amazilia leucogaster",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Aves",
+        "info": "Características: Mede entre 9 e 10 centímetros de comprimento e pesa entre 4 e 4,5 gramas. (Weller, Kirwan e Boesman, 2016). É um beija-flor de bico reto com base da mandíbula rosada, partes inferiores brancas imaculadas, mancha pós-ocular branca, além de fronte, face e dorso verde-brilhante.Alimentação: Alimenta-se essencialmente do néctar retirado das flores. Come também pequenos insetos e outros tipos de invertebrados, como pequeninos caramujos. Hábitos: Esta espécie está associada a diferentes tipos de formação vegetal, como manguezais, restingas e plantações diversas. É um dos beija-flores mais comuns em bebedouros com “néctar” disponibilizados pela ação humana, e é bastante territorialista com relação à área que tal bebedouro está presente, podendo assim, expulsar outras espécies de “seu território”.Distribuição Geográfica:\nOcorre na faixa litorânea da porção setentrional do país, entre os estados da Bahia e Roraima.\n\nSubespécies\nPossui duas subespécies reconhecidas:\nAmazilia leucogaster leucogaster (Gmelin, 1788) - ocorre do Leste da Venezuela até as Guianas e o Norte do Brasil;\nAmazilia leucogaster bahiae (Hartert, 1899) - ocorre na costa Nordeste do Brasil, dos estados de Pernambuco até o Sul do estado da Bahia.\n(Piacentini et al., 2015; Integrated Taxonomic Information System, 2015).\n"
+      },
+      {
+        "_id": "5cba6501d0eb8e000448080c",
+        "inseto": true,
+        "ordem": "Ferreirinho-relógio - Todirostrum cinereum",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Aves",
+        "info": "Características: O vivo contraste entre o cinza-azulado escuro da cabeça com a parte ventral amarela chama a atenção quando observado. O restante das partes superiores é lavado de tom oliváceo, enquanto as penas longas das asas são bordejadas de amarelo. A cauda é escura, mas, vista por baixo, nota-se que as penas laterais possuem uma grande área branca na ponta. Os olhos são amarelo-ouro, destacados contra a área mais escura da parte frontal da cabeça, quase uma máscara. Bico longo e chato, escuro e também notável. Mede 8-10 cm de comprimento e pesa cerca de 4-7,5 gramas. O dimorfismo sexual é pouco aparente, restringindo-se a uma marcação esbranquiçada discreta no píleo, para as fêmeas (segundo Sigrist).Alimentação: Alimenta-se de dípteros e lepidópteros (Hesperiidae – Urbanus sp.) e outros. Ativo o dia inteiro, caça invertebrados no meio das folhagens da copa e baixa até 2 metros do chão. Reprodução: Reproduz de julho a novembro. Constrói um característico ninho pendurado na ponta de galho fino, feito de restos de folhas, galhos finos e secos e painas. Amarra e entrelaça os galhos secos, as folhas e as painas, que vão ser forradas dentro do ninho para aquecer os filhotes. As folhas ficam por fora camuflando o ninho e os galhos são usados para deixar firme a estrutura do ninho. O material é colocado úmido e as partes aderem entre si, ao secar. Parte do material fica pendente, camuflando o ninho. Esse material são as folhas e alguns galhos que não só camuflam mas aquecem os ovos ou filhotes e deixam mais firme o ninho. Característica entrada lateral com pequeno telhado protegendo. Muitas vezes, o material de um ninho velho próximo é retrabalhado para a reprodução seguinte. Surpreende a resistência do ninho, aguentando chuvas fortes e ventos. O ninho é muito bem trancado e não deixa a chuva entrar e nem o frio, é tão fechado que se você o abrir sentirá sair calor de dentro dele; o calor mantém os filhotes vivos sem passar frio, que normalmente são de 2 a 3. Esse ninho tão bem feito, na maioria das vezes é grosso e tem em média de 1 a 2 cm de espessura, dependendo do clima é mais grosso ou mais fino, dando a temperatura certa para os ovos e filhotes. Hábitos: Característico de ambientes mais abertos, não ocorre em áreas extensamente florestadas, sendo muito comum em cidades. Vive escondido no meio da vegetação baixa e apresenta comportamento característico de movimentar a cauda lateralmente. O canto origina o nome comum, parecendo com um relógio de mesa quando se dá corda. Canta o ano inteiro, bem como nas horas quentes do dia. O casal responde um ao outro, também aproximando-se de uma gravação do canto. É encontrado em áreas urbanas pouco ou bem arborizadas dependendo do local. A distribuição da espécie Todirostrum cinereum ocorre do México à Bolívia, ao Brasil e às Guianas.\n\nPossui oito subespécies:\nTodirostrum cinereum cinereum (Linnaeus, 1766) : Sul da Colômbia, sul da Venezuela, Guianas e norte do Brasil;\nTodirostrum cinereum virididorsale (Parkes, 1976) : Sul do México (Veracruz e Oaxaca);\nTodirostrum cinereum finitimum (Bangs, 1904) : Tropical s México (Tabasco e Chiapas) e Costa Rica;\nTodirostrum cinereum wetmorei (Parkes, 1976) : Área central da Costa Rica e Panamá;\nTodirostrum cinereum sclateri (Cabanis & Heine, 1859) : Sudoeste da Colômbia (Nariño), oeste do Equador e Peru;\nTodirostrum cinereum peruanum (Zimmer, 1930) : Leste do Equador ao leste do Peru (sul de Cuzco);\nTodirostrum cinereum coloreum (Ridgway, 1906) : Sudeste do Brasil (Espírito Santo) até o norte do Paraguai e leste e norte da Bolívia;\nTodirostrum cinereum cearae (Cory, 1916) : Nordeste do Brasil (leste do Pará, Piauí, Ceará, Alagoas e norte da Bahia."
+      },
+      {
+        "_id": "5cba6606d0eb8e000448080d",
+        "inseto": true,
+        "ordem": "Fogo-apagou - Columbina squammata",
+        "reino": "Animalia",
+        "filo": "Chordata",
+        "classe": "Aves",
+        "info": "Características: Mede entre 18 e 22 centímetros de comprimento e pesa entre 48 e 60 gramas. A rolinha fogo-apagou possui as partes superiores de coloração marrom acinzentada, face e peito cinza rosado, a garganta é branca e os abrigos distais das asa também são brancos e formam uma mancha branca visível nas asas quando estão fechadas. A cauda é escura com as pontas das retrizes de cor branca, apresentando uma faixa branca na lateral da cauda, perceptível quando a ave está em voo. Olhos escuros, pernas rosadas e bico cinza, este típico das aves columbiformes. Apresenta aparência “escamada” causada pelas bordas escuras das penas desta ave. A característica mais marcante desta espécie é o padrão escamado da plumagem, que lhe proporciona eficiente camuflagem. Quando em voo é possível ver uma faixa branca na base da asa, suas rêmiges primárias são de cor castanha. Alimentação: Alimenta-se no chão, andando com a barriga quase arrastando no solo. Quando assustada, voa bruscamente para árvores próximas. Uma árvore chamada Crindiuva (Trema micrantha) dá um dos frutos prediletos dessa espécie. Reprodução:Faz ninho de gravetos em formato de xícara, normalmente a 1 ou 2 metros de altura, às vezes também no chão. Põe 2 ovos brancos. Hábitos: A fogo-apagou é uma rolinha de hábitos geralmente discretos, que anda em casais ou pequenos grupos pelas bordas de matas, cerradões, pomares, parques e outros tipos de vegetação, excluindo-se os muito abertos ou muito fechados. Seu silêncio só é quebrado pela vocalização, que a ave só emite empoleirada em locais bem escondidos, e pelo ruído produzido pelas asas quando a ave alça voo, lembrando um gemido. No Sudeste é tida como espécie arisca, sendo muito mais ouvida do que vista em cidades como Campinas ou Ribeirão Preto, mas é curioso notar que em Brasília ou Goiânia a fogo-apagou aproxima-se muito mais das pessoas, ciscando nas calçadas da mesma forma que a rolinha-roxa (Columbina talpacoti). Ornitólogos e observadores de aves do estado de São Paulo vêm relatando um certo declínio nas populações desta espécie. Muitos atribuem este declínio à competição com a pomba-de-bando (Zenaida auriculata), que vem aumentando sua distribuição e abundância. Distribuição Geográfica: Presente nas regiões Nordeste, Centro-oeste e nos estados de São Paulo, Paraná e Rio Grande do Sul. Encontrada também da Guiana Francesa e Venezuela ao Paraguai e Argentina.\n\nPossui duas subespécies reconhecidas:\n\nColumbina squammata squammata (Lesson, 1831) ocorre em grande parte do Leste Brasil, do Sul do Pará até o Norte do Rio Grande do Sul, na Bolívia, Paraguai e Nordeste da Argentina;\nColumbina squammata ridgwayi (Richmond, 1896) ocorre da região costeira Nordeste da Colômbia até a Venezuela, nas Ilhas de Margarita e Trinidad. Possui mais negro na ponta das penas que a forma nominal."
+      }
     ]
-}
+  }

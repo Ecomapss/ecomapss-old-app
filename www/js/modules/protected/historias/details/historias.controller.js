@@ -23,6 +23,7 @@
         EntitiesService
           .getByIndex($state.params.index, 'historia')
           .then(function (result) {
+            console.log(result)
             vm.historia = result
           })
       }
