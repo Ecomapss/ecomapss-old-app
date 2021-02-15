@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.mapflora203102" version="2.10.20" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ionicframework.mapflora203102" version="2.10.21" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>ecomapss</name>
     <description>Ecomapss - A natureza na palma da sua mão</description>
     <author email="thirdy@ecomapss.com" href="http://ionicframework.com/">Ecomapss Team</author>

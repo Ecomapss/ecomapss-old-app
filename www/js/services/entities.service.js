@@ -83,6 +83,8 @@
               var entity = response.data.Data.filter(function (item) {
                 return item._id == id
               })[0]
+
+              // console.log(id, entity)
               if (entity.inseto) {
                 local = 'fauna'
               } else if (entity.fossil) {

@@ -1,292 +1,558 @@
 {
-    "Error": false,
-    "Data": [
-      {
-        "_id": "5a27a6326132ff0a62d50af1",
-        "titulo": "Parque Estadual Sítio Fundão – Geossítio Batateiras",
-        "info": "Criado pelo Decreto Nº 29.307 de 05/06/2008, na categoria de Unidade de Conservação de Proteção Integral prevista pelo Sistema Estadual de Unidades de Conservação – SNUC, possui como finalidade a prevenção de ecossistemas naturais de grande relevância ecológica e beleza cênica, possibilitando a realização de pesquisas científicas e o desenvolvimento de atividades de educação e interpretação ambiental, de recreação em contato com a natureza e de turismo ecológico. Está localizado no município de Crato – CE e possui uma área de 93,54 ha, apresentando espécies da flora e fauna típicas do bioma Caatinga, edificações históricas tombadas e um pequeno cânion formado pelo rio Batateira, o qual dá nome ao território ao geossítio do Geopark Araripe ( Geossítio Batateiras), área em que está sobreposto, o Pares Sítio Fundão.",
-        "localidade": "Crato - Ceará",
-        "historia": true
-      },
-      {
-        "_id": "5a2946196132ff0a62d50af3",
-        "titulo": "Centro de Visitantes Jeferson da Franca Alencar",
-        "info": "Edificação de raro modelo construtivo, construída em taipa com alpendre elevado, piso superior em madeira. Todas as paredes são de taipa de mão com esteios de aroeira/pau d’arco com distância regular entre eles e envaramento de marmeleiro com fixação de cipó, sendo considerada a única casa de taipa de primeiro andar do Estado. Tombada pela Secretaria de Cultura do Estado em 2013. Transformada em Centro de Visitantes em 2017, recebeu o nome do antigo guardião do local.",
-        "localidade": "Crato - Ceará",
-        "historia": true
-      },
-      {
-        "_id": "5a2946856132ff0a62d50af4",
-        "titulo": "Ruínas do engenho de pau movido por tração animal ",
-        "info": "Engrenagem feita de madeira com tratamento artesanal, era movido a tração animal e é também chamado engenho de pau. Construído em 1904, funcionou até 1944 onde houve o declínio da produção de rapadura no Crato. É exemplar único existente na Região do Cariri. Tombado pela Secretaria de Cultura do Estado em 2013.",
-        "localidade": "Parque Estadual Sítio Fundão",
-        "historia": true
-      },
-      {
-        "_id": "5a2946a66132ff0a62d50af5",
-        "titulo": "Muralha de Pedra",
-        "info": "Pequena barragem construída de pedra e argamassa de cal no  fim do século XIX para represar, nas épocas de seca, as águas do rio Batateiras que corta o Parque Estadual Sítio Fundão. Tombado pela Secretaria de Cultura do Estado em 2013.",
-        "localidade": "Parque Estadual Sítio Fundão",
-        "historia": true
-      },
-      {
-        "_id": "5af0eb819fecb90004bfb81f",
-        "historia": true,
-        "titulo": "Acesso 02 - TRILHA PRINCIPAL  ",
-        "info": "Essa entrada dá acesso a Trilha Principal através da Av. Engenheiro Santana Júnior. Essa trilha passa pelas antigas lavanderias, dando acesso a Trilha Principal e à Trilha da Lagoa.",
-        "localidade": "Acesso  Av. Engenheiro Santana Junior"
-      },
-      {
-        "_id": "5af0ea9f9fecb90004bfb81d",
-        "historia": true,
-        "titulo": "Acesso 03 - TRILHA PRINCIPAL ",
-        "info": "Essa entrada é a mais próxima do trapiche de onde saem os passeios de barco no Rio Cocó que têm duração média de 20 min. Esse é o acesso mais rápido a entrada da Trilha do Rio que possui 150m e é a única que possibilita a contemplação do rio.",
-        "localidade": "Acesso Av. Sebastião de Abreu"
-      },
-      {
-        "_id": "5af0ea259fecb90004bfb81c",
-        "historia": true,
-        "titulo": "Acesso  01 - TRILHA PRINCIPAL",
-        "info": "Esse é o acesso principal à trilha mais extensa do parque (1.350m) que está localizada próxima à Av. Padre Antônio Tomás. A menos de 15m está localizado o posto do Batalhão de Polícia Militar Ambiental que funciona 24h. Esse acesso é o mais próximo ao Centro de Referência Ambiental e ao Anfiteatro onde acontecem as atividades do Viva o Parque aos domingos.",
-        "localidade": "Acesso Av. Pe. Antonio Tomás"
-      },
-      {
-        "_id": "5a2946e46132ff0a62d50af6",
-        "titulo": "Rio Batateira - Formação Rio da Batateira (Krb) - Cretáceo Médio",
-        "info": "Principal Formação Geológica de idade cretácea que caracteriza os sedimentos existentes no Parque Estadual Sítio Fundão. A Formação Batateira ou Formação Rio da Batateira, assim também chamada, é composta basicamente de arenitos médios a grosseiros, de coloração creme a amarelada, que gradam, ascendentemente, para arenitos médios a finos e são seguidos por materiais argilosos e folhelhos (argilas metamorfisadas ou transformadas de coloração amarronzada) que apresentam vestígios de matérias orgânicas e fósseis e que em alguns locais apresentam-se betuminosos, ou seja, encerram pequenas quantidades de betume ou óleo petrolífero. A importância maior da Formação Batateira, que se estende até Missão Velha e Jardim, fica por conta da grande quantidade de água subterrânea de boa qualidade (muito bem mineralizada), que a mesma armazena e que permite o abastecimento das cidades de Crato, Juazeiro, Barbalha, Missão Velha e Jardim, além da grande quantidade de material argiloso que permite a fabricação de produtos cerâmicos (telhas e tijolos).\n",
-        "localidade": "Crato - Ceará",
-        "historia": true
-      },
-      {
-        "_id": "5b64bed04805a90004357ffe",
-        "historia": true,
-        "titulo": "Garças",
-        "info": "Ao todo, são seis representantes da família Ardeidae, sendo a garça-branca-grande e o socó-boi os mais abundantes no parque. Essas aves têm o hábito de se alimentar nas lagoas e no rio, comendo quase tudo que possa caber em seu bico. As garças por serem brancas se destacam na vegetação, já o socó-boi se camufla muito bem. \nFoto: Cecília Licarião",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b64bf434805a90004357fff",
-        "historia": true,
-        "titulo": "Aves do Cocó",
-        "info": "Em seus 1571 ha de área verde o Parque do Cocó abriga cerca de 120 espécies de aves. As mais comuns são as garças, socó-boi, choro-boi, sabiá, sanhaçu, bem-te-vi e suiriri. \nFoto: Cecília Licarião",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b64bf6b4805a90004358000",
-        "historia": true,
-        "titulo": "Pica-paus",
-        "info": "No Parque do Cocó existem cinco tipos de pica-paus diferentes. O mais comum e de menor porte, com apenas 10 cm, é o Pica-pau-anão-da-caatinga e um dos maiores é Pica-pau-branco, que pode chegar a 30 cm e são mais raros.\nFoto: Cecília Licarião",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b64bf884805a90004358001",
-        "historia": true,
-        "titulo": "Maçaricos",
-        "info": "Mais de nove tipos de maçaricos frequentam as lagoas do parque. Algumas das espécies são migratórias, podendo voar mais de 30 mil km em seus deslocamentos. Chegando no parque se alimentam de pequenos invertebrados e peixes. \nFoto: Ciro Albano\n",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b6994e00ef4110004a5b6ea",
-        "historia": true,
-        "titulo": "Crustáceos do Cocó",
-        "info": "Caranguejos – Ao todo são quatro tipos  de caranguejos no parque, sendo o mais comum o aratu e o mais raro o guaiamum, este ameaçado de extinção devido a perda de hábitat e a captura ao longo dos anos. \nFoto: Marcelosan",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b6995580ef4110004a5b6ec",
-        "historia": true,
-        "titulo": "Peixes do Cocó",
-        "info": "Várias espécies de peixes habitam as águas do rio Cocó como o Baiacú-mirim (Sphoeroides testudineus), pema ou camurupim (Megalops atlanticus), bodó ou cascudo (Hypostomus sp.), traíras (Hoplias spp.), linguado-de-água-doce (Achirus lineatus), este último é muito achatado e possui cores muito semelhantes à areia, que facilita a sua camuflagem quando estão enterrados ou muito próximos do fundo do rio.\nFoto: Paul-Louis Oudart",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b6996380ef4110004a5b6ef",
-        "historia": true,
-        "titulo": "Lagoa das ninfeias",
-        "info": "A lagoa das ninfeias fica localizada entre as trilhas principal e a da lagoa, e é coberta por ninfeias que são plantas aquáticas com lindas flores que só desabrocham durante a noite. Dependendo da espécie pode ter flor azul, verde, branca, amarela ou vermelha. \nFoto: SEMA-CE",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b69965c0ef4110004a5b6f0",
-        "historia": true,
-        "titulo": "Ruinas das Salinas",
-        "info": "Nos anos de 1960 aqui se encontrava a Salina Diogo, nesse período o curso do rio foi alterado para facilitar o manejo do sal na área. Em 1980, devido a competição com o mercado de sal do Rio Grande do Norte, a Salina Diogo fechou as suas portas. O fim das atividades na salina permitiu a regeneração do manguezal. ",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b69967e0ef4110004a5b6f1",
-        "historia": true,
-        "titulo": "Lavanderias ",
-        "info": "Historicamente o rio Cocó foi muito utilizado pelas lavadeiras das comunidades do entorno. Em 2006, foram construídas as lavanderias como reivindicação dessas mulheres e também para evitar a poluição do rio pelo lançamento de sabão em suas águas.  As lavanderias foram desativadas um ano depois.",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b6996a10ef4110004a5b6f2",
-        "historia": true,
-        "titulo": "Rio Cocó",
-        "info": "Nasce na serra de Aratanha, em Pacatuba e percorre 42,5 km de extensão, passando pelos municípios de Itaitinga e Maracanaú, e deságua na praia do Caça e Pesca, em Fortaleza. Suas águas banham boa parte da grande Fortaleza, sendo um importante recurso hídrico para essa região.\nFoto: SEMA-CE",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5b6996d60ef4110004a5b6f3",
-        "historia": true,
-        "titulo": "Rio Cocó - passeio de barco",
-        "info": "Nesse trecho ocorre um passeio de barco que acontece durante a semana com agendamentos e finais de semana com o Tenente Araújo (agendamento no 85 98527-8216). O passeio tem duração de 20 minutos e custam 5,00 reais a meia entrada e 10,00 a inteira.\nFoto: SEMA-CE",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5ad110b3e3a2020004da04e9",
-        "historia": true,
-        "titulo": "Área de Relevante Interesse Ecológico - Arie das Águas Emendadas dos Inhamuns",
-        "info": "A Área de Relevante Interesse Ecológico das Águas Emendadas dos Inahmuns está localizada entre os municípios de Tauá, Independência e Pedra Branca, sendo criada pelo Decreto n°31.304, de 24 de janeiro de 2014 localizada no Sítio Tecelão, com área de 407,0366 hectares. A área situa-se no divisor de águas de três importantes rios do Ceará: Jaguaribe, Poti e Banabuiú, distante 280 km de Fortaleza tendo como acesso a BR-222. A área citada enquadra-se no Grupo de Unidades de Conservação de Uso Sustentável, na Categoria de Área de Relevante Interesse Ecológico - ARIE, levando em consideração as normas pautadas no Sistema Estadual de Unidade de Conservação – SEUC/CE. A cobertura vegetal está baseada segundo Fernandes (1998) em Caatinga Arbórea secundária, Caatinga Arbórea arbustiva degradada e Matas ciliares. Nessa região, a cobertura vegetal apresenta-se com aspecto fisionômico próprio da caatinga do tipo hiperxerófila. A caatinga Arbórea Secundária apresenta uma vegetação menos densa, com perda parcial do estrato herbáceo e arbustivo, porém conservando expressa quantidade de elementos arbóreos, característico da sucessão ecológica que sofre a interferência da ação pecuária. A Mata ciliar apresenta-se descaracterizada pela ação antrópica, através do extrativismo vegetal, configurando desta maneira a condição de vegetação secundária. A fauna da região é composta por espécies silvestres, tais como: mamíferos (morcegos, raposa, guaxinim, gato do mato, cotia), répteis (tejo, cobra de cipó, cobra de veado, jiboia, cobra verde, cobra preta, cobra coral,\njararaca, camaleão, bico doce), aracnídeos, insetos e aves (garça branca, sábia, cardeal do nordeste, lavandeira, beija-flor, rolinha, siriema, marreca, bem-te-vi, choró, periquito, asa branca, pica-pau, gavião, falcão, corujas, bacurau, nambu, galo-de-campina, cã-cão, mané besta, carcará dentre outras que ocorre na região da Serra da Lagoa Seca (Sítio Tecelão).\nA área encontra-se na sub-compartimentação do relevo regional maciço residual, com variações altimétricas de 600 a 680 metros de declividade entre 10-45%, com tipologia residual\nmoderada e feições morfológicas de maciço residual em colinas. Já a sua geologia marca o contato das rochas cristalinas pré-cambrianas do complexo Pedra Branca, onde o divisor de águas está situado em sua vertente ocidental da mesma, apresentando aspectos geoambientais em consonância com as intervenções humanas em suas formas de uso e ocupação do solo. Os recursos hídricos na área caracterizam-se tanto pela escassez irregularidade das chuvas como pela sua geologia, não dando condições pra uma taxa de armazenagem elevada, especialmente nos períodos de baixa pluviometria, ocasião em que os recursos hídricos ficam geralmente muito comprometidos. A área abriga nascentes de grandes bacias importantes no Estado do Ceará. A sub-bacia do alto Jaguaribe, a maior entre as cinco que formam a bacia do Jaguaribe, posicionando-se na porção meridional do Estado. A sub-bacia do rio Poti, encontra-se situada na porção ocidental do Ceará. Esse rio, junto com o Macambira, integra um sistema fluvial maior, tendo o rio Parnaíba como principal coletor de\ndrenagem. Já, a sub-bacia do rio Banabuiú abrange os sertões centrais do Ceará. A rede de drenagem é composta por cursos d'água intermitentes, tem suas principais afluentes pela margem esquerda os rios Patu, Quixeramobim e Sitiá e pela margem direita destaca-se apenas o riacho Livramento. O clima da região e do tipo Bsh, definido como seco e semiárido, tipico do polígono das secas, com temperatura de 32° 35°C, com média anual em trono dos 25°C, tendo duas estações distintas, uma chuvosa e outra seca, com 500 a 700 mm de volume pluviométrico anual. Os solos predominantes na Arie das Águas Emendadas dos Inhamuns são os Neossolos Litólicos eutróficos e Luvissolos Crômicos (Embrapa, 1999). O primeiro tipo de solo está caracterizado por perfis pouco desenvolvidos, rasos, com horizontes A ou O hístico com menos de 40 cm, assentado diretamente sobre a rocha ou sobre o horizonte C ou Cr oriundo de elevado grau de intemperização da rocha, com a presença de materiais primários e blocos semi-intemperizados de rocha , estando normalmente associados a uma fase pedregosa e/ou rochosa.",
-        "localidade": "ARIE - Tauá"
-      },
-      {
-        "_id": "5b6995d60ef4110004a5b6ed",
-        "historia": true,
-        "titulo": "Répteis do Cocó - Cobras do Cocó",
-        "info": "Das cobras presentes no parque, as mais comuns são a cobra verde (Philodryas olfersii), a corre campo (Philodryas nattereri) e a jibóia (Boa constrictor). A jiboia é a maior delas, podendo chegar a 4 m, sendo avistada tanto no chão quanto nos troncos das árvores. Vale dizer que nenhuma destas espécies é peçonhenta. \nFoto: Mateus S. Figueiredo\n",
-        "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
-      },
-      {
-        "_id": "5c9761e4556ed20004a26769",
-        "historia": true,
-        "titulo": "Ecotrilha Professor José do Vale Arraes Feitosa",
-        "info": "Vinte e um anos e seis meses depois do seu falecimento, José do Vale Arraes Feitosa ainda é lembrado, na cidade de Crato, como um professor insigne, digno, notável e vocacionado para a nobre missão de educar e lecionar. Ademais, recorda-se o Prof. José do Vale como um cidadão dotado de virtudes e qualidades, de marcante personalidade e de nobreza, no trato com seus semelhantes. Deixou sua cidade de origem – Aiuaba, no Sertão dos Inhamuns – em 1936, aos 17 anos, vindo estudar no Seminário São José de Crato, onde foi aluno até 1941; anos mais tarde foi eleito o primeiro presidente da ADSUM – Associação dos Ex-alunos do Seminário São José. Em 1942 já vamos encontrá-lo como professor do Colégio Diocesano de Crato, onde foi vice-diretor. Lecionou, durante anos, no Colégio Estadual Wilson Gonçalves (onde também foi vice-diretor), na Escola AgroTécnica Federal de Crato e no Ginásio Municipal Pedro Felício Cavalcanti. Em 1946 casa-se com Maria Gisélia Pinheiro Feitosa, com quem teve seis filhos: Gisélia Maria, José do Vale, Amélia Leonarda, Vicente Ricardo, Lúcia Cristina e Paulo César. Em 1965 sua esposa Maria Gisélia faleceu. Em 1968, José do Vale casa-se com Maria do Carmo Feitosa, com quem teve dois filhos: Fernando Eduardo e Diana Maria. Dotado de admirável inteligência, perspicácia e sensibilidade no trato humano, o Prof. José do Vale ganharia relevo nas atividades intelectuais da então pujante cidade de Crato, destacando-se, também, como um excelente orador. Participou ativamente da vida comunitária desta cidade, como protótipo de uma pessoa sensata, cordata, equilibrada e sempre disposta ao aconselhamento e ajuda humanitária. Em 19 de outubro de 1997, o Prof. José do Vale morre, após pertinaz doença, num dos leitos do Hospital São Francisco, em Crato. Hoje é nome de Rua, de escola, de bibliotecas e de uma trilha ecológica no supedâneo da Chapada do Araripe. Sua memória persiste no imaginário popular como uma vida útil, digna e exemplar. (Família Feitosa).",
-        "localidade": "IFCE - Campus Crato"
-      },
-      {
-        "_id": "5ca20d38a05a690004945d56",
-        "historia": true,
-        "titulo": "Biblioteca Professor José do Vale Arraes Feitosa",
-        "info": "Iniciou seu funcionamento em 31 de janeiro de 1974, ainda no Colégio Agrícola de Crato. Em 2013 ganhou um novo, acessível e moderno prédio de 512,25m², dividido em dois andares, com um amplo e climatizado espaço para a disponibilização do acervo, 03 salas de estudo em grupo e 25 cabines de estudo individual, 15 computadores com acesso à internet (Cyber) para acesso ao Sistema SophiA, ao Portal da Capes, Biblioteca Virtual Universitária e Rede WiFi livre em todo ambiente. A Biblioteca tem por finalidade subsidiar o processo de ensino-aprendizagem, organizando, mantendo, disseminando e recuperando informações necessárias ao estudo, pesquisa e extensão da comunidade do campus deste instituto. Possui um acervo de aproximadamente 13.000 títulos (dados de abril de 2019), composto de livros, periódicos, monografias, dicionários, enciclopédias e CD/DVDs, principalmente nas áreas de Informática, Agronomia, Agropecuária, Zoologia, Literatura, com ênfase em livros técnicos e didáticos. Dessa forma, contribui com suporte informacional aos cursos ministrados no campus. PRINCIPAIS SERVIÇOS:  Consulta local ao acervo;,  Empréstimo domiciliar e renovação das obras e outros materiais;  Acesso ao catálogo SophiA para pesquisa, reserva e renovação de empréstimo via web, através do site: biblioteca.ifce.edu.br; Elaboração de fichas catalográficas;  Orientação técnica para elaboração e apresentação de trabalhos acadêmicos, com base no Manual de Normalização do IFCE; Acesso ao Portal de Periódicos da Capes através do site do IFCE e por meio da matrícula de aluno ou servidor (Siape).\n Acesso a Biblioteca Virtual Universitária, com uma gama de e-books das principais editoras universitárias e técnicas. Levantamento bibliográfico.\n\nHORÁRIOS\nSegunda a quinta-feira: 7h às 22h.\nSextas-feiras: 7h às 21h.\n\nCONTATO\nFone: (88) 3586 8160\nE-mail: biblioteca.crato@ifce.edu.br ",
-        "localidade": "IFCE - Campus Crato"
-      },
-      {
-        "_id": "5cb64b4d0e16710004e77d03",
-        "historia": true,
-        "titulo": "Área de Relevante Interesse Ecológico - Arie do Sítio Curió",
-        "info": "Ecossistema: Mata de Tabuleiro\nGrupo da Unidade de Conservação: Uso Sustentável\nÁrea: 57,35 hectares\nDiploma Legal de Criação: Decreto Estadual nº 28.333 de 28 de julho de 2006.\nAtividades realizadas: Trilha ecológica guiada\nEndereço: Av. Professor José Arthur de Carvalho, s/n – Lagoa Redonda, Fortaleza – CE, 60831-370\nTelefone: (85) 3101-5550\n\nProjeto Sesc Aflorar\n\nAs placas utilizadas pelo Projeto Ecomapss na ARIE do Sítio Curió foram confeccionadas através do Projeto Sesc Aflorar, parceria entre a Secretaria do Meio Ambiente, o Instituto Natureza Viva e o Sesc Ceará. O projeto Sesc Aflorar ocorreu durante 10 meses no ano de 2016, com atividades semanais com 40 estudantes do Liceu de Messejana, onde os alunos utilizavam o espaço da Unidade de Conservação como uma grande sala de aula, estudando a flora e fauna da Unidade de Conservação. Após o término do projeto, a Unidade de Conservação através da parceria Secretaria do Meio Ambiente,  Instituto Natureza Viva e o Sesc Ceará, recebeu as placas de identificação das espécies da flora e de algumas espécies da fauna. \n",
-        "localidade": "Fortaleza - CE"
-      },
-      {
-        "_id": "5cff8a7217e63d0004f3ea40",
-        "historia": true,
-        "titulo": "RESTAURANTE PONTAL DA SANTA CRUZ / PONTAL DA SANTA CRUZ RESTAURANT",
-        "info": "Este Restaurante é administrado pela Associação de Mulheres residentes na comunidade do Pontal, situada ao pé desta formação rochosa. Aqui são servidos saborosos pratos típicos da culinária caririense, com destaque para o baião de dois com pequi, macaxeira, carne de sol, paçoca, galinha caipira, sucos naturais, entre outras iguarias do Araripe.\n\n\n\nPONTAL DA SANTA CRUZ RESTAURANT\n\n\nThis restaurant is administered by the Association of Women residing in the community of Pontal, situated at the foot of this rocky formation. Here are tasty dishes typical of caririense culinary, with emphasis on baião de dois with pequi, cassava, sun dried meat, paçoca, country chicken, natural juices, among other delights of the Araripe. \n\n\n\nhttp://geoparkararipe.urca.br/",
-        "localidade": "SANTANA DO CARIRI - CE"
-      },
-      {
-        "_id": "5cff8a1e17e63d0004f3ea3e",
-        "historia": true,
-        "titulo": "GEOSSÍTIO PONTAL DA SANTA CRUZ",
-        "info": "O Geossítio Pontal da Santa Cruz é descrito geologicamente como Formação Exu e é caracterizado por arenitos coesos situado na parte superior da Bacia do Araripe. A sua idade é de aproximadamente 90 milhões de anos, sendo considerada a rocha mais jovem da Bacia Sedimentar do Araripe. Aqui estamos a uma altitude de aproximadamente 750m o que possibilita observar a cidade de Santana do Cariri e um extenso vale circundado pela cortina das escarpas da Chapada do Araripe. Deste local pode-se observar um belo pôr do sol, as diversas fases da lua, além de ouvir uma sinfonia de cantos da natureza. Um lugar de beleza sublime, que inspira alegria e entusiasmo a todos os visitantes. Este local possui Restaurante, Capela, Playground infantil, trilha de grau qualitativo moderado, estacionamento e mirantes.\n\n\nPONTAL DA SANTA CRUZ GEOSITE\n\nPontal da Santa Cruz geosite is geologically described as Exu formation and is characterized by cohesive sandstones located on the top of the Araripe’s plateau. Its age is approximately 90 million years, being considered the youngest rock in the sedimentary plateau of Araripe. Here we are at an altitude of approximately 750m which makes possible to observe the city of Santana do Cariri and an extensive valley surrounded by the curtain of the cliffs of Araripe’s plateau. From this location one can observe a beautiful sunset, the various phases of the moon, besides listening to a symphony of corners of nature. A place of sublime beauty, which inspires joy and enthusiasm to all the visitors. This venue has Restaurant, Chapel, Children's Playground, moderate qualitative grade trail, parking and lookers.\n\n\nhttp://geoparkararipe.urca.br/",
-        "localidade": "SANTANA DO CARIRI - CE"
-      },
-      {
-        "_id": "5cff8aa817e63d0004f3ea41",
-        "historia": true,
-        "titulo": "FLORA E FAUNA / FLORA AND FAUNA",
-        "info": "A área do Geossitio Pontal da Santa Cruz e seu entorno faz parte do Bioma Caatinga e mais especificamente da formação fitofisionômica denominada de Carrasco que apresenta espécies vegetais lenhosas, herbáceas, cactáceas e bromeliáceas (mandacaru, a coroa-de-frade, o xique-xique, o juazeiro, o umbuzeiro e a aroeira). Em suas entranhas a mata abriga uma fauna bastante diversa destacando-se animais como: onças, gatos selvagens, capivaras, gambás, preás, macacos, veados, cobras, lagartos e aves.\n\n\n\nFLORA AND FAUNA\n\n\nThe area of Pontal da Santa Cruz geosite and its surroundings is part of the Caatinga biome and more specifically the Phyto physiognomic formation called Carrasco that presents woody plant species, herbaceous, Cetacea and Bromeliaceous (Mandacaru, Coroa de Frade, Xique-Xique, Juazeiro, Spondias tuberosa and Aroeira). In its entrails the forest houses a very diverse fauna highlighting animals such as: Jaguars, wild cats, capybaras, possums, preas, monkeys, deer, snakes, lizards and birds.\n\n\n\nhttp://geoparkararipe.urca.br/",
-        "localidade": "SANTANA DO CARIRI - CE"
-      },
-      {
-        "_id": "5cff8afc17e63d0004f3ea42",
-        "historia": true,
-        "titulo": "LENDAS / LEGENDS",
-        "info": "Lendas sobre aparições e encantamentos são fortes elementos da tradição oral caririense. Neste geossítio, relata-se que uma entidade antiga habitava o local. Segundo os moradores, era possível observar – ao cair da noite – flashes luminosos, assobios, grunhidos e murmúrios. Conta-se que alguns moradores mais antigos chegaram a ver a própria criatura, descrita como agigantada, alada, de crânio alongado, e com língua de fogo, fazendo-nos associar com os extintos pterossauros cretáceos que habitaram a região. Com o passar do tempo, cada vez mais assustados, os moradores se organizaram e abriram um caminho em direção ao topo (que hoje corresponde ao Pontal da Santa Cruz). Utilizando picaretas e força braçal para romper a forte barreira rochosa da Formação Exu, o objetivo era expulsar a criatura através dos rituais religiosos. Esse caminho, aberto no início do século XIX, é utilizado até hoje para se chegar à localidade que hoje é o geossítio. Após a realização do ritual de exorcismo, foi fixada uma grande cruz de madeira, como símbolo da purificação do local. Contudo, em uma noite de chuva, um raio derrubou a cruz fincada no Pontal, o que foi entendido pela comunidade como uma reação demoníaca. Novamente fixada, a cruz veio a tombar pelo mesmo motivo mais uma vez. Em 2001, foi montada uma nova cruz de metal com cerca de 20m, com função de para-raio e a antiga cruz de madeira (com cerca de 2,5m de altura) foi mantida a sua frente como uma relíquia histórica.  Contam os mais velhos que com a estabilização do cruzeiro, a assombração deixou o local em definitivo, e as manifestações cessaram.\n\n\n\nLEGENDS\n\n\nLegends about apparitions and enchantments are strong elements of the oral caririense tradition. In this geosite, it is reported that an ancient entity habited the site. According to the residents, it was possible to observe – at nightfall – luminous flashes, whistles, grunts and murmurs. It is said that some older residents saw the creature itself, described as huge, winged, elongated skull, and with a tongue of fire, making us associate with the extinct Cretaceous pterosaurs that habited the region. With the passing of time, more and more frightened, the villagers organized themselves and opened a path towards the top (which today corresponds to Pontal da Santa Cruz. Using pickaxes and arm force to break through the strong rocky barrier of Exu formation, the goal was to expel the creature through religious rituals. This path, opened in the early NINETEENTH century, is used until today to reach the locality that today is the geosite. After performing the exorcism ritual, a large wooden cross was fixed, as a symbol of the place’s purification. However, on a rainy night, a lightning struck the cross in Pontal, which was understood by the community as a demonic reaction. Again fixed, the cross came to fall for the same reason once again. In 2001 it was assembled a new metal cross with about 20m, with function of lightning rods and the old wooden cross (about 2, 5m high) was kept in front of it as a historical relic. They tell the elders that with the stabilization of the cruise, the haunting left the site definitively, and the demonstrations ceased.\n\n\n\nhttp://geoparkararipe.urca.br/",
-        "localidade": "SANTANA DO CARIRI - CE"
-      },
-      {
-        "_id": "5d0247f77ce5d20004b6caaf",
-        "historia": true,
-        "titulo": "GEOSSÍTIO PEDRA CARIRI / PEDRA CARIRI GEOSITE",
-        "info": "A área deste geossitio, e grande extensão do seu entorno, apresenta elevado valor científico devido à ocorrência de fósseis diversos e abundantes, com condição de preservação excepcional. É possível encontrar desde invertebrados (crustáceos, conchostráceos, insetos, aracnídeos, caranguejos e escorpiões), até vertebrados (pterossauros, peixes, anuros, quelônios, crocodilianos e aves) e vegetais (algas, samambaias, gimnospermas e angiospermas). Esses organismos se preservam no calcário laminado, conhecido popularmente como “pedra cariri”, rocha formada por várias sequências calcárias depositadas em finas camadas. Essas rochas datam do Período Cretáceo (há cerca 110 milhões de anos) e podem ser observadas pelo visitante no paredão exposto no geossítio. Vale ressaltar que os fósseis existentes na Bacia do Araripe são reconhecidos internacionalmente como os fósseis cretáceos mais bem preservados e variados do mundo, sendo considerado um Lagerstätte (termo alemão relacionado aos depósitos fossilíferos com condições de preservação excepcionais).\n\n\n\nPEDRA CARIRI GEOSITE\n\n\nThe area of this geosite, and large extension of its surroundings, presents high scientific value due to the occurrence of diverse and abundant fossils, with exceptional preservation conditions. It is possible to find from invertebrates (crustaceans, conchostracea, insects, arachnids, crabs and scorpions), to vertebrates (pterosaurs, fish, frogs, chelonians, crocodilians and birds) and vegetables (algae, ferns, gymnosperms and angiosperms). These organisms are preserved in limestone, popularly known as \"Pedra Cariri\", a rock formed by several limestones sequences deposited in thin layers. These rocks date from the Cretaceous period (about 110 million years ago) and can be observed by the visitor on the exposed wall in the geosite. It is noteworthy that the fossils existing in the Araripe Plateau are internationally recognized as the best preserved and varied Cretaceous fossils in the world, being considered a Lagerstätte (German term related to fossiliferous deposits with Exceptional conditions of preservation).\n\n\n\nhttp://geoparkararipe.urca.br/",
-        "localidade": "NOVA OLINDA - CE"
-      },
-      {
-        "_id": "5d0248617ce5d20004b6cab0",
-        "historia": true,
-        "titulo": "GEOSSÍTIO PONTE DE PEDRA / PONTE DE PEDRA GEOSITE",
-        "info": "Aqui se apresenta uma formação geológica em formato de uma ponte, com 12 metros de comprimento por dois metros de largura sobre a calha de um riacho. São arenitos formados há, aproximadamente, 96 milhões de anos. Relata-se que, no passado, essa ponte foi utilizada como acesso às fontes de água existentes na localidade, tanto pelos índios Kariris, como pelos antigos vaqueiros que povoaram a região. Em épocas de seca, a ponte era também utilizada como abrigo de descanso e pernoite. No mirante existente no geossítio, é possível observar a transição de paisagens, a partir do final da área de floresta (Floresta Nacional do Araripe) em direção ao domínio dos biomas caatinga e carrasco. Pode-se perceber a topografia típica da dinâmica de rochas cristalinas, com a presença de colinas e serras, diferentemente da topografia típica das rochas sedimentares, que assume uma feição mais homogênea e linear, a exemplo da Chapada do Araripe.\n\n\n\nPONTE DE PEDRA GEOSITE\n\n\nHere we present a geological formation in a bridge format, 12 meters long by two meters wide over the gutter of a creek. They are sandstones formed for approximately 96 million years. It is reported that, in the past, this bridge was used as access to water sources in the locality, both by the Kariris Indians and by the former cowboys who populated the region. In dry seasons, the bridge was also used as a rest and overnight shelter. At the viewpoint in the geosite, it is possible to observe the transition of landscapes, from the end of the forest area (National Forest of Araripe) towards the dominance of the Caatinga and Carrasco Biomes. The typical topography of the dynamics of crystalline rocks, with the presence of hills and mountains can be perceived, unlike the typical topography of sedimentary rocks, which assumes a more homogeneous and linear feature, such as the Araripe Plateau.\n\n\n\nhttp://geoparkararipe.urca.br/",
-        "localidade": "NOVA OLINDA - CE"
-      },
-      {
-        "_id": "5d02717643e175000494f313",
-        "historia": true,
-        "titulo": "GEOSSÍTIO COLINA DO HORTO / COLINA DO HORTO GEOSITE",
-        "info": "Este é o geossítio que mais representa a forte cultura religiosa da Região do Cariri. Situado aos pés do Padre Cícero, fundador de Juazeiro do Norte e considerado pelos romeiros como santo, é um local de peregrinação que atrai cerca de dois milhões de romeiros de várias partes do Brasil e do mundo a cada ano. É aqui que encontramos por todo o geossítio as rochas mais antigas da Bacia do Araripe, os grandes blocos graníticos com 650 milhões de anos. Com 450m de altitude, o local também é muito visitado por atletas de ciclismo e de corrida e pessoas que querem apreciar a beleza paisagística, a vista panorâmica das três cidades (Juazeiro do Norte, Crato e Barbalha), o belo por do sol, fotografar ou apenas sentir a mística do lugar.  Aqui encontram-se uma monumental estátua com 27 m de altura do Padre Cícero, Igreja Bom Jesus do Horto, preceitos ecológicos do Padre Cícero, Museu Vivo do Padre Cícero, ex-votos, Muro da Sedição de Juazeiro do Norte, de 1914, peças do rico artesanato do Cariri cearense, pontos de comidas variados e trilhas. *************************Translation*************************    \n\nCOLINA DO HORTO GEOSITE\nThis is the geosite that most represents the strong religious culture of the Region of Cariri. Located at the feet of Padre Cícero, founder of Juazeiro do Norte and considered by pilgrims as a saint, it is a place of pilgrimage that attracts about two million pilgrims from various parts of Brazil and the world every year. It is here that we find throughout the geosite the oldest rocks of the Araripe Basin, the great granite blocks 650 million years old. With 450m of altitude, the place is also much visited by cycling and jogging athletes and people who want to enjoy the scenic beauty, the panoramic view of the three cities (Juazeiro do Norte, Crato and Barbalha), the beautiful sunset, photograph or just feel the mystique of the place. Here you will find a monumental statue with 27 m of height of Padre Cícero, Bom Jesus do Horto Church, ecological precepts of Padre Cícero, Padre Cícero Living Museum, ex votos, Wall of Sedition of Juazeiro do Norte, 1914, pieces the rich handicrafts of Cariri Cearense, varied food spots and trails.\n\nhttp://geoparkararipe.urca.br/",
-        "localidade": "JUAZEIRO DO NORTE - CE"
-      },
-      {
-        "_id": "5cff8a4e17e63d0004f3ea3f",
-        "historia": true,
-        "titulo": "CAPELA BOM JESUS DAS OLIVEIRAS / BOM JESUS DAS OLIVEIRAS CHAPEL",
-        "info": "Erguida em meados do século XX, a capela foi construída em estilo eclético e representa a arquitetura popular e a devoção católica típica do Cariri. De acordo com a tradição católica, a capela foi construída para realização de manifestações religiosas, agradecer milagres alcançados. Atualmente o local é utilizado para celebração de casamentos e datas comemorativas.\n\n\n\nBOM JESUS DAS OLIVEIRAS CHAPEL\n\n\nErected in the mid-TWENTIETH century, the chapel was built in eclectic style and represents the popular architecture and Catholic devotion typical of Cariri. According to the Catholic tradition, the chapel was built for the realization of religious manifestations, thanking miracles achieved. Currently the place is used to celebrate weddings and commemorative dates.\n\n\n           \nhttp://geoparkararipe.urca.br/",
-        "localidade": "SANTANA DO CARIRI - CE"
-      },
-      {
-        "_id": "5d20b45902a93e000401a696",
-        "historia": true,
-        "titulo": "Cruz do século / Cross of the century",
-        "info": "O coronel Joaquim Pinto Madeira, ou Pinto Madeira, apesar de ser cognominado, a torto e a direito, de \"caudilho jardinense\", foi um dos vários senhores de engenho ao pé da Chapada do Araripe, em terras da vila do Crato/CE, que, hoje, fazem parte do município de Barbalha/CE, nos sítios Coité, Silvério e Arajara (antiga Cajazeira do Farias). Era neto e, ao mesmo tempo, filho de criação do doutor Manoel de São João Madeira, português formado pela Universidade de Coimbra/Portugal, que migrou para o Cariri na época da mineração de ouro. Segundo apontamentos históricos, Pinto Madeira tinha um comportamento truculento, mas, por outro lado, era carismático, pois milhares de \"cabras\" (pobres descendentes ou mestiços de índios) o seguiam cegamente. No entanto, tendo se rivalizado com a família Alencar e com os Ferreira Lima (Sucupira, Limaverde, Maia), em virtude de política, de ofensas e de assassinatos, terminou se tornando alvo de vingança, prática comum naquele tempo-espaço. Nestas circunstâncias, em 1831, Pinto Madeira deflagrou a maior e mais longa rebelião do Ceará no século XIX. Depois de meses de encarniçados combates, ele se entregou ao general francês Pedro Labatut. Porém, o acordo de rendição não foi cumprido devido à interferência dissimulada do Senador Alencar, o qual acusava Pinto Madeira de várias mortes contra seus parentes, inclusive pelo assassinato de seu irmão, o padre Carlos Alencar. Submetido a um tribunal de sangue, Pinto Madeira foi condenado e assassinado no no alto da atual rua Duque de Caxias, em Crato/CE, onde hoje pousa a cruz do século, próximo à igreja de São Francisco. Vários objetos pertencentes a Pinto Madeira foram parar em museus, a exemplo de sua bengala, destruída pelo fogo do Museu Nacional/RJ. Em Fortaleza/CE, está o seu bacamarte inglês (da marca Tower) e a mesa em que foi assinada a sua sentença condenatória. Em Petrolina/PE, seu \"breve\" (cordão de ouro com uma oração), retirado do seu pescoço pouco antes da execução, está em um arquivo privado. \n\nCROSS OF THE CENTURY\n\nColonel Joaquim Pinto Madeira, or Pinto Madeira, in spite of being nicknamed the crooked and right, \"caudilho jardinense\", was one of several planters at the foot of the Chapada do Araripe, in lands of the town of Crato / CE, which are now part of the municipality of Barbalha / CE, in the Coité, Silvério and Arajara sites (former Cajazeira do Farias). He was a grandson and, at the same time, the son of Dr. Manoel de São João Madeira, a Portuguese graduate of the University of Coimbra / Portugal, who migrated to Cariri during the time of gold mining. According to historical notes, Pinto Madeira had a truculent behavior, but on the other hand, he was charismatic, since thousands of \"goats\" (poor descendants or half-breed Indians) followed him blindly. However, having rivaled the Alencar family and the Ferreira Lima (Sucupira, Limaverde, Maia), by virtue of politics, offenses and assassinations, it became a target of revenge, a common practice in that time-space. Under these circumstances, in 1831, Pinto Madeira set off the longest and longest rebellion in Ceará in the nineteenth century. After months of fierce fighting, he surrendered himself to the French general Pedro Labatut. However, the surrender agreement was not fulfilled due to the disguised interference of Senator Alencar, who accused Pinto Madeira of several deaths against his relatives, including the murder of his brother, Father Carlos Alencar. Submitted to a blood court, Pinto Madeira was convicted and murdered at the top of the current street Duque de Caxias, in Crato / CE, where today the cross of the century, near the church of San Francisco. Several objects belonging to Pinto Madeira went to museums, like his cane, destroyed by the fire of the Museu Nacional / RJ. In Fortaleza / CE, there is his English Navy (Tower brand) and the table on which his conviction was signed. In Petrolina / PE, his \"breve\" (gold cord with a prayer), taken from his neck shortly before execution, is in a private archive.\n\n(Texto de: Heitor Feitosa Macêdo)\n",
-        "localidade": "Crato - CE - Bairro Pinto Madeira"
-      },
-      {
-        "_id": "5d2ba99a9874790004263030",
-        "historia": true,
-        "titulo": "SANTO SEPULCRO",
-        "info": "Um lugar místico e apontado como a antiga morada dos beatos que ali se refugiavam para as penitências e autoflagelações, principalmente nas épocas da Semana Santa. É composto por uma trilha com cerca de 4km de após a estátua do Padre Cícero com pequenas capelas entre pedras de formação granítica acessada por trilhas sinuosas com desníveis acentuados e uma vegetação arbórea do Bioma Caatinga. O local é uma representação do lugar onde Jesus Cristo foi crucificado. Espaço de práticas de penitências, orações, cantos, benditos e deposição de oferendas (fitas, pedras, velas, cruzeiros, entalhes em rocha e imagens) com abrigos para descanso e um velho engenho de ferro para moer cana-de-açúcar. Também é possível encontrar pedras do Joelho, onde a Beata Maria de Araújo, protagonista do milagre referido ao Padre, teria se ajoelhado, a Pedra do Pecado, da Escada e da Coluna, junto às quais os fiéis acreditam na remissão dos seus pecados caso consigam ultrapassá-las.\n\n*************************Translation*************************    \nIt was a mystical place and was designated as the ancient abode of the Blessed who sought refuge there for penances and self-flagellations, especially during Holy Week. It is composed by a trail about 4km after the statue of Padre Cícero with small chapels between stones of granite formation accessed by winding trails with sharp gradients and a tree vegetation of the Caatinga Biome. The place is a representation of the place where Jesus Christ was crucified. Space of practices of penances, prayers, songs, blessed and deposition of offerings (ribbons, stones, candles, cruises, rock carvings and images) with shelters to rest and an old iron mill to grind sugar cane. It is also possible to find stones from the knee, where Blessed Maria de Araújo, protagonist of the miracle referred to the Father, would have knelt, the Stone of Sin, the Ladder and the Column, where believers believe in the remission of their sins if they can to overcome them.",
-        "localidade": "JUAZEIRO DO NORTE - CE"
-      },
-      {
-        "_id": "5d2baa0a9874790004263031",
-        "historia": true,
-        "titulo": "MUSEU VIVO DO PADRE CÍCERO",
-        "info": "Este Casarão foi edificado em 1907 e serviu para retiros espirituais do Padre Cícero. Em 1º de novembro de 1999, ao passar por uma restauração arquitetônica, foi adaptado para abrigar o Museu Vivo de Padre Cícero Romão Batista. Em cinco ambientes distintos é possível observar, em tamanho real, personagens, fotos, dados sobre a vida do sacerdote, além de muitos ex-votos de fiéis que peregrinam para este local e aqui pagam suas promessas. Ao percorrer as instalações deste Museu, o visitante pode observar o Padre Cícero em um café da manhã com amigos, a beata Maria de Araújo - protagonista dos milagres (em 1º de março de 1889, quando a beata recebeu a comunhão das mãos do Padre Cícero, a hóstia virou sangue. Isso se repetiu dezenas de vezes); Padre Cícero e José Marrocos em uma reunião de cunho político e ainda o Padre em momento de oração e prece. O Museu é reconhecido e registrado no Instituto Brasileiro de Museus (IBRAM).\n  *************************Translation*************************    \n\nThis Casarão was built in 1907 and served as a spiritual retreat for Father Cicero. On November 1, 1999, when undergoing an architectural restoration, it was adapted to house the Living Museum of Padre Cícero Romão Batista. In five different environments it is possible to observe, in real size, characters, photos, data about the life of the priest, and many ex-votos of believers who peregrinate to this place and here they pay their promises.While walking through the premises of this Museum, the visitor can observe Father Cícero at a breakfast with friends, Blessed Maria de Araújo - protagonist of miracles (on March 1, 1889, when the Blessed received Communion from the hands of Father Cicero , the host became blood, which was repeated dozens of times); Father Cicero and José Marrocos in a political meeting and the Father in a moment of prayer and prayer. The Museum is recognized and registered at the Brazilian Institute of Museums (IBRAM).",
-        "localidade": "JUAZEIRO DO NORTE - CE"
-      },
-      {
-        "_id": "5d2bb1029874790004263033",
-        "historia": true,
-        "titulo": "ESTÁTUA DE PADRE CÍCERO",
-        "info": "Este monumento em homenagem a Padre Cícero tem 27 metros de altura e foi inaugurada em 1° de novembro  de 1969 pelo então prefeito de Juazeiro do Norte José Mauro Sampaio. Ela se constitui na terceira maior do mundo em concreto.Trata-se de um dos pontos mais visitados do município, com estimativas da ordem de 2,5 milhões de romeiros e outros turistas por ano que frequentam o local. Da estátua é possível avistar a cidade de Juazeiro do Norte, numa paisagem belíssima de contraste com a beleza natural da Chapada do Araripe de fundo.O engenheiro responsável pelos cálculos de engenharia da base e da estátua foi Rômulo Ayres Montenegro e foi esculpida pelo arquiteto e escultor pernambucano Armando Lacerda.       *************************Translation*************************    \n\nThis monument in honor of Padre Cícero is 27 meters high and was inaugurated on November 1, 1969 by the then mayor of Juazeiro do Norte José Mauro Sampaio. It is the third largest in the world in concrete terms. It is one of the most visited points in the municipality, with estimates of 2.5 million pilgrims and other tourists per year who frequent the place. From the statue you can see the city of Juazeiro do Norte, in a beautiful landscape contrasting with the natural beauty of the Chapada do Araripe in the background. The engineer responsible for the engineering calculations of the base and statue was Rômulo Ayres Montenegro and was sculpted by the architect and sculptor from Pernambuco Armando Lacerda.\n\n",
-        "localidade": "JUAZEIRO DO NORTE - CE"
-      },
-      {
-        "_id": "5d2bb18c9874790004263034",
-        "historia": true,
-        "titulo": "GEOSSÍTIO CACHOEIRA DE MISSÃO VELHA",
-        "info": " Neste geossítio é possível observar paredões de rochas com cerca de 420 milhões de anos, de numa época em que o sul do Ceará foi invadido por águas de um mar raso, antecedendo a formação da Bacia do Araripe. Em função do cenário geológico e da queda d’água com aproximadamente 12 metros de altura o lugar se tornou ponto de atração de um grande numero de observadores da natureza.O perímetro deste geossítio está inserido no Parque Natural Municipal da Cachoeira de Missão Velha/Bioparque, sob a Lei nº 002/02, e na área do Monumento Natural Cachoeira do Rio Salgado (Decreto n° 28.506/06).Este lugar é rico em lendas e estórias de encantamentos, conflitos e mortes. Aqui existem vestígios de populações indígenas que remontam a tempos pré-históricos. A poucos quilômetros da Cachoeira encontram-se as ruinas da casa de pedra que remetem a primeira fase da colonização do Cariri (séc. XVII). Também é conhecida como ponto de encontro entre cangaceiros, bandidos que marcaram a história do Sertão Nordestino no início do século XX.   \n\n*************************Translation*************************      In this geosite it is possible to observe rock walls of about 420 million years, from a time when the south of Ceará was invaded by waters of a shallow sea, preceding the formation of the Araripe Basin. Due to the geological scenario and the waterfall with approximately 12 meters of height the place became point of attraction of a great number of observers of the nature. The perimeter of this geosite is inserted in the Municipal Natural Park of the Missão Velha / Bioparque Waterfall, under Law No. 002/02, and in the area of ​​the Natural Monument of Rio Salgado Waterfall (Decree n ° 28,506 / 06). This place is rich in legends and stories of incantations, conflicts and deaths. Here there are remnants of indigenous populations dating back to prehistoric times. A few kilometers from the waterfall are the ruins of the stone house that refer to the first phase of the Cariri settlement (17th century). It is also known as a meeting point among cangaceiros, bandits that marked the history of the Sertao Northeast in the early twentieth century.",
-        "localidade": "MISSÃO VELHA"
-      },
-      {
-        "_id": "5d2bb1f39874790004263035",
-        "historia": true,
-        "titulo": "ICNOFÓSSEIS",
-        "info": "Nos sedimentos ao redor da Cachoeira e possível observar icnofósseis (marcas, rastros, vestígios da atividade de um organismo vivo que se preservaram nas rochas). O estudo dessas estruturas é muito importante, pois permite ao pesquisador entender os hábitos dos organismos, assim como o ambiente onde eles viveram. As estruturas preservadas aqui são do grupo das bioturbações, quando se revelam marcas de galerias, túneis, escavações, ou pistas, associados à atividade orgânica, nesse caso, de um organismo invertebrado.\n   *************************Translation*************************    \nIn the sediments around the Waterfall, it is possible to observe icnofossils (marks, traces, vestiges of the activity of a living organism that have been preserved in the rocks). The study of these structures is very important because it allows the researcher to understand the habits of organisms, as well as the environment where they lived. The structures preserved here are of the group of bioturbations, when they reveal marks of galleries, tunnels, excavations, or clues, associated with the organic activity, in this case, of an invertebrate organism.",
-        "localidade": "MISSÃO VELHA-CE"
-      },
-      {
-        "_id": "5d2bb25e9874790004263036",
-        "historia": true,
-        "titulo": "LENDAS DA CACHOEIRA DE MISSÃO VELHA",
-        "info": "Entre as lendas deste ambiente destacam-se: a lenda da “Mãe d’Água”, da “Índia Encontrada” e da lenda sobre o “Dilúvio”.  Contam os mais velhos da existência de uma mãe d’água de voz misteriosa e criminosa que chama os banhistas aos locais perigosos, levando-os assim a morte.Sobre a Índia Encontrada, relatam que uma índia Cariri (tribo que deu origem a região), abandonada por sua mãe, foi encontrada numa “cumbuca” e foi criada por uma mulher de bom coração. Quando a índia encontrada cresceu e se tornou adulta, lamentava por não saber nada sobre seus antepassados, e dizia sempre lamentosa: “Muitos índios daqui não vão conhecer seus antepassados. As raças misturar-se-ão e outros vão fugir para outros lugares.” E assim aconteceu. Também conta-se que na época do Dilúvio, quando as águas estavam a baixar, alguns pássaros pousaram nas pedras da Cachoeira de Missão Velha e como estas estavam moles ainda, ficaram lá gravadas as marcas de suas duas patas. E existe de fato lá na Cachoeira uma pedra com tais marcas. Muitos curiosos tempos atrás vinham até Missão Velha para ver estas pedras e ficavam muito admirados.\n*************************Translation*************************        \nAmong the legends of this environment are: the legend of the \"Mother of Water\", \"India Found\" and the legend about the \"Flood\". The elders tell of the existence of a mother of water with a mysterious and criminal voice that calls the bathers to the dangerous places, thus leading them to death. About India Found, they report that an Indian Cariri (tribe that gave origin to the region), abandoned by her mother, was found in a \"cumbuca\" and was raised by a woman of good heart. When the found India grew to adulthood, she regretted to know nothing of her ancestors, and always said lamentably: \"Many Indians here will not know their ancestors. The races will mix and others will flee to other places. \"And so it happened. It is also said that at the time of the Flood, when the waters were lowering, some birds landed on the stones of the Missão Velha Waterfall and as these were still soft, the marks of their two legs were engraved there. And there really is in the waterfall a stone with such marks. Many curious times ago they came to Mission Old to see these stones and they were very much admired.",
-        "localidade": "MISSÃO VELHA-CE"
-      },
-      {
-        "_id": "5d2bb2b89874790004263037",
-        "historia": true,
-        "titulo": "FLORESTA PETRIFICADA",
-        "info": "Localizado no Sítio Olho D’água Comprido, a 6 km de Missão Velha, este geossítio guarda um verdadeiro tesouro paleontológico de valor inestimável, com especial importância para o estudo da paleobotânica e da evolução geológica. Hoje o lugar faz parte de uma área rural de pouca densidade populacional usada para plantio e pastagem de gado, numa área sem-árida (com escassez de água). No entanto, na pré-história era cenário de uma densa floresta com árvores abundantes e água. É um importante ponto de atração geoturística que oferece excelente conteúdo científico-didático. As rochas avermelhadas, arenito da Formação Missão Velha, são o lugar onde ocorrem fragmentos de troncos petrificados de aproximadamente 145 milhões de anos.\n\nLocated in Olho D'Água Comprido, 6 km from Missão Velha, this geosite houses a real palaeontological treasure of inestimable value, with special importance for the study of paleobotany and geological evolution. Today it is part of a sparsely populated rural area used for planting and grazing livestock, in a semi-arid (water scarce) area. However, in prehistory it was scenery of a dense forest with abundant trees and water. It is an important point of geotouristic attraction that offers excellent scientific-didactic content. The reddish rocks, sandstone of the Missão Velha Formation, are the place where fragments of petrified trunks of approximately 145 million years occur.",
-        "localidade": "MISSÃO VELHA-CE"
-      },
-      {
-        "_id": "5d2bb3349874790004263038",
-        "historia": true,
-        "titulo": "TRONCOS FÓSSEIS",
-        "info": "Esses troncos são encontrados fragmentados, o que evidencia que no período Jurássico (140 m.a) existiam na região colinas cobertas por florestas recortadas por rios que se entrelaçavam. Foram esses rios que transportaram os troncos que eram de árvores coníferas (grupo dos pinheiros), alguns com mais de 2 m de comprimento. Fósseis são restos de seres vivos (animal ou vegetal), ou mesmo vestígios de atividades biológicas, preservados naturalmente em sedimentos, rochas, gelo, piche, âmbar, cavernas, entre outros ambientes. Uma curiosidade é que para ser um fóssil é preciso apresentar mais de 11 mil anos, período que corresponde a última glaciação e início da idade geológica atual.\n*************************Translation*************************    \nThese trunks are found fragmented, which shows that in the Jurassic period (140 m) there were hills covered by forests cut by interlacing rivers. It was these rivers that transported the trunks that were of coniferous trees (group of the pines), some more than 2 m in length. Fossils are remains of living beings (animal or plant), or even traces of biological activities, preserved naturally in sediments, rocks, ice, tar, amber, caves, among other environments. A curiosity is that to be a fossil it is necessary to present more than 11 thousand years, period that corresponds to the last glaciation and beginning of the current geological age.",
-        "localidade": "MISSÃO VELHA - CE"
-      }
-    ]
-  }
+  "Error": false,
+  "Data": [
+    {
+      "_id": "5a27a6326132ff0a62d50af1",
+      "titulo": "Parque Estadual Sítio Fundão – Geossítio Batateiras",
+      "info": "Criado pelo Decreto Nº 29.307 de 05/06/2008, na categoria de Unidade de Conservação de Proteção Integral prevista pelo Sistema Estadual de Unidades de Conservação – SNUC, possui como finalidade a prevenção de ecossistemas naturais de grande relevância ecológica e beleza cênica, possibilitando a realização de pesquisas científicas e o desenvolvimento de atividades de educação e interpretação ambiental, de recreação em contato com a natureza e de turismo ecológico. Está localizado no município de Crato – CE e possui uma área de 93,54 ha, apresentando espécies da flora e fauna típicas do bioma Caatinga, edificações históricas tombadas e um pequeno cânion formado pelo rio Batateira, o qual dá nome ao território ao geossítio do Geopark Araripe ( Geossítio Batateiras), área em que está sobreposto, o Pares Sítio Fundão.",
+      "localidade": "Crato - Ceará",
+      "historia": true
+    },
+    {
+      "_id": "5a2946196132ff0a62d50af3",
+      "titulo": "Centro de Visitantes Jeferson da Franca Alencar",
+      "info": "Edificação de raro modelo construtivo, construída em taipa com alpendre elevado, piso superior em madeira. Todas as paredes são de taipa de mão com esteios de aroeira/pau d’arco com distância regular entre eles e envaramento de marmeleiro com fixação de cipó, sendo considerada a única casa de taipa de primeiro andar do Estado. Tombada pela Secretaria de Cultura do Estado em 2013. Transformada em Centro de Visitantes em 2017, recebeu o nome do antigo guardião do local.",
+      "localidade": "Crato - Ceará",
+      "historia": true
+    },
+    {
+      "_id": "5a2946856132ff0a62d50af4",
+      "titulo": "Ruínas do engenho de pau movido por tração animal ",
+      "info": "Engrenagem feita de madeira com tratamento artesanal, era movido a tração animal e é também chamado engenho de pau. Construído em 1904, funcionou até 1944 onde houve o declínio da produção de rapadura no Crato. É exemplar único existente na Região do Cariri. Tombado pela Secretaria de Cultura do Estado em 2013.",
+      "localidade": "Parque Estadual Sítio Fundão",
+      "historia": true
+    },
+    {
+      "_id": "5a2946a66132ff0a62d50af5",
+      "titulo": "Muralha de Pedra",
+      "info": "Pequena barragem construída de pedra e argamassa de cal no  fim do século XIX para represar, nas épocas de seca, as águas do rio Batateiras que corta o Parque Estadual Sítio Fundão. Tombado pela Secretaria de Cultura do Estado em 2013.",
+      "localidade": "Parque Estadual Sítio Fundão",
+      "historia": true
+    },
+    {
+      "_id": "5af0eb819fecb90004bfb81f",
+      "historia": true,
+      "titulo": "Acesso 02 - TRILHA PRINCIPAL  ",
+      "info": "Essa entrada dá acesso a Trilha Principal através da Av. Engenheiro Santana Júnior. Essa trilha passa pelas antigas lavanderias, dando acesso a Trilha Principal e à Trilha da Lagoa.",
+      "localidade": "Acesso  Av. Engenheiro Santana Junior"
+    },
+    {
+      "_id": "5af0ea9f9fecb90004bfb81d",
+      "historia": true,
+      "titulo": "Acesso 03 - TRILHA PRINCIPAL ",
+      "info": "Essa entrada é a mais próxima do trapiche de onde saem os passeios de barco no Rio Cocó que têm duração média de 20 min. Esse é o acesso mais rápido a entrada da Trilha do Rio que possui 150m e é a única que possibilita a contemplação do rio.",
+      "localidade": "Acesso Av. Sebastião de Abreu"
+    },
+    {
+      "_id": "5af0ea259fecb90004bfb81c",
+      "historia": true,
+      "titulo": "Acesso  01 - TRILHA PRINCIPAL",
+      "info": "Esse é o acesso principal à trilha mais extensa do parque (1.350m) que está localizada próxima à Av. Padre Antônio Tomás. A menos de 15m está localizado o posto do Batalhão de Polícia Militar Ambiental que funciona 24h. Esse acesso é o mais próximo ao Centro de Referência Ambiental e ao Anfiteatro onde acontecem as atividades do Viva o Parque aos domingos.",
+      "localidade": "Acesso Av. Pe. Antonio Tomás"
+    },
+    {
+      "_id": "5e4dc3adcc746400047e6517",
+      "historia": true,
+      "titulo": "TRILHA DA LAGOA DO PARAÍSO",
+      "info": "",
+      "localidade": "JIJOCA - CE"
+    },
+    {
+      "_id": "5e4dc3d2cc746400047e6518",
+      "historia": true,
+      "titulo": "TRILHA DA LAGOA AZUL",
+      "info": "",
+      "localidade": "JIJOCA - CE"
+    },
+    {
+      "_id": "5e4dc40ccc746400047e651a",
+      "historia": true,
+      "titulo": "PRAÇA DO CÓRREGO DO URUBÚ",
+      "info": "",
+      "localidade": "JIJOCA - CE"
+    },
+    {
+      "_id": "5e4dc43bcc746400047e651c",
+      "historia": true,
+      "titulo": "APA DA LAGOA DE JIJOCA",
+      "info": "",
+      "localidade": "JIJOCA - CE"
+    },
+    {
+      "_id": "5e4dc461cc746400047e651d",
+      "historia": true,
+      "titulo": "MUNDAÚ",
+      "info": "",
+      "localidade": "MUNDAÚ - CE"
+    },
+    {
+      "_id": "5e4dc478cc746400047e651e",
+      "historia": true,
+      "titulo": "LAGOA DO MATO",
+      "info": "",
+      "localidade": "ITAPIPOCA - CE"
+    },
+    {
+      "_id": "5e4dc490cc746400047e651f",
+      "historia": true,
+      "titulo": "PRAÇA DA PRAIA DA BALEIA",
+      "info": "",
+      "localidade": "ITAPIPOCA - CE"
+    },
+    {
+      "_id": "5e4dc69bcc746400047e6521",
+      "historia": true,
+      "titulo": "ENTRADA DA TRILHA DO RIO",
+      "info": "",
+      "localidade": "PARACURU - CE"
+    },
+    {
+      "_id": "5e4dc6e2cc746400047e6524",
+      "historia": true,
+      "titulo": "APA DO ESTUÁRIO DO RIO CURU",
+      "info": "",
+      "localidade": "PARACURU - CE"
+    },
+    {
+      "_id": "5e56fcad7f007a0004acbb52",
+      "historia": true,
+      "titulo": "BOCA DA BARRA",
+      "info": "",
+      "localidade": "RIO CURU"
+    },
+    {
+      "_id": "5e56fcc37f007a0004acbb53",
+      "historia": true,
+      "titulo": "TRILHA DO PESCADOR",
+      "info": "",
+      "localidade": "CURU"
+    },
+    {
+      "_id": "5a2946e46132ff0a62d50af6",
+      "titulo": "Rio Batateira - Formação Rio da Batateira (Krb) - Cretáceo Médio",
+      "info": "Principal Formação Geológica de idade cretácea que caracteriza os sedimentos existentes no Parque Estadual Sítio Fundão. A Formação Batateira ou Formação Rio da Batateira, assim também chamada, é composta basicamente de arenitos médios a grosseiros, de coloração creme a amarelada, que gradam, ascendentemente, para arenitos médios a finos e são seguidos por materiais argilosos e folhelhos (argilas metamorfisadas ou transformadas de coloração amarronzada) que apresentam vestígios de matérias orgânicas e fósseis e que em alguns locais apresentam-se betuminosos, ou seja, encerram pequenas quantidades de betume ou óleo petrolífero. A importância maior da Formação Batateira, que se estende até Missão Velha e Jardim, fica por conta da grande quantidade de água subterrânea de boa qualidade (muito bem mineralizada), que a mesma armazena e que permite o abastecimento das cidades de Crato, Juazeiro, Barbalha, Missão Velha e Jardim, além da grande quantidade de material argiloso que permite a fabricação de produtos cerâmicos (telhas e tijolos).\n",
+      "localidade": "Crato - Ceará",
+      "historia": true
+    },
+    {
+      "_id": "5b64bed04805a90004357ffe",
+      "historia": true,
+      "titulo": "Garças",
+      "info": "Ao todo, são seis representantes da família Ardeidae, sendo a garça-branca-grande e o socó-boi os mais abundantes no parque. Essas aves têm o hábito de se alimentar nas lagoas e no rio, comendo quase tudo que possa caber em seu bico. As garças por serem brancas se destacam na vegetação, já o socó-boi se camufla muito bem. \nFoto: Cecília Licarião",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b64bf434805a90004357fff",
+      "historia": true,
+      "titulo": "Aves do Cocó",
+      "info": "Em seus 1571 ha de área verde o Parque do Cocó abriga cerca de 120 espécies de aves. As mais comuns são as garças, socó-boi, choro-boi, sabiá, sanhaçu, bem-te-vi e suiriri. \nFoto: Cecília Licarião",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b64bf6b4805a90004358000",
+      "historia": true,
+      "titulo": "Pica-paus",
+      "info": "No Parque do Cocó existem cinco tipos de pica-paus diferentes. O mais comum e de menor porte, com apenas 10 cm, é o Pica-pau-anão-da-caatinga e um dos maiores é Pica-pau-branco, que pode chegar a 30 cm e são mais raros.\nFoto: Cecília Licarião",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b64bf884805a90004358001",
+      "historia": true,
+      "titulo": "Maçaricos",
+      "info": "Mais de nove tipos de maçaricos frequentam as lagoas do parque. Algumas das espécies são migratórias, podendo voar mais de 30 mil km em seus deslocamentos. Chegando no parque se alimentam de pequenos invertebrados e peixes. \nFoto: Ciro Albano\n",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b6994e00ef4110004a5b6ea",
+      "historia": true,
+      "titulo": "Crustáceos do Cocó",
+      "info": "Caranguejos – Ao todo são quatro tipos  de caranguejos no parque, sendo o mais comum o aratu e o mais raro o guaiamum, este ameaçado de extinção devido a perda de hábitat e a captura ao longo dos anos. \nFoto: Marcelosan",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b6995580ef4110004a5b6ec",
+      "historia": true,
+      "titulo": "Peixes do Cocó",
+      "info": "Várias espécies de peixes habitam as águas do rio Cocó como o Baiacú-mirim (Sphoeroides testudineus), pema ou camurupim (Megalops atlanticus), bodó ou cascudo (Hypostomus sp.), traíras (Hoplias spp.), linguado-de-água-doce (Achirus lineatus), este último é muito achatado e possui cores muito semelhantes à areia, que facilita a sua camuflagem quando estão enterrados ou muito próximos do fundo do rio.\nFoto: Paul-Louis Oudart",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b6996380ef4110004a5b6ef",
+      "historia": true,
+      "titulo": "Lagoa das ninfeias",
+      "info": "A lagoa das ninfeias fica localizada entre as trilhas principal e a da lagoa, e é coberta por ninfeias que são plantas aquáticas com lindas flores que só desabrocham durante a noite. Dependendo da espécie pode ter flor azul, verde, branca, amarela ou vermelha. \nFoto: SEMA-CE",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b69965c0ef4110004a5b6f0",
+      "historia": true,
+      "titulo": "Ruinas das Salinas",
+      "info": "Nos anos de 1960 aqui se encontrava a Salina Diogo, nesse período o curso do rio foi alterado para facilitar o manejo do sal na área. Em 1980, devido a competição com o mercado de sal do Rio Grande do Norte, a Salina Diogo fechou as suas portas. O fim das atividades na salina permitiu a regeneração do manguezal. ",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b69967e0ef4110004a5b6f1",
+      "historia": true,
+      "titulo": "Lavanderias ",
+      "info": "Historicamente o rio Cocó foi muito utilizado pelas lavadeiras das comunidades do entorno. Em 2006, foram construídas as lavanderias como reivindicação dessas mulheres e também para evitar a poluição do rio pelo lançamento de sabão em suas águas.  As lavanderias foram desativadas um ano depois.",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b6996a10ef4110004a5b6f2",
+      "historia": true,
+      "titulo": "Rio Cocó",
+      "info": "Nasce na serra de Aratanha, em Pacatuba e percorre 42,5 km de extensão, passando pelos municípios de Itaitinga e Maracanaú, e deságua na praia do Caça e Pesca, em Fortaleza. Suas águas banham boa parte da grande Fortaleza, sendo um importante recurso hídrico para essa região.\nFoto: SEMA-CE",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5b6996d60ef4110004a5b6f3",
+      "historia": true,
+      "titulo": "Rio Cocó - passeio de barco",
+      "info": "Nesse trecho ocorre um passeio de barco que acontece durante a semana com agendamentos e finais de semana com o Tenente Araújo (agendamento no 85 98527-8216). O passeio tem duração de 20 minutos e custam 5,00 reais a meia entrada e 10,00 a inteira.\nFoto: SEMA-CE",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5ad110b3e3a2020004da04e9",
+      "historia": true,
+      "titulo": "Área de Relevante Interesse Ecológico - Arie das Águas Emendadas dos Inhamuns",
+      "info": "A Área de Relevante Interesse Ecológico das Águas Emendadas dos Inahmuns está localizada entre os municípios de Tauá, Independência e Pedra Branca, sendo criada pelo Decreto n°31.304, de 24 de janeiro de 2014 localizada no Sítio Tecelão, com área de 407,0366 hectares. A área situa-se no divisor de águas de três importantes rios do Ceará: Jaguaribe, Poti e Banabuiú, distante 280 km de Fortaleza tendo como acesso a BR-222. A área citada enquadra-se no Grupo de Unidades de Conservação de Uso Sustentável, na Categoria de Área de Relevante Interesse Ecológico - ARIE, levando em consideração as normas pautadas no Sistema Estadual de Unidade de Conservação – SEUC/CE. A cobertura vegetal está baseada segundo Fernandes (1998) em Caatinga Arbórea secundária, Caatinga Arbórea arbustiva degradada e Matas ciliares. Nessa região, a cobertura vegetal apresenta-se com aspecto fisionômico próprio da caatinga do tipo hiperxerófila. A caatinga Arbórea Secundária apresenta uma vegetação menos densa, com perda parcial do estrato herbáceo e arbustivo, porém conservando expressa quantidade de elementos arbóreos, característico da sucessão ecológica que sofre a interferência da ação pecuária. A Mata ciliar apresenta-se descaracterizada pela ação antrópica, através do extrativismo vegetal, configurando desta maneira a condição de vegetação secundária. A fauna da região é composta por espécies silvestres, tais como: mamíferos (morcegos, raposa, guaxinim, gato do mato, cotia), répteis (tejo, cobra de cipó, cobra de veado, jiboia, cobra verde, cobra preta, cobra coral,\njararaca, camaleão, bico doce), aracnídeos, insetos e aves (garça branca, sábia, cardeal do nordeste, lavandeira, beija-flor, rolinha, siriema, marreca, bem-te-vi, choró, periquito, asa branca, pica-pau, gavião, falcão, corujas, bacurau, nambu, galo-de-campina, cã-cão, mané besta, carcará dentre outras que ocorre na região da Serra da Lagoa Seca (Sítio Tecelão).\nA área encontra-se na sub-compartimentação do relevo regional maciço residual, com variações altimétricas de 600 a 680 metros de declividade entre 10-45%, com tipologia residual\nmoderada e feições morfológicas de maciço residual em colinas. Já a sua geologia marca o contato das rochas cristalinas pré-cambrianas do complexo Pedra Branca, onde o divisor de águas está situado em sua vertente ocidental da mesma, apresentando aspectos geoambientais em consonância com as intervenções humanas em suas formas de uso e ocupação do solo. Os recursos hídricos na área caracterizam-se tanto pela escassez irregularidade das chuvas como pela sua geologia, não dando condições pra uma taxa de armazenagem elevada, especialmente nos períodos de baixa pluviometria, ocasião em que os recursos hídricos ficam geralmente muito comprometidos. A área abriga nascentes de grandes bacias importantes no Estado do Ceará. A sub-bacia do alto Jaguaribe, a maior entre as cinco que formam a bacia do Jaguaribe, posicionando-se na porção meridional do Estado. A sub-bacia do rio Poti, encontra-se situada na porção ocidental do Ceará. Esse rio, junto com o Macambira, integra um sistema fluvial maior, tendo o rio Parnaíba como principal coletor de\ndrenagem. Já, a sub-bacia do rio Banabuiú abrange os sertões centrais do Ceará. A rede de drenagem é composta por cursos d'água intermitentes, tem suas principais afluentes pela margem esquerda os rios Patu, Quixeramobim e Sitiá e pela margem direita destaca-se apenas o riacho Livramento. O clima da região e do tipo Bsh, definido como seco e semiárido, tipico do polígono das secas, com temperatura de 32° 35°C, com média anual em trono dos 25°C, tendo duas estações distintas, uma chuvosa e outra seca, com 500 a 700 mm de volume pluviométrico anual. Os solos predominantes na Arie das Águas Emendadas dos Inhamuns são os Neossolos Litólicos eutróficos e Luvissolos Crômicos (Embrapa, 1999). O primeiro tipo de solo está caracterizado por perfis pouco desenvolvidos, rasos, com horizontes A ou O hístico com menos de 40 cm, assentado diretamente sobre a rocha ou sobre o horizonte C ou Cr oriundo de elevado grau de intemperização da rocha, com a presença de materiais primários e blocos semi-intemperizados de rocha , estando normalmente associados a uma fase pedregosa e/ou rochosa.",
+      "localidade": "ARIE - Tauá"
+    },
+    {
+      "_id": "5b6995d60ef4110004a5b6ed",
+      "historia": true,
+      "titulo": "Répteis do Cocó - Cobras do Cocó",
+      "info": "Das cobras presentes no parque, as mais comuns são a cobra verde (Philodryas olfersii), a corre campo (Philodryas nattereri) e a jibóia (Boa constrictor). A jiboia é a maior delas, podendo chegar a 4 m, sendo avistada tanto no chão quanto nos troncos das árvores. Vale dizer que nenhuma destas espécies é peçonhenta. \nFoto: Mateus S. Figueiredo\n",
+      "localidade": "Parque Estadual do Cocó - Fortaleza - CE"
+    },
+    {
+      "_id": "5c9761e4556ed20004a26769",
+      "historia": true,
+      "titulo": "Ecotrilha Professor José do Vale Arraes Feitosa",
+      "info": "Vinte e um anos e seis meses depois do seu falecimento, José do Vale Arraes Feitosa ainda é lembrado, na cidade de Crato, como um professor insigne, digno, notável e vocacionado para a nobre missão de educar e lecionar. Ademais, recorda-se o Prof. José do Vale como um cidadão dotado de virtudes e qualidades, de marcante personalidade e de nobreza, no trato com seus semelhantes. Deixou sua cidade de origem – Aiuaba, no Sertão dos Inhamuns – em 1936, aos 17 anos, vindo estudar no Seminário São José de Crato, onde foi aluno até 1941; anos mais tarde foi eleito o primeiro presidente da ADSUM – Associação dos Ex-alunos do Seminário São José. Em 1942 já vamos encontrá-lo como professor do Colégio Diocesano de Crato, onde foi vice-diretor. Lecionou, durante anos, no Colégio Estadual Wilson Gonçalves (onde também foi vice-diretor), na Escola AgroTécnica Federal de Crato e no Ginásio Municipal Pedro Felício Cavalcanti. Em 1946 casa-se com Maria Gisélia Pinheiro Feitosa, com quem teve seis filhos: Gisélia Maria, José do Vale, Amélia Leonarda, Vicente Ricardo, Lúcia Cristina e Paulo César. Em 1965 sua esposa Maria Gisélia faleceu. Em 1968, José do Vale casa-se com Maria do Carmo Feitosa, com quem teve dois filhos: Fernando Eduardo e Diana Maria. Dotado de admirável inteligência, perspicácia e sensibilidade no trato humano, o Prof. José do Vale ganharia relevo nas atividades intelectuais da então pujante cidade de Crato, destacando-se, também, como um excelente orador. Participou ativamente da vida comunitária desta cidade, como protótipo de uma pessoa sensata, cordata, equilibrada e sempre disposta ao aconselhamento e ajuda humanitária. Em 19 de outubro de 1997, o Prof. José do Vale morre, após pertinaz doença, num dos leitos do Hospital São Francisco, em Crato. Hoje é nome de Rua, de escola, de bibliotecas e de uma trilha ecológica no supedâneo da Chapada do Araripe. Sua memória persiste no imaginário popular como uma vida útil, digna e exemplar. (Família Feitosa).",
+      "localidade": "IFCE - Campus Crato"
+    },
+    {
+      "_id": "5ca20d38a05a690004945d56",
+      "historia": true,
+      "titulo": "Biblioteca Professor José do Vale Arraes Feitosa",
+      "info": "Iniciou seu funcionamento em 31 de janeiro de 1974, ainda no Colégio Agrícola de Crato. Em 2013 ganhou um novo, acessível e moderno prédio de 512,25m², dividido em dois andares, com um amplo e climatizado espaço para a disponibilização do acervo, 03 salas de estudo em grupo e 25 cabines de estudo individual, 15 computadores com acesso à internet (Cyber) para acesso ao Sistema SophiA, ao Portal da Capes, Biblioteca Virtual Universitária e Rede WiFi livre em todo ambiente. A Biblioteca tem por finalidade subsidiar o processo de ensino-aprendizagem, organizando, mantendo, disseminando e recuperando informações necessárias ao estudo, pesquisa e extensão da comunidade do campus deste instituto. Possui um acervo de aproximadamente 13.000 títulos (dados de abril de 2019), composto de livros, periódicos, monografias, dicionários, enciclopédias e CD/DVDs, principalmente nas áreas de Informática, Agronomia, Agropecuária, Zoologia, Literatura, com ênfase em livros técnicos e didáticos. Dessa forma, contribui com suporte informacional aos cursos ministrados no campus. PRINCIPAIS SERVIÇOS:  Consulta local ao acervo;,  Empréstimo domiciliar e renovação das obras e outros materiais;  Acesso ao catálogo SophiA para pesquisa, reserva e renovação de empréstimo via web, através do site: biblioteca.ifce.edu.br; Elaboração de fichas catalográficas;  Orientação técnica para elaboração e apresentação de trabalhos acadêmicos, com base no Manual de Normalização do IFCE; Acesso ao Portal de Periódicos da Capes através do site do IFCE e por meio da matrícula de aluno ou servidor (Siape).\n Acesso a Biblioteca Virtual Universitária, com uma gama de e-books das principais editoras universitárias e técnicas. Levantamento bibliográfico.\n\nHORÁRIOS\nSegunda a quinta-feira: 7h às 22h.\nSextas-feiras: 7h às 21h.\n\nCONTATO\nFone: (88) 3586 8160\nE-mail: biblioteca.crato@ifce.edu.br ",
+      "localidade": "IFCE - Campus Crato"
+    },
+    {
+      "_id": "5cb64b4d0e16710004e77d03",
+      "historia": true,
+      "titulo": "Área de Relevante Interesse Ecológico - Arie do Sítio Curió",
+      "info": "Ecossistema: Mata de Tabuleiro\nGrupo da Unidade de Conservação: Uso Sustentável\nÁrea: 57,35 hectares\nDiploma Legal de Criação: Decreto Estadual nº 28.333 de 28 de julho de 2006.\nAtividades realizadas: Trilha ecológica guiada\nEndereço: Av. Professor José Arthur de Carvalho, s/n – Lagoa Redonda, Fortaleza – CE, 60831-370\nTelefone: (85) 3101-5550\n\nProjeto Sesc Aflorar\n\nAs placas utilizadas pelo Projeto Ecomapss na ARIE do Sítio Curió foram confeccionadas através do Projeto Sesc Aflorar, parceria entre a Secretaria do Meio Ambiente, o Instituto Natureza Viva e o Sesc Ceará. O projeto Sesc Aflorar ocorreu durante 10 meses no ano de 2016, com atividades semanais com 40 estudantes do Liceu de Messejana, onde os alunos utilizavam o espaço da Unidade de Conservação como uma grande sala de aula, estudando a flora e fauna da Unidade de Conservação. Após o término do projeto, a Unidade de Conservação através da parceria Secretaria do Meio Ambiente,  Instituto Natureza Viva e o Sesc Ceará, recebeu as placas de identificação das espécies da flora e de algumas espécies da fauna. \n",
+      "localidade": "Fortaleza - CE"
+    },
+    {
+      "_id": "5cff8a7217e63d0004f3ea40",
+      "historia": true,
+      "titulo": "RESTAURANTE PONTAL DA SANTA CRUZ / PONTAL DA SANTA CRUZ RESTAURANT",
+      "info": "Este Restaurante é administrado pela Associação de Mulheres residentes na comunidade do Pontal, situada ao pé desta formação rochosa. Aqui são servidos saborosos pratos típicos da culinária caririense, com destaque para o baião de dois com pequi, macaxeira, carne de sol, paçoca, galinha caipira, sucos naturais, entre outras iguarias do Araripe.\n\n\n\nPONTAL DA SANTA CRUZ RESTAURANT\n\n\nThis restaurant is administered by the Association of Women residing in the community of Pontal, situated at the foot of this rocky formation. Here are tasty dishes typical of caririense culinary, with emphasis on baião de dois with pequi, cassava, sun dried meat, paçoca, country chicken, natural juices, among other delights of the Araripe. \n\n\n\nhttp://geoparkararipe.urca.br/",
+      "localidade": "SANTANA DO CARIRI - CE"
+    },
+    {
+      "_id": "5db8755da4f1170004afd76e",
+      "historia": true,
+      "titulo": "ESPAÇO FEMAJE",
+      "info": "Área de aproximadamente 4 hectares adquirida pelo casal Jesus Moreira de Andrade e Geruza Maurício de Andrade(in memoriam) com a finalidade de promover a Educação e Defesa  do Meio Ambiente da Região do Vale do Jaguaribe. Tendo como sigla FEMAJE, que tem como símbolo uma gotinha de água sorrindo. Dentre os objetivos podem ser citados: apoio a educação formal e informal; encontros e seminários de incentivo a cultura e ao meio ambiente; realização de convênios e contratos de parcerias relativas a atividades ligadas ao meio ambiente.\n",
+      "localidade": "Tabuleiro do Norte - CE"
+    },
+    {
+      "_id": "5e4dc3ebcc746400047e6519",
+      "historia": true,
+      "titulo": "LAGOA DE JIJOCA",
+      "info": "",
+      "localidade": "JIJOCA - CE"
+    },
+    {
+      "_id": "5e4dc425cc746400047e651b",
+      "historia": true,
+      "titulo": "PRAÇA DE CAIÇARA",
+      "info": "",
+      "localidade": "JIJOCA - CE"
+    },
+    {
+      "_id": "5e4dc4a8cc746400047e6520",
+      "historia": true,
+      "titulo": "APA DO ESTUÁRIO DO RIO CURÚ",
+      "info": "",
+      "localidade": "ITAPIPOCA - CE"
+    },
+    {
+      "_id": "5e4dc6afcc746400047e6522",
+      "historia": true,
+      "titulo": "CAPIM AÇU",
+      "info": "",
+      "localidade": "PARACURU - CE"
+    },
+    {
+      "_id": "5e4dc6c3cc746400047e6523",
+      "historia": true,
+      "titulo": "TORRÕES",
+      "info": "",
+      "localidade": "PARACURU - CE"
+    },
+    {
+      "_id": "5e56fce67f007a0004acbb54",
+      "historia": true,
+      "titulo": "TRILHA DO CEMITÉRIO DOS ANJINHOS",
+      "info": "",
+      "localidade": "CURU"
+    },
+    {
+      "_id": "5e56fcfc7f007a0004acbb55",
+      "historia": true,
+      "titulo": "TRILHA DA BOTA PRETA",
+      "info": "",
+      "localidade": "CURU"
+    },
+    {
+      "_id": "5e56fd0e7f007a0004acbb56",
+      "historia": true,
+      "titulo": "TRILHA SINISTRA",
+      "info": "",
+      "localidade": "CURU"
+    },
+    {
+      "_id": "5e584c38539274000438abc4",
+      "historia": true,
+      "titulo": "APA DAS DUNAS DE PARACURU",
+      "info": "",
+      "localidade": "PARACURU - CE"
+    },
+    {
+      "_id": "5e584c59539274000438abc5",
+      "historia": true,
+      "titulo": "FAUNA PARACURU",
+      "info": "",
+      "localidade": "PARACURU - CE"
+    },
+    {
+      "_id": "5e584c69539274000438abc6",
+      "historia": true,
+      "titulo": "FLORA PARACURU",
+      "info": "",
+      "localidade": "PARACURU - CE"
+    },
+    {
+      "_id": "5cff8a1e17e63d0004f3ea3e",
+      "historia": true,
+      "titulo": "GEOSSÍTIO PONTAL DA SANTA CRUZ",
+      "info": "O Geossítio Pontal da Santa Cruz é descrito geologicamente como Formação Exu e é caracterizado por arenitos coesos situado na parte superior da Bacia do Araripe. A sua idade é de aproximadamente 90 milhões de anos, sendo considerada a rocha mais jovem da Bacia Sedimentar do Araripe. Aqui estamos a uma altitude de aproximadamente 750m o que possibilita observar a cidade de Santana do Cariri e um extenso vale circundado pela cortina das escarpas da Chapada do Araripe. Deste local pode-se observar um belo pôr do sol, as diversas fases da lua, além de ouvir uma sinfonia de cantos da natureza. Um lugar de beleza sublime, que inspira alegria e entusiasmo a todos os visitantes. Este local possui Restaurante, Capela, Playground infantil, trilha de grau qualitativo moderado, estacionamento e mirantes.\n\n\nPONTAL DA SANTA CRUZ GEOSITE\n\nPontal da Santa Cruz geosite is geologically described as Exu formation and is characterized by cohesive sandstones located on the top of the Araripe’s plateau. Its age is approximately 90 million years, being considered the youngest rock in the sedimentary plateau of Araripe. Here we are at an altitude of approximately 750m which makes possible to observe the city of Santana do Cariri and an extensive valley surrounded by the curtain of the cliffs of Araripe’s plateau. From this location one can observe a beautiful sunset, the various phases of the moon, besides listening to a symphony of corners of nature. A place of sublime beauty, which inspires joy and enthusiasm to all the visitors. This venue has Restaurant, Chapel, Children's Playground, moderate qualitative grade trail, parking and lookers.\n\n\nhttp://geoparkararipe.urca.br/",
+      "localidade": "SANTANA DO CARIRI - CE"
+    },
+    {
+      "_id": "5cff8aa817e63d0004f3ea41",
+      "historia": true,
+      "titulo": "FLORA E FAUNA / FLORA AND FAUNA",
+      "info": "A área do Geossitio Pontal da Santa Cruz e seu entorno faz parte do Bioma Caatinga e mais especificamente da formação fitofisionômica denominada de Carrasco que apresenta espécies vegetais lenhosas, herbáceas, cactáceas e bromeliáceas (mandacaru, a coroa-de-frade, o xique-xique, o juazeiro, o umbuzeiro e a aroeira). Em suas entranhas a mata abriga uma fauna bastante diversa destacando-se animais como: onças, gatos selvagens, capivaras, gambás, preás, macacos, veados, cobras, lagartos e aves.\n\n\n\nFLORA AND FAUNA\n\n\nThe area of Pontal da Santa Cruz geosite and its surroundings is part of the Caatinga biome and more specifically the Phyto physiognomic formation called Carrasco that presents woody plant species, herbaceous, Cetacea and Bromeliaceous (Mandacaru, Coroa de Frade, Xique-Xique, Juazeiro, Spondias tuberosa and Aroeira). In its entrails the forest houses a very diverse fauna highlighting animals such as: Jaguars, wild cats, capybaras, possums, preas, monkeys, deer, snakes, lizards and birds.\n\n\n\nhttp://geoparkararipe.urca.br/",
+      "localidade": "SANTANA DO CARIRI - CE"
+    },
+    {
+      "_id": "5cff8afc17e63d0004f3ea42",
+      "historia": true,
+      "titulo": "LENDAS / LEGENDS",
+      "info": "Lendas sobre aparições e encantamentos são fortes elementos da tradição oral caririense. Neste geossítio, relata-se que uma entidade antiga habitava o local. Segundo os moradores, era possível observar – ao cair da noite – flashes luminosos, assobios, grunhidos e murmúrios. Conta-se que alguns moradores mais antigos chegaram a ver a própria criatura, descrita como agigantada, alada, de crânio alongado, e com língua de fogo, fazendo-nos associar com os extintos pterossauros cretáceos que habitaram a região. Com o passar do tempo, cada vez mais assustados, os moradores se organizaram e abriram um caminho em direção ao topo (que hoje corresponde ao Pontal da Santa Cruz). Utilizando picaretas e força braçal para romper a forte barreira rochosa da Formação Exu, o objetivo era expulsar a criatura através dos rituais religiosos. Esse caminho, aberto no início do século XIX, é utilizado até hoje para se chegar à localidade que hoje é o geossítio. Após a realização do ritual de exorcismo, foi fixada uma grande cruz de madeira, como símbolo da purificação do local. Contudo, em uma noite de chuva, um raio derrubou a cruz fincada no Pontal, o que foi entendido pela comunidade como uma reação demoníaca. Novamente fixada, a cruz veio a tombar pelo mesmo motivo mais uma vez. Em 2001, foi montada uma nova cruz de metal com cerca de 20m, com função de para-raio e a antiga cruz de madeira (com cerca de 2,5m de altura) foi mantida a sua frente como uma relíquia histórica.  Contam os mais velhos que com a estabilização do cruzeiro, a assombração deixou o local em definitivo, e as manifestações cessaram.\n\n\n\nLEGENDS\n\n\nLegends about apparitions and enchantments are strong elements of the oral caririense tradition. In this geosite, it is reported that an ancient entity habited the site. According to the residents, it was possible to observe – at nightfall – luminous flashes, whistles, grunts and murmurs. It is said that some older residents saw the creature itself, described as huge, winged, elongated skull, and with a tongue of fire, making us associate with the extinct Cretaceous pterosaurs that habited the region. With the passing of time, more and more frightened, the villagers organized themselves and opened a path towards the top (which today corresponds to Pontal da Santa Cruz. Using pickaxes and arm force to break through the strong rocky barrier of Exu formation, the goal was to expel the creature through religious rituals. This path, opened in the early NINETEENTH century, is used until today to reach the locality that today is the geosite. After performing the exorcism ritual, a large wooden cross was fixed, as a symbol of the place’s purification. However, on a rainy night, a lightning struck the cross in Pontal, which was understood by the community as a demonic reaction. Again fixed, the cross came to fall for the same reason once again. In 2001 it was assembled a new metal cross with about 20m, with function of lightning rods and the old wooden cross (about 2, 5m high) was kept in front of it as a historical relic. They tell the elders that with the stabilization of the cruise, the haunting left the site definitively, and the demonstrations ceased.\n\n\n\nhttp://geoparkararipe.urca.br/",
+      "localidade": "SANTANA DO CARIRI - CE"
+    },
+    {
+      "_id": "5d0247f77ce5d20004b6caaf",
+      "historia": true,
+      "titulo": "GEOSSÍTIO PEDRA CARIRI / PEDRA CARIRI GEOSITE",
+      "info": "A área deste geossitio, e grande extensão do seu entorno, apresenta elevado valor científico devido à ocorrência de fósseis diversos e abundantes, com condição de preservação excepcional. É possível encontrar desde invertebrados (crustáceos, conchostráceos, insetos, aracnídeos, caranguejos e escorpiões), até vertebrados (pterossauros, peixes, anuros, quelônios, crocodilianos e aves) e vegetais (algas, samambaias, gimnospermas e angiospermas). Esses organismos se preservam no calcário laminado, conhecido popularmente como “pedra cariri”, rocha formada por várias sequências calcárias depositadas em finas camadas. Essas rochas datam do Período Cretáceo (há cerca 110 milhões de anos) e podem ser observadas pelo visitante no paredão exposto no geossítio. Vale ressaltar que os fósseis existentes na Bacia do Araripe são reconhecidos internacionalmente como os fósseis cretáceos mais bem preservados e variados do mundo, sendo considerado um Lagerstätte (termo alemão relacionado aos depósitos fossilíferos com condições de preservação excepcionais).\n\n\n\nPEDRA CARIRI GEOSITE\n\n\nThe area of this geosite, and large extension of its surroundings, presents high scientific value due to the occurrence of diverse and abundant fossils, with exceptional preservation conditions. It is possible to find from invertebrates (crustaceans, conchostracea, insects, arachnids, crabs and scorpions), to vertebrates (pterosaurs, fish, frogs, chelonians, crocodilians and birds) and vegetables (algae, ferns, gymnosperms and angiosperms). These organisms are preserved in limestone, popularly known as \"Pedra Cariri\", a rock formed by several limestones sequences deposited in thin layers. These rocks date from the Cretaceous period (about 110 million years ago) and can be observed by the visitor on the exposed wall in the geosite. It is noteworthy that the fossils existing in the Araripe Plateau are internationally recognized as the best preserved and varied Cretaceous fossils in the world, being considered a Lagerstätte (German term related to fossiliferous deposits with Exceptional conditions of preservation).\n\n\n\nhttp://geoparkararipe.urca.br/",
+      "localidade": "NOVA OLINDA - CE"
+    },
+    {
+      "_id": "5d0248617ce5d20004b6cab0",
+      "historia": true,
+      "titulo": "GEOSSÍTIO PONTE DE PEDRA / PONTE DE PEDRA GEOSITE",
+      "info": "Aqui se apresenta uma formação geológica em formato de uma ponte, com 12 metros de comprimento por dois metros de largura sobre a calha de um riacho. São arenitos formados há, aproximadamente, 96 milhões de anos. Relata-se que, no passado, essa ponte foi utilizada como acesso às fontes de água existentes na localidade, tanto pelos índios Kariris, como pelos antigos vaqueiros que povoaram a região. Em épocas de seca, a ponte era também utilizada como abrigo de descanso e pernoite. No mirante existente no geossítio, é possível observar a transição de paisagens, a partir do final da área de floresta (Floresta Nacional do Araripe) em direção ao domínio dos biomas caatinga e carrasco. Pode-se perceber a topografia típica da dinâmica de rochas cristalinas, com a presença de colinas e serras, diferentemente da topografia típica das rochas sedimentares, que assume uma feição mais homogênea e linear, a exemplo da Chapada do Araripe.\n\n\n\nPONTE DE PEDRA GEOSITE\n\n\nHere we present a geological formation in a bridge format, 12 meters long by two meters wide over the gutter of a creek. They are sandstones formed for approximately 96 million years. It is reported that, in the past, this bridge was used as access to water sources in the locality, both by the Kariris Indians and by the former cowboys who populated the region. In dry seasons, the bridge was also used as a rest and overnight shelter. At the viewpoint in the geosite, it is possible to observe the transition of landscapes, from the end of the forest area (National Forest of Araripe) towards the dominance of the Caatinga and Carrasco Biomes. The typical topography of the dynamics of crystalline rocks, with the presence of hills and mountains can be perceived, unlike the typical topography of sedimentary rocks, which assumes a more homogeneous and linear feature, such as the Araripe Plateau.\n\n\n\nhttp://geoparkararipe.urca.br/",
+      "localidade": "NOVA OLINDA - CE"
+    },
+    {
+      "_id": "5d02717643e175000494f313",
+      "historia": true,
+      "titulo": "GEOSSÍTIO COLINA DO HORTO / COLINA DO HORTO GEOSITE",
+      "info": "Este é o geossítio que mais representa a forte cultura religiosa da Região do Cariri. Situado aos pés do Padre Cícero, fundador de Juazeiro do Norte e considerado pelos romeiros como santo, é um local de peregrinação que atrai cerca de dois milhões de romeiros de várias partes do Brasil e do mundo a cada ano. É aqui que encontramos por todo o geossítio as rochas mais antigas da Bacia do Araripe, os grandes blocos graníticos com 650 milhões de anos. Com 450m de altitude, o local também é muito visitado por atletas de ciclismo e de corrida e pessoas que querem apreciar a beleza paisagística, a vista panorâmica das três cidades (Juazeiro do Norte, Crato e Barbalha), o belo por do sol, fotografar ou apenas sentir a mística do lugar.  Aqui encontram-se uma monumental estátua com 27 m de altura do Padre Cícero, Igreja Bom Jesus do Horto, preceitos ecológicos do Padre Cícero, Museu Vivo do Padre Cícero, ex-votos, Muro da Sedição de Juazeiro do Norte, de 1914, peças do rico artesanato do Cariri cearense, pontos de comidas variados e trilhas. *************************Translation*************************    \n\nCOLINA DO HORTO GEOSITE\nThis is the geosite that most represents the strong religious culture of the Region of Cariri. Located at the feet of Padre Cícero, founder of Juazeiro do Norte and considered by pilgrims as a saint, it is a place of pilgrimage that attracts about two million pilgrims from various parts of Brazil and the world every year. It is here that we find throughout the geosite the oldest rocks of the Araripe Basin, the great granite blocks 650 million years old. With 450m of altitude, the place is also much visited by cycling and jogging athletes and people who want to enjoy the scenic beauty, the panoramic view of the three cities (Juazeiro do Norte, Crato and Barbalha), the beautiful sunset, photograph or just feel the mystique of the place. Here you will find a monumental statue with 27 m of height of Padre Cícero, Bom Jesus do Horto Church, ecological precepts of Padre Cícero, Padre Cícero Living Museum, ex votos, Wall of Sedition of Juazeiro do Norte, 1914, pieces the rich handicrafts of Cariri Cearense, varied food spots and trails.\n\nhttp://geoparkararipe.urca.br/",
+      "localidade": "JUAZEIRO DO NORTE - CE"
+    },
+    {
+      "_id": "5cff8a4e17e63d0004f3ea3f",
+      "historia": true,
+      "titulo": "CAPELA BOM JESUS DAS OLIVEIRAS / BOM JESUS DAS OLIVEIRAS CHAPEL",
+      "info": "Erguida em meados do século XX, a capela foi construída em estilo eclético e representa a arquitetura popular e a devoção católica típica do Cariri. De acordo com a tradição católica, a capela foi construída para realização de manifestações religiosas, agradecer milagres alcançados. Atualmente o local é utilizado para celebração de casamentos e datas comemorativas.\n\n\n\nBOM JESUS DAS OLIVEIRAS CHAPEL\n\n\nErected in the mid-TWENTIETH century, the chapel was built in eclectic style and represents the popular architecture and Catholic devotion typical of Cariri. According to the Catholic tradition, the chapel was built for the realization of religious manifestations, thanking miracles achieved. Currently the place is used to celebrate weddings and commemorative dates.\n\n\n           \nhttp://geoparkararipe.urca.br/",
+      "localidade": "SANTANA DO CARIRI - CE"
+    },
+    {
+      "_id": "5d20b45902a93e000401a696",
+      "historia": true,
+      "titulo": "Cruz do século / Cross of the century",
+      "info": "O coronel Joaquim Pinto Madeira, ou Pinto Madeira, apesar de ser cognominado, a torto e a direito, de \"caudilho jardinense\", foi um dos vários senhores de engenho ao pé da Chapada do Araripe, em terras da vila do Crato/CE, que, hoje, fazem parte do município de Barbalha/CE, nos sítios Coité, Silvério e Arajara (antiga Cajazeira do Farias). Era neto e, ao mesmo tempo, filho de criação do doutor Manoel de São João Madeira, português formado pela Universidade de Coimbra/Portugal, que migrou para o Cariri na época da mineração de ouro. Segundo apontamentos históricos, Pinto Madeira tinha um comportamento truculento, mas, por outro lado, era carismático, pois milhares de \"cabras\" (pobres descendentes ou mestiços de índios) o seguiam cegamente. No entanto, tendo se rivalizado com a família Alencar e com os Ferreira Lima (Sucupira, Limaverde, Maia), em virtude de política, de ofensas e de assassinatos, terminou se tornando alvo de vingança, prática comum naquele tempo-espaço. Nestas circunstâncias, em 1831, Pinto Madeira deflagrou a maior e mais longa rebelião do Ceará no século XIX. Depois de meses de encarniçados combates, ele se entregou ao general francês Pedro Labatut. Porém, o acordo de rendição não foi cumprido devido à interferência dissimulada do Senador Alencar, o qual acusava Pinto Madeira de várias mortes contra seus parentes, inclusive pelo assassinato de seu irmão, o padre Carlos Alencar. Submetido a um tribunal de sangue, Pinto Madeira foi condenado e assassinado no no alto da atual rua Duque de Caxias, em Crato/CE, onde hoje pousa a cruz do século, próximo à igreja de São Francisco. Vários objetos pertencentes a Pinto Madeira foram parar em museus, a exemplo de sua bengala, destruída pelo fogo do Museu Nacional/RJ. Em Fortaleza/CE, está o seu bacamarte inglês (da marca Tower) e a mesa em que foi assinada a sua sentença condenatória. Em Petrolina/PE, seu \"breve\" (cordão de ouro com uma oração), retirado do seu pescoço pouco antes da execução, está em um arquivo privado. \n\nCROSS OF THE CENTURY\n\nColonel Joaquim Pinto Madeira, or Pinto Madeira, in spite of being nicknamed the crooked and right, \"caudilho jardinense\", was one of several planters at the foot of the Chapada do Araripe, in lands of the town of Crato / CE, which are now part of the municipality of Barbalha / CE, in the Coité, Silvério and Arajara sites (former Cajazeira do Farias). He was a grandson and, at the same time, the son of Dr. Manoel de São João Madeira, a Portuguese graduate of the University of Coimbra / Portugal, who migrated to Cariri during the time of gold mining. According to historical notes, Pinto Madeira had a truculent behavior, but on the other hand, he was charismatic, since thousands of \"goats\" (poor descendants or half-breed Indians) followed him blindly. However, having rivaled the Alencar family and the Ferreira Lima (Sucupira, Limaverde, Maia), by virtue of politics, offenses and assassinations, it became a target of revenge, a common practice in that time-space. Under these circumstances, in 1831, Pinto Madeira set off the longest and longest rebellion in Ceará in the nineteenth century. After months of fierce fighting, he surrendered himself to the French general Pedro Labatut. However, the surrender agreement was not fulfilled due to the disguised interference of Senator Alencar, who accused Pinto Madeira of several deaths against his relatives, including the murder of his brother, Father Carlos Alencar. Submitted to a blood court, Pinto Madeira was convicted and murdered at the top of the current street Duque de Caxias, in Crato / CE, where today the cross of the century, near the church of San Francisco. Several objects belonging to Pinto Madeira went to museums, like his cane, destroyed by the fire of the Museu Nacional / RJ. In Fortaleza / CE, there is his English Navy (Tower brand) and the table on which his conviction was signed. In Petrolina / PE, his \"breve\" (gold cord with a prayer), taken from his neck shortly before execution, is in a private archive.\n\n(Texto de: Heitor Feitosa Macêdo)\n",
+      "localidade": "Crato - CE - Bairro Pinto Madeira"
+    },
+    {
+      "_id": "5d2ba99a9874790004263030",
+      "historia": true,
+      "titulo": "SANTO SEPULCRO",
+      "info": "Um lugar místico e apontado como a antiga morada dos beatos que ali se refugiavam para as penitências e autoflagelações, principalmente nas épocas da Semana Santa. É composto por uma trilha com cerca de 4km de após a estátua do Padre Cícero com pequenas capelas entre pedras de formação granítica acessada por trilhas sinuosas com desníveis acentuados e uma vegetação arbórea do Bioma Caatinga. O local é uma representação do lugar onde Jesus Cristo foi crucificado. Espaço de práticas de penitências, orações, cantos, benditos e deposição de oferendas (fitas, pedras, velas, cruzeiros, entalhes em rocha e imagens) com abrigos para descanso e um velho engenho de ferro para moer cana-de-açúcar. Também é possível encontrar pedras do Joelho, onde a Beata Maria de Araújo, protagonista do milagre referido ao Padre, teria se ajoelhado, a Pedra do Pecado, da Escada e da Coluna, junto às quais os fiéis acreditam na remissão dos seus pecados caso consigam ultrapassá-las.\n\n*************************Translation*************************    \nIt was a mystical place and was designated as the ancient abode of the Blessed who sought refuge there for penances and self-flagellations, especially during Holy Week. It is composed by a trail about 4km after the statue of Padre Cícero with small chapels between stones of granite formation accessed by winding trails with sharp gradients and a tree vegetation of the Caatinga Biome. The place is a representation of the place where Jesus Christ was crucified. Space of practices of penances, prayers, songs, blessed and deposition of offerings (ribbons, stones, candles, cruises, rock carvings and images) with shelters to rest and an old iron mill to grind sugar cane. It is also possible to find stones from the knee, where Blessed Maria de Araújo, protagonist of the miracle referred to the Father, would have knelt, the Stone of Sin, the Ladder and the Column, where believers believe in the remission of their sins if they can to overcome them.",
+      "localidade": "JUAZEIRO DO NORTE - CE"
+    },
+    {
+      "_id": "5d2baa0a9874790004263031",
+      "historia": true,
+      "titulo": "MUSEU VIVO DO PADRE CÍCERO",
+      "info": "Este Casarão foi edificado em 1907 e serviu para retiros espirituais do Padre Cícero. Em 1º de novembro de 1999, ao passar por uma restauração arquitetônica, foi adaptado para abrigar o Museu Vivo de Padre Cícero Romão Batista. Em cinco ambientes distintos é possível observar, em tamanho real, personagens, fotos, dados sobre a vida do sacerdote, além de muitos ex-votos de fiéis que peregrinam para este local e aqui pagam suas promessas. Ao percorrer as instalações deste Museu, o visitante pode observar o Padre Cícero em um café da manhã com amigos, a beata Maria de Araújo - protagonista dos milagres (em 1º de março de 1889, quando a beata recebeu a comunhão das mãos do Padre Cícero, a hóstia virou sangue. Isso se repetiu dezenas de vezes); Padre Cícero e José Marrocos em uma reunião de cunho político e ainda o Padre em momento de oração e prece. O Museu é reconhecido e registrado no Instituto Brasileiro de Museus (IBRAM).\n  *************************Translation*************************    \n\nThis Casarão was built in 1907 and served as a spiritual retreat for Father Cicero. On November 1, 1999, when undergoing an architectural restoration, it was adapted to house the Living Museum of Padre Cícero Romão Batista. In five different environments it is possible to observe, in real size, characters, photos, data about the life of the priest, and many ex-votos of believers who peregrinate to this place and here they pay their promises.While walking through the premises of this Museum, the visitor can observe Father Cícero at a breakfast with friends, Blessed Maria de Araújo - protagonist of miracles (on March 1, 1889, when the Blessed received Communion from the hands of Father Cicero , the host became blood, which was repeated dozens of times); Father Cicero and José Marrocos in a political meeting and the Father in a moment of prayer and prayer. The Museum is recognized and registered at the Brazilian Institute of Museums (IBRAM).",
+      "localidade": "JUAZEIRO DO NORTE - CE"
+    },
+    {
+      "_id": "5d2bb1029874790004263033",
+      "historia": true,
+      "titulo": "ESTÁTUA DE PADRE CÍCERO",
+      "info": "Este monumento em homenagem a Padre Cícero tem 27 metros de altura e foi inaugurada em 1° de novembro  de 1969 pelo então prefeito de Juazeiro do Norte José Mauro Sampaio. Ela se constitui na terceira maior do mundo em concreto.Trata-se de um dos pontos mais visitados do município, com estimativas da ordem de 2,5 milhões de romeiros e outros turistas por ano que frequentam o local. Da estátua é possível avistar a cidade de Juazeiro do Norte, numa paisagem belíssima de contraste com a beleza natural da Chapada do Araripe de fundo.O engenheiro responsável pelos cálculos de engenharia da base e da estátua foi Rômulo Ayres Montenegro e foi esculpida pelo arquiteto e escultor pernambucano Armando Lacerda.       *************************Translation*************************    \n\nThis monument in honor of Padre Cícero is 27 meters high and was inaugurated on November 1, 1969 by the then mayor of Juazeiro do Norte José Mauro Sampaio. It is the third largest in the world in concrete terms. It is one of the most visited points in the municipality, with estimates of 2.5 million pilgrims and other tourists per year who frequent the place. From the statue you can see the city of Juazeiro do Norte, in a beautiful landscape contrasting with the natural beauty of the Chapada do Araripe in the background. The engineer responsible for the engineering calculations of the base and statue was Rômulo Ayres Montenegro and was sculpted by the architect and sculptor from Pernambuco Armando Lacerda.\n\n",
+      "localidade": "JUAZEIRO DO NORTE - CE"
+    },
+    {
+      "_id": "5d2bb18c9874790004263034",
+      "historia": true,
+      "titulo": "GEOSSÍTIO CACHOEIRA DE MISSÃO VELHA",
+      "info": " Neste geossítio é possível observar paredões de rochas com cerca de 420 milhões de anos, de numa época em que o sul do Ceará foi invadido por águas de um mar raso, antecedendo a formação da Bacia do Araripe. Em função do cenário geológico e da queda d’água com aproximadamente 12 metros de altura o lugar se tornou ponto de atração de um grande numero de observadores da natureza.O perímetro deste geossítio está inserido no Parque Natural Municipal da Cachoeira de Missão Velha/Bioparque, sob a Lei nº 002/02, e na área do Monumento Natural Cachoeira do Rio Salgado (Decreto n° 28.506/06).Este lugar é rico em lendas e estórias de encantamentos, conflitos e mortes. Aqui existem vestígios de populações indígenas que remontam a tempos pré-históricos. A poucos quilômetros da Cachoeira encontram-se as ruinas da casa de pedra que remetem a primeira fase da colonização do Cariri (séc. XVII). Também é conhecida como ponto de encontro entre cangaceiros, bandidos que marcaram a história do Sertão Nordestino no início do século XX.   \n\n*************************Translation*************************      In this geosite it is possible to observe rock walls of about 420 million years, from a time when the south of Ceará was invaded by waters of a shallow sea, preceding the formation of the Araripe Basin. Due to the geological scenario and the waterfall with approximately 12 meters of height the place became point of attraction of a great number of observers of the nature. The perimeter of this geosite is inserted in the Municipal Natural Park of the Missão Velha / Bioparque Waterfall, under Law No. 002/02, and in the area of ​​the Natural Monument of Rio Salgado Waterfall (Decree n ° 28,506 / 06). This place is rich in legends and stories of incantations, conflicts and deaths. Here there are remnants of indigenous populations dating back to prehistoric times. A few kilometers from the waterfall are the ruins of the stone house that refer to the first phase of the Cariri settlement (17th century). It is also known as a meeting point among cangaceiros, bandits that marked the history of the Sertao Northeast in the early twentieth century.",
+      "localidade": "MISSÃO VELHA"
+    },
+    {
+      "_id": "5d2bb1f39874790004263035",
+      "historia": true,
+      "titulo": "ICNOFÓSSEIS",
+      "info": "Nos sedimentos ao redor da Cachoeira e possível observar icnofósseis (marcas, rastros, vestígios da atividade de um organismo vivo que se preservaram nas rochas). O estudo dessas estruturas é muito importante, pois permite ao pesquisador entender os hábitos dos organismos, assim como o ambiente onde eles viveram. As estruturas preservadas aqui são do grupo das bioturbações, quando se revelam marcas de galerias, túneis, escavações, ou pistas, associados à atividade orgânica, nesse caso, de um organismo invertebrado.\n   *************************Translation*************************    \nIn the sediments around the Waterfall, it is possible to observe icnofossils (marks, traces, vestiges of the activity of a living organism that have been preserved in the rocks). The study of these structures is very important because it allows the researcher to understand the habits of organisms, as well as the environment where they lived. The structures preserved here are of the group of bioturbations, when they reveal marks of galleries, tunnels, excavations, or clues, associated with the organic activity, in this case, of an invertebrate organism.",
+      "localidade": "MISSÃO VELHA-CE"
+    },
+    {
+      "_id": "5d2bb25e9874790004263036",
+      "historia": true,
+      "titulo": "LENDAS DA CACHOEIRA DE MISSÃO VELHA",
+      "info": "Entre as lendas deste ambiente destacam-se: a lenda da “Mãe d’Água”, da “Índia Encontrada” e da lenda sobre o “Dilúvio”.  Contam os mais velhos da existência de uma mãe d’água de voz misteriosa e criminosa que chama os banhistas aos locais perigosos, levando-os assim a morte.Sobre a Índia Encontrada, relatam que uma índia Cariri (tribo que deu origem a região), abandonada por sua mãe, foi encontrada numa “cumbuca” e foi criada por uma mulher de bom coração. Quando a índia encontrada cresceu e se tornou adulta, lamentava por não saber nada sobre seus antepassados, e dizia sempre lamentosa: “Muitos índios daqui não vão conhecer seus antepassados. As raças misturar-se-ão e outros vão fugir para outros lugares.” E assim aconteceu. Também conta-se que na época do Dilúvio, quando as águas estavam a baixar, alguns pássaros pousaram nas pedras da Cachoeira de Missão Velha e como estas estavam moles ainda, ficaram lá gravadas as marcas de suas duas patas. E existe de fato lá na Cachoeira uma pedra com tais marcas. Muitos curiosos tempos atrás vinham até Missão Velha para ver estas pedras e ficavam muito admirados.\n*************************Translation*************************        \nAmong the legends of this environment are: the legend of the \"Mother of Water\", \"India Found\" and the legend about the \"Flood\". The elders tell of the existence of a mother of water with a mysterious and criminal voice that calls the bathers to the dangerous places, thus leading them to death. About India Found, they report that an Indian Cariri (tribe that gave origin to the region), abandoned by her mother, was found in a \"cumbuca\" and was raised by a woman of good heart. When the found India grew to adulthood, she regretted to know nothing of her ancestors, and always said lamentably: \"Many Indians here will not know their ancestors. The races will mix and others will flee to other places. \"And so it happened. It is also said that at the time of the Flood, when the waters were lowering, some birds landed on the stones of the Missão Velha Waterfall and as these were still soft, the marks of their two legs were engraved there. And there really is in the waterfall a stone with such marks. Many curious times ago they came to Mission Old to see these stones and they were very much admired.",
+      "localidade": "MISSÃO VELHA-CE"
+    },
+    {
+      "_id": "5d2bb2b89874790004263037",
+      "historia": true,
+      "titulo": "FLORESTA PETRIFICADA",
+      "info": "Localizado no Sítio Olho D’água Comprido, a 6 km de Missão Velha, este geossítio guarda um verdadeiro tesouro paleontológico de valor inestimável, com especial importância para o estudo da paleobotânica e da evolução geológica. Hoje o lugar faz parte de uma área rural de pouca densidade populacional usada para plantio e pastagem de gado, numa área sem-árida (com escassez de água). No entanto, na pré-história era cenário de uma densa floresta com árvores abundantes e água. É um importante ponto de atração geoturística que oferece excelente conteúdo científico-didático. As rochas avermelhadas, arenito da Formação Missão Velha, são o lugar onde ocorrem fragmentos de troncos petrificados de aproximadamente 145 milhões de anos.\n\nLocated in Olho D'Água Comprido, 6 km from Missão Velha, this geosite houses a real palaeontological treasure of inestimable value, with special importance for the study of paleobotany and geological evolution. Today it is part of a sparsely populated rural area used for planting and grazing livestock, in a semi-arid (water scarce) area. However, in prehistory it was scenery of a dense forest with abundant trees and water. It is an important point of geotouristic attraction that offers excellent scientific-didactic content. The reddish rocks, sandstone of the Missão Velha Formation, are the place where fragments of petrified trunks of approximately 145 million years occur.",
+      "localidade": "MISSÃO VELHA-CE"
+    },
+    {
+      "_id": "5d2bb3349874790004263038",
+      "historia": true,
+      "titulo": "TRONCOS FÓSSEIS",
+      "info": "Esses troncos são encontrados fragmentados, o que evidencia que no período Jurássico (140 m.a) existiam na região colinas cobertas por florestas recortadas por rios que se entrelaçavam. Foram esses rios que transportaram os troncos que eram de árvores coníferas (grupo dos pinheiros), alguns com mais de 2 m de comprimento. Fósseis são restos de seres vivos (animal ou vegetal), ou mesmo vestígios de atividades biológicas, preservados naturalmente em sedimentos, rochas, gelo, piche, âmbar, cavernas, entre outros ambientes. Uma curiosidade é que para ser um fóssil é preciso apresentar mais de 11 mil anos, período que corresponde a última glaciação e início da idade geológica atual.\n*************************Translation*************************    \nThese trunks are found fragmented, which shows that in the Jurassic period (140 m) there were hills covered by forests cut by interlacing rivers. It was these rivers that transported the trunks that were of coniferous trees (group of the pines), some more than 2 m in length. Fossils are remains of living beings (animal or plant), or even traces of biological activities, preserved naturally in sediments, rocks, ice, tar, amber, caves, among other environments. A curiosity is that to be a fossil it is necessary to present more than 11 thousand years, period that corresponds to the last glaciation and beginning of the current geological age.",
+      "localidade": "MISSÃO VELHA - CE"
+    },
+    {
+      "_id": "5f079a6c5013600004b0109e",
+      "historia": true,
+      "titulo": "Parque Botânico do Ceará",
+      "info": "O Parque Estadual Botânico do Ceará (PEBCE), localizado a 15 km da capital Fortaleza, no município de Caucaia, próximo a polígonal da Área de Proteção Ambiental (APA) do Rio Ceará – Rio Maranguapinho. Apresenta 190 hectares entre a zona de pós-praia e o sertão, situado no Complexo Vegetacional de Zona Litorânea (Floresta Estacional Semidecidual). Possui uma fitofisionomia diversificada com espécies de mata de tabuleiro, caatinga, cerrado, mata atlântica e uma parte do manguezal e mata ciliar oriundo do Rio Ceará. Criado através de Decreto Estadual nº24.216, de 9 de setembro de 1996 e recategorizado através do Decreto Estadual nº 30.868, de 10 de abril de 2012, para atender as exigências do Sistema Nacional de Unidades de Conservação da Natureza – SNUC, Lei Federal n° 9.985, de 18 de julho de 2000, o Parque Estadual Botânico do Ceará está inserido na categoria de Unidade de Conservação de  Proteção Integral, que tem por objetivo a preservação de ecossistemas naturais, sendo admitido apenas o uso indireto dos recursos naturais, possibilitando, portanto, a realização de pesquisas científicas e o desenvolvimento de atividades de educação e interpretação ambiental, de recreação e de turismo ecológico. ",
+      "localidade": "Caucaia - CE"
+    },
+    {
+      "_id": "5f079b095013600004b010a3",
+      "historia": true,
+      "titulo": "Museu do parque",
+      "info": " O Museu do Meio Ambiente tem o papel de informar e educar por meio de exposições permanentes e itinerárias. É o espaço ideal para despertar a curiosidade, estimular a reflexão e o debate e  promover a socialização. O Museu é constituido por acervo fotográfico com histórico do Parque, artefatos indígenas que contam sobre  a história e cultura do povo Indigena Tabepa, miniaturas  que representam os animais mamíferos, répteis, aves, anfíbios da Unidade de Conservação e banners sobre as abelhas sem ferrão e outros.",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f079aa05013600004b0109f",
+      "historia": true,
+      "titulo": "Meliponário ",
+      "info": " É o local onde é mantida a coleção de colmeias de abelhas nativas sem ferrão. As abelhas sem ferrão são denominadas assim pois possuem o ferrão atrofiado, o que impossibilita o seu uso como  estratégia de defesa. As abelhas nativas tem importante papel no desenvolvimento econômico, social e ambiental, já que essas espécies poliniza e perpetua muitas espécies de plantas nativas, nas lavouras e nos pomares, contribuindo para a produção de frutos e sementes e para a manutenção da biodiversidade.  Além disso, produzem mel, própolis e cera,  que apesar de inferior em quantidade à das abelhas com ferrão desperta um grande interesse pelas características medicinais. Apesar da sua importância,  a sobrevivência das abelhas sem ferrão está ameaçada por desmatamentos, queimadas, uso indiscriminado de agrotóxicos e o processo predatório de retirada do mel.  O Parque Estadual Botânico do Ceará possui um Meliponário que tem como homenageado o Professor Paulo Nogueira Neto que dedicou parte de sua vida a estudar as abelhas indígenas sem ferrão. Atualmente, o meliponário funciona com o Projeto Meliponário Parque Escola, que é uma Parceria Público Privada (PPP), uma iniciativa conjunta da SEMA através da Unidade de Conservação e do meliponicultor e ambientalista Joaquim Saldanha desenvolvido no Parque Estadual Botânico do Ceará. O projeto visa sensibilizar o público visitante através da educação ambiental para a conservação das abelhas sem ferrão e incentivar a criação das abelhas nativas visto a condição de ameaça de extinção dessas espécies. O Meliponário promove cursos de criação de abelhas nativas, oficinas de manejo e conservação de colônias das abelhas, palestras  para a população do entorno e público em geral. \n",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f079ab85013600004b010a0",
+      "historia": true,
+      "titulo": "Viveiro de Mudas",
+      "info": "O viveiro de mudas do Parque Estadual Botânico do Ceará  tem como objetivo de produzir e doar  mudas de plantas nativas cearenses, para os projetos de florestamento, reflorestamento e arborização urbana de munícipios do Estado do Ceará, instituições públicas, instituições dos terceiro setor, acordos de cooperação técnica com instituições privadas e comunidade.\n\nO viveiro de mudas possui :  Laboratório de Sementes , Casa de germinação, Pátio de Compostagem, Coleção de Sementes ou Germoteca e Banco de Germoplasma.\n",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f98d7d479bd670004189640",
+      "historia": true,
+      "titulo": "Praça Luiza Távora",
+      "info": "Na primavera de 1909, o rico comerciante cearense Plácido de Carvalho, em uma viagem de negócios à Itália, se apaixonou pela italiana Maria Pierina. No início dos anos\n20, já casados, construíram uma residência em Fortaleza, cumprindo o compromisso de noivado com ela de que lhe daria um castelo em Fortaleza. Um castelo arquitetado de\nforma singular e deslumbrante, aliando o requinte europeu ao regionalismo da terra tropical. Em 1934, por motivo de doença, Plácido veio a falecer e quatro anos depois a viúva\ndecidiu construir seis “castelinhos” em torno do grande castelo. Com a morte de D. Pierina em 1957, sua filha Zaíra tomou posse do complexo do castelo. No início dos anos 70 um grupo comercial local adquiriu o complexo e demoliu o castelo central, para a construção de uma grande loja de departamentos. No entanto, o grupo, pouco tempo depois, teve que vender a propriedade para o Governo do Estado por questões de endividamento.",
+      "localidade": "Fortaleza - CE"
+    },
+    {
+      "_id": "5f98d89979bd670004189641",
+      "historia": true,
+      "titulo": "Central de Artesanato do Ceará – CEART",
+      "info": "A Primeira Dama do Governo do Estado, na época, D. Luíza Távora, em 1979, decidiu levar adiante seu projeto de construir um espaço que pudesse abrigar artesãos e\napoiar suas atividades. A edificação que foi inspirada em uma “casa de farinha”, toda construída com carnaubeiras, foi inaugurada em 1981, passando a ser instituída como\nCEDART - Coordenadoria de Desenvolvimento do Artesanato. Com esta iniciativa, a Política Artesanal do Ceará mudou-se do Programa da Secretaria de Indústria e Comércio para a Fundação dos Serviços Sociais do Estado do Ceará –FUNSESCE. Em 1992, o espaço foi reinaugurado passando a ser a Central de Artesanato do Ceará – Ceart, que só fez crescer ao longo do tempo, recebendo novos\nartesãos e ganhando cada vez mais visibilidade no mercado estadual, nacional e internacional, com a comercialização de peças de pura beleza e criatividade. Hoje, além da loja do complexo Ceart, os produtos artesanais são comercializados em outros pontos da capital e do interior localizados estrategicamente para atender o turista e demais apreciadores do artesanato cearense.\nLoja Galeria: Funcionamento de segunda-feira à sábado das 8h às 18h",
+      "localidade": "Praça Luiza Távora - Fortaleza"
+    },
+    {
+      "_id": "5f98d8ef79bd670004189642",
+      "historia": true,
+      "titulo": "VAGÃO",
+      "info": "O vagão ferroviário, de madeira, cedido pela Rede de Viação Cearense era utilizado para transporte de passageiros. Foi fabricado em 1938 pela Cia. Centrale Construcion,\nem Haine Saint Pierre, na Bélgica. “Considerado de 1ª classe, era puxado por uma locomotiva a vapor. Operou pela Rede de Viação Cearense (RVC) em duas linhas, cobrindo as regiões Norte e Sul do Estado. Entre seus mais ilustres usuários estão Rachel de Queiroz, Padre Cícero e Getúlio Vargas”.",
+      "localidade": "Praça Luiza Távora - Fortaleza"
+    },
+    {
+      "_id": "5f98d98279bd670004189643",
+      "historia": true,
+      "titulo": "PROGRAMA MAIS INFÂNCIA",
+      "info": "O desenvolvimento infantil através do lazer e da brincadeira, realizado pelo Governo do Ceará, em parceria com o Serviço Social do Comércio (Sesc-CE), é possível com as atividades oferecidas no espaço que integra o Programa Mais Infância Ceará, idealizado pela primeira-dama do Estado, Onélia Santana. Composto por cinco ambientes temáticos para a realização de atividades lúdicas,\nque possibilitam o desenvolvimento da criança de forma integrada. São eles: brinquedoteca, biblioteca infantil, sala de multimídia, espaço gourmet e sala de cinema. Na segunda-feira, o equipamento está disponível para visitação, consulta e informações de 9h às 18h. Já de terça-feira a domingo funciona de 9h às 20h, pela manhã aberto para visitação, consulta e informações e de 14h às 20h com desenvolvimento de atividades fixas da programação mensal.",
+      "localidade": "Praça Luiza Távora - Fortaleza"
+    },
+    {
+      "_id": "5f079ace5013600004b010a1",
+      "historia": true,
+      "titulo": "Horto  Medicinal ",
+      "info": "O horto medicinal é onde estão localizadas as matrizes de espécies de plantas medicinais e tem como objetivo disseminar os conhecimentos populares, comprovados cientificamente, do seu uso medicinal.",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f079af45013600004b010a2",
+      "historia": true,
+      "titulo": "Museu do parque",
+      "info": "O Museu do Meio Ambiente tem o papel de informar e educar por meio de exposições permanentes e itinerárias. É o espaço ideal para despertar a curiosidade, estimular a reflexão e o\ndebate e promover a socialização. O Museu é constituido por acervo fotográfico com histórico do Parque, artefatos indígenas que contam sobre a história e cultura do povo Indigena Tabepa, miniaturas que representam os animais mamíferos, répteis, aves, anfíbios da Unidade de Conservação e banners sobre as abelhas sem ferrão e outros.",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f07a3dc5013600004b010a8",
+      "historia": true,
+      "titulo": "Biblioteca do parque",
+      "info": "A Biblioteca do Parque Estadual Botânico do Ceará leva o nome do Professor Antônio Renato Aragão, já que além de ser o idealizador do Parque Botânico do Ceará, no ano de 1995, o\nambientalista fez a doação da maior parte da coleção existente. A biblioteca possui um acervo de mais 1.000 livros catologados sobre o Meio Ambiente e paradidáticos. A biblioteca é aberta para consultas e empréstimos de livros. Lembrando que aceitamos doações de livros.",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f079b645013600004b010a7",
+      "historia": true,
+      "titulo": "Trilha ecológica",
+      "info": "As trilhas são divididas em trilhas principais e alamedas. As trilhas principais tem nomes de árvores nativas : jacarandá, ipês e carnaúbas. São 6km de trilhas sinalizadas que podem ser\nrealizadas com os educadores ambientais. Ao longo das trilhas, você pode desfrutar os benefícios das árvores como propícia sombra, o ar puro, a fauna local, frutos e sementes, diminuição da poluição sonora e do ar, além de possuir valor estético e paisagístico. É importante manter as florestas em pé , pois possuem um papel imprescindível na manutenção de\nserviços ecológicos, elas também ajudam a manter o equilíbrio climático. As florestas funcionam como armazéns de carbono. Quando a floresta é derrubada e queimada, este carbono é liberado para a atmosfera, o que contribui para o aumento da temperatura da Terra. Os efeitos do aumento das emissões de CO² (9 bilhões de toneladas por ano) e de outros gases na atmosfera, são as mudanças no clima, aumento do nível do mar, desastres naturais, prejuízos econômicos ( ex. agricultura) e para a qualidade de vida ( ex. Doenças).\nÉ permitido ouso de bicicleta de 7h -9h da manhã. Não é permitida a entrada de animais domésticos. Vem visitar o Parque!",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f079b485013600004b010a6",
+      "historia": true,
+      "titulo": "Alamedas",
+      "info": "As alamedas são trilhas mais estreitas que possuem um contato maior com a natureza. São ideias para quem quer fazer observações de aves e contemplar o meio ambiente, pois possuem pontos de apoio no caminho ( pracinhas). As alamedas tem nomes de animais: jacu, soim e raposa e são todas interligadas à trilha principal. Lembre- se não é permitido o uso de bebida alcoólica. Nao saia das trilhas. Não toque ou ingira plantas e frutos. Não é permitido a entrada de animais domésticos.Vem visitar o Parque !!\nAgende a visita de grupo escolar : www.sema.ce.gov.br",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f079b325013600004b010a5",
+      "historia": true,
+      "titulo": "Orquidário ",
+      "info": "O Parque Estadual Botânico do Ceará possui um local específico para o cultivo, armazenamento e apreciação de orquídeas. A estrutura é coberta com sombrite (telado que protege do alto índice de irradiação solar e ventos em excesso) que abriga as espécies de orquídeas e bromélias. As orquídeas são encontradas em suas mais variadas formas, cores e tamanhos nos cinco continentes do mundo, com exceção da Antártida, devido ao seu clima com aproximadamente -40°C. As orquídeas não são parasitas, ou seja, elas não sugam ou prejudicam as árvores as quais são hospedeiras. Elas são plantas epífetas, ou seja, vivem sobre outras plantas, sem retirar seus nutrientes, mas apenas usando-as como suporte e para receber a luz para realização da fotossíntese. As orquídeas se nutrem com material em decomposição que cai da árvore e que se acumulam em suas raízes. O Parque Estadual Botânico do Ceará possui em seu orquidário a maior orquídea nativa cearense, a Cattleya labiata, conhecida como “Rainha do Nordeste” pela exuberância e perfume da sua floração, foi primeiramente descrita pelo botânico inglês John Lindley em 1821.É uma espécie endêmica da região Nordeste, ou seja, é encontrada apenas nessa região.",
+      "localidade": "Parque Botânico do Ceará"
+    },
+    {
+      "_id": "5f079b1d5013600004b010a4",
+      "historia": true,
+      "titulo": "Espelho d' agua -( sobre as aves )",
+      "info": "O espelho d´agua fica localizado na Alameda das Carnaúbas dentro do Parque. Acredita-se que com a construção da CE- 090, foi retirado sedimento por escavadeiras nesse local, o que ocasionou o rompimento de uma aquífero e o lago nunca mais secou. Aos domingos pela manhã, há pedalinhos para a diversão da garotada. O Parque Estadual Botânico do Ceará apresenta um rica diversidade de avifauna encontrada e observada no Espelho d’água e proximidades. Não é permitido o banho no Espelho d’agua.",
+      "localidade": "Parque Botânico do Ceará"
+    }
+  ]
+}

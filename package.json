@@ -1,6 +1,6 @@
 {
   "name": "ecomapss",
-  "version": "2.10.20",
+  "version": "2.10.21",
   "description": "Ecomapss, tech and nature",
   "devDependencies": {
     "@ionic/v1-toolkit": "1.0.2",
@@ -9,7 +9,8 @@
     "gulp-clean-css": "^3.7.0",
     "gulp-inject": "^4.3.2",
     "gulp-rename": "^1.2.0",
-    "gulp-sass": "^3.1.0"
+    "gulp-sass": "^3.1.0",
+    "phonegap-plugin-barcodescanner": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
   },
   "scripts": {
     "emulate:ios": "ionic cordova emulate ios -c --livereload --target=\"iPhone-7\" -- --buildFlag=\"-UseModernBuildSystem=0\"",
@@ -17,7 +18,7 @@
   },
   "dependencies": {
     "@ionic/pro": "1.0.20",
-    "cordova-android-support-gradle-release": "^1.4.4",
+    "cordova-android-support-gradle-release": "1.4.4",
     "cordova-ios": "4.5.5",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-geolocation": "^4.0.1",
@@ -28,7 +29,6 @@
     "cordova-plugin-statusbar": "^2.4.2",
     "cordova-plugin-whitelist": "^1.3.3",
     "flag-icon-css": "^3.0.0",
-    "phonegap-plugin-barcodescanner": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git",
     "serve": "10.1.1",
     "cordova-android": "~7.0.0"
   },
