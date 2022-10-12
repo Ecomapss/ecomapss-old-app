@@ -17,9 +17,9 @@
   },
   "dependencies": {
     "@ionic/pro": "1.0.20",
-    "cordova-android": "7.0.0",
+    "cordova-android": "11.0.0",
     "cordova-android-support-gradle-release": "^1.4.4",
-    "cordova-ios": "4.5.5",
+    "cordova-ios": "6.2.0",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-geolocation": "^4.0.1",
     "cordova-plugin-ionic-keyboard": "^2.1.2",
